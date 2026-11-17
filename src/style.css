@@ -102,3 +102,8 @@
 
 /* Center location pins on the first text line, even when locations wrap. */
 .interview-location svg{width:1em;height:1em;margin-top:calc((1lh - 1em)/2)}
+
+/* Consistent category sublines and a bolder navigation arrow. */
+.category-label{min-width:0}
+#nav-back-chefs,#back-chefs,.back-to-picks{display:inline-flex;align-items:center;gap:10px}
+.back-arrow{width:24px;height:24px;stroke-width:3;flex-shrink:0}
