@@ -11,6 +11,11 @@ for(const [name,width,height] of [['desktop',1440,1000],['mobile',390,844],['sma
  await page.locator('.place-card').first().waitFor();
  assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),true,`${name} horizontal overflow`);
  await page.screenshot({path:`.cache/ui/${name}.png`});
+ assert.equal(await page.locator('[data-mode=chefs]').getAttribute('aria-pressed'),'true');
+ await page.locator('[data-chef]').first().click();
+ assert.equal(await page.locator('[data-mode=picks]').getAttribute('aria-pressed'),'true');
+ assert.ok((await page.locator('#result-title').innerText()).includes('picks'));
+ await page.locator('[data-mode=picks]').click();
  await page.locator('#search').fill('Sushi Hil');
  assert.ok(await page.locator('.place-card').count()<30);
  await page.locator('[data-place="sushihil"]').click();

@@ -7,3 +7,5 @@
 - Never invent coordinates. Retain uncertain places in the list without pins. Review geocoder matches for similarly named businesses and incorrect branches.
 - `npm run build`, `python scripts/validate.py`, and `node scripts/ui-smoke.mjs` are relevant checks. Dev port must be 3000. Mobile checks include 390px and 320px, search, chef/category filters, save, modal closing and list/map switching.
 - Use mrhemsing <46225546+mrhemsing@users.noreply.github.com> for commits. Vercel project `baverages-projects/chefs-fav` is linked to GitHub; production https://chefs-fav.vercel.app/.
+
+- Default discovery is chef-first: crate episode photos pinned at their own/current restaurant, tap reveals that chef’s external picks and comments. All picks is an alternate mode. Do not imply all guests own their affiliation. Restaurant locations live in data/chef-locations.json; leave unverified venues unpinned.

@@ -10,7 +10,7 @@ const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&
 const $=s=>document.querySelector(s);
 const refreshIcons=()=>createIcons({icons,attrs:{'stroke-width':1.7}});
 let saved;try{saved=new Set(JSON.parse(localStorage.getItem('chefs-fav-saved')||'[]'))}catch{saved=new Set()}
-const state={query:'',category:'All',chef:'all',saved:false,view:'map',expanded:false};
+const state={query:'',category:'All',chef:'all',saved:false,view:'map',expanded:false,mode:'chefs'};
 let data, map, clusters, markers=new globalThis.Map(), selected=null, previousFocus;
 function avatar(c,classes=''){
  const p=c.facePosition||[36,30];
@@ -30,7 +30,7 @@ async function init(){
  <header class="masthead"><a class="brand" href="/" aria-label="Chef’s Fav home"><img src="/favicon.svg" alt=""><span>chef’s fav<span class="brand-dot">.</span></span></a><span class="header-caption">GOOD PEOPLE. <b>GREAT TASTE.</b></span><div class="head-actions"><span class="region-badge">${icon('map-pin')} British Columbia <span class="status-dot"></span></span><button class="icon-button saved-toggle" aria-label="Show saved places" aria-pressed="false">${icon('heart')}<span class="saved-count">${saved.size}</span></button><button class="icon-button about" aria-label="About this guide">${icon('info')}</button></div></header>
  <main class="layout">
  <aside class="explore"><div class="intro"><div class="eyebrow"><span></span> THE INSIDER’S TABLE</div><h1>Follow<br><span>good taste.</span><span class="doodle">✳</span></h1><p>The places chefs love.<br class="desktop-br"> Not just the places they cook.</p><div class="intro-footer"><div class="mini-faces">${data.chefs.slice(0,4).map(c=>avatar(c)).join('')}</div><span><b>${data.chefs.length} chefs & cooks</b><br>sharing their BC favourites</span><span class="hand-arrow">↘</span></div></div>
- <div class="discovery"><label class="search-box">${icon('search')}<input id="search" type="search" placeholder="A spot, a chef, a craving…" autocomplete="off" aria-label="Search places, chefs and cravings"><kbd>/</kbd></label>
+ <div class="discovery"><div class="discovery-mode" role="group" aria-label="Explore mode"><button data-mode="chefs" class="active" aria-pressed="true">Meet the chefs</button><button data-mode="picks" aria-pressed="false">All picks</button></div><label class="search-box">${icon('search')}<input id="search" type="search" placeholder="A spot, a chef, a craving…" autocomplete="off" aria-label="Search places, chefs and cravings"><kbd>/</kbd></label>
  <div class="category-row" role="group" aria-label="Filter by type">${[['All','sparkles'],['Bites','utensils'],['Coffee','coffee'],['Drinks','wine'],['Sweet','croissant']].map(([name,i])=>`<button data-category="${name}" class="category ${name==='All'?'active':''}" aria-pressed="${name==='All'}">${icon(i)}${name}</button>`).join('')}</div>
  <div class="chef-filter"><label for="chef-select">${icon('sliders-horizontal')} Follow a chef</label><select id="chef-select"><option value="all">Everyone’s favourites</option>${data.chefs.map(c=>`<option value="${esc(c.id)}">${esc(c.name)}</option>`).join('')}</select></div></div>
  <section class="results" aria-label="Recommendations"><button class="sheet-handle" aria-label="Expand recommendations" aria-expanded="false"><span></span></button><div class="results-heading"><div><h2 id="result-title">Good places, good people</h2><p id="result-count" aria-live="polite"></p></div><button class="random-button" aria-label="Surprise me with a recommendation" title="Surprise me">${icon('shuffle')}</button></div><div id="cards"></div><div class="list-footer"><p>Handpicked by chefs. Sourced from<br><a href="https://chefsfav.com/blog" target="_blank" rel="noopener">Chef’s Favourite · Mates on Crates ${icon('arrow-up-right')}</a></p><button class="text-button about">Read our coverage notes ${icon('arrow-right')}</button><span>© ${new Date().getFullYear()} · <a href="https://b-average.com" target="_blank" rel="noopener">b-average</a></span></div></section>
@@ -40,25 +40,39 @@ async function init(){
  map=L.map('map',{zoomControl:false,scrollWheelZoom:true,preferCanvas:true}).setView([49.271,-123.10],14);
  const tiles=L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',maxZoom:19}).addTo(map);
  let tileErrors=0;tiles.on('tileerror',()=>{if(++tileErrors>3)$('#tile-error').hidden=false});tiles.on('tileload',()=>{$('#tile-error').hidden=true});
- clusters=L.markerClusterGroup({showCoverageOnHover:false,maxClusterRadius:52,spiderfyOnMaxZoom:true,disableClusteringAtZoom:17,iconCreateFunction:c=>L.divIcon({html:`<span class="cluster-bubble">${c.getChildCount()}<small>spots</small></span>`,className:'cluster',iconSize:[56,56]})}).addTo(map);
+ clusters=L.markerClusterGroup({showCoverageOnHover:false,maxClusterRadius:52,spiderfyOnMaxZoom:true,disableClusteringAtZoom:17,iconCreateFunction:c=>L.divIcon({html:`<span class="cluster-bubble">${c.getChildCount()}<small>${state.mode==='chefs'?'chefs':'spots'}</small></span>`,className:'cluster',iconSize:[56,56]})}).addTo(map);
  $('#search').addEventListener('input',e=>{state.query=e.target.value;renderResults()});
- $('#chef-select').addEventListener('change',e=>{state.chef=e.target.value;renderResults();fitMap()});
+ $('#chef-select').addEventListener('change',e=>{state.chef=e.target.value;state.mode=e.target.value==='all'?'chefs':'picks';renderResults();fitMap()});
+ document.querySelectorAll('[data-mode]').forEach(b=>b.addEventListener('click',()=>{state.mode=b.dataset.mode;state.chef='all';$('#chef-select').value='all';renderResults();fitMap()}));
  document.querySelectorAll('[data-category]').forEach(b=>b.addEventListener('click',()=>{state.category=b.dataset.category;document.querySelectorAll('[data-category]').forEach(x=>{x.classList.toggle('active',x===b);x.setAttribute('aria-pressed',x===b)});renderResults()}));
- $('.saved-toggle').addEventListener('click',()=>{state.saved=!state.saved;$('.saved-toggle').setAttribute('aria-pressed',state.saved);renderResults()});
+ $('.saved-toggle').addEventListener('click',()=>{state.saved=!state.saved;if(state.saved)state.mode='picks';$('.saved-toggle').setAttribute('aria-pressed',state.saved);renderResults()});
  document.querySelectorAll('.about').forEach(b=>b.addEventListener('click',showAbout));
  document.querySelectorAll('[data-view]').forEach(b=>b.addEventListener('click',()=>setView(b.dataset.view)));
- $('.random-button').addEventListener('click',()=>{const ps=filtered();if(ps.length)openPlace(ps[Math.floor(Math.random()*ps.length)].id)});
+ $('.random-button').addEventListener('click',()=>{if(state.mode==='chefs'){const cs=visibleChefs();if(cs.length)selectChef(cs[Math.floor(Math.random()*cs.length)].id);return}const ps=filtered();if(ps.length)openPlace(ps[Math.floor(Math.random()*ps.length)].id)});
  $('.sheet-handle').addEventListener('click',()=>{state.expanded=!state.expanded;applySheet()});
  let startY=null;$('.sheet-handle').addEventListener('pointerdown',e=>{startY=e.clientY;e.currentTarget.setPointerCapture(e.pointerId)});$('.sheet-handle').addEventListener('pointerup',e=>{if(startY!==null&&Math.abs(e.clientY-startY)>25){state.expanded=e.clientY<startY;applySheet()}startY=null});
  $('#fit-map').addEventListener('click',fitMap);$('#zoom-in').addEventListener('click',()=>map.zoomIn());$('#zoom-out').addEventListener('click',()=>map.zoomOut());
  document.addEventListener('keydown',e=>{if(e.key==='/'&&!/INPUT|SELECT|TEXTAREA/.test(document.activeElement.tagName)){e.preventDefault();$('#search').focus()}if(e.key==='Escape')closeModal()});
  window.addEventListener('resize',()=>map.invalidateSize());
- renderResults();refreshIcons();
+ renderResults();fitMap();refreshIcons();
 }
 function applySheet(){document.body.classList.toggle('sheet-expanded',state.expanded);$('.sheet-handle').setAttribute('aria-expanded',state.expanded);$('.sheet-handle').setAttribute('aria-label',state.expanded?'Collapse recommendations':'Expand recommendations')}
 function setView(v){state.view=v;document.body.classList.toggle('list-view',v==='list');document.querySelectorAll('[data-view]').forEach(b=>{b.classList.toggle('active',b.dataset.view===v);b.setAttribute('aria-pressed',b.dataset.view===v)});setTimeout(()=>map.invalidateSize(),100)}
-function fitMap(){const ps=filtered().filter(p=>p.coordinates);if(ps.length)map.fitBounds(ps.map(p=>[p.coordinates[1],p.coordinates[0]]),{padding:[65,85],maxZoom:14})}
+function fitMap(){const ps=(state.mode==='chefs'?visibleChefs().map(c=>c.home||{}):filtered()).filter(p=>p.coordinates);if(ps.length)map.fitBounds(ps.map(p=>[p.coordinates[1],p.coordinates[0]]),{padding:[65,85],maxZoom:14})}
+function visibleChefs(){const ids=new Set(filtered().flatMap(p=>mentions(p).map(m=>m.chefId)));return data.chefs.filter(c=>ids.has(c.id))}
+function selectChef(id){state.mode='picks';state.chef=id;$('#chef-select').value=id;state.expanded=false;applySheet();renderResults();fitMap();announce(chefFor(id).name+'’s recommendations are now on the map')}
+function renderChefs(){
+ const cs=visibleChefs();$('#result-title').textContent='Pull up a crate';$('#result-count').textContent=`${cs.length} chefs · ${cs.filter(c=>c.home?.coordinates).length} restaurant pins`;
+ $('#cards').innerHTML=cs.map(c=>`<article class="place-card chef-profile"><button class="card-open" data-chef="${c.id}"><img class="crate-photo" src="${esc(c.image)}" alt="${esc(c.name)}’s Mates on Crates episode" loading="lazy"><div class="profile-copy"><span class="place-type">MEET YOUR TASTEMAKER</span><h3>${esc(c.name)}</h3><p>${esc(c.affiliation)}</p><span class="profile-cta">Explore their picks ${icon('arrow-up-right')}</span>${!c.home?.coordinates?'<small>Restaurant location being checked</small>':''}</div></button></article>`).join('');
+ $('#cards').querySelectorAll('[data-chef]').forEach(b=>b.addEventListener('click',()=>selectChef(b.dataset.chef)));
+ clusters.clearLayers();markers.clear();
+ cs.filter(c=>c.home?.coordinates).forEach(c=>{const marker=L.marker([c.home.coordinates[1],c.home.coordinates[0]],{title:c.name+' · '+c.home.venue,keyboard:true,icon:L.divIcon({className:'crate-marker',html:`<div class="crate-pin"><img src="${esc(c.image)}" alt="${esc(c.name)} on Mates on Crates"><span>${esc(c.name.split(' ')[0])}</span></div>`,iconSize:[82,100],iconAnchor:[41,100]})});marker.on('click',()=>selectChef(c.id));clusters.addLayer(marker)});refreshIcons();
+}
 function renderResults(){
+ document.querySelectorAll('[data-mode]').forEach(b=>{b.classList.toggle('active',b.dataset.mode===state.mode);b.setAttribute('aria-pressed',b.dataset.mode===state.mode)});
+ $('.map-note span').textContent=state.mode==='chefs'?'Tap a crate. Discover their favourite places.':'Their picks, beyond their own kitchen.';
+ if(state.mode==='chefs'){renderChefs();return}
+
  const ps=filtered(), mapped=ps.filter(p=>p.coordinates).length;
  $('#result-title').textContent=state.saved?'Your little black book':state.chef==='all'?'Good places, good people':chefFor(state.chef).name+ '’s picks';
  $('#result-count').textContent=`${ps.length} places · ${mapped} on the map`;

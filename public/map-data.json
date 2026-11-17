@@ -10,7 +10,11 @@
         31
       ],
       "source": "https://chefsfav.com/blog/mates-on-crates-feat-gonzalo-almendrades",
-      "episode": "https://www.instagram.com/reel/DfqL7HxMwSO/"
+      "episode": "https://www.instagram.com/reel/DfqL7HxMwSO/",
+      "home": {
+        "venue": "Los Sapos",
+        "coordinates": null
+      }
     },
     {
       "id": "mates-on-crates-feat-etienne-buddingh",
@@ -22,7 +26,11 @@
         30
       ],
       "source": "https://chefsfav.com/blog/mates-on-crates-feat-etienne-buddingh",
-      "episode": "https://www.instagram.com/reel/DfTAzEbMvpT/"
+      "episode": "https://www.instagram.com/reel/DfTAzEbMvpT/",
+      "home": {
+        "venue": "Oddfish",
+        "coordinates": null
+      }
     },
     {
       "id": "mates-on-crates-feat-tommy-shorthouse",
@@ -34,7 +42,16 @@
         23
       ],
       "source": "https://chefsfav.com/blog/mates-on-crates-feat-tommy-shorthouse",
-      "episode": "https://www.instagram.com/reel/Deu9uPRsn5h/"
+      "episode": "https://www.instagram.com/reel/Deu9uPRsn5h/",
+      "home": {
+        "venue": "Banter Room",
+        "coordinates": [
+          -123.1197396,
+          49.2763183
+        ],
+        "address": "1039 Mainland Street",
+        "locationSource": "https://www.openstreetmap.org/node/12703364034"
+      }
     },
     {
       "id": "mates-on-crates-feat-quynh-anh-pham",
@@ -46,7 +63,11 @@
         27
       ],
       "source": "https://chefsfav.com/blog/mates-on-crates-feat-quynh-anh-pham",
-      "episode": "https://www.instagram.com/reel/DeQEH3RMQPe/"
+      "episode": "https://www.instagram.com/reel/DeQEH3RMQPe/",
+      "home": {
+        "venue": "Ông Bà",
+        "coordinates": null
+      }
     },
     {
       "id": "mates-on-crates-feat-nathan-pai-phankum",
@@ -58,7 +79,16 @@
         37
       ],
       "source": "https://chefsfav.com/blog/mates-on-crates-feat-nathan-pai-phankum",
-      "episode": "https://www.instagram.com/reel/DeFw8VEMOH8/"
+      "episode": "https://www.instagram.com/reel/DeFw8VEMOH8/",
+      "home": {
+        "venue": "Soi Ram",
+        "coordinates": [
+          -123.0854614,
+          49.0904083
+        ],
+        "address": "4811 Delta Street",
+        "locationSource": "https://www.openstreetmap.org/node/9251515863"
+      }
     },
     {
       "id": "mates-on-crates-feat-rob-belcham",
@@ -70,7 +100,16 @@
         24
       ],
       "source": "https://chefsfav.com/blog/mates-on-crates-feat-rob-belcham",
-      "episode": "https://www.instagram.com/reel/DdIBT7ZhLoY/"
+      "episode": "https://www.instagram.com/reel/DdIBT7ZhLoY/",
+      "home": {
+        "venue": "Monarch Burger",
+        "coordinates": [
+          -123.1008908,
+          49.2580866
+        ],
+        "address": "3034 Main Street",
+        "locationSource": "https://www.openstreetmap.org/node/2933886279"
+      }
     },
     {
       "id": "mates-on-crates-feat-chanthy-yen",
@@ -82,7 +121,11 @@
         38
       ],
       "source": "https://chefsfav.com/blog/mates-on-crates-feat-chanthy-yen",
-      "episode": "https://www.instagram.com/reel/Dc9quJHhWus/"
+      "episode": "https://www.instagram.com/reel/Dc9quJHhWus/",
+      "home": {
+        "venue": "Touk",
+        "coordinates": null
+      }
     },
     {
       "id": "mates-on-crates-feat-abbie-gluvic",
@@ -94,7 +137,11 @@
         41
       ],
       "source": "https://chefsfav.com/blog/mates-on-crates-feat-abbie-gluvic",
-      "episode": "https://www.instagram.com/reel/Dc18WnIBJFk/"
+      "episode": "https://www.instagram.com/reel/Dc18WnIBJFk/",
+      "home": {
+        "venue": "Murmurs and Things",
+        "coordinates": null
+      }
     },
     {
       "id": "mates-on-crates-feat-brad-miller",
@@ -106,7 +153,11 @@
         19
       ],
       "source": "https://chefsfav.com/blog/mates-on-crates-feat-brad-miller",
-      "episode": "https://www.instagram.com/reel/DchV6Hxzaqw/"
+      "episode": "https://www.instagram.com/reel/DchV6Hxzaqw/",
+      "home": {
+        "venue": "The Red Wagon",
+        "coordinates": null
+      }
     },
     {
       "id": "mates-on-crates-feat-eleanor-waterfall",
@@ -118,7 +169,16 @@
         24
       ],
       "source": "https://chefsfav.com/blog/mates-on-crates-feat-eleanor-waterfall",
-      "episode": "https://www.instagram.com/reel/Db_2-wlvi73/"
+      "episode": "https://www.instagram.com/reel/Db_2-wlvi73/",
+      "home": {
+        "venue": "Cadeaux Bakery",
+        "coordinates": [
+          -123.1004851,
+          49.2831011
+        ],
+        "address": "172 Powell Street",
+        "locationSource": "https://www.openstreetmap.org/node/4424551035"
+      }
     },
     {
       "id": "mates-on-crates-feat-maria-ponce",
@@ -130,7 +190,16 @@
         33
       ],
       "source": "https://chefsfav.com/blog/mates-on-crates-feat-maria-ponce",
-      "episode": "https://www.instagram.com/reel/DbrROnaBTTL/"
+      "episode": "https://www.instagram.com/reel/DbrROnaBTTL/",
+      "home": {
+        "venue": "La Taqueria",
+        "coordinates": [
+          -123.1126736,
+          49.2635577
+        ],
+        "address": "2450 Yukon Street",
+        "locationSource": "https://www.openstreetmap.org/node/5296233721"
+      }
     },
     {
       "id": "mates-on-crates-feat-roger-ma",
@@ -142,7 +211,11 @@
         28
       ],
       "source": "https://chefsfav.com/blog/mates-on-crates-feat-roger-ma",
-      "episode": "https://www.instagram.com/reel/Da3xXX0Bdvs/"
+      "episode": "https://www.instagram.com/reel/Da3xXX0Bdvs/",
+      "home": {
+        "venue": "Boulevard Kitchen & Oyster Bar",
+        "coordinates": null
+      }
     },
     {
       "id": "mates-on-crates-feat-kyle-mcintosh",
@@ -154,7 +227,11 @@
         32
       ],
       "source": "https://chefsfav.com/blog/mates-on-crates-feat-kyle-mcintosh",
-      "episode": "https://www.instagram.com/reel/DalvwQZh841/"
+      "episode": "https://www.instagram.com/reel/DalvwQZh841/",
+      "home": {
+        "venue": "Nui",
+        "coordinates": null
+      }
     },
     {
       "id": "mates-on-crates-feat-marquella-uhrig",
@@ -166,7 +243,11 @@
         34
       ],
       "source": "https://chefsfav.com/blog/mates-on-crates-feat-marquella-uhrig",
-      "episode": "https://www.instagram.com/reel/DZv43K-hXlN/"
+      "episode": "https://www.instagram.com/reel/DZv43K-hXlN/",
+      "home": {
+        "venue": "Lucia",
+        "coordinates": null
+      }
     },
     {
       "id": "mates-on-crates-feat-nathan-lowey",
@@ -178,7 +259,16 @@
         27
       ],
       "source": "https://chefsfav.com/blog/mates-on-crates-feat-nathan-lowey",
-      "episode": "https://www.instagram.com/reel/DY0d3wlhpXD/"
+      "episode": "https://www.instagram.com/reel/DY0d3wlhpXD/",
+      "home": {
+        "venue": "Dosanko",
+        "coordinates": [
+          -123.091936,
+          49.2828996
+        ],
+        "address": "566 Powell Street",
+        "locationSource": "https://www.openstreetmap.org/node/8660308918"
+      }
     },
     {
       "id": "mates-on-crates-feat-aaron-surman",
@@ -190,7 +280,11 @@
         25
       ],
       "source": "https://chefsfav.com/blog/mates-on-crates-feat-aaron-surman",
-      "episode": "https://www.instagram.com/reel/DXsWlzpBhpe/"
+      "episode": "https://www.instagram.com/reel/DXsWlzpBhpe/",
+      "home": {
+        "venue": "Ex Animo",
+        "coordinates": null
+      }
     },
     {
       "id": "mates-on-crates-feat-haidee-hart",
@@ -202,7 +296,11 @@
         18
       ],
       "source": "https://chefsfav.com/blog/mates-on-crates-feat-haidee-hart",
-      "episode": "https://www.instagram.com/reel/DXITa3-BSWL/"
+      "episode": "https://www.instagram.com/reel/DXITa3-BSWL/",
+      "home": {
+        "venue": "The Woodshed",
+        "coordinates": null
+      }
     },
     {
       "id": "mates-on-crates-feat-johnny-wells",
@@ -214,7 +312,11 @@
         50
       ],
       "source": "https://chefsfav.com/blog/mates-on-crates-feat-johnny-wells",
-      "episode": "https://www.instagram.com/reel/DW7bfghBEvD/"
+      "episode": "https://www.instagram.com/reel/DW7bfghBEvD/",
+      "home": {
+        "venue": "Sempre Uno",
+        "coordinates": null
+      }
     },
     {
       "id": "mates-on-crates-feat-tushar-tondvalkar",
@@ -226,7 +328,11 @@
         41
       ],
       "source": "https://chefsfav.com/blog/mates-on-crates-feat-tushar-tondvalkar",
-      "episode": "https://www.instagram.com/reel/DWpZ4NopRa1/"
+      "episode": "https://www.instagram.com/reel/DWpZ4NopRa1/",
+      "home": {
+        "venue": "Kavita",
+        "coordinates": null
+      }
     },
     {
       "id": "mates-on-crates-feat-scott-thornhill",
@@ -238,7 +344,11 @@
         51
       ],
       "source": "https://chefsfav.com/blog/mates-on-crates-feat-scott-thornhill",
-      "episode": "https://www.instagram.com/reel/DWXYWFdh3jY/"
+      "episode": "https://www.instagram.com/reel/DWXYWFdh3jY/",
+      "home": {
+        "venue": "Belli Pizza",
+        "coordinates": null
+      }
     },
     {
       "id": "mates-on-crates-93-feat-hilary-nguy",
@@ -250,7 +360,16 @@
         60
       ],
       "source": "https://chefsfav.com/blog/mates-on-crates-93-feat-hilary-nguy",
-      "episode": "https://www.instagram.com/p/DGJxm01SaXb/"
+      "episode": "https://www.instagram.com/p/DGJxm01SaXb/",
+      "home": {
+        "venue": "Sushi Hil",
+        "coordinates": [
+          -123.101046,
+          49.2553638
+        ],
+        "address": "3330 Main Street",
+        "locationSource": "https://www.openstreetmap.org/node/5867020307"
+      }
     },
     {
       "id": "mates-on-crates-68-feat-claire-livia-lassam",
@@ -262,7 +381,16 @@
         39
       ],
       "source": "https://chefsfav.com/blog/mates-on-crates-68-feat-claire-livia-lassam",
-      "episode": "https://www.instagram.com/reel/DCSkq6EyrSD/"
+      "episode": "https://www.instagram.com/reel/DCSkq6EyrSD/",
+      "home": {
+        "venue": "Livia",
+        "coordinates": [
+          -123.0697856,
+          49.2722682
+        ],
+        "address": "1399 Commercial Drive",
+        "locationSource": "https://www.openstreetmap.org/node/3870325217"
+      }
     },
     {
       "id": "mates-on-crates-67-feat-josh-ochotorena",
@@ -274,7 +402,11 @@
         37
       ],
       "source": "https://chefsfav.com/blog/mates-on-crates-67-feat-josh-ochotorena",
-      "episode": "https://www.instagram.com/reel/DCNbbV9yve5/"
+      "episode": "https://www.instagram.com/reel/DCNbbV9yve5/",
+      "home": {
+        "venue": "Breeze Bar",
+        "coordinates": null
+      }
     }
   ],
   "places": [

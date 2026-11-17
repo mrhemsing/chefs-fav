@@ -1,0 +1,134 @@
+{
+  "mates-on-crates-feat-gonzalo-almendrades": {
+    "venue": "Los Sapos",
+    "coordinates": null
+  },
+  "mates-on-crates-feat-etienne-buddingh": {
+    "venue": "Oddfish",
+    "coordinates": null
+  },
+  "mates-on-crates-feat-tommy-shorthouse": {
+    "venue": "Banter Room",
+    "coordinates": [
+      -123.1197396,
+      49.2763183
+    ],
+    "address": "1039 Mainland Street",
+    "locationSource": "https://www.openstreetmap.org/node/12703364034"
+  },
+  "mates-on-crates-feat-quynh-anh-pham": {
+    "venue": "Ông Bà",
+    "coordinates": null
+  },
+  "mates-on-crates-feat-nathan-pai-phankum": {
+    "venue": "Soi Ram",
+    "coordinates": [
+      -123.0854614,
+      49.0904083
+    ],
+    "address": "4811 Delta Street",
+    "locationSource": "https://www.openstreetmap.org/node/9251515863"
+  },
+  "mates-on-crates-feat-rob-belcham": {
+    "venue": "Monarch Burger",
+    "coordinates": [
+      -123.1008908,
+      49.2580866
+    ],
+    "address": "3034 Main Street",
+    "locationSource": "https://www.openstreetmap.org/node/2933886279"
+  },
+  "mates-on-crates-feat-chanthy-yen": {
+    "venue": "Touk",
+    "coordinates": null
+  },
+  "mates-on-crates-feat-abbie-gluvic": {
+    "venue": "Murmurs and Things",
+    "coordinates": null
+  },
+  "mates-on-crates-feat-brad-miller": {
+    "venue": "The Red Wagon",
+    "coordinates": null
+  },
+  "mates-on-crates-feat-eleanor-waterfall": {
+    "venue": "Cadeaux Bakery",
+    "coordinates": [
+      -123.1004851,
+      49.2831011
+    ],
+    "address": "172 Powell Street",
+    "locationSource": "https://www.openstreetmap.org/node/4424551035"
+  },
+  "mates-on-crates-feat-maria-ponce": {
+    "venue": "La Taqueria",
+    "coordinates": [
+      -123.1126736,
+      49.2635577
+    ],
+    "address": "2450 Yukon Street",
+    "locationSource": "https://www.openstreetmap.org/node/5296233721"
+  },
+  "mates-on-crates-feat-roger-ma": {
+    "venue": "Boulevard Kitchen & Oyster Bar",
+    "coordinates": null
+  },
+  "mates-on-crates-feat-kyle-mcintosh": {
+    "venue": "Nui",
+    "coordinates": null
+  },
+  "mates-on-crates-feat-marquella-uhrig": {
+    "venue": "Lucia",
+    "coordinates": null
+  },
+  "mates-on-crates-feat-nathan-lowey": {
+    "venue": "Dosanko",
+    "coordinates": [
+      -123.091936,
+      49.2828996
+    ],
+    "address": "566 Powell Street",
+    "locationSource": "https://www.openstreetmap.org/node/8660308918"
+  },
+  "mates-on-crates-feat-aaron-surman": {
+    "venue": "Ex Animo",
+    "coordinates": null
+  },
+  "mates-on-crates-feat-haidee-hart": {
+    "venue": "The Woodshed",
+    "coordinates": null
+  },
+  "mates-on-crates-feat-johnny-wells": {
+    "venue": "Sempre Uno",
+    "coordinates": null
+  },
+  "mates-on-crates-feat-tushar-tondvalkar": {
+    "venue": "Kavita",
+    "coordinates": null
+  },
+  "mates-on-crates-feat-scott-thornhill": {
+    "venue": "Belli Pizza",
+    "coordinates": null
+  },
+  "mates-on-crates-93-feat-hilary-nguy": {
+    "venue": "Sushi Hil",
+    "coordinates": [
+      -123.101046,
+      49.2553638
+    ],
+    "address": "3330 Main Street",
+    "locationSource": "https://www.openstreetmap.org/node/5867020307"
+  },
+  "mates-on-crates-68-feat-claire-livia-lassam": {
+    "venue": "Livia",
+    "coordinates": [
+      -123.0697856,
+      49.2722682
+    ],
+    "address": "1399 Commercial Drive",
+    "locationSource": "https://www.openstreetmap.org/node/3870325217"
+  },
+  "mates-on-crates-67-feat-josh-ochotorena": {
+    "venue": "Breeze Bar",
+    "coordinates": null
+  }
+}
