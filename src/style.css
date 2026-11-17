@@ -99,3 +99,6 @@
   .no-map .saved-count{font-size:14px;min-width:20px;height:20px;line-height:20px}
   .no-map .initials{font-size:14px}
 }
+
+/* Center location pins on the first text line, even when locations wrap. */
+.interview-location svg{width:1em;height:1em;margin-top:calc((1lh - 1em)/2)}
