@@ -61,3 +61,6 @@
   .no-map .card-topline .place-city{font-size:12px;line-height:1.5;white-space:normal;margin-left:auto}
   .no-map .pick-tag{font-size:14px;line-height:1.4}
 }
+
+/* Keep the full site name readable beside the mobile header actions. */
+@media(max-width:700px){.masthead{gap:10px}.brand{font-size:20px;letter-spacing:-.6px;min-width:0;gap:8px;line-height:1.15}.brand img{width:29px;height:29px;flex-shrink:0}.brand>span{max-width:185px}.head-actions{flex-shrink:0;gap:6px}}
