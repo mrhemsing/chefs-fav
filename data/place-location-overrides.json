@@ -4,5 +4,23 @@
     "address": "115 Fulford Ganges Road, Grace Point Square",
     "locationSource": "https://auntiepestos.com/",
     "locationStatus": "Ganges, Salt Spring Island and street address verified from restaurant website on 2026-11-17; unit number omitted due to conflicting listings"
+  },
+  "saturdaymarket": {
+    "city": "Ganges · Salt Spring Island",
+    "address": "Centennial Park",
+    "locationSource": "https://www.saltspringmarket.com/",
+    "locationStatus": "Location verified from official website on 2026-11-17"
+  },
+  "treehousecafe": {
+    "city": "Ganges · Salt Spring Island",
+    "address": "106 Purvis Lane",
+    "locationSource": "https://www.treehousecafe.ca/",
+    "locationStatus": "Location verified from official website on 2026-11-17"
+  },
+  "thecoffeecan": {
+    "city": "Salt Spring Island",
+    "address": "116 Jackson Avenue",
+    "locationSource": "https://thelittlecoffeecan.ca/",
+    "locationStatus": "Location verified from official website on 2026-11-17"
   }
 }

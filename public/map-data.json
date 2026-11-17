@@ -2087,9 +2087,10 @@
         }
       ],
       "coordinates": null,
-      "city": "British Columbia",
-      "address": "",
-      "locationStatus": "Location pending verification",
+      "city": "Salt Spring Island",
+      "address": "116 Jackson Avenue",
+      "locationStatus": "Location verified from official website on 2026-11-17",
+      "locationSource": "https://thelittlecoffeecan.ca/",
       "comments": []
     },
     {
@@ -2174,9 +2175,10 @@
         }
       ],
       "coordinates": null,
-      "city": "British Columbia",
-      "address": "",
-      "locationStatus": "Location pending verification",
+      "city": "Ganges · Salt Spring Island",
+      "address": "106 Purvis Lane",
+      "locationStatus": "Location verified from official website on 2026-11-17",
+      "locationSource": "https://www.treehousecafe.ca/",
       "comments": []
     },
     {
@@ -2236,9 +2238,10 @@
         }
       ],
       "coordinates": null,
-      "city": "British Columbia",
-      "address": "",
-      "locationStatus": "Location pending verification",
+      "city": "Ganges · Salt Spring Island",
+      "address": "Centennial Park",
+      "locationStatus": "Location verified from official website on 2026-11-17",
+      "locationSource": "https://www.saltspringmarket.com/",
       "comments": []
     },
     {
