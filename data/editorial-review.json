@@ -1,0 +1,731 @@
+{
+  "mates-on-crates-feat-stephanie-duboudin": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Wine Victoria"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-gonzalo-almendrades": {
+    "chefOrCook": true,
+    "excludeAffiliations": [
+      "Los Sapos"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-lucas-szaraz": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Nomo Nomo"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-maxime-bergeron": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Cafe Flora"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-paul-grunberg": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Savio Volpe",
+      "Pepino",
+      "Caffe La Tana",
+      "Elio Volpe",
+      "Banda Volpi"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-etienne-buddingh": {
+    "chefOrCook": true,
+    "excludeAffiliations": [
+      "Oddfish"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-annika-hagen": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Salty Pear"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-william-liu": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Kam Wai"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-curtis-redel": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Woods on Pender",
+      "Coffee + Kitchen"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-tommy-shorthouse": {
+    "chefOrCook": true,
+    "excludeAffiliations": [
+      "Banter Room"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-james-heras": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "7 Seas Fish Market"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-kyle-smith": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Forecast In North Van"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-david-varga": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Shaketown"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-quynh-anh-pham": {
+    "chefOrCook": true,
+    "excludeAffiliations": [
+      "Ông Bà"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-nathan-pai-phankum": {
+    "chefOrCook": true,
+    "excludeAffiliations": [
+      "Soi Ram"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-roger-collins": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Rise Up Marketplace"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-paul-clark": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "The Mainstay"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-adam-mills": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Four Winds Beach House"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-melanie-gagnon": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Cork It Wine Making"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-lucious": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "June"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-rob-belcham": {
+    "chefOrCook": true,
+    "excludeAffiliations": [
+      "Monarch Burger",
+      "Popina",
+      "Commons by CTS"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-cuma-yaldiz": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Emilee’s Sweet House"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-chanthy-yen": {
+    "chefOrCook": true,
+    "excludeAffiliations": [
+      "Touk"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-abbie-gluvic": {
+    "chefOrCook": true,
+    "excludeAffiliations": [
+      "Murmurs and Things"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-kevin-day-and-chris-enns": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Peya",
+      "Peya"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-vanni-sartini": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "The Wanderer’s Grounds"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-brad-miller": {
+    "chefOrCook": true,
+    "excludeAffiliations": [
+      "The Red Wagon"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-olivia-lovenmark-hay": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Duchess Cocktails"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-eleanor-waterfall": {
+    "chefOrCook": true,
+    "excludeAffiliations": [
+      "Cadeaux Bakery"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-ricardo-gutierrez": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Mercado Panaderia"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-maria-ponce": {
+    "chefOrCook": true,
+    "excludeAffiliations": [
+      "La Taqueria",
+      "Chupito"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-jemie-rico-salvacion": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Haliná"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-tara-and-erick": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Chupito",
+      "La Taqueria",
+      "Touk"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-andrew-kong": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Bar Supernova"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-roger-ma": {
+    "chefOrCook": true,
+    "excludeAffiliations": [
+      "Boulevard Kitchen & Oyster Bar"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-asacia-biln": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Innocent Ice Cream"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-kyle-mcintosh": {
+    "chefOrCook": true,
+    "excludeAffiliations": [
+      "Nui"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-joe-casson": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Published on Main"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-barbora-samieian": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Field & Social"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-dylan-brentwood": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Hux Bistro"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-greg-dion": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Cockney kings"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-richard-stonehouse-mystic": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Mystic (tasting menus)"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-marquella-uhrig": {
+    "chefOrCook": true,
+    "excludeAffiliations": [
+      "Lucia"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-richard-mah": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Northern Cafe"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-keegan-mcgregor": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Highwayman"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-bill-osborne": {
+    "chefOrCook": true,
+    "excludeAffiliations": [
+      "Freehand Hospitality",
+      "Drift",
+      "Cafe Lunette",
+      "Peacock Wine Bar",
+      "Darya",
+      "Salt + Ash",
+      "Mystic",
+      "Maurizio"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-joe-chaput": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Les Amis du fromage"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-nick-devine": {
+    "chefOrCook": false,
+    "excludeAffiliations": [],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-nathan-lowey": {
+    "chefOrCook": true,
+    "excludeAffiliations": [
+      "Dosanko"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-jess-emin": {
+    "chefOrCook": false,
+    "excludeAffiliations": [],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-eugenio-masi": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Columbus meats"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-jay-jones": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Joey"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-owen-coomer": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "The Barn"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-reuben-major": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Violeté"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-mike-jacobsen": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Cassette"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-alejandro-diaz": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "El Santo"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-aaron-surman": {
+    "chefOrCook": true,
+    "excludeAffiliations": [
+      "Ex Animo"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-morgain-cuddy": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "South End Sausage"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-gino-di-domenico-2026": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Tacofino"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-sarah-campbell": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Bodega Ridge",
+      "Lola",
+      "The Pink Geranium"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-rocio-mogollon": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Four Seasons Resort Whistler",
+      "Braidwood Tavern",
+      "Memoir",
+      "SIDECUT"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-ron-macgillivray": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Fable Diner"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-haidee-hart": {
+    "chefOrCook": true,
+    "excludeAffiliations": [
+      "The Woodshed"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-andrew-doyle": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "La Cerveceria Astilleros"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-johnny-wells": {
+    "chefOrCook": true,
+    "excludeAffiliations": [
+      "Sempre Uno"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-sandra-bruzzese-xezlc": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Bodega Ridge",
+      "Lola",
+      "The Pink Geranium"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-sandra-bruzzese": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "La Grotta Del Formaggio"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-tushar-tondvalkar": {
+    "chefOrCook": true,
+    "excludeAffiliations": [
+      "Kavita"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-romer-aquino": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Windsor Meats"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-scott-thornhill": {
+    "chefOrCook": true,
+    "excludeAffiliations": [
+      "Belli Pizza"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-harman-basutta": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Tasty Indian Bistro"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-oscar-holdago": {
+    "chefOrCook": true,
+    "excludeAffiliations": [
+      "The Woodshed",
+      "Kin Kin Hotel"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-moirae-choquette": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Tomato Wheels"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-dom-morra": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Via Tevere",
+      "Straight Brooklyn",
+      "Dante",
+      "Caffe Soccavo",
+      "Don't Argue"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-jake-mcwilliams": {
+    "chefOrCook": true,
+    "excludeAffiliations": [
+      "Theo's Social Club"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-natapon-poonpoem": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Sawasdee Thai"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-dylan-campbell": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Seabourne"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-erin-heather": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Irish Heather",
+      "Sceal Eile"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-tyson-reimer": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Rumblefish"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-tannis-ling": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Bao Bei",
+      "Kissa Tanto",
+      "Meo"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-wade-hurley-zlj2m": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Minima"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-wade-hurley": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Capital Brewing"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-gus-armstrong": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "eightysix"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-wendy-spence": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Osetra"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-sam-payne": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Rewind",
+      "High Top",
+      "Hightop",
+      "Parkside",
+      "Slackwater"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-mijune-pak": {
+    "chefOrCook": false,
+    "excludeAffiliations": [],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-95-feat-frank-morra-kwley-86kpd-nmb38": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Likeable Cocktails"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-95-feat-frank-morra-kwley-86kpd": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "June"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-95-feat-frank-morra-kwley": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Mon Pitou",
+      "Jonathon Hawes"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-95-feat-frank-morra": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Dante",
+      "Via Tevere",
+      "Straight Brooklyn",
+      "Don't Argue",
+      "Caffe Soccavo"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-93-feat-hilary-nguy": {
+    "chefOrCook": true,
+    "excludeAffiliations": [
+      "Sushi Hil"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-91-devon-trowler": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Thank You Pizza"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-88-feat-reverie-beall": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Annalena"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-71-feat-rachel-lee": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Dear Gus"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-70-feat-taylor-mikasko": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Nightingale"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-69-feat-karl-gregg": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Rosie's BBQ"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-68-feat-claire-livia-lassam": {
+    "chefOrCook": true,
+    "excludeAffiliations": [
+      "Livia"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-67-feat-josh-ochotorena": {
+    "chefOrCook": true,
+    "excludeAffiliations": [
+      "Breeze Bar"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-66-feat-michael-hiram": {
+    "chefOrCook": false,
+    "excludeAffiliations": [
+      "Dear Gus"
+    ],
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  }
+}

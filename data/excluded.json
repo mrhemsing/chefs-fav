@@ -1,0 +1,915 @@
+[
+  {
+    "episodeId": "mates-on-crates-feat-gonzalo-almendrades",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Taco: Birria"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-gonzalo-almendrades",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Campechanas: The Melita's Special"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-gonzalo-almendrades",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Pairing: A guava Jarritos or Mexican Coca-Cola"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-lucas-szaraz",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Snack: Wagyu Tartare with yuzu kosho"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-lucas-szaraz",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Cocktail Pairing: The Daikon"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-maxime-bergeron",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Breakfast: The Shakshuka"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-maxime-bergeron",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "On the Go: The Breakfast Bun"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-maxime-bergeron",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Coffee: Specialty coffee roasted locally on Salt Spring Island by Unveil"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-maxime-bergeron",
+    "reason": "own/current workplace or affiliated venue",
+    "entry": "Take an Out of Town Guest: Breakfast at Café Flora , grab a sandwich to go from Francis Bread , check out the Saturday market , and finish with a hike up Mount Erskine or Mount Maxwell.",
+    "matchedAffiliations": [
+      "Cafe Flora"
+    ]
+  },
+  {
+    "episodeId": "mates-on-crates-feat-paul-grunberg",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Main: Lobster Spaghetti"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-paul-grunberg",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Pairing: Pepino's Mouse House Red"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-paul-grunberg",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Dessert: Tiramisu"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-etienne-buddingh",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Snack: Oysters, especially Sunseekers"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-etienne-buddingh",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Pairing: Margarita"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-etienne-buddingh",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Fall Menu: Tuna bolognese with ricotta gnocci"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-etienne-buddingh",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Pairing: A bold white wine or a lighter bodied red"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-etienne-buddingh",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Experience: The $85-per-person Feed Me menu, where the kitchen builds a meal around guests’ preferences and recommendations."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-annika-hagen",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Stay: Book the casita for a peaceful retreat with an outdoor shower, thoughtful design details, and a chance to enjoy the quiet of Salt Spring Island"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-annika-hagen",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Experience: Explore the curated gallery, where local artists are showcased through rotating exhibitions and community events"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-annika-hagen",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Unwind: Try the community sauna for a hands-on experience that encourages guests to slow down and embrace island time"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-william-liu",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Main: Lotus Leaf Wraps, filled with sticky rice, pork, chicken, Chinese sausage, and mushrooms"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-william-liu",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Drink: Pu-erh chrysanthemum tea"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-curtis-redel",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Breakfast: The Cruffin, filled with lemon curd, buttercream, and fresh berries."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-curtis-redel",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Main: The Sausage Pizza, made with house sausage, fior di latte and fresh vegetables."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-tommy-shorthouse",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Main: Eight-hour braised short ribs served with truffle mashed potatoes, seasonal vegetables, and red wine demi-glace"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-tommy-shorthouse",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Pairing: Nota Bene Cabernet Sauvignon"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-tommy-shorthouse",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Happy Hour: Korean Fried Chicken"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-tommy-shorthouse",
+    "reason": "own/current workplace or affiliated venue",
+    "entry": "Sandwich: Banter Room ’s Roast Turkey Club",
+    "matchedAffiliations": [
+      "Banter Room"
+    ]
+  },
+  {
+    "episodeId": "mates-on-crates-feat-james-heras",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Seasonal Seafood: Sockeye Salmon"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-james-heras",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Oyster: Effingham Oysters"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-kyle-smith",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Snack: Broccoli salad with crispy chicken"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-kyle-smith",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Meal: Poutine"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-kyle-smith",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Coffee Roast : Immersion Blend"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-david-varga",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Beer: Pre-Prohibition Pilsner"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-david-varga",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Pairing: Enjoy a pint with the brewery’s selection of snacks"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-quynh-anh-pham",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Main: Sườn Heo Tomahawk Sốt Thịt Kho (Marinated, braised, and caramelised pork tomahawk, served with pickled cucumber and scallion oil)"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-quynh-anh-pham",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Pairing: A glass of red wine"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-quynh-anh-pham",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Coffee: Crème Brûlée Vietnamese Coffee (twist on Hanoi-style egg coffee finished with a brûléed sugar topping)"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-nathan-pai-phankum",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Main: Som Isan (A spicy Isan-style papaya salad with fermented fish)"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-nathan-pai-phankum",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Pairing: Bangkok Tap Water (A tamarind-forward take on a whiskey sour)"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-roger-collins",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Snack: Mushroom Patties from Elbo Jamaican Patties"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-roger-collins",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Dessert: Pineapple Upside-Down Cake from Chow Runna"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-paul-clark",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Cocktail: Final Mark: The Mainstay’s take on the Last Word, made with Copperpenny gin, lime, and Elixir de Moines."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-adam-mills",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Main: Schnitzel and greens"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-adam-mills",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Pairing: Seafoam Helles Lager"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-adam-mills",
+    "reason": "own/current workplace or affiliated venue",
+    "entry": "Outside of Vancouver: Four Winds Beach House & Brewery (Tsawwassen)",
+    "matchedAffiliations": [
+      "Four Winds Beach House"
+    ]
+  },
+  {
+    "episodeId": "mates-on-crates-feat-melanie-gagnon",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Drink: “Just the Tip” Spruce Cider, Melanie’s dry apple cider made with hand-foraged spruce tips that add a citrusy, lemon-lime character to the cider."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-melanie-gagnon",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Pairing: Grilled shrimp on the barbecue with a crisp summer salad."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-lucious",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Main: Pasta For Rachel"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-lucious",
+    "reason": "own/current workplace or affiliated venue",
+    "entry": "Last Meal That Blew Them Away: June",
+    "matchedAffiliations": [
+      "June"
+    ]
+  },
+  {
+    "episodeId": "mates-on-crates-feat-rob-belcham",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Burger: Double Double, Fog Horn Lakehorn style (topped with fried chicken skin)"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-rob-belcham",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Pairing: Monarch Lager from Parallel 49 Brewing"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-rob-belcham",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Main: Fried Chicken Sandwich"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-rob-belcham",
+    "reason": "own/current workplace or affiliated venue",
+    "entry": "Fried Chicken: Popina Canteen",
+    "matchedAffiliations": [
+      "Popina"
+    ]
+  },
+  {
+    "episodeId": "mates-on-crates-feat-cuma-yaldiz",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Dessert: Cold baklava"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-cuma-yaldiz",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Drink: Turkish coffee"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-chanthy-yen",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Snack: Haida Gwaii scallops, served in the shell with garlic butter, fish sauce aioli, bonito flakes and burnt lime."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-chanthy-yen",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Main: Fraser Valley duck with Okanagan plums, bringing together savory, smoky and tangy flavours with Cambodian spices."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-chanthy-yen",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Pairing: Bai Sra clarified milk punch, with mango and toasted coconut."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-abbie-gluvic",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Starter: Pho Cracker: Abbie's Vietnamese-inspired puffed rice and sesame cracker with cilantro cucumber sabayon, fudgel, jalapeños, carrots, fish sauce, white vinegar and beef crumb. Paired with the White Noise mocktail."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-abbie-gluvic",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Brunch: Savoury waffle with marinated pork belly, apple caramel, fennel, walnut crumb, mixed greens, and cured egg yolk. Paired with house-brewed Honest to Pete coffee."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-kevin-day-and-chris-enns",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Cocktail: Rakta Mary"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-kevin-day-and-chris-enns",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Main: Spiced Duck Kulcha"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-kevin-day-and-chris-enns",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Dessert: Chai Crème Brûlée"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-kevin-day-and-chris-enns",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Main: Fig & Goat Cheese Samosa"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-kevin-day-and-chris-enns",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Cocktail Pairing : Sassy Lassi"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-vanni-sartini",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Food Truck: Bud the Spud"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-vanni-sartini",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Pairing: Sartini Spritz"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-brad-miller",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Breakfast: Chilaquiles, paired with a pineapple jalapeño margarita."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-brad-miller",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Dinner: Smash burger, paired with a Red Wagon Lager."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-brad-miller",
+    "reason": "own/current workplace or affiliated venue",
+    "entry": "Brunch: The Red Wagon",
+    "matchedAffiliations": [
+      "The Red Wagon"
+    ]
+  },
+  {
+    "episodeId": "mates-on-crates-feat-olivia-lovenmark-hay",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Pastry: Custom Cruffin from Ex-Animo"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-olivia-lovenmark-hay",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Cookie: Custom Duchess cookie from Whisked Away"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-olivia-lovenmark-hay",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Pairing: Cappuccino or espresso tonic"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-eleanor-waterfall",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Cake: London Fog Cake (Cadeaux’s signature), or Black Forest Cake"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-ricardo-gutierrez",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Dessert: Flan"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-ricardo-gutierrez",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Pairing: Americano"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-ricardo-gutierrez",
+    "reason": "own/current workplace or affiliated venue",
+    "entry": "Coffee: East Café (Spanish Latte), Mercado Panaderia (Americano)",
+    "matchedAffiliations": [
+      "Mercado Panaderia"
+    ]
+  },
+  {
+    "episodeId": "mates-on-crates-feat-maria-ponce",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Pinche Location: Taco de Trompo"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-maria-ponce",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Pairing: Beer"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-maria-ponce",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Chupito Popup Menu: Grilled Fish a la Talla (Sea Bream)"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-maria-ponce",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Pairing: Piña Coco cocktail"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-maria-ponce",
+    "reason": "own/current workplace or affiliated venue",
+    "entry": "Brunch: La Taqueria",
+    "matchedAffiliations": [
+      "La Taqueria"
+    ]
+  },
+  {
+    "episodeId": "mates-on-crates-feat-jemie-rico-salvacion",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "To Eat: Pancit Batil Patong or Dinakdakan (Spring Menu)"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-jemie-rico-salvacion",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Pairing: Red Horse Beer"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-tara-and-erick",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Favourite: Tostada de Pulpo, made with sous-vide octopus and a green salsa macha (think: Mexican pesto)."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-tara-and-erick",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Pairing: A zero-proof highball built around seasonal fruit and herbs, in keeping with Chupito’s patio program."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-tara-and-erick",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Favourite: Carne Asada, featuring Australian Wagyu served with flour-tortilla quesadillas and salsa."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-tara-and-erick",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Pairing: A zero-proof michelada-style pour to complement the smoky, charcoal-grilled beef."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-tara-and-erick",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Cocktail: Stems"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-tara-and-erick",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Snack: Gilda"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-tara-and-erick",
+    "reason": "own/current workplace or affiliated venue",
+    "entry": "Churros (Local): La Taquería",
+    "matchedAffiliations": [
+      "La Taqueria"
+    ]
+  },
+  {
+    "episodeId": "mates-on-crates-feat-andrew-kong",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Cocktail: Stems"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-andrew-kong",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Snack: Gilda"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-roger-ma",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "First Visit: Seafood Tower"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-roger-ma",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Main: Charcoal-Grilled Loong Kong Chicken"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-roger-ma",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Pairing: White Burgundy"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-asacia-biln",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Ice Cream Sandwich: Mini Double Dark, made with double chocolate cookies and chocolate fudge ice cream"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-asacia-biln",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Pairing: Salted Caramel Affogato"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-kyle-mcintosh",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "To Eat: Dak Galbi with Hokkaido Uni, Seafood Jeon"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-kyle-mcintosh",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Pairing: A beer or Somaek"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-joe-casson",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Main: Fried Cornish Game Hen with a Burnt Lemonade cocktail"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-joe-casson",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Snack: Guinness and Caviar"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-barbora-samieian",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Bowl: The Med Bowl or Beets Bowl"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-barbora-samieian",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Crowd Favourite: Avo Crunch or Rustic Orzo"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-barbora-samieian",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Snack: Egg bites, lemon protein bites, or the gluten-free peanut butter and chocolate cookie"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-barbora-samieian",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Pairing: Sparkling water, with Barbet coming soon to the South Flats location"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-dylan-brentwood",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Main: The Pig Cheek"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-dylan-brentwood",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Drink: TBD (Tequila, Bubbles, Delicious), Acid House Daquiri, The Caution Tape"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-greg-dion",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Main: Light-battered haddock with chips, Fish tacos"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-greg-dion",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Pairing: Take it to the beach with something cold and refreshing like a Kits Beach Beer"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-richard-stonehouse-mystic",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Course: Nova Scotian scallop"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-richard-stonehouse-mystic",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Pairing: Premier Cru Chardonnay from Chablis"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-marquella-uhrig",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Happy Hour: Meatballs"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-marquella-uhrig",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Meal: The Mafaldine pasta with lamb ragu"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-marquella-uhrig",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Pairing : Negroni"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-richard-mah",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Wontons: Wontons, Spicy Wontons, Goyza"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-richard-mah",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Pairing: Bottomless Coffee"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-richard-mah",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Add-On: Pancake"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-keegan-mcgregor",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "To Eat: Beef Tartare, Bay Scallop Crudo"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-keegan-mcgregor",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Pairing: Crème Fraîche Vesper"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-keegan-mcgregor",
+    "reason": "own/current workplace or affiliated venue",
+    "entry": "Take an Out of Town Guest: Cafe Goodluck , Rainbow Haven Beach, The Canteen , Bar Sofia , Water Polo , Brown Hound , Highwayman , Stillwell , Durty Nelly’s , or Magnolia",
+    "matchedAffiliations": [
+      "Highwayman"
+    ]
+  },
+  {
+    "episodeId": "mates-on-crates-feat-bill-osborne",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Snack: Lamb-Stuffed Meatballs"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-bill-osborne",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Main: Neapolitan Ragu Gnocchi"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-bill-osborne",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Pairing: Glass of Red Wine"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-bill-osborne",
+    "reason": "own/current workplace or affiliated venue",
+    "entry": "Coffee: Café Lunette",
+    "matchedAffiliations": [
+      "Cafe Lunette"
+    ]
+  },
+  {
+    "episodeId": "mates-on-crates-feat-bill-osborne",
+    "reason": "own/current workplace or affiliated venue",
+    "entry": "Patio: Salt + Ash",
+    "matchedAffiliations": [
+      "Salt + Ash"
+    ]
+  },
+  {
+    "episodeId": "mates-on-crates-feat-bill-osborne",
+    "reason": "own/current workplace or affiliated venue",
+    "entry": "Pizza: Salt + Ash",
+    "matchedAffiliations": [
+      "Salt + Ash"
+    ]
+  },
+  {
+    "episodeId": "mates-on-crates-feat-joe-chaput",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Cheese: Cantel from the Auvergne, old Canadian cheddar."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-joe-chaput",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Wine Pairing: Off-dry German Riesling"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-nick-devine",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "The Mezcalita a seasonal favourite built with a custom mezcal-style extract, natural smoke, fruit juice, agave, citrus oils, and citrus shrub."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-nathan-lowey",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "To Eat: Tantan noodles - Built on dark roasted sesame, handmade alkaline noodles, ground pork, chili oil, and scallions."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-nathan-lowey",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Drink With It: A yuzu margarita, a craft beer, a Japanese lager, sake tasting, or Japanese whisky flight."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-jess-emin",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Mexican Shrimp Cocktail Recipe (and make sure to have it with a margarita)"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-eugenio-masi",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Sandwich : The Gino"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-eugenio-masi",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Produce: Ribeye, black pepper and salt sausage"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-eugenio-masi",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Marinade: Lamb with garlic, rosemary, olive oil, and lemon"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-jay-jones",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "14oz New York Strip & Martini"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-jay-jones",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Spring Spritz at Joey"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-owen-coomer",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Personal: Cajun Cream Sauce Pasta with Andouille Sausage"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-owen-coomer",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "For Sharing: The Barn Platter"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-owen-coomer",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Drinks: Blackberry sour, Candied apple shooter"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-reuben-major",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Appies: Anchovies on toast, Carbonara butter with house sourdough"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-reuben-major",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Main: The Fiocco pizza"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-reuben-major",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Pairing: The Violeté Negroni"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-mike-jacobsen",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Breakfast: Cortado & Cereal Milk Cookie"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-mike-jacobsen",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Dinner: Half Chicken for Two with Kutatás Pinot Noir"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-mike-jacobsen",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "To Go: Cortado & South End Sausage Sando"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-mike-jacobsen",
+    "reason": "own/current workplace or affiliated venue",
+    "entry": "Take an Out of Town Guest: Francis Bread , coffee at Cassette Cafe & Dive Bar , a hike, charcuterie from South End Sausage , jam from SaltSpring Kitchen Co. , wine from Kutatás Wines , dinner at Cassette, and a nightcap at Moby’s Pub .",
+    "matchedAffiliations": [
+      "Cassette"
+    ]
+  },
+  {
+    "episodeId": "mates-on-crates-feat-alejandro-diaz",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Carne Asada with the Elvis Cocktail"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-aaron-surman",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Butter croissants"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-aaron-surman",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Frozen pastries for home baking"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-aaron-surman",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Espresso"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-aaron-surman",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Devisor natural Colombian coffee,"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-morgain-cuddy",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Fresh Polish Sausage"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-morgain-cuddy",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "The Grilled Reuben"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-morgain-cuddy",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "The Kabanosy"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-morgain-cuddy",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Cooler Co. Kombucha"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-gino-di-domenico-2026",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Fish Taco"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-gino-di-domenico-2026",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Nachos"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-gino-di-domenico-2026",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Classic Bean & Cheese Burrito"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-gino-di-domenico-2026",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Strange Fellows Talisman"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-gino-di-domenico-2026",
+    "reason": "own-venue menu / outside external favourites section",
+    "entry": "Classic Margarita"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-gino-di-domenico-2026",
+    "reason": "own/current workplace or affiliated venue",
+    "entry": "Outside of Vancouver: The OG Tacofino in Tofino , Supercharger Pizza (Powell River)",
+    "matchedAffiliations": [
+      "Tacofino"
+    ]
+  },
+  {
+    "episodeId": "mates-on-crates-feat-sandra-bruzzese-xezlc",
+    "reason": "own/current workplace or affiliated venue",
+    "entry": "Take an Out of Town Guest (Galiano): Lola , Pilgrimme",
+    "matchedAffiliations": [
+      "Lola"
+    ]
+  },
+  {
+    "episodeId": "mates-on-crates-feat-dom-morra",
+    "reason": "own/current workplace or affiliated venue",
+    "entry": "Coffee: Caffè Soccavo",
+    "matchedAffiliations": [
+      "Caffe Soccavo"
+    ]
+  },
+  {
+    "episodeId": "mates-on-crates-feat-tannis-ling",
+    "reason": "own/current workplace or affiliated venue",
+    "entry": "Take an Out of Town Guest: Bao Bei , Happy Family",
+    "matchedAffiliations": [
+      "Bao Bei"
+    ]
+  },
+  {
+    "episodeId": "mates-on-crates-feat-wade-hurley-zlj2m",
+    "reason": "own/current workplace or affiliated venue",
+    "entry": "Pizza: Mínima",
+    "matchedAffiliations": [
+      "Minima"
+    ]
+  },
+  {
+    "episodeId": "mates-on-crates-feat-wade-hurley",
+    "reason": "own/current workplace or affiliated venue",
+    "entry": "Take an Out of Town Guest: Ambrosia Lounge , Capital Brewing , Smoko Pizza",
+    "matchedAffiliations": [
+      "Capital Brewing"
+    ]
+  },
+  {
+    "episodeId": "mates-on-crates-feat-gus-armstrong",
+    "reason": "own/current workplace or affiliated venue",
+    "entry": "Fried Chicken: eightysix",
+    "matchedAffiliations": [
+      "eightysix"
+    ]
+  }
+]
