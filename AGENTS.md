@@ -15,3 +15,7 @@
 - Include ALL BC restaurant/cafe/bar/food-business owners, partners and founders regardless of chef title; never use chefOrCook as the sole inclusion gate. includeOwner records source-reviewed owner cases. Show interview-location neighbourhood/city (city alone when neighbourhood unverified); include Victoria, Vancouver Island and Gulf Islands.
 
 - Chef picks now open as a modal sheet over the directory. Closing restores directory query/scroll; individual pick details are a nested dialog. Keep X, Escape and browser-back behavior working on mobile.
+
+- Place labels must show a specific town/city/island, never just BC or British Columbia. Omit unverified card locations rather than guessing; keep uncertainty in details. Source-backed corrections live in data/place-location-overrides.json and are applied by prepare-map.py.
+
+- Vancouver location labels must include a verified neighbourhood, never Vancouver alone. Omit the city suffix when the neighbourhood already includes it (South Vancouver, East Vancouver). Hide unverified labels, retaining source data for later verification.

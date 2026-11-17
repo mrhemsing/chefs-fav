@@ -16,8 +16,8 @@ function avatar(c,classes=''){
 }
 function categoryLabel(category){return esc(category).replace(/(\bFavourites)\s+(?=\S)/gi,'$1<br>')}
 function categoryFor(m){let c=m.category.toLowerCase();if(/coffee|chai/.test(c))return 'Coffee';if(/cocktail|brewery|wine|pub|bar$/.test(c))return 'Drinks';if(/bakery|pastry|ice cream|gelato/.test(c))return 'Sweet';return 'Bites'}
-function placeLocation(p){const city=(p.city||'').trim();return /^(British Columbia|B\.?C\.?)$/i.test(city)?'':city}
-function locationLabel(c){return [c.location?.neighbourhood,c.location?.city].filter(Boolean).join(' · ')}
+function placeLocation(p){const city=(p.city||'').trim();return /^(British Columbia|B\.?C\.?|Vancouver)$/i.test(city)?'':city}
+function locationLabel(c){const area=(c.location?.neighbourhood||'').trim(),city=(c.location?.city||'').trim();if(!area)return placeLocation({city});if(!city||area.toLowerCase().includes(city.toLowerCase()))return area;return [area,city].join(' · ')}
 function chefFor(id){return data.chefs.find(c=>c.id===id)}
 function mentions(p){return p.mentions.filter(m=>(state.chef==='all'||m.chefId===state.chef)&&(state.category==='All'||categoryFor(m)===state.category))}
 function filtered(){const q=state.query.toLowerCase().trim();return data.places.filter(p=>mentions(p).length&&(!state.saved||saved.has(p.id))&&(!q||[p.name,p.city,...p.mentions.map(m=>m.category+' '+chefFor(m.chefId).name+' '+chefFor(m.chefId).affiliation+' '+locationLabel(chefFor(m.chefId))+' '+(chefFor(m.chefId).location?.region||''))].join(' ').toLowerCase().includes(q))).sort((a,b)=>a.name.localeCompare(b.name))}
@@ -55,7 +55,7 @@ function visibleChefs(){const q=state.query.toLowerCase().trim();return data.che
 function selectChef(id){directoryScroll=window.scrollY;directoryPanelScroll=$('.explore').scrollTop;directoryQuery=state.query;openPicksOverlay();history.pushState({chef:id},'', '#chef/'+encodeURIComponent(id));state.query='';$('#search').value='';state.mode='picks';state.chef=id;$('#chef-select').value=id;state.expanded=false;applySheet();renderResults();fitMap();window.scrollTo({top:0,behavior:'instant'});$('.explore').scrollTop=0;announce(chefFor(id).name+'’s recommendations are now shown')}
 function renderChefs(){
  const cs=visibleChefs();$('#result-title').textContent='Pull up a crate';$('#result-count').textContent=`${cs.length} profiles · newest first`;
- $('#cards').innerHTML=cs.map(c=>`<article class="place-card chef-profile"><button class="card-open" data-chef="${c.id}"><img class="crate-photo" src="${esc(c.image)}" alt="${esc(c.name)}’s Mates on Crates episode" loading="lazy"><div class="profile-copy"><span class="place-type">${esc(new Date(c.publishedAt+'T12:00:00').toLocaleDateString('en-CA',{month:'short',day:'numeric',year:'numeric'}))} · EPISODE WRITE-UP</span><h3>${esc(c.name)}</h3><p>${esc(c.affiliation)}</p><span class="interview-location">${icon('map-pin')}${esc(locationLabel(c))}</span><span class="profile-cta">Explore their picks ${icon('arrow-up-right')}</span></div></button></article>`).join('');
+ $('#cards').innerHTML=cs.map(c=>`<article class="place-card chef-profile"><button class="card-open" data-chef="${c.id}"><img class="crate-photo" src="${esc(c.image)}" alt="${esc(c.name)}’s Mates on Crates episode" loading="lazy"><div class="profile-copy"><span class="place-type">${esc(new Date(c.publishedAt+'T12:00:00').toLocaleDateString('en-CA',{month:'short',day:'numeric',year:'numeric'}))} · EPISODE WRITE-UP</span><h3>${esc(c.name)}</h3><p>${esc(c.affiliation)}</p>${locationLabel(c)?`<span class="interview-location">${icon('map-pin')}${esc(locationLabel(c))}</span>`:''}<span class="profile-cta">Explore their picks ${icon('arrow-up-right')}</span></div></button></article>`).join('');
  $('#cards').querySelectorAll('[data-chef]').forEach(b=>b.addEventListener('click',()=>selectChef(b.dataset.chef)));
  refreshIcons();
 }
@@ -73,7 +73,7 @@ function renderResults(){
  $('#close-picks-overlay')?.addEventListener('click',backToChefs);
 
  document.body.classList.toggle('chef-directory',state.mode==='chefs');
- $('#selected-profile').innerHTML=activeChef?`<div class="selected-chef"><img src="${esc(activeChef.image)}" alt="${esc(activeChef.name)}’s crate interview"><div><button id="back-chefs">${icon('arrow-right','back-arrow')} Back to chef list</button><h2>${esc(activeChef.name)}</h2><p>${esc(activeChef.affiliation)}</p><span class="interview-location">${icon('map-pin')}${esc(locationLabel(activeChef))}</span><a href="${esc(activeChef.episode)}" target="_blank" rel="noopener">Watch their episode ↗</a></div></div>`:'';
+ $('#selected-profile').innerHTML=activeChef?`<div class="selected-chef"><img src="${esc(activeChef.image)}" alt="${esc(activeChef.name)}’s crate interview"><div><button id="back-chefs">${icon('arrow-right','back-arrow')} Back to chef list</button><h2>${esc(activeChef.name)}</h2><p>${esc(activeChef.affiliation)}</p>${locationLabel(activeChef)?`<span class="interview-location">${icon('map-pin')}${esc(locationLabel(activeChef))}</span>`:''}<a href="${esc(activeChef.episode)}" target="_blank" rel="noopener">Watch their episode ↗</a></div></div>`:'';
  $('#back-chefs')?.addEventListener('click',backToChefs);
  document.querySelectorAll('[data-mode]').forEach(b=>{b.classList.toggle('active',b.dataset.mode===state.mode);b.setAttribute('aria-pressed',b.dataset.mode===state.mode)});
  if(state.mode==='chefs'){renderChefs();return}
