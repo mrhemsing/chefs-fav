@@ -37,3 +37,8 @@
 .no-map .discovery{height:auto;min-height:0}
 .no-map .results{z-index:auto}
 @media(max-width:700px){.no-map .chef-filter{flex-wrap:wrap;gap:6px 12px;padding-top:2px}.no-map .chef-filter select{min-width:0;max-width:100%;min-height:44px}.no-map .results-heading{gap:12px}.no-map .results-heading>div{min-width:0}}
+
+/* Persistent thumb-friendly exit from an individual chef’s picks. */
+#mobile-return{display:none}.back-arrow{transform:rotate(180deg)}
+.viewing-chef .discovery-mode{display:none}
+@media(max-width:700px){#mobile-return:not([hidden]){display:block;position:fixed;bottom:0;left:0;right:0;z-index:650;padding:10px 16px calc(10px + env(safe-area-inset-bottom));background:var(--paper);border-top:1px solid var(--line);box-shadow:0 -5px 20px #173c3512}#mobile-back-chefs{width:100%;min-height:52px;border-radius:14px;background:var(--green);color:#fff;font-size:15px;font-weight:700;display:flex;align-items:center;justify-content:center;gap:10px}.viewing-chef.no-map.list-view .results{padding-bottom:105px}.modal-open #mobile-return{display:none}.viewing-chef #profile-nav span{display:none}.viewing-chef #profile-nav button{background:transparent;padding-left:0;font-size:14px}.viewing-chef .chef-filter{display:none}.viewing-chef .selected-chef #back-chefs{display:none}}
