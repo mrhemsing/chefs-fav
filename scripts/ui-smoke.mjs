@@ -19,7 +19,7 @@ for(const [name,width,height] of [['desktop',1440,1000],['mobile',390,844],['sma
  await page.locator('#search').fill('Sushi Hil');
  assert.ok(await page.locator('.place-card').count()<30);
  await page.locator('[data-place="sushihil"]').click();
- await page.getByRole('dialog').waitFor();
+ await page.locator('.detail-dialog').waitFor();
  assert.match(await page.locator('#dialog-title').innerText(),/Sushi Hil/);
  await page.locator('#detail-save').click();
  assert.equal(await page.locator('#detail-save').getAttribute('aria-pressed'),'true');
@@ -35,7 +35,7 @@ for(const [name,width,height] of [['desktop',1440,1000],['mobile',390,844],['sma
  assert.equal(await page.locator('#map').count(),0);
  assert.ok(await page.locator('body').evaluate(e=>e.classList.contains('list-view')));
  await page.locator('.head-actions .about').click();
- assert.ok(await page.getByRole('dialog').isVisible());
+ assert.ok(await page.locator('.detail-dialog').isVisible());
  await page.locator('#dialog-close').click();
  await page.close();
  console.log(`PASS ${name}: layout, search, detail, save, empty-state reset, category, chef, list-only layout and information`);

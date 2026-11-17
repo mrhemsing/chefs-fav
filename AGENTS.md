@@ -13,3 +13,5 @@
 - Latest product direction: NO MAP. Default newest-first profile list; each crate-photo profile opens that individual’s recommendations/comments. No popularity ranking or endorsement tallies.
 
 - Include ALL BC restaurant/cafe/bar/food-business owners, partners and founders regardless of chef title; never use chefOrCook as the sole inclusion gate. includeOwner records source-reviewed owner cases. Show interview-location neighbourhood/city (city alone when neighbourhood unverified); include Victoria, Vancouver Island and Gulf Islands.
+
+- Chef picks now open as a modal sheet over the directory. Closing restores directory query/scroll; individual pick details are a nested dialog. Keep X, Escape and browser-back behavior working on mobile.

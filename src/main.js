@@ -45,13 +45,13 @@ async function init(){
  $('.random-button').addEventListener('click',()=>{if(state.mode==='chefs'){const cs=visibleChefs();if(cs.length)selectChef(cs[Math.floor(Math.random()*cs.length)].id);return}const ps=filtered();if(ps.length)openPlace(ps[Math.floor(Math.random()*ps.length)].id)});
  $('.sheet-handle').addEventListener('click',()=>{state.expanded=!state.expanded;applySheet()});
  let startY=null;$('.sheet-handle').addEventListener('pointerdown',e=>{startY=e.clientY;e.currentTarget.setPointerCapture(e.pointerId)});$('.sheet-handle').addEventListener('pointerup',e=>{if(startY!==null&&Math.abs(e.clientY-startY)>25){state.expanded=e.clientY<startY;applySheet()}startY=null});
- document.addEventListener('keydown',e=>{if(e.key==='/'&&!/INPUT|SELECT|TEXTAREA/.test(document.activeElement.tagName)){e.preventDefault();$('#search').focus()}if(e.key==='Escape')closeModal()});
+ document.addEventListener('keydown',e=>{if(e.key==='/'&&!/INPUT|SELECT|TEXTAREA/.test(document.activeElement.tagName)){e.preventDefault();$('#search').focus()}if(e.key==='Escape'){if($('#modal-root').children.length)closeModal();else if(state.chef!=='all')backToChefs()}});
  renderResults();if(location.hash)restoreRoute();refreshIcons();
 }
 function applySheet(){document.body.classList.toggle('sheet-expanded',state.expanded);$('.sheet-handle').setAttribute('aria-expanded',state.expanded);$('.sheet-handle').setAttribute('aria-label',state.expanded?'Collapse recommendations':'Expand recommendations')}
 function fitMap(){}
 function visibleChefs(){const q=state.query.toLowerCase().trim();return data.chefs.filter(c=>!q||[c.name,c.affiliation,locationLabel(c),c.location?.region].join(' ').toLowerCase().includes(q)).sort((a,b)=>(b.publishedAt||'').localeCompare(a.publishedAt||''))}
-function selectChef(id){directoryScroll=window.scrollY;directoryPanelScroll=$('.explore').scrollTop;directoryQuery=state.query;history.pushState({chef:id},'', '#chef/'+encodeURIComponent(id));state.query='';$('#search').value='';state.mode='picks';state.chef=id;$('#chef-select').value=id;state.expanded=false;applySheet();renderResults();fitMap();window.scrollTo({top:0,behavior:'instant'});$('.explore').scrollTop=0;announce(chefFor(id).name+'’s recommendations are now shown')}
+function selectChef(id){directoryScroll=window.scrollY;directoryPanelScroll=$('.explore').scrollTop;directoryQuery=state.query;openPicksOverlay();history.pushState({chef:id},'', '#chef/'+encodeURIComponent(id));state.query='';$('#search').value='';state.mode='picks';state.chef=id;$('#chef-select').value=id;state.expanded=false;applySheet();renderResults();fitMap();window.scrollTo({top:0,behavior:'instant'});$('.explore').scrollTop=0;announce(chefFor(id).name+'’s recommendations are now shown')}
 function renderChefs(){
  const cs=visibleChefs();$('#result-title').textContent='Pull up a crate';$('#result-count').textContent=`${cs.length} profiles · newest first`;
  $('#cards').innerHTML=cs.map(c=>`<article class="place-card chef-profile"><button class="card-open" data-chef="${c.id}"><img class="crate-photo" src="${esc(c.image)}" alt="${esc(c.name)}’s Mates on Crates episode" loading="lazy"><div class="profile-copy"><span class="place-type">${esc(new Date(c.publishedAt+'T12:00:00').toLocaleDateString('en-CA',{month:'short',day:'numeric',year:'numeric'}))} · EPISODE WRITE-UP</span><h3>${esc(c.name)}</h3><p>${esc(c.affiliation)}</p><span class="interview-location">${icon('map-pin')}${esc(locationLabel(c))}</span><span class="profile-cta">Explore their picks ${icon('arrow-up-right')}</span></div></button></article>`).join('');
@@ -60,14 +60,16 @@ function renderChefs(){
 }
 function renderResults(){
  const activeChef=state.chef!=='all'?chefFor(state.chef):null;
+ if(activeChef)openPicksOverlay();else dismissPicksOverlay();
  $('#search').placeholder=state.mode==='chefs'?'Chef, restaurant, neighbourhood or city…':'A spot, a chef, a craving…';
  $('#profile-nav').hidden=!activeChef;
  document.body.classList.toggle('viewing-chef',Boolean(activeChef));
  $('#mobile-return').hidden=!activeChef;
  $('#mobile-return').innerHTML=activeChef?`<button id="mobile-back-chefs" aria-label="Back to chef list">${icon('arrow-right','back-arrow')} Back to chef list</button>`:'';
  $('#mobile-back-chefs')?.addEventListener('click',backToChefs);
- $('#profile-nav').innerHTML=activeChef?`<button id="nav-back-chefs">← Back to chef list</button><span>${esc(activeChef.name)}</span>`:'';
+ $('#profile-nav').innerHTML=activeChef?`<button id="nav-back-chefs">← Back to chef list</button><span>${esc(activeChef.name)}</span><button id="close-picks-overlay" aria-label="Close picks and return to chef list">${icon('x')}</button>`:'';
  $('#nav-back-chefs')?.addEventListener('click',backToChefs);
+ $('#close-picks-overlay')?.addEventListener('click',backToChefs);
 
  document.body.classList.toggle('chef-directory',state.mode==='chefs');
  $('#selected-profile').innerHTML=activeChef?`<div class="selected-chef"><img src="${esc(activeChef.image)}" alt="${esc(activeChef.name)}’s crate interview"><div><button id="back-chefs">← Back to chef list</button><h2>${esc(activeChef.name)}</h2><p>${esc(activeChef.affiliation)}</p><span class="interview-location">${icon('map-pin')}${esc(locationLabel(activeChef))}</span><a href="${esc(activeChef.episode)}" target="_blank" rel="noopener">Watch their episode ↗</a></div></div>`:'';
@@ -102,8 +104,25 @@ function renderDetail(p){
  $('#back-picks').addEventListener('click',()=>closeModal());
  $('#detail-save').addEventListener('click',()=>{save(p.id);$('#detail-save').focus()});
 }
-function backToChefs(){closeModal(true);history.pushState({},'',location.pathname);state.mode='chefs';state.chef='all';state.query=directoryQuery;state.category='All';state.saved=false;$('#search').value=directoryQuery;$('#chef-select').value='all';renderResults();$('.explore').scrollTop=directoryPanelScroll;window.scrollTo({top:directoryScroll,behavior:'instant'});announce('Back to the chef list')}
-function restoreRoute(){if(!data)return;const parts=location.hash.slice(1).split('/').map(decodeURIComponent);closeModal(true);const id=parts[0]==='chef'?parts[1]:null;if(id&&id!=='all'&&chefFor(id)){state.mode='picks';state.chef=id;$('#chef-select').value=id}else{state.mode=id==='all'?'picks':'chefs';state.chef='all';$('#chef-select').value='all'}renderResults();if(parts[2]==='pick'&&data.places.some(p=>p.id===parts[3]))openPlace(parts[3],true)}
+function openPicksOverlay(){
+ if($('#picks-overlay'))return;
+ const source=$('.layout'),snapshot=source.cloneNode(true);snapshot.id='directory-snapshot';snapshot.setAttribute('inert','');snapshot.setAttribute('aria-hidden','true');
+ snapshot.querySelectorAll('[class]').forEach(e=>{e.setAttribute('class',(e.getAttribute('class')||'').split(' ').map(c=>'preview-'+c).join(' '))});
+ snapshot.querySelectorAll('[id]').forEach(e=>{if(e.id==='cards')e.classList.add('snapshot-cards');e.removeAttribute('id')});
+ source.before(snapshot);source.hidden=true;$('.masthead').inert=true;
+ const layer=document.createElement('div');layer.id='picks-overlay';layer.innerHTML='<section class="picks-sheet" role="dialog" aria-modal="true" aria-label="Chef recommendations"><div class="picks-scroll"></div></section>';
+ document.body.append(layer);const sheet=layer.querySelector('.picks-sheet'),scroll=layer.querySelector('.picks-scroll');sheet.prepend($('#profile-nav'));scroll.append($('.discovery'),$('.results'));
+ document.body.classList.add('picks-overlay-open');
+ layer.addEventListener('click',e=>{if(e.target===layer)backToChefs()});
+ sheet.addEventListener('keydown',e=>{if(e.key!=='Tab'||$('#modal-root').children.length)return;const fs=[...sheet.querySelectorAll('button:not([disabled]),a[href],input,select')].filter(x=>x.getClientRects().length);if(e.shiftKey&&document.activeElement===fs[0]){e.preventDefault();fs.at(-1).focus()}else if(!e.shiftKey&&document.activeElement===fs.at(-1)){e.preventDefault();fs[0].focus()}});
+ requestAnimationFrame(()=>$('#close-picks-overlay')?.focus({preventScroll:true}));
+}
+function dismissPicksOverlay(){
+ if(!$('#picks-overlay'))return;
+ const source=$('.layout:not(#directory-snapshot)'),explore=source.querySelector('.explore');explore.append($('.discovery'),$('.results'));source.before($('#profile-nav'));source.hidden=false;$('#picks-overlay').remove();$('#directory-snapshot').remove();document.body.classList.remove('picks-overlay-open');$('.masthead').inert=false;
+}
+function backToChefs(){const closingChef=state.chef;closeModal(true);history.pushState({},'',location.pathname);state.mode='chefs';state.chef='all';state.query=directoryQuery;state.category='All';state.saved=false;$('#search').value=directoryQuery;$('#chef-select').value='all';renderResults();$('.explore').scrollTop=directoryPanelScroll;window.scrollTo({top:directoryScroll,behavior:'instant'});$('#cards').querySelector('[data-chef="'+closingChef+'"]')?.focus({preventScroll:true});announce('Back to the chef list')}
+function restoreRoute(){if(!data)return;const parts=location.hash.slice(1).split('/').map(decodeURIComponent);closeModal(true);const id=parts[0]==='chef'?parts[1]:null;if(id&&id!=='all'&&chefFor(id)){state.mode='picks';state.chef=id;$('#chef-select').value=id}else{state.mode=id==='all'?'picks':'chefs';state.chef='all';$('#chef-select').value='all'}renderResults();if(!id){state.query=directoryQuery;$('#search').value=directoryQuery;renderResults();window.scrollTo({top:directoryScroll,behavior:'instant'})}if(parts[2]==='pick'&&data.places.some(p=>p.id===parts[3]))openPlace(parts[3],true)}
 window.addEventListener('popstate',restoreRoute);
 function showAbout(){previousFocus=document.activeElement;showModal(`<div class="detail-top"><span class="eyebrow">THE SMALL PRINT, SIMPLIFIED</span><button id="dialog-close" class="icon-button" aria-label="Close guide information">${icon('x')}</button></div><div class="about-content"><div class="about-flower">✳</div><h2 id="dialog-title">Good taste.<br>Clear sources.</h2><p>A BC-only discovery guide to the places chefs love outside their own restaurants.</p><div class="stats"><div><b>${data.chefs.length}</b><span>profiles</span></div><div><b>${data.coverage.recommendationAnswers}</b><span>source answers</span></div><div><b>99</b><span>articles indexed</span></div></div><h3>A starting list, not the full series.</h3><p>These recommendations come from Chef’s Favourite’s official expanded <b>Mates on Crates</b> write-ups. We haven’t completed the video review, and some written picks aren’t in the videos. The signed-in archive has now been inventoried: 510 reels, including non-series posts. Spoken comments are being reviewed and added with timestamps; the complete episode review is still in progress.</p><h3>No self-promotion on the menu.</h3><p>Each chef’s own restaurants, workplaces and known affiliated venues are excluded from their picks. The restaurant under a chef’s name is their affiliation—not necessarily a business they own. “Wants to try” picks are wish-list items, not visited recommendations.</p><h3>Before you head out</h3><p>Venue addresses are matched to OpenStreetMap where available. Some chefs don’t name a branch; check the destination and opening hours. Some addresses remain unverified. Saves stay on this device.</p><p>Episode photos and recommendation sources: <a href="https://chefsfav.com" target="_blank" rel="noopener">Chef’s Favourite</a>. Independent research project, not an official Chef’s Favourite app.</p><div class="about-links"><a href="https://github.com/mrhemsing/chefs-fav/blob/main/CHEFS.md" target="_blank" rel="noopener">Full sourced list ${icon('arrow-up-right')}</a><a href="/recommendations.csv" download>Download CSV ${icon('arrow-up-right')}</a></div><p class="detail-note">Research snapshot: November 17, 2026.</p></div>`);$('#dialog-close').focus()}
 init();
