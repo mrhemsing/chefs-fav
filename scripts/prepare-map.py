@@ -111,6 +111,11 @@ for i,p in enumerate(places.values()):
         p.update({'city':cities.get(p['name'],'British Columbia'),'address':'','locationStatus':'Location pending verification'})
     if i%25==0: print(f'Geocoding {i+1}/{len(places)}',flush=True)
 
+# Source-verified location corrections survive data regeneration.
+for place_id, correction in load('data/place-location-overrides.json').items():
+    if place_id in places:
+        places[place_id].update(correction)
+
 (ROOT/'public').mkdir(exist_ok=True)
 notes=load('data/video-notes.json') if (ROOT/'data/video-notes.json').exists() else []
 for added in load('data/video-additions.json') if (ROOT/'data/video-additions.json').exists() else []:

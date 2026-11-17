@@ -2154,9 +2154,10 @@
         }
       ],
       "coordinates": null,
-      "city": "British Columbia",
-      "address": "",
-      "locationStatus": "Location pending verification",
+      "city": "Ganges · Salt Spring Island",
+      "address": "115 Fulford Ganges Road, Grace Point Square",
+      "locationStatus": "Ganges, Salt Spring Island and street address verified from restaurant website on 2026-11-17; unit number omitted due to conflicting listings",
+      "locationSource": "https://auntiepestos.com/",
       "comments": []
     },
     {
