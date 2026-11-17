@@ -789,9 +789,20 @@
   {
     "episodeId": "mates-on-crates-feat-mike-jacobsen",
     "reason": "own/current workplace or affiliated venue",
+    "entry": "Pub: Moby’s Pub",
+    "matchedAffiliations": [
+      "Moby’s",
+      "Mobys"
+    ]
+  },
+  {
+    "episodeId": "mates-on-crates-feat-mike-jacobsen",
+    "reason": "own/current workplace or affiliated venue",
     "entry": "Take an Out of Town Guest: Francis Bread , coffee at Cassette Cafe & Dive Bar , a hike, charcuterie from South End Sausage , jam from SaltSpring Kitchen Co. , wine from Kutatás Wines , dinner at Cassette, and a nightcap at Moby’s Pub .",
     "matchedAffiliations": [
-      "Cassette"
+      "Cassette",
+      "Moby’s",
+      "Mobys"
     ]
   },
   {

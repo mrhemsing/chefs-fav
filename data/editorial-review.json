@@ -25,7 +25,8 @@
     "excludeAffiliations": [
       "Cafe Flora"
     ],
-    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography. Included restaurant/cafe/food-business owners per clarified directory scope.",
+    "includeOwner": true
   },
   "mates-on-crates-feat-paul-grunberg": {
     "chefOrCook": false,
@@ -410,9 +411,12 @@
   "mates-on-crates-feat-mike-jacobsen": {
     "chefOrCook": false,
     "excludeAffiliations": [
-      "Cassette"
+      "Cassette",
+      "Moby’s",
+      "Mobys"
     ],
-    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography. Included restaurant/cafe/food-business owners per clarified directory scope.",
+    "includeOwner": true
   },
   "mates-on-crates-feat-alejandro-diaz": {
     "chefOrCook": false,
@@ -433,7 +437,8 @@
     "excludeAffiliations": [
       "South End Sausage"
     ],
-    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography. Included restaurant/cafe/food-business owners per clarified directory scope.",
+    "includeOwner": true
   },
   "mates-on-crates-feat-gino-di-domenico-2026": {
     "chefOrCook": false,
@@ -602,7 +607,8 @@
       "Kissa Tanto",
       "Meo"
     ],
-    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography.",
+    "includeOwner": true
   },
   "mates-on-crates-feat-wade-hurley-zlj2m": {
     "chefOrCook": false,

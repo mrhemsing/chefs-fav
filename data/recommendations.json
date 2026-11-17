@@ -272,6 +272,260 @@
     "locationEvidence": "Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it."
   },
   {
+    "episodeId": "mates-on-crates-feat-maxime-bergeron",
+    "guest": "Maxime Bergeron",
+    "episodeGuest": "Maxime Bergeron",
+    "chefOrCook": false,
+    "category": "Bakery",
+    "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-maxime-bergeron",
+    "videoUrl": "https://www.instagram.com/reel/Dff4x3-M-aL/",
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "experience": "recommendation",
+    "recommendation": "Francis Bread",
+    "venueLinks": [
+      {
+        "name": "Francis Bread",
+        "url": "https://francisbread.com/"
+      }
+    ],
+    "kind": "named_place_or_business",
+    "region": "British Columbia",
+    "locationEvidence": "Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-maxime-bergeron",
+    "guest": "Maxime Bergeron",
+    "episodeGuest": "Maxime Bergeron",
+    "chefOrCook": false,
+    "category": "Cocktail Bar",
+    "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-maxime-bergeron",
+    "videoUrl": "https://www.instagram.com/reel/Dff4x3-M-aL/",
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "experience": "recommendation",
+    "recommendation": "Cassette Café + Dive Bar",
+    "venueLinks": [
+      {
+        "name": "Cassette Café + Dive Bar",
+        "url": "https://cassettecafebar.com/"
+      }
+    ],
+    "kind": "named_place_or_business",
+    "region": "British Columbia",
+    "locationEvidence": "Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-maxime-bergeron",
+    "guest": "Maxime Bergeron",
+    "episodeGuest": "Maxime Bergeron",
+    "chefOrCook": false,
+    "category": "Coffee",
+    "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-maxime-bergeron",
+    "videoUrl": "https://www.instagram.com/reel/Dff4x3-M-aL/",
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "experience": "recommendation",
+    "recommendation": "The Coffee Can",
+    "venueLinks": [
+      {
+        "name": "The Coffee Can",
+        "url": "https://thelittlecoffeecan.ca/"
+      }
+    ],
+    "kind": "named_place_or_business",
+    "region": "British Columbia",
+    "locationEvidence": "Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-maxime-bergeron",
+    "guest": "Maxime Bergeron",
+    "episodeGuest": "Maxime Bergeron",
+    "chefOrCook": false,
+    "category": "Dying to Try",
+    "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-maxime-bergeron",
+    "videoUrl": "https://www.instagram.com/reel/Dff4x3-M-aL/",
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "experience": "wish_list_not_visited",
+    "recommendation": "Jeju (Vancouver)",
+    "venueLinks": [
+      {
+        "name": "Jeju",
+        "url": "https://www.jeju-restaurant.com/"
+      }
+    ],
+    "kind": "named_place_or_business",
+    "region": "British Columbia",
+    "locationEvidence": "Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-maxime-bergeron",
+    "guest": "Maxime Bergeron",
+    "episodeGuest": "Maxime Bergeron",
+    "chefOrCook": false,
+    "category": "Last Meal That Blew Them Away",
+    "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-maxime-bergeron",
+    "videoUrl": "https://www.instagram.com/reel/Dff4x3-M-aL/",
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "experience": "recommendation",
+    "recommendation": "Auntie Pesto's",
+    "venueLinks": [
+      {
+        "name": "Auntie Pesto's",
+        "url": "https://auntiepestos.com/"
+      }
+    ],
+    "kind": "named_place_or_business",
+    "region": "British Columbia",
+    "locationEvidence": "Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-maxime-bergeron",
+    "guest": "Maxime Bergeron",
+    "episodeGuest": "Maxime Bergeron",
+    "chefOrCook": false,
+    "category": "Live Music",
+    "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-maxime-bergeron",
+    "videoUrl": "https://www.instagram.com/reel/Dff4x3-M-aL/",
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "experience": "recommendation",
+    "recommendation": "Tree House Cafe",
+    "venueLinks": [
+      {
+        "name": "Tree House Cafe",
+        "url": "https://www.treehousecafe.ca/"
+      }
+    ],
+    "kind": "named_place_or_business",
+    "region": "British Columbia",
+    "locationEvidence": "Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-maxime-bergeron",
+    "guest": "Maxime Bergeron",
+    "episodeGuest": "Maxime Bergeron",
+    "chefOrCook": false,
+    "category": "Pizza",
+    "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-maxime-bergeron",
+    "videoUrl": "https://www.instagram.com/reel/Dff4x3-M-aL/",
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "experience": "recommendation",
+    "recommendation": "True Love Pizza",
+    "venueLinks": [
+      {
+        "name": "True Love Pizza",
+        "url": "https://www.truelovepizza.com/"
+      }
+    ],
+    "kind": "named_place_or_business",
+    "region": "British Columbia",
+    "locationEvidence": "Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-maxime-bergeron",
+    "guest": "Maxime Bergeron",
+    "episodeGuest": "Maxime Bergeron",
+    "chefOrCook": false,
+    "category": "Take an Out of Town Guest",
+    "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-maxime-bergeron",
+    "videoUrl": "https://www.instagram.com/reel/Dff4x3-M-aL/",
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "experience": "recommendation",
+    "recommendation": "Francis Bread; Saturday market",
+    "venueLinks": [
+      {
+        "name": "Francis Bread",
+        "url": "https://francisbread.com/"
+      },
+      {
+        "name": "Saturday market",
+        "url": "https://www.saltspringmarket.com/"
+      }
+    ],
+    "kind": "named_place_or_business",
+    "region": "British Columbia",
+    "locationEvidence": "Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-maxime-bergeron",
+    "guest": "Maxime Bergeron",
+    "episodeGuest": "Maxime Bergeron",
+    "chefOrCook": false,
+    "category": "- Tofino",
+    "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-maxime-bergeron",
+    "videoUrl": "https://www.instagram.com/reel/Dff4x3-M-aL/",
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "experience": "recommendation",
+    "recommendation": "Ombré for happy hour, Adriana's Sandwich Shop for a sandwich, and Wildside Grill for a burger.",
+    "venueLinks": [
+      {
+        "name": "Ombré",
+        "url": "https://www.ombrerestaurant.com/"
+      },
+      {
+        "name": "Adriana's Sandwich Shop",
+        "url": "https://www.adrianas.ca/"
+      },
+      {
+        "name": "Wildside Grill",
+        "url": "https://www.wildsidegrill.com/"
+      }
+    ],
+    "kind": "named_place_or_business",
+    "region": "British Columbia",
+    "locationEvidence": "Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-maxime-bergeron",
+    "guest": "Maxime Bergeron",
+    "episodeGuest": "Maxime Bergeron",
+    "chefOrCook": false,
+    "category": "- Ucluelet",
+    "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-maxime-bergeron",
+    "videoUrl": "https://www.instagram.com/reel/Dff4x3-M-aL/",
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "experience": "recommendation",
+    "recommendation": "Pluvio",
+    "venueLinks": [
+      {
+        "name": "Pluvio",
+        "url": "https://www.pluvio.ca/restaurant"
+      }
+    ],
+    "kind": "named_place_or_business",
+    "region": "British Columbia",
+    "locationEvidence": "Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-maxime-bergeron",
+    "guest": "Maxime Bergeron",
+    "episodeGuest": "Maxime Bergeron",
+    "chefOrCook": false,
+    "category": "- Vancouver",
+    "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-maxime-bergeron",
+    "videoUrl": "https://www.instagram.com/reel/Dff4x3-M-aL/",
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "experience": "recommendation",
+    "recommendation": "Turks Coffee",
+    "venueLinks": [
+      {
+        "name": "Turks Coffee",
+        "url": "https://www.instagram.com/turkscoffeelounge?utm_source=ig_web_button_share_sheet&exln=ZDNlZDc0MzIxNw=="
+      }
+    ],
+    "kind": "named_place_or_business",
+    "region": "British Columbia",
+    "locationEvidence": "Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it."
+  },
+  {
     "episodeId": "mates-on-crates-feat-etienne-buddingh",
     "guest": "Etienne Buddingh",
     "episodeGuest": "Etienne Buddingh",
@@ -4554,6 +4808,226 @@
     "locationEvidence": "Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it."
   },
   {
+    "episodeId": "mates-on-crates-feat-mike-jacobsen",
+    "guest": "Mike Jacobsen",
+    "episodeGuest": "Mike Jacobsen",
+    "chefOrCook": false,
+    "category": "Brewery",
+    "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-mike-jacobsen",
+    "videoUrl": "https://www.instagram.com/reel/DX-YI7iTrHV/",
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "experience": "recommendation",
+    "recommendation": "Superflux",
+    "venueLinks": [
+      {
+        "name": "Superflux",
+        "url": "https://www.superfluxbeer.com/?utm_source=chatgpt.com"
+      }
+    ],
+    "kind": "named_place_or_business",
+    "region": "British Columbia",
+    "locationEvidence": "Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-mike-jacobsen",
+    "guest": "Mike Jacobsen",
+    "episodeGuest": "Mike Jacobsen",
+    "chefOrCook": false,
+    "category": "Cocktail Bar",
+    "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-mike-jacobsen",
+    "videoUrl": "https://www.instagram.com/reel/DX-YI7iTrHV/",
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "experience": "recommendation",
+    "recommendation": "June",
+    "venueLinks": [
+      {
+        "name": "June",
+        "url": "https://juneoncambie.com/?utm_source=chatgpt.com"
+      }
+    ],
+    "kind": "named_place_or_business",
+    "region": "British Columbia",
+    "locationEvidence": "Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-mike-jacobsen",
+    "guest": "Mike Jacobsen",
+    "episodeGuest": "Mike Jacobsen",
+    "chefOrCook": false,
+    "category": "Dying to Try",
+    "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-mike-jacobsen",
+    "videoUrl": "https://www.instagram.com/reel/DX-YI7iTrHV/",
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "experience": "wish_list_not_visited",
+    "recommendation": "Magari by Oca",
+    "venueLinks": [
+      {
+        "name": "Magari by Oca",
+        "url": "https://www.instagram.com/magari_by_oca/"
+      }
+    ],
+    "kind": "named_place_or_business",
+    "region": "British Columbia",
+    "locationEvidence": "Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-mike-jacobsen",
+    "guest": "Mike Jacobsen",
+    "episodeGuest": "Mike Jacobsen",
+    "chefOrCook": false,
+    "category": "Hidden Gem",
+    "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-mike-jacobsen",
+    "videoUrl": "https://www.instagram.com/reel/DX-YI7iTrHV/",
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "experience": "recommendation",
+    "recommendation": "A picnic featuring South End Sausage - Charcuterie, SaltSpring Kitchen Co. - Cheese, and Kutatás - Wine.",
+    "venueLinks": [
+      {
+        "name": "South End Sausage",
+        "url": "https://www.southendsausage.com/?utm_source=chatgpt.com"
+      },
+      {
+        "name": "SaltSpring Kitchen Co.",
+        "url": "https://saltspringkitchen.com/"
+      },
+      {
+        "name": "Kutatás",
+        "url": "https://kutataswines.com/"
+      }
+    ],
+    "kind": "named_place_or_business",
+    "region": "British Columbia",
+    "locationEvidence": "Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-mike-jacobsen",
+    "guest": "Mike Jacobsen",
+    "episodeGuest": "Mike Jacobsen",
+    "chefOrCook": false,
+    "category": "Last Meal That Blew Them Away",
+    "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-mike-jacobsen",
+    "videoUrl": "https://www.instagram.com/reel/DX-YI7iTrHV/",
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "experience": "recommendation",
+    "recommendation": "St. Lawrence and AnnaLena",
+    "venueLinks": [
+      {
+        "name": "St. Lawrence",
+        "url": "https://www.stlawrencerestaurant.com/"
+      },
+      {
+        "name": "AnnaLena",
+        "url": "https://www.annalena.ca/"
+      }
+    ],
+    "kind": "named_place_or_business",
+    "region": "British Columbia",
+    "locationEvidence": "Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-mike-jacobsen",
+    "guest": "Mike Jacobsen",
+    "episodeGuest": "Mike Jacobsen",
+    "chefOrCook": false,
+    "category": "Pizza",
+    "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-mike-jacobsen",
+    "videoUrl": "https://www.instagram.com/reel/DX-YI7iTrHV/",
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "experience": "recommendation",
+    "recommendation": "King Taps",
+    "venueLinks": [
+      {
+        "name": "King Taps",
+        "url": "https://kingtaps.com/"
+      }
+    ],
+    "kind": "named_place_or_business",
+    "region": "British Columbia",
+    "locationEvidence": "Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-mike-jacobsen",
+    "guest": "Mike Jacobsen",
+    "episodeGuest": "Mike Jacobsen",
+    "chefOrCook": false,
+    "category": "Salt Spring Island",
+    "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-mike-jacobsen",
+    "videoUrl": "https://www.instagram.com/reel/DX-YI7iTrHV/",
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "experience": "recommendation",
+    "recommendation": "South End Sausage , Francis Bread , The Woodshed , Country Grocer, Salt Spring Saturday Market , Kutatás Wines",
+    "venueLinks": [
+      {
+        "name": "South End Sausage",
+        "url": "https://www.southendsausage.com/?utm_source=chatgpt.com"
+      },
+      {
+        "name": "Francis Bread",
+        "url": "https://francisbread.com/"
+      },
+      {
+        "name": "The Woodshed",
+        "url": "https://woodshedprovisions.com/"
+      },
+      {
+        "name": "Country Grocer,",
+        "url": "https://www.countrygrocer.com/flyer/salt-spring-island/"
+      },
+      {
+        "name": "Salt Spring Saturday Market",
+        "url": "https://www.saltspringmarket.com/"
+      },
+      {
+        "name": "Kutatás Wines",
+        "url": "https://kutataswines.com/"
+      }
+    ],
+    "kind": "named_place_or_business",
+    "region": "British Columbia",
+    "locationEvidence": "Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-mike-jacobsen",
+    "guest": "Mike Jacobsen",
+    "episodeGuest": "Mike Jacobsen",
+    "chefOrCook": false,
+    "category": "Take an Out of Town Guest",
+    "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-mike-jacobsen",
+    "videoUrl": "https://www.instagram.com/reel/DX-YI7iTrHV/",
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "experience": "recommendation",
+    "recommendation": "Francis Bread; South End Sausage; SaltSpring Kitchen Co.; Kutatás Wines",
+    "venueLinks": [
+      {
+        "name": "Francis Bread",
+        "url": "https://francisbread.com/"
+      },
+      {
+        "name": "South End Sausage",
+        "url": "https://www.southendsausage.com/?utm_source=chatgpt.com"
+      },
+      {
+        "name": "SaltSpring Kitchen Co.",
+        "url": "https://saltspringkitchen.com/"
+      },
+      {
+        "name": "Kutatás Wines",
+        "url": "https://kutataswines.com/"
+      }
+    ],
+    "kind": "named_place_or_business",
+    "region": "British Columbia",
+    "locationEvidence": "Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it."
+  },
+  {
     "episodeId": "mates-on-crates-feat-aaron-surman",
     "guest": "Aaron Surman",
     "episodeGuest": "Aaron Surman",
@@ -4818,6 +5292,230 @@
       {
         "name": "The Copper Coil Still & Grill",
         "url": "https://www.thecoppercoil.com/"
+      }
+    ],
+    "kind": "named_place_or_business",
+    "region": "British Columbia",
+    "locationEvidence": "Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-morgain-cuddy",
+    "guest": "Morgain Cuddy",
+    "episodeGuest": "Morgain Cuddy",
+    "chefOrCook": false,
+    "category": "Brunch",
+    "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-morgain-cuddy",
+    "videoUrl": "https://www.instagram.com/reel/DXxgHb8hhRf/",
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "experience": "recommendation",
+    "recommendation": "Francis Bread",
+    "venueLinks": [
+      {
+        "name": "Francis Bread",
+        "url": "https://francisbread.com/"
+      }
+    ],
+    "kind": "named_place_or_business",
+    "region": "British Columbia",
+    "locationEvidence": "Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-morgain-cuddy",
+    "guest": "Morgain Cuddy",
+    "episodeGuest": "Morgain Cuddy",
+    "chefOrCook": false,
+    "category": "Coffee",
+    "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-morgain-cuddy",
+    "videoUrl": "https://www.instagram.com/reel/DXxgHb8hhRf/",
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "experience": "recommendation",
+    "recommendation": "Mavericks",
+    "venueLinks": [
+      {
+        "name": "Mavericks",
+        "url": "https://www.maverickstreats.com/"
+      }
+    ],
+    "kind": "named_place_or_business",
+    "region": "British Columbia",
+    "locationEvidence": "Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-morgain-cuddy",
+    "guest": "Morgain Cuddy",
+    "episodeGuest": "Morgain Cuddy",
+    "chefOrCook": false,
+    "category": "Dying to Try",
+    "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-morgain-cuddy",
+    "videoUrl": "https://www.instagram.com/reel/DXxgHb8hhRf/",
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "experience": "wish_list_not_visited",
+    "recommendation": "Kissa Tanto",
+    "venueLinks": [
+      {
+        "name": "Kissa Tanto",
+        "url": "https://www.kissatanto.com/"
+      }
+    ],
+    "kind": "named_place_or_business",
+    "region": "British Columbia",
+    "locationEvidence": "Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-morgain-cuddy",
+    "guest": "Morgain Cuddy",
+    "episodeGuest": "Morgain Cuddy",
+    "chefOrCook": false,
+    "category": "Hidden Gem",
+    "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-morgain-cuddy",
+    "videoUrl": "https://www.instagram.com/reel/DXxgHb8hhRf/",
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "experience": "recommendation",
+    "recommendation": "Paco’s Clubhouse",
+    "venueLinks": [
+      {
+        "name": "Paco’s Clubhouse",
+        "url": "https://www.pacosclubhouse.ca/"
+      }
+    ],
+    "kind": "named_place_or_business",
+    "region": "British Columbia",
+    "locationEvidence": "Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-morgain-cuddy",
+    "guest": "Morgain Cuddy",
+    "episodeGuest": "Morgain Cuddy",
+    "chefOrCook": false,
+    "category": "Ice Cream/Gelato",
+    "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-morgain-cuddy",
+    "videoUrl": "https://www.instagram.com/reel/DXxgHb8hhRf/",
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "experience": "recommendation",
+    "recommendation": "Mavericks",
+    "venueLinks": [
+      {
+        "name": "Mavericks",
+        "url": "https://www.maverickstreats.com/"
+      }
+    ],
+    "kind": "named_place_or_business",
+    "region": "British Columbia",
+    "locationEvidence": "Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-morgain-cuddy",
+    "guest": "Morgain Cuddy",
+    "episodeGuest": "Morgain Cuddy",
+    "chefOrCook": false,
+    "category": "Last Meal That Blew Them Away",
+    "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-morgain-cuddy",
+    "videoUrl": "https://www.instagram.com/reel/DXxgHb8hhRf/",
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "experience": "recommendation",
+    "recommendation": "Wind Cries Mary",
+    "venueLinks": [
+      {
+        "name": "Wind Cries Mary",
+        "url": "https://www.windcriesmary.ca/"
+      }
+    ],
+    "kind": "named_place_or_business",
+    "region": "British Columbia",
+    "locationEvidence": "Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-morgain-cuddy",
+    "guest": "Morgain Cuddy",
+    "episodeGuest": "Morgain Cuddy",
+    "chefOrCook": false,
+    "category": "Pizza",
+    "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-morgain-cuddy",
+    "videoUrl": "https://www.instagram.com/reel/DXxgHb8hhRf/",
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "experience": "recommendation",
+    "recommendation": "True Love Pizza",
+    "venueLinks": [
+      {
+        "name": "True Love Pizza",
+        "url": "https://www.truelovepizza.com"
+      }
+    ],
+    "kind": "named_place_or_business",
+    "region": "British Columbia",
+    "locationEvidence": "Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-morgain-cuddy",
+    "guest": "Morgain Cuddy",
+    "episodeGuest": "Morgain Cuddy",
+    "chefOrCook": false,
+    "category": "Pub",
+    "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-morgain-cuddy",
+    "videoUrl": "https://www.instagram.com/reel/DXxgHb8hhRf/",
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "experience": "recommendation",
+    "recommendation": "Moby’s Pub",
+    "venueLinks": [
+      {
+        "name": "Moby’s Pub",
+        "url": "https://mobyspub.ca/"
+      }
+    ],
+    "kind": "named_place_or_business",
+    "region": "British Columbia",
+    "locationEvidence": "Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-morgain-cuddy",
+    "guest": "Morgain Cuddy",
+    "episodeGuest": "Morgain Cuddy",
+    "chefOrCook": false,
+    "category": "Take an Out of Town Guest",
+    "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-morgain-cuddy",
+    "videoUrl": "https://www.instagram.com/reel/DXxgHb8hhRf/",
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "experience": "recommendation",
+    "recommendation": "Salt Spring Wild Cider or Hastings House",
+    "venueLinks": [
+      {
+        "name": "Salt Spring Wild Cider",
+        "url": "https://saltspringwildcider.com/"
+      },
+      {
+        "name": "Hastings House",
+        "url": "https://www.hastingshouse.com/"
+      }
+    ],
+    "kind": "named_place_or_business",
+    "region": "British Columbia",
+    "locationEvidence": "Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-morgain-cuddy",
+    "guest": "Morgain Cuddy",
+    "episodeGuest": "Morgain Cuddy",
+    "chefOrCook": false,
+    "category": "Outside of Vancouver",
+    "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-morgain-cuddy",
+    "videoUrl": "https://www.instagram.com/reel/DXxgHb8hhRf/",
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "experience": "recommendation",
+    "recommendation": "Hastings House",
+    "venueLinks": [
+      {
+        "name": "Hastings House",
+        "url": "https://www.hastingshouse.com/"
       }
     ],
     "kind": "named_place_or_business",
@@ -5929,6 +6627,269 @@
       {
         "name": "New Town Bakery & Restaurant",
         "url": "http://www.newtownbakery.ca/#content-locations"
+      }
+    ],
+    "kind": "named_place_or_business",
+    "region": "British Columbia",
+    "locationEvidence": "Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-tannis-ling",
+    "guest": "Tannis Ling",
+    "episodeGuest": "Tannis Ling",
+    "chefOrCook": false,
+    "category": "Bakery",
+    "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-tannis-ling",
+    "videoUrl": "https://www.instagram.com/reel/DU9XZugCXgq/",
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "experience": "recommendation",
+    "recommendation": "Cadeaux Bakery",
+    "venueLinks": [
+      {
+        "name": "Cadeaux Bakery",
+        "url": "http://www.cadeauxbakery.com/"
+      }
+    ],
+    "kind": "named_place_or_business",
+    "region": "British Columbia",
+    "locationEvidence": "Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-tannis-ling",
+    "guest": "Tannis Ling",
+    "episodeGuest": "Tannis Ling",
+    "chefOrCook": false,
+    "category": "Cocktail Bar",
+    "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-tannis-ling",
+    "videoUrl": "https://www.instagram.com/reel/DU9XZugCXgq/",
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "experience": "recommendation",
+    "recommendation": "It’s Okay",
+    "venueLinks": [
+      {
+        "name": "It’s Okay",
+        "url": "https://www.itsokay.ca/"
+      }
+    ],
+    "kind": "named_place_or_business",
+    "region": "British Columbia",
+    "locationEvidence": "Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-tannis-ling",
+    "guest": "Tannis Ling",
+    "episodeGuest": "Tannis Ling",
+    "chefOrCook": false,
+    "category": "Coffee",
+    "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-tannis-ling",
+    "videoUrl": "https://www.instagram.com/reel/DU9XZugCXgq/",
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "experience": "recommendation",
+    "recommendation": "Propaganda Coffee",
+    "venueLinks": [
+      {
+        "name": "Propaganda Coffee",
+        "url": "https://www.propagandacoffee.ca/"
+      }
+    ],
+    "kind": "named_place_or_business",
+    "region": "British Columbia",
+    "locationEvidence": "Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-tannis-ling",
+    "guest": "Tannis Ling",
+    "episodeGuest": "Tannis Ling",
+    "chefOrCook": false,
+    "category": "Chinese",
+    "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-tannis-ling",
+    "videoUrl": "https://www.instagram.com/reel/DU9XZugCXgq/",
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "experience": "recommendation",
+    "recommendation": "Happy Family , Fish With You",
+    "venueLinks": [
+      {
+        "name": "Happy Family",
+        "url": "https://www.happyfamilyeats.com/"
+      },
+      {
+        "name": "Fish With You",
+        "url": "https://www.fishwithyoubc.com/"
+      }
+    ],
+    "kind": "named_place_or_business",
+    "region": "British Columbia",
+    "locationEvidence": "Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-tannis-ling",
+    "guest": "Tannis Ling",
+    "episodeGuest": "Tannis Ling",
+    "chefOrCook": false,
+    "category": "Dying to Try",
+    "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-tannis-ling",
+    "videoUrl": "https://www.instagram.com/reel/DU9XZugCXgq/",
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "experience": "wish_list_not_visited",
+    "recommendation": "Nero Tondo",
+    "venueLinks": [
+      {
+        "name": "Nero Tondo",
+        "url": "https://nerotondo.com?utm_source=chatgpt.com"
+      }
+    ],
+    "kind": "named_place_or_business",
+    "region": "British Columbia",
+    "locationEvidence": "Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-tannis-ling",
+    "guest": "Tannis Ling",
+    "episodeGuest": "Tannis Ling",
+    "chefOrCook": false,
+    "category": "Food Neighborhood",
+    "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-tannis-ling",
+    "videoUrl": "https://www.instagram.com/reel/DU9XZugCXgq/",
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "experience": "recommendation",
+    "recommendation": "Kingsway Corridor",
+    "venueLinks": [],
+    "kind": "unlinked_answer",
+    "region": "British Columbia",
+    "locationEvidence": "Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-tannis-ling",
+    "guest": "Tannis Ling",
+    "episodeGuest": "Tannis Ling",
+    "chefOrCook": false,
+    "category": "Fried Chicken",
+    "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-tannis-ling",
+    "videoUrl": "https://www.instagram.com/reel/DU9XZugCXgq/",
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "experience": "recommendation",
+    "recommendation": "Chicko Chicken",
+    "venueLinks": [
+      {
+        "name": "Chicko Chicken",
+        "url": "https://chickochickenfranchise.ca/"
+      }
+    ],
+    "kind": "named_place_or_business",
+    "region": "British Columbia",
+    "locationEvidence": "Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-tannis-ling",
+    "guest": "Tannis Ling",
+    "episodeGuest": "Tannis Ling",
+    "chefOrCook": false,
+    "category": "Hidden Gem",
+    "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-tannis-ling",
+    "videoUrl": "https://www.instagram.com/reel/DU9XZugCXgq/",
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "experience": "recommendation",
+    "recommendation": "Happy Family",
+    "venueLinks": [
+      {
+        "name": "Happy Family",
+        "url": "https://www.happyfamilyeats.com/"
+      }
+    ],
+    "kind": "named_place_or_business",
+    "region": "British Columbia",
+    "locationEvidence": "Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-tannis-ling",
+    "guest": "Tannis Ling",
+    "episodeGuest": "Tannis Ling",
+    "chefOrCook": false,
+    "category": "Last Meal That Blew Them Away",
+    "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-tannis-ling",
+    "videoUrl": "https://www.instagram.com/reel/DU9XZugCXgq/",
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "experience": "recommendation",
+    "recommendation": "The Acorn",
+    "venueLinks": [
+      {
+        "name": "The Acorn",
+        "url": "https://www.theacornrestaurant.ca/"
+      }
+    ],
+    "kind": "named_place_or_business",
+    "region": "British Columbia",
+    "locationEvidence": "Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-tannis-ling",
+    "guest": "Tannis Ling",
+    "episodeGuest": "Tannis Ling",
+    "chefOrCook": false,
+    "category": "Take an Out of Town Guest",
+    "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-tannis-ling",
+    "videoUrl": "https://www.instagram.com/reel/DU9XZugCXgq/",
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "experience": "recommendation",
+    "recommendation": "Happy Family",
+    "venueLinks": [
+      {
+        "name": "Happy Family",
+        "url": "https://www.happyfamilyeats.com/"
+      }
+    ],
+    "kind": "named_place_or_business",
+    "region": "British Columbia",
+    "locationEvidence": "Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-tannis-ling",
+    "guest": "Tannis Ling",
+    "episodeGuest": "Tannis Ling",
+    "chefOrCook": false,
+    "category": "Wine Bar",
+    "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-tannis-ling",
+    "videoUrl": "https://www.instagram.com/reel/DU9XZugCXgq/",
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "experience": "recommendation",
+    "recommendation": "Bar Tartare",
+    "venueLinks": [
+      {
+        "name": "Bar Tartare",
+        "url": "https://bartartareyvr.ca/"
+      }
+    ],
+    "kind": "named_place_or_business",
+    "region": "British Columbia",
+    "locationEvidence": "Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-tannis-ling",
+    "guest": "Tannis Ling",
+    "episodeGuest": "Tannis Ling",
+    "chefOrCook": false,
+    "category": "Outside of Vancouver",
+    "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-tannis-ling",
+    "videoUrl": "https://www.instagram.com/reel/DU9XZugCXgq/",
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "experience": "recommendation",
+    "recommendation": "Lola at Bodega Ridge (Galiano Island)",
+    "venueLinks": [
+      {
+        "name": "Lola at Bodega Ridge",
+        "url": "https://www.bodegaridge.com/lola"
       }
     ],
     "kind": "named_place_or_business",

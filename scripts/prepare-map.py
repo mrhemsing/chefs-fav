@@ -21,7 +21,7 @@ for e in episodes:
     a=articles[e['id']]
     chefs.append({'id':e['id'],'publishedAt':e['articleDate'],'name':e['guest'],'affiliation':', '.join(e['affiliationsExcluded']),
                   'image':a.get('assetUrl','')+'?format=750w','facePosition':load('data/chef-photo-framing.json').get(e['id'],[36,30]),
-                  'source':e['articleUrl'],'episode':e['videoUrls'][0] if e['videoUrls'] else None})
+                  'location':load('data/interview-locations.json').get(e['id'],{}),'source':e['articleUrl'],'episode':e['videoUrls'][0] if e['videoUrls'] else None})
 
 homes=load('data/chef-locations.json') if (ROOT/'data/chef-locations.json').exists() else {}
 for c in chefs: c['home']=homes.get(c['id'],{})

@@ -28,6 +28,25 @@ Excluded affiliations: Los Sapos.
 | Brewery | Streetcar Brewing | [Video](https://www.instagram.com/reel/DfqL7HxMwSO/) |
 | Chicken sandwich | Cream Pony | [Video](https://www.instagram.com/reel/DfqL7HxMwSO/) |
 
+## Maxime Bergeron
+
+[Official list](https://chefsfav.com/blog/mates-on-crates-feat-maxime-bergeron) · [Episode](https://www.instagram.com/reel/Dff4x3-M-aL/)
+Excluded affiliations: Cafe Flora.
+
+| Recommendation category | Pick | Source |
+|---|---|---|
+| Bakery | Francis Bread | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-maxime-bergeron) |
+| Cocktail Bar | Cassette Café + Dive Bar | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-maxime-bergeron) |
+| Coffee | The Coffee Can | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-maxime-bergeron) |
+| Dying to Try | Jeju (Vancouver) | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-maxime-bergeron) |
+| Last Meal That Blew Them Away | Auntie Pesto's | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-maxime-bergeron) |
+| Live Music | Tree House Cafe | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-maxime-bergeron) |
+| Pizza | True Love Pizza | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-maxime-bergeron) |
+| Take an Out of Town Guest | Francis Bread; Saturday market | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-maxime-bergeron) |
+| - Tofino | Ombré for happy hour, Adriana's Sandwich Shop for a sandwich, and Wildside Grill for a burger. | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-maxime-bergeron) |
+| - Ucluelet | Pluvio | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-maxime-bergeron) |
+| - Vancouver | Turks Coffee | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-maxime-bergeron) |
+
 ## Etienne Buddingh
 
 [Official list](https://chefsfav.com/blog/mates-on-crates-feat-etienne-buddingh) · [Episode](https://www.instagram.com/reel/DfTAzEbMvpT/)
@@ -335,6 +354,22 @@ Excluded affiliations: Dosanko.
 | Take an Out of Town Guest | Western Lake Chinese Seafood Restaurant | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-nathan-lowey) |
 | Outside of Vancouver | Salt Spring Island and especially the Salt Spring Island Cheese Company | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-nathan-lowey) |
 
+## Mike Jacobsen
+
+[Official list](https://chefsfav.com/blog/mates-on-crates-feat-mike-jacobsen) · [Episode](https://www.instagram.com/reel/DX-YI7iTrHV/)
+Excluded affiliations: Cassette, Moby’s, Mobys.
+
+| Recommendation category | Pick | Source |
+|---|---|---|
+| Brewery | Superflux | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-mike-jacobsen) |
+| Cocktail Bar | June | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-mike-jacobsen) |
+| Dying to Try | Magari by Oca | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-mike-jacobsen) |
+| Hidden Gem | A picnic featuring South End Sausage - Charcuterie, SaltSpring Kitchen Co. - Cheese, and Kutatás - Wine. | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-mike-jacobsen) |
+| Last Meal That Blew Them Away | St. Lawrence and AnnaLena | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-mike-jacobsen) |
+| Pizza | King Taps | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-mike-jacobsen) |
+| Salt Spring Island | South End Sausage , Francis Bread , The Woodshed , Country Grocer, Salt Spring Saturday Market , Kutatás Wines | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-mike-jacobsen) |
+| Take an Out of Town Guest | Francis Bread; South End Sausage; SaltSpring Kitchen Co.; Kutatás Wines | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-mike-jacobsen) |
+
 ## Aaron Surman
 
 [Official list](https://chefsfav.com/blog/mates-on-crates-feat-aaron-surman) · [Episode](https://www.instagram.com/reel/DXsWlzpBhpe/)
@@ -355,6 +390,24 @@ Excluded affiliations: Ex Animo.
 | Spot for a Family Lunch | The Copper Coil Still & Grill | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-aaron-surman) |
 | Take an Out of Town Guest | Squamish Valley | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-aaron-surman) |
 | Outside of Vancouver | The Copper Coil Still & Grill | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-aaron-surman) |
+
+## Morgain Cuddy
+
+[Official list](https://chefsfav.com/blog/mates-on-crates-feat-morgain-cuddy) · [Episode](https://www.instagram.com/reel/DXxgHb8hhRf/)
+Excluded affiliations: South End Sausage.
+
+| Recommendation category | Pick | Source |
+|---|---|---|
+| Brunch | Francis Bread | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-morgain-cuddy) |
+| Coffee | Mavericks | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-morgain-cuddy) |
+| Dying to Try | Kissa Tanto | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-morgain-cuddy) |
+| Hidden Gem | Paco’s Clubhouse | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-morgain-cuddy) |
+| Ice Cream/Gelato | Mavericks | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-morgain-cuddy) |
+| Last Meal That Blew Them Away | Wind Cries Mary | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-morgain-cuddy) |
+| Pizza | True Love Pizza | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-morgain-cuddy) |
+| Pub | Moby’s Pub | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-morgain-cuddy) |
+| Take an Out of Town Guest | Salt Spring Wild Cider or Hastings House | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-morgain-cuddy) |
+| Outside of Vancouver | Hastings House | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-morgain-cuddy) |
 
 ## Haidee Hart
 
@@ -434,6 +487,26 @@ Excluded affiliations: Belli Pizza.
 | Sandwich | La Grotta del Formaggio | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-scott-thornhill) |
 | Sushi | MoMo Sushi | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-scott-thornhill) |
 | Take an Out of Town Guest | New Town Bakery & Restaurant | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-scott-thornhill) |
+
+## Tannis Ling
+
+[Official list](https://chefsfav.com/blog/mates-on-crates-feat-tannis-ling) · [Episode](https://www.instagram.com/reel/DU9XZugCXgq/)
+Excluded affiliations: Bao Bei, Kissa Tanto, Meo.
+
+| Recommendation category | Pick | Source |
+|---|---|---|
+| Bakery | Cadeaux Bakery | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-tannis-ling) |
+| Cocktail Bar | It’s Okay | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-tannis-ling) |
+| Coffee | Propaganda Coffee | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-tannis-ling) |
+| Chinese | Happy Family , Fish With You | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-tannis-ling) |
+| Dying to Try | Nero Tondo | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-tannis-ling) |
+| Food Neighborhood | Kingsway Corridor | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-tannis-ling) |
+| Fried Chicken | Chicko Chicken | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-tannis-ling) |
+| Hidden Gem | Happy Family | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-tannis-ling) |
+| Last Meal That Blew Them Away | The Acorn | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-tannis-ling) |
+| Take an Out of Town Guest | Happy Family | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-tannis-ling) |
+| Wine Bar | Bar Tartare | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-tannis-ling) |
+| Outside of Vancouver | Lola at Bodega Ridge (Galiano Island) | [Expanded list](https://chefsfav.com/blog/mates-on-crates-feat-tannis-ling) |
 
 ## Hilary Nguy
 

@@ -833,7 +833,9 @@
     "guest": "Mike Jacobsen",
     "chefOrCook": false,
     "affiliationsExcluded": [
-      "Cassette"
+      "Cassette",
+      "Moby’s",
+      "Mobys"
     ],
     "articleUrl": "https://chefsfav.com/blog/mates-on-crates-feat-mike-jacobsen",
     "articleDate": "2026-05-07",

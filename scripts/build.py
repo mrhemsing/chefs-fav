@@ -124,7 +124,7 @@ scope_excluded = []
 bc_rows = []
 for r in rows:
     reason = None
-    if not r['chefOrCook']:
+    if not r['chefOrCook'] and not review[r['episodeId']].get('includeOwner'):
         reason = 'Supplementary non-chef guest: outside chef-focused publication scope'
     elif r['episodeGuest'] in outside_guests:
         reason = 'Episode recommendations are outside British Columbia'
@@ -170,7 +170,7 @@ for filename, chef_only in [('CHEFS.md',True)]:
     lines=['# British Columbia — chefs’ outside recommendations', '',
            '> Partial coverage: official expanded episode lists, not a completed review of every video. Includes off-camera picks. Own/current workplaces and known affiliated venues are excluded. “Dying to try” is a wish list, not a claim of having eaten there.', '']
     for ep in episodes:
-        if chef_only and not ep['chefOrCook']:
+        if chef_only and not ep['chefOrCook'] and not review[ep['id']].get('includeOwner'):
             continue
         selected=[r for r in rows if r['episodeId']==ep['id']]
         lines += [f"## {ep['guest']}", '', f"[Official list]({ep['articleUrl']})" + (f" · [Episode]({ep['videoUrls'][0]})" if ep['videoUrls'] else ' · Episode link not found'),

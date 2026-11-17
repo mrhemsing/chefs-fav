@@ -13,7 +13,7 @@ assert not read('needs-review')
 for row in rows:
     assert row['episodeId'] in ids
     assert row['region'] == 'British Columbia'
-    assert row['chefOrCook']
+    assert row['chefOrCook'] or read('editorial-review')[row['episodeId']].get('includeOwner')
     if row['evidenceType'] == 'publisher_expanded_list':
         assert not row['videoReviewed']
         assert row['sourceUrl'].startswith('https://chefsfav.com/blog/')

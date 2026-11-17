@@ -16,6 +16,22 @@
     "recommendationCount": 18
   },
   {
+    "id": "mates-on-crates-feat-maxime-bergeron",
+    "guest": "Maxime Bergeron",
+    "chefOrCook": false,
+    "affiliationsExcluded": [
+      "Cafe Flora"
+    ],
+    "articleUrl": "https://chefsfav.com/blog/mates-on-crates-feat-maxime-bergeron",
+    "articleDate": "2026-11-12",
+    "videoUrls": [
+      "https://www.instagram.com/reel/Dff4x3-M-aL/"
+    ],
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "recommendationCount": 11
+  },
+  {
     "id": "mates-on-crates-feat-etienne-buddingh",
     "guest": "Etienne Buddingh",
     "chefOrCook": true,
@@ -247,6 +263,24 @@
     "recommendationCount": 11
   },
   {
+    "id": "mates-on-crates-feat-mike-jacobsen",
+    "guest": "Mike Jacobsen",
+    "chefOrCook": false,
+    "affiliationsExcluded": [
+      "Cassette",
+      "Moby’s",
+      "Mobys"
+    ],
+    "articleUrl": "https://chefsfav.com/blog/mates-on-crates-feat-mike-jacobsen",
+    "articleDate": "2026-05-07",
+    "videoUrls": [
+      "https://www.instagram.com/reel/DX-YI7iTrHV/"
+    ],
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "recommendationCount": 8
+  },
+  {
     "id": "mates-on-crates-feat-aaron-surman",
     "guest": "Aaron Surman",
     "chefOrCook": true,
@@ -261,6 +295,22 @@
     "evidenceType": "publisher_expanded_list",
     "videoReviewed": false,
     "recommendationCount": 13
+  },
+  {
+    "id": "mates-on-crates-feat-morgain-cuddy",
+    "guest": "Morgain Cuddy",
+    "chefOrCook": false,
+    "affiliationsExcluded": [
+      "South End Sausage"
+    ],
+    "articleUrl": "https://chefsfav.com/blog/mates-on-crates-feat-morgain-cuddy",
+    "articleDate": "2026-05-01",
+    "videoUrls": [
+      "https://www.instagram.com/reel/DXxgHb8hhRf/"
+    ],
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "recommendationCount": 10
   },
   {
     "id": "mates-on-crates-feat-haidee-hart",
@@ -321,6 +371,24 @@
     "articleDate": "2026-03-27",
     "videoUrls": [
       "https://www.instagram.com/reel/DWXYWFdh3jY/"
+    ],
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "recommendationCount": 12
+  },
+  {
+    "id": "mates-on-crates-feat-tannis-ling",
+    "guest": "Tannis Ling",
+    "chefOrCook": false,
+    "affiliationsExcluded": [
+      "Bao Bei",
+      "Kissa Tanto",
+      "Meo"
+    ],
+    "articleUrl": "https://chefsfav.com/blog/mates-on-crates-feat-tannis-ling",
+    "articleDate": "2026-02-20",
+    "videoUrls": [
+      "https://www.instagram.com/reel/DU9XZugCXgq/"
     ],
     "evidenceType": "publisher_expanded_list",
     "videoReviewed": false,
