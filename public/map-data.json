@@ -2,6 +2,7 @@
   "chefs": [
     {
       "id": "mates-on-crates-feat-gonzalo-almendrades",
+      "publishedAt": "2026-11-13",
       "name": "Gonzalo Almendrades",
       "affiliation": "Los Sapos",
       "image": "https://images.squarespace-cdn.com/content/v1/67dca597e868671c1c124d3d/7732b900-21eb-4892-a6ac-17a0913764ed/CF+Blog+Header+Images+%2825%29.png?format=750w",
@@ -21,11 +22,11 @@
         "locationSource": "https://vancouver.page/business/los-sapos-tacos-vancouver/",
         "geocodeSource": "https://geocoder.api.gov.bc.ca/",
         "precision": "CIVIC_NUMBER"
-      },
-      "publishedAt": "2026-11-13"
+      }
     },
     {
       "id": "mates-on-crates-feat-etienne-buddingh",
+      "publishedAt": "2026-11-06",
       "name": "Etienne Buddingh",
       "affiliation": "Oddfish, Radish",
       "image": "https://images.squarespace-cdn.com/content/v1/67dca597e868671c1c124d3d/782b241e-b1d6-41af-8a42-10bc5ed18173/CF+Blog+Header+Images+%2821%29.png?format=750w",
@@ -38,11 +39,11 @@
       "home": {
         "venue": "Oddfish",
         "coordinates": null
-      },
-      "publishedAt": "2026-11-06"
+      }
     },
     {
       "id": "mates-on-crates-feat-tommy-shorthouse",
+      "publishedAt": "2026-10-22",
       "name": "Tommy Shorthouse",
       "affiliation": "Banter Room, Prophecy, Navi House",
       "image": "https://images.squarespace-cdn.com/content/v1/67dca597e868671c1c124d3d/ab956976-2c40-4540-bb56-107b61487701/CF+Blog+Header+Images+%2817%29.png?format=750w",
@@ -60,11 +61,11 @@
         ],
         "address": "1039 Mainland Street",
         "locationSource": "https://www.openstreetmap.org/node/12703364034"
-      },
-      "publishedAt": "2026-10-22"
+      }
     },
     {
       "id": "mates-on-crates-feat-quynh-anh-pham",
+      "publishedAt": "2026-10-08",
       "name": "Quynh Anh Pham",
       "affiliation": "Ông Bà",
       "image": "https://images.squarespace-cdn.com/content/v1/67dca597e868671c1c124d3d/64e0a303-d50a-4112-81e9-484e47afa76c/CF+Blog+Header+Images+%289%29.png?format=750w",
@@ -83,11 +84,11 @@
         "address": "1163 Pinetree Way, Coquitlam",
         "locationSource": "https://www.openstreetmap.org/node/4673969616",
         "affiliationSource": "https://chefsfav.com/blog/mates-on-crates-feat-quynh-anh-pham"
-      },
-      "publishedAt": "2026-10-08"
+      }
     },
     {
       "id": "mates-on-crates-feat-nathan-pai-phankum",
+      "publishedAt": "2026-10-05",
       "name": "Pai Phankum",
       "affiliation": "Soi Ram",
       "image": "https://images.squarespace-cdn.com/content/v1/67dca597e868671c1c124d3d/2440bea3-061d-4cd3-99cb-387df07d96ca/CF+Blog+Header+Images+%286%29.png?format=750w",
@@ -105,11 +106,11 @@
         ],
         "address": "4811 Delta Street",
         "locationSource": "https://www.openstreetmap.org/node/9251515863"
-      },
-      "publishedAt": "2026-10-05"
+      }
     },
     {
       "id": "mates-on-crates-feat-rob-belcham",
+      "publishedAt": "2026-09-11",
       "name": "Rob Belcham",
       "affiliation": "Monarch Burger, Popina, Commons by CTS",
       "image": "https://images.squarespace-cdn.com/content/v1/67dca597e868671c1c124d3d/a5b7c7b9-bd17-42df-9172-70b371d727e5/CF+Blog+Header+Images+%2833%29.png?format=750w",
@@ -127,11 +128,11 @@
         ],
         "address": "3034 Main Street",
         "locationSource": "https://www.openstreetmap.org/node/2933886279"
-      },
-      "publishedAt": "2026-09-11"
+      }
     },
     {
       "id": "mates-on-crates-feat-chanthy-yen",
+      "publishedAt": "2026-09-08",
       "name": "Chanthy Yen",
       "affiliation": "Touk, Mee Bar",
       "image": "https://images.squarespace-cdn.com/content/v1/67dca597e868671c1c124d3d/b34bf500-5b0f-4abb-a009-37d25471a951/CF+Blog+Header+Images+%2828%29.png?format=750w",
@@ -151,11 +152,11 @@
         "locationSource": "https://dailyhive.com/vancouver/touk-air-canada-2026",
         "geocodeSource": "https://geocoder.api.gov.bc.ca/",
         "precision": "CIVIC_NUMBER"
-      },
-      "publishedAt": "2026-09-08"
+      }
     },
     {
       "id": "mates-on-crates-feat-abbie-gluvic",
+      "publishedAt": "2026-09-03",
       "name": "Abbie Gluvic",
       "affiliation": "Murmurs and Things",
       "image": "https://images.squarespace-cdn.com/content/v1/67dca597e868671c1c124d3d/7aea5e77-fe55-486c-a96b-80ccfeab6ff8/CF+Blog+Header+Images+%2824%29.png?format=750w",
@@ -175,11 +176,11 @@
         "locationSource": "https://nomsmagazine.com/murmurs-mount-pleasant-closure/",
         "geocodeSource": "https://geocoder.api.gov.bc.ca/",
         "precision": "CIVIC_NUMBER"
-      },
-      "publishedAt": "2026-09-03"
+      }
     },
     {
       "id": "mates-on-crates-feat-brad-miller",
+      "publishedAt": "2026-09-02",
       "name": "Brad Miller",
       "affiliation": "The Red Wagon",
       "image": "https://images.squarespace-cdn.com/content/v1/67dca597e868671c1c124d3d/1788296975732-T5RVJ6HZYVGJZRP7D6M3/CF+Blog+Header+Images+%2822%29.png?format=750w",
@@ -192,11 +193,11 @@
       "home": {
         "venue": "The Red Wagon",
         "coordinates": null
-      },
-      "publishedAt": "2026-09-02"
+      }
     },
     {
       "id": "mates-on-crates-feat-eleanor-waterfall",
+      "publishedAt": "2026-08-15",
       "name": "Eleanor Waterfall",
       "affiliation": "Cadeaux Bakery",
       "image": "https://images.squarespace-cdn.com/content/v1/67dca597e868671c1c124d3d/1786391885841-RXLZ038C8BSFHXHDG6X2/CF+Blog+Header+Images+%2818%29.png?format=750w",
@@ -214,11 +215,11 @@
         ],
         "address": "172 Powell Street",
         "locationSource": "https://www.openstreetmap.org/node/4424551035"
-      },
-      "publishedAt": "2026-08-15"
+      }
     },
     {
       "id": "mates-on-crates-feat-maria-ponce",
+      "publishedAt": "2026-08-06",
       "name": "Maria Ponce",
       "affiliation": "La Taqueria, Chupito",
       "image": "https://images.squarespace-cdn.com/content/v1/67dca597e868671c1c124d3d/b2271cb2-0390-4e42-8768-50864a62e69f/CF+Blog+Header+Images+%288%29.png?format=750w",
@@ -236,11 +237,11 @@
         ],
         "address": "2450 Yukon Street",
         "locationSource": "https://www.openstreetmap.org/node/5296233721"
-      },
-      "publishedAt": "2026-08-06"
+      }
     },
     {
       "id": "mates-on-crates-feat-roger-ma",
+      "publishedAt": "2026-07-21",
       "name": "Roger Ma",
       "affiliation": "Boulevard Kitchen & Oyster Bar",
       "image": "https://images.squarespace-cdn.com/content/v1/67dca597e868671c1c124d3d/7be02dab-c4e0-4c53-97cc-79167b72923f/Faves+1.png?format=750w",
@@ -253,11 +254,11 @@
       "home": {
         "venue": "Boulevard Kitchen & Oyster Bar",
         "coordinates": null
-      },
-      "publishedAt": "2026-07-21"
+      }
     },
     {
       "id": "mates-on-crates-feat-kyle-mcintosh",
+      "publishedAt": "2026-07-12",
       "name": "Kyle McIntosh",
       "affiliation": "Nui",
       "image": "https://images.squarespace-cdn.com/content/v1/67dca597e868671c1c124d3d/8ddd65dc-41cc-4d15-8859-1bd4fcee0e40/CFxKyle%40Nui.png?format=750w",
@@ -277,11 +278,11 @@
         "locationSource": "https://www.destinationvancouver.com/vancouver-restaurants/listings/nui",
         "geocodeSource": "https://geocoder.api.gov.bc.ca/",
         "precision": "CIVIC_NUMBER"
-      },
-      "publishedAt": "2026-07-12"
+      }
     },
     {
       "id": "mates-on-crates-feat-marquella-uhrig",
+      "publishedAt": "2026-06-19",
       "name": "Marquella Uhrig",
       "affiliation": "Lucia",
       "image": "https://images.squarespace-cdn.com/content/v1/67dca597e868671c1c124d3d/88fc4f22-1d54-4b37-a0b9-26c6aa6e0eb9/CFxMarquella%40Lucia.png?format=750w",
@@ -301,11 +302,11 @@
         "locationSource": "https://dailyhive.com/vancouver/italian-restaurants-vancouver",
         "geocodeSource": "https://geocoder.api.gov.bc.ca/",
         "precision": "CIVIC_NUMBER"
-      },
-      "publishedAt": "2026-06-19"
+      }
     },
     {
       "id": "mates-on-crates-feat-nathan-lowey",
+      "publishedAt": "2026-05-31",
       "name": "Nathan Lowey",
       "affiliation": "Dosanko",
       "image": "https://images.squarespace-cdn.com/content/v1/67dca597e868671c1c124d3d/b3b32717-29ec-4782-b6c1-4cebb91b2ce6/CFxNathan%40Dosanko.png?format=750w",
@@ -323,11 +324,11 @@
         ],
         "address": "566 Powell Street",
         "locationSource": "https://www.openstreetmap.org/node/8660308918"
-      },
-      "publishedAt": "2026-05-31"
+      }
     },
     {
       "id": "mates-on-crates-feat-aaron-surman",
+      "publishedAt": "2026-05-03",
       "name": "Aaron Surman",
       "affiliation": "Ex Animo",
       "image": "https://images.squarespace-cdn.com/content/v1/67dca597e868671c1c124d3d/882885b5-bdcb-4a8f-a734-fb27161741bf/CFxAaron%40ExAnimo.png?format=750w",
@@ -340,11 +341,11 @@
       "home": {
         "venue": "Ex Animo",
         "coordinates": null
-      },
-      "publishedAt": "2026-05-03"
+      }
     },
     {
       "id": "mates-on-crates-feat-haidee-hart",
+      "publishedAt": "2026-04-15",
       "name": "Haidee Hart",
       "affiliation": "The Woodshed",
       "image": "https://images.squarespace-cdn.com/content/v1/67dca597e868671c1c124d3d/6f4467b9-081b-489f-84ff-6020bf5e9094/CFxHaidee%40WoodshedProvisions.png?format=750w",
@@ -357,11 +358,11 @@
       "home": {
         "venue": "The Woodshed",
         "coordinates": null
-      },
-      "publishedAt": "2026-04-15"
+      }
     },
     {
       "id": "mates-on-crates-feat-johnny-wells",
+      "publishedAt": "2026-04-09",
       "name": "Johnny Wells",
       "affiliation": "Sempre Uno",
       "image": "https://images.squarespace-cdn.com/content/v1/67dca597e868671c1c124d3d/1775764876745-0A4P8TUAQV4XXKF9481W/CFxJohnny%40SempreUno.png?format=750w",
@@ -374,11 +375,11 @@
       "home": {
         "venue": "Sempre Uno",
         "coordinates": null
-      },
-      "publishedAt": "2026-04-09"
+      }
     },
     {
       "id": "mates-on-crates-feat-tushar-tondvalkar",
+      "publishedAt": "2026-04-02",
       "name": "Tushar Tondvalkar",
       "affiliation": "Kavita",
       "image": "https://images.squarespace-cdn.com/content/v1/67dca597e868671c1c124d3d/288c6b0e-68ef-4092-83df-d767a0d9560f/CFxTushar%40Kavita.png?format=750w",
@@ -398,11 +399,11 @@
         "locationSource": "https://dailyhive.com/vancouver/air-canada-best-new-restaurants-vancouver-2026",
         "geocodeSource": "https://geocoder.api.gov.bc.ca/",
         "precision": "CIVIC_NUMBER"
-      },
-      "publishedAt": "2026-04-02"
+      }
     },
     {
       "id": "mates-on-crates-feat-scott-thornhill",
+      "publishedAt": "2026-03-27",
       "name": "Scott Thornhill",
       "affiliation": "Belli Pizza",
       "image": "https://images.squarespace-cdn.com/content/v1/67dca597e868671c1c124d3d/58df6e83-eea5-440c-8bb9-4335a85023fa/CFxScott%40BelliPizza.png?format=750w",
@@ -422,11 +423,11 @@
         "locationSource": "https://dailyhive.com/vancouver/italian-restaurants-vancouver",
         "geocodeSource": "https://geocoder.api.gov.bc.ca/",
         "precision": "BLOCK"
-      },
-      "publishedAt": "2026-03-27"
+      }
     },
     {
       "id": "mates-on-crates-93-feat-hilary-nguy",
+      "publishedAt": "2025-02-16",
       "name": "Hilary Nguy",
       "affiliation": "Sushi Hil",
       "image": "https://images.squarespace-cdn.com/content/v1/67dca597e868671c1c124d3d/1743109873895-M5DOWCNX3J86GO2F0F99/CFxHilaryNguy%40SushiHil.png?format=750w",
@@ -444,11 +445,11 @@
         ],
         "address": "3330 Main Street",
         "locationSource": "https://www.openstreetmap.org/node/5867020307"
-      },
-      "publishedAt": "2025-02-16"
+      }
     },
     {
       "id": "mates-on-crates-68-feat-claire-livia-lassam",
+      "publishedAt": "2024-11-13",
       "name": "Claire Livia Lassam",
       "affiliation": "Livia",
       "image": "https://images.squarespace-cdn.com/content/v1/67dca597e868671c1c124d3d/1743109867600-CP14DQ7DYRBKFCP496FJ/CFxClaire%40Livia.png?format=750w",
@@ -466,11 +467,11 @@
         ],
         "address": "1399 Commercial Drive",
         "locationSource": "https://www.openstreetmap.org/node/3870325217"
-      },
-      "publishedAt": "2024-11-13"
+      }
     },
     {
       "id": "mates-on-crates-67-feat-josh-ochotorena",
+      "publishedAt": "2024-11-11",
       "name": "Josh Ochotorena",
       "affiliation": "Breeze Bar",
       "image": "https://images.squarespace-cdn.com/content/v1/67dca597e868671c1c124d3d/1743109868506-F3GDSF1W89HL55JVRLFL/CFxJosh%40BreezeBar.png?format=750w",
@@ -483,8 +484,7 @@
       "home": {
         "venue": "Breeze Bar",
         "coordinates": null
-      },
-      "publishedAt": "2024-11-11"
+      }
     }
   ],
   "places": [
@@ -944,6 +944,15 @@
           "source": "https://www.instagram.com/reel/DfTAzEbMvpT/",
           "type": "summary",
           "reviewMethod": "Transcript reviewed; venue identity cross-checked against official expanded list"
+        },
+        {
+          "chefId": "mates-on-crates-feat-johnny-wells",
+          "placeId": "streethawker",
+          "comment": "One of his choices when he wants a cheeseburger.",
+          "startSeconds": 140,
+          "source": "https://www.instagram.com/reel/DW7bfghBEvD/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
         }
       ]
     },
@@ -1180,7 +1189,17 @@
       "locationSource": "https://www.openstreetmap.org/node/8886602016",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Unchai Thai Restaurant",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-chanthy-yen",
+          "placeId": "unchai",
+          "comment": "He praises its Northern Thai cooking as delicious.",
+          "startSeconds": 126,
+          "source": "https://www.instagram.com/reel/Dc9quJHhWus/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "benjerrys",
@@ -1359,7 +1378,17 @@
       "locationSource": "https://www.openstreetmap.org/node/10741979195",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "AJ's Brooklyn Pizza Joint",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-scott-thornhill",
+          "placeId": "ajsbrooklynpizza",
+          "comment": "He praises its New York-style pizza.",
+          "startSeconds": 114,
+          "source": "https://www.instagram.com/reel/DWXYWFdh3jY/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "luckytaco",
@@ -1514,7 +1543,17 @@
       "locationSource": "https://www.openstreetmap.org/node/3933401480",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Bao Bei",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-eleanor-waterfall",
+          "placeId": "baobei",
+          "comment": "One of her go-to Chinatown dinner recommendations.",
+          "startSeconds": 148,
+          "source": "https://www.instagram.com/reel/Db_2-wlvi73/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "jldrivein",
@@ -1595,6 +1634,15 @@
           "source": "https://www.instagram.com/reel/Deu9uPRsn5h/",
           "type": "summary",
           "reviewMethod": "Transcript reviewed; named venue checked against official list and selected video caption frames where needed"
+        },
+        {
+          "chefId": "mates-on-crates-67-feat-josh-ochotorena",
+          "placeId": "pourhouse",
+          "comment": "He likes its dark, moody, old-school cocktail-bar atmosphere.",
+          "startSeconds": 66,
+          "source": "https://www.instagram.com/reel/DCNbbV9yve5/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
         }
       ]
     },
@@ -1636,6 +1684,15 @@
           "source": "https://www.instagram.com/reel/Deu9uPRsn5h/",
           "type": "summary",
           "reviewMethod": "Transcript reviewed; named venue checked against official list and selected video caption frames where needed"
+        },
+        {
+          "chefId": "mates-on-crates-feat-nathan-lowey",
+          "placeId": "elysiancoffee",
+          "comment": "He likes to order a flat white.",
+          "startSeconds": 127,
+          "source": "https://www.instagram.com/reel/DY0d3wlhpXD/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
         }
       ]
     },
@@ -1696,7 +1753,17 @@
       "locationSource": "https://www.openstreetmap.org/node/6339016833",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Annalena",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-brad-miller",
+          "placeId": "annalena",
+          "comment": "His most recent standout meal was here; he describes it as excellent.",
+          "startSeconds": 93,
+          "source": "https://www.instagram.com/reel/DchV6Hxzaqw/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "yaletown",
@@ -2039,7 +2106,17 @@
       "locationSource": "https://www.openstreetmap.org/node/4304851600",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Ramen Danbo",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-roger-ma",
+          "placeId": "ramendanbo",
+          "comment": "He describes it as a solid ramen choice.",
+          "startSeconds": 122,
+          "source": "https://www.instagram.com/reel/Da3xXX0Bdvs/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "dintaifung",
@@ -2496,7 +2573,17 @@
       "city": "British Columbia",
       "address": "",
       "locationStatus": "Location pending verification",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-abbie-gluvic",
+          "placeId": "lagrottadelformaggio",
+          "comment": "Her ideal day off includes a sandwich here before heading for coffee and cocktails.",
+          "startSeconds": 119,
+          "source": "https://www.instagram.com/reel/Dc18WnIBJFk/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "lunchlady",
@@ -3324,7 +3411,17 @@
       "locationSource": "https://www.openstreetmap.org/node/9092733705",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Viva Cafe & Bakery",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-chanthy-yen",
+          "placeId": "vivacafebakery",
+          "comment": "He describes VIVA on Yew Street as a really good neighbourhood coffee spot.",
+          "startSeconds": 114,
+          "source": "https://www.instagram.com/reel/Dc9quJHhWus/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "baanlaofinethaicuisine",
@@ -3348,7 +3445,17 @@
       "locationSource": "https://www.openstreetmap.org/node/11079533605",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Baan Lao Fine Thai Cuisine",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-chanthy-yen",
+          "placeId": "baanlaofinethaicuisine",
+          "comment": "On his wish list; he praises the chef but makes clear he has not yet visited.",
+          "startSeconds": 134,
+          "source": "https://www.instagram.com/reel/Dc9quJHhWus/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "mainstreet",
@@ -3386,7 +3493,17 @@
       "city": "British Columbia",
       "address": "",
       "locationStatus": "Location pending verification",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-chanthy-yen",
+          "placeId": "chupito",
+          "comment": "His hidden-gem answer, with the caveat that he no longer thinks it is particularly hidden.",
+          "startSeconds": 141,
+          "source": "https://www.instagram.com/reel/Dc9quJHhWus/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "wreckbeach",
@@ -3431,7 +3548,17 @@
       "city": "British Columbia",
       "address": "",
       "locationStatus": "Location pending verification",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-maria-ponce",
+          "placeId": "songbykinkao",
+          "comment": "One of the restaurants she highlights in Mount Pleasant.",
+          "startSeconds": 125,
+          "source": "https://www.instagram.com/reel/DbrROnaBTTL/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "kinkao",
@@ -3550,7 +3677,17 @@
       "locationSource": "https://www.openstreetmap.org/node/4957934649",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Los Cuervos Taqueria & Cantina",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-abbie-gluvic",
+          "placeId": "loscuervostaqueriacantina",
+          "comment": "She recommends the weekend brunch, describing it as delicious.",
+          "startSeconds": 91,
+          "source": "https://www.instagram.com/reel/Dc18WnIBJFk/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "meo",
@@ -3648,7 +3785,17 @@
       "locationSource": "https://www.openstreetmap.org/node/10025618568",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Pho Viet Lotus Restaurant",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-abbie-gluvic",
+          "placeId": "phovietlotus",
+          "comment": "She praises the authentic Vietnamese cooking and especially the pho.",
+          "startSeconds": 97,
+          "source": "https://www.instagram.com/reel/Dc18WnIBJFk/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "libertybakery",
@@ -3672,7 +3819,17 @@
       "locationSource": "https://www.openstreetmap.org/node/1128724571",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Liberty Bakery",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-abbie-gluvic",
+          "placeId": "libertybakery",
+          "comment": "Her day-off coffee stop after picking up a sandwich on Commercial Drive.",
+          "startSeconds": 124,
+          "source": "https://www.instagram.com/reel/Dc18WnIBJFk/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "batch",
@@ -3696,7 +3853,17 @@
       "locationSource": "https://www.openstreetmap.org/node/11034887090",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Batch",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-abbie-gluvic",
+          "placeId": "batch",
+          "comment": "Her suggested cocktail stop to round out a day off.",
+          "startSeconds": 126,
+          "source": "https://www.instagram.com/reel/Dc18WnIBJFk/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "groundsgreenscafe",
@@ -3763,7 +3930,17 @@
       "locationSource": "https://www.openstreetmap.org/node/7104982870",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Uli's Restaurant",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-abbie-gluvic",
+          "placeId": "ulisrestaurant",
+          "comment": "One of her White Rock suggestions, right by the beach.",
+          "startSeconds": 107,
+          "source": "https://www.instagram.com/reel/Dc18WnIBJFk/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "pho777vietnamese",
@@ -3866,7 +4043,17 @@
       "locationSource": "https://www.openstreetmap.org/node/1205355496",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Les Faux Bourgeois",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-brad-miller",
+          "placeId": "lesfauxbourgeois",
+          "comment": "A longtime favourite he keeps coming back to.",
+          "startSeconds": 103,
+          "source": "https://www.instagram.com/reel/DchV6Hxzaqw/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "jukefriedchicken",
@@ -3923,7 +4110,17 @@
       "locationSource": "https://www.openstreetmap.org/node/4358246396",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Argo Cafe",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-brad-miller",
+          "placeId": "argocafe",
+          "comment": "He recalls going often for lunch and recommends the diner.",
+          "startSeconds": 88,
+          "source": "https://www.instagram.com/reel/DchV6Hxzaqw/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "salylimon",
@@ -3947,7 +4144,17 @@
       "locationSource": "https://www.openstreetmap.org/node/14322302360",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Sal Y Limon",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-brad-miller",
+          "placeId": "salylimon",
+          "comment": "His late-night guilty pleasure on Commercial Drive.",
+          "startSeconds": 115,
+          "source": "https://www.instagram.com/reel/DchV6Hxzaqw/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "theponyrestaurant",
@@ -3966,7 +4173,17 @@
       "city": "Pemberton",
       "address": "",
       "locationStatus": "Location pending verification",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-brad-miller",
+          "placeId": "theponyrestaurant",
+          "comment": "His out-of-town suggestion in Pemberton, for its home-style cooking.",
+          "startSeconds": 107,
+          "source": "https://www.instagram.com/reel/DchV6Hxzaqw/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "viateverepizzeria",
@@ -4028,7 +4245,17 @@
       "locationSource": "https://www.openstreetmap.org/node/3518466465",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Nicli Antica Pizzeria",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-brad-miller",
+          "placeId": "niclianticapizzeria",
+          "comment": "He praises the North Shore pizza as spot-on.",
+          "startSeconds": 97,
+          "source": "https://www.instagram.com/reel/DchV6Hxzaqw/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "meatbread",
@@ -4071,7 +4298,17 @@
       "city": "British Columbia",
       "address": "",
       "locationStatus": "Location pending verification",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-eleanor-waterfall",
+          "placeId": "no5orange",
+          "comment": "She singles out the burgers.",
+          "startSeconds": 118,
+          "source": "https://www.instagram.com/reel/Db_2-wlvi73/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "cafemedina",
@@ -4102,7 +4339,17 @@
       "locationSource": "https://www.openstreetmap.org/node/3734928054",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Cafe Medina",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-eleanor-waterfall",
+          "placeId": "cafemedina",
+          "comment": "Her brunch recommendation; she also recalls creating its lavender latte.",
+          "startSeconds": 126,
+          "source": "https://www.instagram.com/reel/Db_2-wlvi73/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "amberlisteningbar",
@@ -4224,7 +4471,17 @@
       "locationSource": "https://www.openstreetmap.org/node/8886515051",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Kam Wai Dim Sum",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-eleanor-waterfall",
+          "placeId": "kamwaidimsum",
+          "comment": "One of her go-to Chinatown food stops.",
+          "startSeconds": 148,
+          "source": "https://www.instagram.com/reel/Db_2-wlvi73/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "fatmao",
@@ -4248,7 +4505,17 @@
       "locationSource": "https://www.openstreetmap.org/node/3934596876",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Fat Mao",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-eleanor-waterfall",
+          "placeId": "fatmao",
+          "comment": "One of her go-to Chinatown food stops.",
+          "startSeconds": 148,
+          "source": "https://www.instagram.com/reel/Db_2-wlvi73/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "mogu",
@@ -4408,7 +4675,17 @@
       "locationSource": "https://www.openstreetmap.org/node/8913557691",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Barbara",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-maria-ponce",
+          "placeId": "barbara",
+          "comment": "A restaurant she wants to try, rather than a report of a meal she has had.",
+          "startSeconds": 121,
+          "source": "https://www.instagram.com/reel/DbrROnaBTTL/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "mountpleasant",
@@ -4479,7 +4756,17 @@
       "locationSource": "https://www.openstreetmap.org/node/12637871905",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Wind Cries Mary",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-maria-ponce",
+          "placeId": "windcriesmary",
+          "comment": "She recommends the fried chicken at this below-street-level Victoria restaurant.",
+          "startSeconds": 133,
+          "source": "https://www.instagram.com/reel/DbrROnaBTTL/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "victoria",
@@ -4565,7 +4852,17 @@
       "locationSource": "https://www.openstreetmap.org/node/11061358496",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Seaport City Seafood Restaurant",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-roger-ma",
+          "placeId": "seaportcityseafoodrestaurant",
+          "comment": "He praises the beautifully executed dim sum.",
+          "startSeconds": 117,
+          "source": "https://www.instagram.com/reel/Da3xXX0Bdvs/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "nemesiscoffee",
@@ -4813,7 +5110,17 @@
       "locationSource": "https://www.openstreetmap.org/node/9112129053",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Linh Café",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-roger-ma",
+          "placeId": "linhcafe",
+          "comment": "He praises the quality of the ingredients and says not to overlook the chili-garlic condiment.",
+          "startSeconds": 128,
+          "source": "https://www.instagram.com/reel/Da3xXX0Bdvs/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "sashimiya",
@@ -4844,7 +5151,17 @@
       "locationSource": "https://www.openstreetmap.org/node/638861830",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Sashimiya",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-kyle-mcintosh",
+          "placeId": "sashimiya",
+          "comment": "His recommendation for fresh fish and good value.",
+          "startSeconds": 122,
+          "source": "https://www.instagram.com/reel/DalvwQZh841/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "yagotosushi",
@@ -4940,7 +5257,17 @@
       "locationSource": "https://www.openstreetmap.org/node/4029360633",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Max Noodle House",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-roger-ma",
+          "placeId": "maxnoodlehouse",
+          "comment": "A personal Richmond favourite: the team knows both him and his mother.",
+          "startSeconds": 139,
+          "source": "https://www.instagram.com/reel/Da3xXX0Bdvs/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "miradoro",
@@ -5131,7 +5458,17 @@
       "locationSource": "https://www.openstreetmap.org/node/6268389463",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Onda by Casereccio",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-kyle-mcintosh",
+          "placeId": "onda",
+          "comment": "He highlights the gelato and the maker’s international competition experience.",
+          "startSeconds": 139,
+          "source": "https://www.instagram.com/reel/DalvwQZh841/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "zoomak",
@@ -5179,7 +5516,17 @@
       "locationSource": "https://www.openstreetmap.org/node/10928025190",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Bar Gobo",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-kyle-mcintosh",
+          "placeId": "bargobo",
+          "comment": "He likes its vinyl records and audiophile atmosphere.",
+          "startSeconds": 108,
+          "source": "https://www.instagram.com/reel/DalvwQZh841/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "bellipizza",
@@ -5483,7 +5830,17 @@
       "locationSource": "https://www.openstreetmap.org/node/8719953023",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Il Cappello",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-marquella-uhrig",
+          "placeId": "ilcappello",
+          "comment": "She says she has been going to this Burnaby Italian restaurant quite a bit.",
+          "startSeconds": 115,
+          "source": "https://www.instagram.com/reel/DZv43K-hXlN/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "altabistro",
@@ -5507,7 +5864,17 @@
       "locationSource": "https://www.openstreetmap.org/node/4454903689",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Alta Bistro",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-marquella-uhrig",
+          "placeId": "altabistro",
+          "comment": "Her out-of-town pick in Whistler, which she describes as very good.",
+          "startSeconds": 140,
+          "source": "https://www.instagram.com/reel/DZv43K-hXlN/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "singletreewinery",
@@ -5531,7 +5898,17 @@
       "locationSource": "https://www.openstreetmap.org/node/12465961410",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Singletree Winery",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-marquella-uhrig",
+          "placeId": "singletreewinery",
+          "comment": "A winery she enjoys visiting with her mother in Abbotsford.",
+          "startSeconds": 130,
+          "source": "https://www.instagram.com/reel/DZv43K-hXlN/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "seasidepearlwinery",
@@ -5550,7 +5927,17 @@
       "city": "Abbotsford",
       "address": "",
       "locationStatus": "Location pending verification",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-marquella-uhrig",
+          "placeId": "seasidepearlwinery",
+          "comment": "Another Abbotsford winery she enjoys visiting with her mother.",
+          "startSeconds": 133,
+          "source": "https://www.instagram.com/reel/DZv43K-hXlN/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "westernlakechineseseafoodrestaurant",
@@ -5576,7 +5963,17 @@
       "city": "British Columbia",
       "address": "",
       "locationStatus": "Location pending verification",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-nathan-lowey",
+          "placeId": "westernlakechineseseafoodrestaurant",
+          "comment": "His brunch pick is dim sum, which he describes as really nice.",
+          "startSeconds": 131,
+          "source": "https://www.instagram.com/reel/DY0d3wlhpXD/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "alvingarden",
@@ -5667,7 +6064,17 @@
       "locationSource": "https://www.openstreetmap.org/node/6665118732",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Paramount BBQ Restaurant",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-nathan-lowey",
+          "placeId": "paramountbbq",
+          "comment": "His hidden-gem suggestion is the Saturday-night barbecue near Kingsway and Joyce.",
+          "startSeconds": 137,
+          "source": "https://www.instagram.com/reel/DY0d3wlhpXD/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "hyderabadbiryanihouse",
@@ -5698,7 +6105,17 @@
       "locationSource": "https://www.openstreetmap.org/node/11182190770",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Hyderabad Biryani House",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-tushar-tondvalkar",
+          "placeId": "hyderabadbiryanihouse",
+          "comment": "He chooses this restaurant specifically when he wants biryani.",
+          "startSeconds": 112,
+          "source": "https://www.instagram.com/reel/DWpZ4NopRa1/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "dontarguepizzeria",
@@ -5741,7 +6158,17 @@
       "locationSource": "https://www.openstreetmap.org/node/621962785",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Salt Spring Island Cheese",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-nathan-lowey",
+          "placeId": "saltspringislandcheesecompany",
+          "comment": "He says the family always stops here to stock up on visits to Salt Spring.",
+          "startSeconds": 149,
+          "source": "https://www.instagram.com/reel/DY0d3wlhpXD/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "laowai",
@@ -5808,7 +6235,17 @@
       "locationSource": "https://www.openstreetmap.org/node/3992895754",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Maria's Taverna",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-aaron-surman",
+          "placeId": "mariastaverna",
+          "comment": "He singles out the braised lamb at this longstanding Greek restaurant.",
+          "startSeconds": 136,
+          "source": "https://www.instagram.com/reel/DXsWlzpBhpe/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "squamishvalley",
@@ -5882,7 +6319,17 @@
       "locationSource": "https://www.openstreetmap.org/node/8984391468",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Maxine's Cafe & Bar",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-aaron-surman",
+          "placeId": "maxinescafebar",
+          "comment": "He highlights the pastry program and praises the pastry chef.",
+          "startSeconds": 146,
+          "source": "https://www.instagram.com/reel/DXsWlzpBhpe/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "redtruckbeer",
@@ -5936,6 +6383,15 @@
       "locationStatus": "Location pending verification",
       "comments": [
         {
+          "chefId": "mates-on-crates-feat-aaron-surman",
+          "placeId": "sayheycafedeli",
+          "comment": "His sandwich pick, with praise for chef Lina’s work.",
+          "startSeconds": 142,
+          "source": "https://www.instagram.com/reel/DXsWlzpBhpe/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        },
+        {
           "chefId": "mates-on-crates-feat-gonzalo-almendrades",
           "placeId": "sayheycafedeli",
           "comment": "He recommends Say Hey on Pender for breakfast.",
@@ -5982,7 +6438,17 @@
       "locationSource": "https://www.openstreetmap.org/node/4149047067",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "The Copper Coil Still & Grill",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-aaron-surman",
+          "placeId": "thecoppercoilstillgrill",
+          "comment": "His family-lunch pick in Squamish, with especially enthusiastic praise for the beef dip.",
+          "startSeconds": 130,
+          "source": "https://www.instagram.com/reel/DXsWlzpBhpe/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "francisbread",
@@ -6008,7 +6474,17 @@
       "city": "Salt Spring Island",
       "address": "",
       "locationStatus": "Location pending verification",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-haidee-hart",
+          "placeId": "francisbread",
+          "comment": "She calls the neighbouring team incredible bakers.",
+          "startSeconds": 89,
+          "source": "https://www.instagram.com/reel/DXITa3-BSWL/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "cassette",
@@ -6053,7 +6529,17 @@
       "locationSource": "https://www.openstreetmap.org/node/6242489151",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Cassette Cafe and Dive Bar",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-haidee-hart",
+          "placeId": "cassette",
+          "comment": "Her brunch pick; she says the team is doing fantastic work.",
+          "startSeconds": 132,
+          "source": "https://www.instagram.com/reel/DXITa3-BSWL/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "mavericks",
@@ -6079,7 +6565,17 @@
       "city": "Salt Spring Island",
       "address": "",
       "locationStatus": "Location pending verification",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-haidee-hart",
+          "placeId": "mavericks",
+          "comment": "A neighbouring coffee spot; she and the host had just tried its coffee.",
+          "startSeconds": 72,
+          "source": "https://www.instagram.com/reel/DXITa3-BSWL/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "southendsausage",
@@ -6098,7 +6594,17 @@
       "city": "Salt Spring Island",
       "address": "",
       "locationStatus": "Location pending verification",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-haidee-hart",
+          "placeId": "southendsausage",
+          "comment": "Her hidden gem across the road for what she describes as world-class charcuterie.",
+          "startSeconds": 144,
+          "source": "https://www.instagram.com/reel/DXITa3-BSWL/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "cafeflora",
@@ -6136,7 +6642,17 @@
       "city": "Salt Spring Island",
       "address": "",
       "locationStatus": "Location pending verification",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-haidee-hart",
+          "placeId": "truelovepizza",
+          "comment": "She describes the island’s pizza here as incredible.",
+          "startSeconds": 137,
+          "source": "https://www.instagram.com/reel/DXITa3-BSWL/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "saltspringkitchen",
@@ -6155,7 +6671,17 @@
       "city": "Salt Spring Island",
       "address": "",
       "locationStatus": "Location pending verification",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-haidee-hart",
+          "placeId": "saltspringkitchen",
+          "comment": "She praises Melanie’s preserves and the business’s journey from a home kitchen and market stall.",
+          "startSeconds": 78,
+          "source": "https://www.instagram.com/reel/DXITa3-BSWL/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "kutataswinery",
@@ -6174,7 +6700,17 @@
       "city": "Salt Spring Island",
       "address": "",
       "locationStatus": "Location pending verification",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-haidee-hart",
+          "placeId": "kutataswinery",
+          "comment": "She praises the local winery’s work and recommends supporting island producers.",
+          "startSeconds": 124,
+          "source": "https://www.instagram.com/reel/DXITa3-BSWL/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "brixmortar",
@@ -6222,7 +6758,17 @@
       "locationSource": "https://www.openstreetmap.org/node/4591022389",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Shipyards Coffee",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-johnny-wells",
+          "placeId": "shipyardscoffee",
+          "comment": "He says he stops here on the way to work about nine times out of ten and consistently enjoys it.",
+          "startSeconds": 130,
+          "source": "https://www.instagram.com/reel/DW7bfghBEvD/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "superbaba",
@@ -6246,7 +6792,17 @@
       "locationSource": "https://www.openstreetmap.org/node/7647500333",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Superbaba",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-johnny-wells",
+          "placeId": "superbaba",
+          "comment": "His takeout pick, which he describes as always fresh and delicious.",
+          "startSeconds": 136,
+          "source": "https://www.instagram.com/reel/DW7bfghBEvD/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "monzoburger",
@@ -6270,7 +6826,17 @@
       "locationSource": "https://www.openstreetmap.org/node/9112159969",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Monzo Burger",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-johnny-wells",
+          "placeId": "monzoburger",
+          "comment": "Another of his cheeseburger choices.",
+          "startSeconds": 140,
+          "source": "https://www.instagram.com/reel/DW7bfghBEvD/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "misotaco",
@@ -6294,7 +6860,17 @@
       "locationSource": "https://www.openstreetmap.org/node/3694094539",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Miso Taco",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-johnny-wells",
+          "placeId": "misotaco",
+          "comment": "His hidden-gem suggestion, described as fun and tasty.",
+          "startSeconds": 151,
+          "source": "https://www.instagram.com/reel/DW7bfghBEvD/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "angelapastificio",
@@ -6449,7 +7025,17 @@
       "locationSource": "https://www.openstreetmap.org/node/8724590029",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Elaichi Chai",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-tushar-tondvalkar",
+          "placeId": "elaichichai",
+          "comment": "He especially recommends the chai.",
+          "startSeconds": 101,
+          "source": "https://www.instagram.com/reel/DWpZ4NopRa1/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "goodthief",
@@ -6487,7 +7073,17 @@
       "locationSource": "https://www.openstreetmap.org/node/9246794604",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Good Thief",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-93-feat-hilary-nguy",
+          "placeId": "goodthief",
+          "comment": "His nearby Negroni pick; he praises Vincent and Emily and recalls their high-school connection.",
+          "startSeconds": 84,
+          "source": "https://www.instagram.com/p/DGJxm01SaXb/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "jeju",
@@ -6511,7 +7107,17 @@
       "locationSource": "https://www.openstreetmap.org/node/4171003693",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Jeju",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-tushar-tondvalkar",
+          "placeId": "jeju",
+          "comment": "On his wish list because the food he has seen looks so good.",
+          "startSeconds": 105,
+          "source": "https://www.instagram.com/reel/DWpZ4NopRa1/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "dosacorner",
@@ -6535,7 +7141,17 @@
       "locationSource": "https://www.openstreetmap.org/node/11182190771",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Dosa Corner",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-tushar-tondvalkar",
+          "placeId": "dosacorner",
+          "comment": "One of his favourites specifically for dosa.",
+          "startSeconds": 116,
+          "source": "https://www.instagram.com/reel/DWpZ4NopRa1/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "tetsusushibar",
@@ -6573,7 +7189,17 @@
       "locationSource": "https://www.openstreetmap.org/node/3733886693",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Tetsu Sushi Bar",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-93-feat-hilary-nguy",
+          "placeId": "tetsusushibar",
+          "comment": "His last standout meal: he found Satoshi’s dining experience inspiring and expresses respect for his work.",
+          "startSeconds": 69,
+          "source": "https://www.instagram.com/p/DGJxm01SaXb/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "lala",
@@ -6640,7 +7266,17 @@
       "locationSource": "https://www.openstreetmap.org/node/1116400381",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Gary's",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-tushar-tondvalkar",
+          "placeId": "garys",
+          "comment": "A dinner stop he would choose to give an out-of-town guest a good experience.",
+          "startSeconds": 139,
+          "source": "https://www.instagram.com/reel/DWpZ4NopRa1/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "rowfourteen",
@@ -6702,7 +7338,17 @@
       "locationSource": "https://www.openstreetmap.org/node/2062674924",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Denny's",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-scott-thornhill",
+          "placeId": "dennys",
+          "comment": "His brunch order is the Lumberjack Slam every time.",
+          "startSeconds": 125,
+          "source": "https://www.instagram.com/reel/DWXYWFdh3jY/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "bartholomew",
@@ -6774,7 +7420,17 @@
       "locationSource": "https://www.openstreetmap.org/node/13689517364",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Bam Bam",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-scott-thornhill",
+          "placeId": "bambam",
+          "comment": "He is excited about this new fried-chicken opening from the Nemesis team.",
+          "startSeconds": 134,
+          "source": "https://www.instagram.com/reel/DWXYWFdh3jY/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "littlebirddimsum",
@@ -6798,7 +7454,17 @@
       "locationSource": "https://www.openstreetmap.org/node/12039497818",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Little Bird Dim Sum + Craft Beer",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-scott-thornhill",
+          "placeId": "littlebirddimsum",
+          "comment": "His hidden gem for dim sum, craft beer and evening service.",
+          "startSeconds": 151,
+          "source": "https://www.instagram.com/reel/DWXYWFdh3jY/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "momosushi",
@@ -6870,7 +7536,17 @@
       "locationSource": "https://www.openstreetmap.org/node/5837059827",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Tableau",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-93-feat-hilary-nguy",
+          "placeId": "tableau",
+          "comment": "He singles out the omelettes and mushroom toast for brunch.",
+          "startSeconds": 97,
+          "source": "https://www.instagram.com/p/DGJxm01SaXb/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "starbucks",
@@ -7028,7 +7704,17 @@
       "locationSource": "https://www.openstreetmap.org/node/13143424501",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Marilena Cafe & Raw Bar",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-93-feat-hilary-nguy",
+          "placeId": "marilena",
+          "comment": "His out-of-town choice in Victoria, with praise for chef Kristian Eligh.",
+          "startSeconds": 103,
+          "source": "https://www.instagram.com/p/DGJxm01SaXb/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "eliovolpe",
@@ -7083,7 +7769,17 @@
       "locationSource": "https://www.openstreetmap.org/node/1339095361",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Dachi Restaurant and Natural Wine",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-68-feat-claire-livia-lassam",
+          "placeId": "dachi",
+          "comment": "Her cocktail-bar pick, with praise for Stephen’s cocktails.",
+          "startSeconds": 92,
+          "source": "https://www.instagram.com/reel/DCSkq6EyrSD/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "mishmish",
@@ -7126,7 +7822,17 @@
       "locationSource": "https://www.openstreetmap.org/node/11141972840",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Pepino's",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-68-feat-claire-livia-lassam",
+          "placeId": "pepinosspaghettihouse",
+          "comment": "She says the atmosphere makes her feel as if she is in another city, in the best way.",
+          "startSeconds": 70,
+          "source": "https://www.instagram.com/reel/DCSkq6EyrSD/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "caffelatana",
@@ -7169,7 +7875,17 @@
       "city": "British Columbia",
       "address": "",
       "locationStatus": "Location pending verification",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-68-feat-claire-livia-lassam",
+          "placeId": "niwaopeningsoonat875powellst",
+          "comment": "At the time of filming she was eagerly awaiting Niwa, praising Darren’s unpretentious cooking and beautiful ingredients at his former restaurant, Ugly Dumpling.",
+          "startSeconds": 97,
+          "source": "https://www.instagram.com/reel/DCSkq6EyrSD/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "troutlakefarmersmarket",
@@ -7231,7 +7947,17 @@
       "city": "British Columbia",
       "address": "",
       "locationStatus": "Location pending verification",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-68-feat-claire-livia-lassam",
+          "placeId": "royalseafoodpalace",
+          "comment": "Her regular dim-sum favourite at Hastings and Victoria; she jokes that its busy dining room makes it less of a secret.",
+          "startSeconds": 79,
+          "source": "https://www.instagram.com/reel/DCSkq6EyrSD/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "doucediner",
@@ -7514,7 +8240,17 @@
       "locationSource": "https://www.openstreetmap.org/node/5933665594",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Memory Corner",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-67-feat-josh-ochotorena",
+          "placeId": "memorycorner",
+          "comment": "His hangover pick in Richmond, with plenty of spice.",
+          "startSeconds": 72,
+          "source": "https://www.instagram.com/reel/DCNbbV9yve5/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "phodochay",
@@ -7696,5 +8432,5 @@
     "videosReviewed": 0,
     "completeVideoInventory": false
   },
-  "spokenReviewEpisodes": 6
+  "spokenReviewEpisodes": 23
 }

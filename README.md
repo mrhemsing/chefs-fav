@@ -4,9 +4,9 @@ A sourced starting list of **British Columbia destinations recommended by chefs 
 
 ## Read the list
 
-**[Open the interactive map](https://chefs-fav.vercel.app/)** — chef portrait pins, category and chef filters, searchable list, saved favourites (on your device), and timestamped spoken-comment summaries as they are reviewed. Mobile supports a swipeable card tray and an expandable list.
+**[Open the interactive map](https://chefs-fav.vercel.app/)** — a chef/restaurant-owner directory with Map and newest-first List views. Crate episode photos are pinned at affiliated restaurants; selecting a profile reveals that person’s outside recommendations and timestamped comments. All-picks browsing is secondary, with no popularity ranking or endorsement tally. Saved favourites stay on your device. Mobile supports a swipeable card tray and an expandable list.
 
-The current map has 268 place entries, including 189 OpenStreetMap matches. Unmatched places remain in the list, without invented coordinates. Multiple-chain locations may be unspecified by the original chef; the location note makes this explicit.
+The default directory has 23 profiles; dates are labelled as episode write-up dates. Unverified home venues remain unpinned. The secondary picks map has 268 place entries, including 189 OpenStreetMap matches. Unmatched places remain in the list, without invented coordinates. Multiple-chain locations may be unspecified by the original chef; the location note makes this explicit.
 
 - **[Chef-by-chef recommendations](CHEFS.md)** — 318 category/answer entries from 23 episode write-ups.
 - [Spreadsheet CSV](data/recommendations.csv)
