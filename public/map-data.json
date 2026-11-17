@@ -13,8 +13,16 @@
       "episode": "https://www.instagram.com/reel/DfqL7HxMwSO/",
       "home": {
         "venue": "Los Sapos",
-        "coordinates": null
-      }
+        "coordinates": [
+          -123.099269,
+          49.2793077
+        ],
+        "address": "210 Keefer Street Vancouver",
+        "locationSource": "https://vancouver.page/business/los-sapos-tacos-vancouver/",
+        "geocodeSource": "https://geocoder.api.gov.bc.ca/",
+        "precision": "CIVIC_NUMBER"
+      },
+      "publishedAt": "2026-11-13"
     },
     {
       "id": "mates-on-crates-feat-etienne-buddingh",
@@ -30,7 +38,8 @@
       "home": {
         "venue": "Oddfish",
         "coordinates": null
-      }
+      },
+      "publishedAt": "2026-11-06"
     },
     {
       "id": "mates-on-crates-feat-tommy-shorthouse",
@@ -51,7 +60,8 @@
         ],
         "address": "1039 Mainland Street",
         "locationSource": "https://www.openstreetmap.org/node/12703364034"
-      }
+      },
+      "publishedAt": "2026-10-22"
     },
     {
       "id": "mates-on-crates-feat-quynh-anh-pham",
@@ -66,8 +76,15 @@
       "episode": "https://www.instagram.com/reel/DeQEH3RMQPe/",
       "home": {
         "venue": "Ông Bà",
-        "coordinates": null
-      }
+        "coordinates": [
+          -122.792301,
+          49.2793228
+        ],
+        "address": "1163 Pinetree Way, Coquitlam",
+        "locationSource": "https://www.openstreetmap.org/node/4673969616",
+        "affiliationSource": "https://chefsfav.com/blog/mates-on-crates-feat-quynh-anh-pham"
+      },
+      "publishedAt": "2026-10-08"
     },
     {
       "id": "mates-on-crates-feat-nathan-pai-phankum",
@@ -88,7 +105,8 @@
         ],
         "address": "4811 Delta Street",
         "locationSource": "https://www.openstreetmap.org/node/9251515863"
-      }
+      },
+      "publishedAt": "2026-10-05"
     },
     {
       "id": "mates-on-crates-feat-rob-belcham",
@@ -109,7 +127,8 @@
         ],
         "address": "3034 Main Street",
         "locationSource": "https://www.openstreetmap.org/node/2933886279"
-      }
+      },
+      "publishedAt": "2026-09-11"
     },
     {
       "id": "mates-on-crates-feat-chanthy-yen",
@@ -124,8 +143,16 @@
       "episode": "https://www.instagram.com/reel/Dc9quJHhWus/",
       "home": {
         "venue": "Touk",
-        "coordinates": null
-      }
+        "coordinates": [
+          -123.1256693,
+          49.2861658
+        ],
+        "address": "1152 Alberni Street Vancouver",
+        "locationSource": "https://dailyhive.com/vancouver/touk-air-canada-2026",
+        "geocodeSource": "https://geocoder.api.gov.bc.ca/",
+        "precision": "CIVIC_NUMBER"
+      },
+      "publishedAt": "2026-09-08"
     },
     {
       "id": "mates-on-crates-feat-abbie-gluvic",
@@ -140,8 +167,16 @@
       "episode": "https://www.instagram.com/reel/Dc18WnIBJFk/",
       "home": {
         "venue": "Murmurs and Things",
-        "coordinates": null
-      }
+        "coordinates": [
+          -123.1001429,
+          49.263136
+        ],
+        "address": "235 East Broadway Vancouver",
+        "locationSource": "https://nomsmagazine.com/murmurs-mount-pleasant-closure/",
+        "geocodeSource": "https://geocoder.api.gov.bc.ca/",
+        "precision": "CIVIC_NUMBER"
+      },
+      "publishedAt": "2026-09-03"
     },
     {
       "id": "mates-on-crates-feat-brad-miller",
@@ -157,7 +192,8 @@
       "home": {
         "venue": "The Red Wagon",
         "coordinates": null
-      }
+      },
+      "publishedAt": "2026-09-02"
     },
     {
       "id": "mates-on-crates-feat-eleanor-waterfall",
@@ -178,7 +214,8 @@
         ],
         "address": "172 Powell Street",
         "locationSource": "https://www.openstreetmap.org/node/4424551035"
-      }
+      },
+      "publishedAt": "2026-08-15"
     },
     {
       "id": "mates-on-crates-feat-maria-ponce",
@@ -199,7 +236,8 @@
         ],
         "address": "2450 Yukon Street",
         "locationSource": "https://www.openstreetmap.org/node/5296233721"
-      }
+      },
+      "publishedAt": "2026-08-06"
     },
     {
       "id": "mates-on-crates-feat-roger-ma",
@@ -215,7 +253,8 @@
       "home": {
         "venue": "Boulevard Kitchen & Oyster Bar",
         "coordinates": null
-      }
+      },
+      "publishedAt": "2026-07-21"
     },
     {
       "id": "mates-on-crates-feat-kyle-mcintosh",
@@ -230,8 +269,16 @@
       "episode": "https://www.instagram.com/reel/DalvwQZh841/",
       "home": {
         "venue": "Nui",
-        "coordinates": null
-      }
+        "coordinates": [
+          -123.1018189,
+          49.2418059
+        ],
+        "address": "4811 Main Street Vancouver",
+        "locationSource": "https://www.destinationvancouver.com/vancouver-restaurants/listings/nui",
+        "geocodeSource": "https://geocoder.api.gov.bc.ca/",
+        "precision": "CIVIC_NUMBER"
+      },
+      "publishedAt": "2026-07-12"
     },
     {
       "id": "mates-on-crates-feat-marquella-uhrig",
@@ -246,8 +293,16 @@
       "episode": "https://www.instagram.com/reel/DZv43K-hXlN/",
       "home": {
         "venue": "Lucia",
-        "coordinates": null
-      }
+        "coordinates": [
+          -123.1008508,
+          49.2570839
+        ],
+        "address": "3124 Main Street Vancouver",
+        "locationSource": "https://dailyhive.com/vancouver/italian-restaurants-vancouver",
+        "geocodeSource": "https://geocoder.api.gov.bc.ca/",
+        "precision": "CIVIC_NUMBER"
+      },
+      "publishedAt": "2026-06-19"
     },
     {
       "id": "mates-on-crates-feat-nathan-lowey",
@@ -268,7 +323,8 @@
         ],
         "address": "566 Powell Street",
         "locationSource": "https://www.openstreetmap.org/node/8660308918"
-      }
+      },
+      "publishedAt": "2026-05-31"
     },
     {
       "id": "mates-on-crates-feat-aaron-surman",
@@ -284,7 +340,8 @@
       "home": {
         "venue": "Ex Animo",
         "coordinates": null
-      }
+      },
+      "publishedAt": "2026-05-03"
     },
     {
       "id": "mates-on-crates-feat-haidee-hart",
@@ -300,7 +357,8 @@
       "home": {
         "venue": "The Woodshed",
         "coordinates": null
-      }
+      },
+      "publishedAt": "2026-04-15"
     },
     {
       "id": "mates-on-crates-feat-johnny-wells",
@@ -316,7 +374,8 @@
       "home": {
         "venue": "Sempre Uno",
         "coordinates": null
-      }
+      },
+      "publishedAt": "2026-04-09"
     },
     {
       "id": "mates-on-crates-feat-tushar-tondvalkar",
@@ -331,8 +390,16 @@
       "episode": "https://www.instagram.com/reel/DWpZ4NopRa1/",
       "home": {
         "venue": "Kavita",
-        "coordinates": null
-      }
+        "coordinates": [
+          -123.1098743,
+          49.2681259
+        ],
+        "address": "250 West 3rd Avenue Vancouver",
+        "locationSource": "https://dailyhive.com/vancouver/air-canada-best-new-restaurants-vancouver-2026",
+        "geocodeSource": "https://geocoder.api.gov.bc.ca/",
+        "precision": "CIVIC_NUMBER"
+      },
+      "publishedAt": "2026-04-02"
     },
     {
       "id": "mates-on-crates-feat-scott-thornhill",
@@ -347,8 +414,16 @@
       "episode": "https://www.instagram.com/reel/DWXYWFdh3jY/",
       "home": {
         "venue": "Belli Pizza",
-        "coordinates": null
-      }
+        "coordinates": [
+          -123.0697636,
+          49.2690575
+        ],
+        "address": "1733 Commercial Drive Vancouver",
+        "locationSource": "https://dailyhive.com/vancouver/italian-restaurants-vancouver",
+        "geocodeSource": "https://geocoder.api.gov.bc.ca/",
+        "precision": "BLOCK"
+      },
+      "publishedAt": "2026-03-27"
     },
     {
       "id": "mates-on-crates-93-feat-hilary-nguy",
@@ -369,7 +444,8 @@
         ],
         "address": "3330 Main Street",
         "locationSource": "https://www.openstreetmap.org/node/5867020307"
-      }
+      },
+      "publishedAt": "2025-02-16"
     },
     {
       "id": "mates-on-crates-68-feat-claire-livia-lassam",
@@ -390,7 +466,8 @@
         ],
         "address": "1399 Commercial Drive",
         "locationSource": "https://www.openstreetmap.org/node/3870325217"
-      }
+      },
+      "publishedAt": "2024-11-13"
     },
     {
       "id": "mates-on-crates-67-feat-josh-ochotorena",
@@ -406,7 +483,8 @@
       "home": {
         "venue": "Breeze Bar",
         "coordinates": null
-      }
+      },
+      "publishedAt": "2024-11-11"
     }
   ],
   "places": [

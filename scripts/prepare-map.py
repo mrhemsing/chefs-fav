@@ -19,7 +19,7 @@ episodes=load('data/episodes.json')
 chefs=[]
 for e in episodes:
     a=articles[e['id']]
-    chefs.append({'id':e['id'],'name':e['guest'],'affiliation':', '.join(e['affiliationsExcluded']),
+    chefs.append({'id':e['id'],'publishedAt':e['articleDate'],'name':e['guest'],'affiliation':', '.join(e['affiliationsExcluded']),
                   'image':a.get('assetUrl','')+'?format=750w','facePosition':load('data/chef-photo-framing.json').get(e['id'],[36,30]),
                   'source':e['articleUrl'],'episode':e['videoUrls'][0] if e['videoUrls'] else None})
 
