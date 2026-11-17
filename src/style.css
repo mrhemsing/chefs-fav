@@ -49,3 +49,15 @@
 @media(max-width:700px){#picks-overlay{align-items:flex-end;padding:0}.picks-sheet{height:94dvh;border-radius:24px 24px 0 0;max-width:none}.picks-sheet #profile-nav{padding:8px 16px}.picks-sheet .results{padding-bottom:max(24px,env(safe-area-inset-bottom))!important}.picks-sheet #profile-nav span{display:none}.picks-sheet #nav-back-chefs{font-size:12px}.snapshot-cards{grid-template-columns:1fr}}
 
 .layout[hidden]{display:none!important}
+
+/* Readable category labels and filters, including narrow mobile sheets. */
+@media(max-width:700px){
+  .no-map .category-row{flex-wrap:wrap;overflow:visible;gap:8px}
+  .no-map .category{font-size:15px;font-weight:600;min-height:44px;padding:10px 14px;flex-shrink:0}
+  .no-map .category svg{width:18px;height:18px}
+  .no-map .card-topline{flex-wrap:wrap;justify-content:flex-start;gap:6px 12px;align-items:flex-start}
+  .no-map .card-topline .place-type{font-size:15px;line-height:1.4;font-weight:700;color:var(--green);max-width:100%;min-width:0;overflow-wrap:anywhere}
+  .no-map .card-topline .place-type svg{width:17px;height:17px;flex-shrink:0}
+  .no-map .card-topline .place-city{font-size:12px;line-height:1.5;white-space:normal;margin-left:auto}
+  .no-map .pick-tag{font-size:14px;line-height:1.4}
+}
