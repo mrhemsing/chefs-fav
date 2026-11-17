@@ -13,11 +13,30 @@ assert not read('needs-review')
 for row in rows:
     assert row['episodeId'] in ids
     assert row['region'] == 'British Columbia'
-    assert row['chefOrCook'] and not row['videoReviewed']
-    assert row['evidenceType'] == 'publisher_expanded_list'
-    assert row['sourceUrl'].startswith('https://chefsfav.com/blog/')
+    assert row['chefOrCook']
+    if row['evidenceType'] == 'publisher_expanded_list':
+        assert not row['videoReviewed']
+        assert row['sourceUrl'].startswith('https://chefsfav.com/blog/')
+    else:
+        assert row['evidenceType'] == 'video_transcript_and_caption_review'
+        assert row['videoReviewed'] and row['sourceUrl'].startswith('https://www.instagram.com/reel/')
     assert row['recommendation']
     assert not any(x in row['recommendation'] for x in ['(Tokyo)', '(Halifax)', '(Brooklyn)', 'Crete, Greece', 'Sandwich:'])
 assert any(r['category']=='Sandwich' and r['guest']=='Quynh Anh Pham' for r in rows)
 assert not any(r['episodeGuest'] in ['Bill Osborne','Oscar Holgado','Jake McWilliams'] for r in rows)
 print(f'PASS: {len(rows)} entries, {len(episodes)} episodes; source, scope and extraction checks.')
+if (root/'public/map-data.json').exists():
+    app=json.loads((root/'public/map-data.json').read_text(encoding='utf-8'))
+    chefs={c['id'] for c in app['chefs']}
+    placeids={p['id'] for p in app['places']}
+    assert len(placeids)==len(app['places'])
+    for p in app['places']:
+        for m in p['mentions']: assert m['chefId'] in chefs
+        for n in p.get('comments',[]):
+            assert n['chefId'] in chefs and n['startSeconds']>=0 and n['type']=='summary'
+        if p['coordinates']:
+            lon,lat=p['coordinates'];assert -139<lon<-114 and 48<lat<61
+            assert p['locationSource'].startswith('https://www.openstreetmap.org/')
+    for n in read('video-notes'):
+        assert n['chefId'] in chefs and n['placeId'] in placeids
+    print(f"PASS: {len(app['places'])} app places; chef, note and coordinate integrity.")

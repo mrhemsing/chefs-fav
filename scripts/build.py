@@ -42,6 +42,8 @@ for article in articles:
     if source.startswith('/'):
         source = 'https://chefsfav.com' + source
     videos = sorted(set(a['href'].split('?')[0] for a in soup.select('a[href]') if 'instagram.com/' in a['href'] and re.search(r'/(reel|p)/', a['href'])))
+    if meta.get('videoUrlOverride'):
+        videos = [meta['videoUrlOverride']]
     own = meta['excludeAffiliations']
     episode = {'id': slug, 'guest': guest, 'chefOrCook': meta['chefOrCook'],
                'affiliationsExcluded': own, 'articleUrl': source,
@@ -101,6 +103,15 @@ for article in articles:
         if not value:
             continue
         # Facts are stored as question/answer pairs, not copied narrative articles.
+        # Repair publisher inline-link fragments; factual answer remains unchanged.
+        if guest == 'Scott Thornhill' and category == 'Dying to Try':
+            links = [{'name':'June','url':'https://juneoncambie.com/'}]
+        elif guest == 'Scott Thornhill' and category == 'Bakery':
+            links = [{'name':'Nemesis Coffee','url':'https://www.nemesis.coffee/'},{'name':'Dope Bakehouse','url':'http://dopebakehouse.com/'}]
+        elif guest == 'Roger Ma' and category == 'Sushi, Mid-Tier':
+            links = [{'name':'Sushi Hil','url':'https://www.sushihil.com/'},{'name':'Yagoto Sushi','url':'https://yagotosushi.com/'}]
+        elif guest == 'Tushar Tondvalkar' and category == 'Indian':
+            links = [{'name':'Hyderabad Biryani House','url':'https://hyderabadbiryanihouse.ca/'},{'name':'Dosa Corner','url':'https://dosacorner.ca/'}]
         rows.append({**base, 'recommendation': value, 'venueLinks': links,
                      'kind': 'named_place_or_business' if links else 'unlinked_answer'})
 
@@ -132,6 +143,17 @@ for r in rows:
     r['locationEvidence'] = 'Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it.'
     bc_rows.append(r)
 rows = bc_rows
+if (OUT/'video-additions.json').exists():
+    for added in json.loads((OUT/'video-additions.json').read_text(encoding='utf-8')):
+        ep = next(e for e in episodes if e['id']==added['episodeId'])
+        assert not any(norm(o) in norm(added['name']) for o in ep['affiliationsExcluded']), 'Affiliated video pick'
+        rows.append({'episodeId':ep['id'],'guest':ep['guest'],'episodeGuest':ep['guest'],'chefOrCook':ep['chefOrCook'],
+                     'category':added['category'],'recommendation':added['name'],'sourceUrl':added['source'],
+                     'videoUrl':added['source'],'evidenceType':'video_transcript_and_caption_review','videoReviewed':True,
+                     'experience':'recommendation','region':'British Columbia','kind':'named_place_or_business',
+                     'venueLinks':[{'name':added['name'],'url':added['website']}] if added['website'] else [],
+                     'locationEvidence':'BC venue identity checked against video caption and restaurant context',
+                     'comment':added['comment'],'startSeconds':added['startSeconds']})
 episodes = [e for e in episodes if any(r['episodeId']==e['id'] for r in rows)]
 (OUT/'scope-exclusions.json').write_text(json.dumps(scope_excluded,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 for ep in episodes:
@@ -153,10 +175,11 @@ for filename, chef_only in [('CHEFS.md',True)]:
         selected=[r for r in rows if r['episodeId']==ep['id']]
         lines += [f"## {ep['guest']}", '', f"[Official list]({ep['articleUrl']})" + (f" · [Episode]({ep['videoUrls'][0]})" if ep['videoUrls'] else ' · Episode link not found'),
                   'Excluded affiliations: '+(', '.join(ep['affiliationsExcluded']) or 'None identified in publisher biography')+'.', '',
-                  '| Recommendation category | Pick |','|---|---|']
+                  '| Recommendation category | Pick | Source |','|---|---|---|']
         for r in selected:
             label=r['category'] + (f" ({r['guest']})" if r['guest']!=ep['guest'] else '')
-            lines.append(f"| {md(label)} | {md(r['recommendation'])} |")
+            evidence = 'Video' if r['videoReviewed'] else 'Expanded list'
+            lines.append(f"| {md(label)} | {md(r['recommendation'])} | [{evidence}]({r['sourceUrl']}) |")
         lines.append('')
     (ROOT/filename).write_text('\n'.join(lines)+'\n',encoding='utf-8')
 summary={'asOf':'2026-11-17','region':'British Columbia','officialEpisodeArticlesInventoried':inventory_count,'includedEpisodeArticles':len(episodes),

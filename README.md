@@ -4,7 +4,11 @@ A sourced starting list of **British Columbia destinations recommended by chefs 
 
 ## Read the list
 
-- **[Chef-by-chef recommendations](CHEFS.md)** — 307 category/answer entries from 23 episode write-ups.
+**[Open the interactive map](https://chefs-fav.vercel.app/)** — chef portrait pins, category and chef filters, searchable list, saved favourites (on your device), and timestamped spoken-comment summaries as they are reviewed. Mobile supports a swipeable card tray and an expandable list.
+
+The current map has 268 place entries, including 189 OpenStreetMap matches. Unmatched places remain in the list, without invented coordinates. Multiple-chain locations may be unspecified by the original chef; the location note makes this explicit.
+
+- **[Chef-by-chef recommendations](CHEFS.md)** — 318 category/answer entries from 23 episode write-ups.
 - [Spreadsheet CSV](data/recommendations.csv)
 - [Structured recommendations](data/recommendations.json)
 - [Included episodes and source links](data/episodes.json)
@@ -15,7 +19,9 @@ An entry is an answer, **not a unique restaurant**: a chef may recommend the sam
 
 As of November 17, 2026, 99 official episode write-ups were inventoried across ten pages of the publisher’s blog. The published list above is the BC chef/cook subset, not all 99 guests: other guests include bartenders, owners and hospitality professionals whose biographies do not explicitly establish a culinary role.
 
-**No videos have yet been reviewed. This is not a claim to cover every episode or everything said on camera.** Instagram’s unauthenticated profile stopped at a login wall. The publisher’s expanded lists include off-camera recommendations; each row is explicitly tagged `publisher_expanded_list` and `videoReviewed: false`.
+**Video review is in progress. This is not a claim to cover every episode or everything said on camera.** The initial Instagram session stopped at a login wall; that was resolved when the owner signed in. Expanded publisher lists include off-camera recommendations and retain `publisher_expanded_list` / `videoReviewed: false`. Newly added video-sourced picks are separately marked `video_transcript_and_caption_review`.
+
+**Research update:** the owner subsequently signed in. The visible Reels archive was scrolled to its end: **510 reels**, including unrelated posts. [Reel inventory](data/reel-inventory.json) records that discovery, not 510 reviewed series episodes. Caption classification and speech review are underway. [Video notes](data/video-notes.json) are separately reviewed summaries with time cues; automatic transcripts remain private research cache and are never automatically published as quotes. The expanded-list rows retain their original evidence type.
 
 See [coverage totals](data/coverage.json), [full article inventory](data/episode-inventory.json) and [remaining work](BACKLOG.md). The inventory includes out-of-province episodes for audit purposes; their recommendations are not in the BC list.
 
@@ -41,5 +47,19 @@ python scripts/validate.py
 ```
 
 Raw article responses are cached locally under ignored `.cache/`; they are not committed. New episodes need an editorial-review entry before inclusion. Review regional exceptions and affiliations before rebuilding; the scripts do not automatically establish geography or ownership.
+
+## Run the app
+
+```sh
+npm install
+python scripts/prepare-map.py
+npm run dev
+```
+
+Dev uses port 3000. `npm run build` produces `dist/` for Vercel. The Vercel project is `baverages-projects/chefs-fav`, connected to this GitHub repository. `node scripts/ui-smoke.mjs` checks the deployed app at desktop, 390px and 320px widths using locally installed Chrome; set `TEST_URL` for another target. The data checks are `python scripts/validate.py`.
+
+`prepare-map.py` queries Photon sequentially with a delay and caches responses. Weak matches and inappropriate feature types are rejected. Photo crop coordinates in `data/chef-photo-framing.json` are manually checked against episode header photos; images are credited to and served from the publisher. The app contains no Instagram login credentials.
+
+Optional local research: `yt-dlp` and `faster-whisper` power the metadata/transcription scripts. These outputs are **unreviewed** until an editor checks them, corrects named entities against sources and records source-linked notes. Do not publish bulk automatic transcripts.
 
 Source: [Chef’s Favourite](https://chefsfav.com/blog). Independent research index; not an official Chef’s Favourite product.

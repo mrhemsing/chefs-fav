@@ -320,28 +320,6 @@
     "guest": "Etienne Buddingh",
     "episodeGuest": "Etienne Buddingh",
     "chefOrCook": true,
-    "category": "Coffee",
-    "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-etienne-buddingh",
-    "videoUrl": "https://www.instagram.com/reel/DfTAzEbMvpT/",
-    "evidenceType": "publisher_expanded_list",
-    "videoReviewed": false,
-    "experience": "recommendation",
-    "recommendation": "Radish",
-    "venueLinks": [
-      {
-        "name": "Radish",
-        "url": "https://www.radishrestaurant.com/?gad_source=1&gad_campaignid=23557373431&gbraid=0AAAABC181JnkelJ0IHyuAs_SzlU1AgZJ8&gclid=Cj0KCQjw3YvXBhCDARIsAKB-ox_dJnI2HuICTcjsTS8LU9-5Cv2Nk5Umr5dZpzlZBLg4d8QGcPAFYusaAimHEALw_wcB"
-      }
-    ],
-    "kind": "named_place_or_business",
-    "region": "British Columbia",
-    "locationEvidence": "Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it."
-  },
-  {
-    "episodeId": "mates-on-crates-feat-etienne-buddingh",
-    "guest": "Etienne Buddingh",
-    "episodeGuest": "Etienne Buddingh",
-    "chefOrCook": true,
     "category": "Cocktail Bar",
     "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-etienne-buddingh",
     "videoUrl": "https://www.instagram.com/reel/DfTAzEbMvpT/",
@@ -1926,7 +1904,7 @@
     "chefOrCook": true,
     "category": "Coffee",
     "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-chanthy-yen",
-    "videoUrl": "https://www.instagram.com/reel/Dcwrz62BIDH/",
+    "videoUrl": "https://www.instagram.com/reel/Dc9quJHhWus/",
     "evidenceType": "publisher_expanded_list",
     "videoReviewed": false,
     "experience": "recommendation",
@@ -1948,7 +1926,7 @@
     "chefOrCook": true,
     "category": "Dying to Try",
     "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-chanthy-yen",
-    "videoUrl": "https://www.instagram.com/reel/Dcwrz62BIDH/",
+    "videoUrl": "https://www.instagram.com/reel/Dc9quJHhWus/",
     "evidenceType": "publisher_expanded_list",
     "videoReviewed": false,
     "experience": "wish_list_not_visited",
@@ -1970,7 +1948,7 @@
     "chefOrCook": true,
     "category": "Fried Chicken",
     "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-chanthy-yen",
-    "videoUrl": "https://www.instagram.com/reel/Dcwrz62BIDH/",
+    "videoUrl": "https://www.instagram.com/reel/Dc9quJHhWus/",
     "evidenceType": "publisher_expanded_list",
     "videoReviewed": false,
     "experience": "recommendation",
@@ -1992,7 +1970,7 @@
     "chefOrCook": true,
     "category": "Food Neighborhood",
     "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-chanthy-yen",
-    "videoUrl": "https://www.instagram.com/reel/Dcwrz62BIDH/",
+    "videoUrl": "https://www.instagram.com/reel/Dc9quJHhWus/",
     "evidenceType": "publisher_expanded_list",
     "videoReviewed": false,
     "experience": "recommendation",
@@ -2009,7 +1987,7 @@
     "chefOrCook": true,
     "category": "Hidden Gem",
     "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-chanthy-yen",
-    "videoUrl": "https://www.instagram.com/reel/Dcwrz62BIDH/",
+    "videoUrl": "https://www.instagram.com/reel/Dc9quJHhWus/",
     "evidenceType": "publisher_expanded_list",
     "videoReviewed": false,
     "experience": "recommendation",
@@ -2031,7 +2009,7 @@
     "chefOrCook": true,
     "category": "Last Meal That Blew Them Away",
     "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-chanthy-yen",
-    "videoUrl": "https://www.instagram.com/reel/Dcwrz62BIDH/",
+    "videoUrl": "https://www.instagram.com/reel/Dc9quJHhWus/",
     "evidenceType": "publisher_expanded_list",
     "videoReviewed": false,
     "experience": "recommendation",
@@ -2053,7 +2031,7 @@
     "chefOrCook": true,
     "category": "Sushi",
     "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-chanthy-yen",
-    "videoUrl": "https://www.instagram.com/reel/Dcwrz62BIDH/",
+    "videoUrl": "https://www.instagram.com/reel/Dc9quJHhWus/",
     "evidenceType": "publisher_expanded_list",
     "videoReviewed": false,
     "experience": "recommendation",
@@ -2075,7 +2053,7 @@
     "chefOrCook": true,
     "category": "Take an Out of Town Guest",
     "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-chanthy-yen",
-    "videoUrl": "https://www.instagram.com/reel/Dcwrz62BIDH/",
+    "videoUrl": "https://www.instagram.com/reel/Dc9quJHhWus/",
     "evidenceType": "publisher_expanded_list",
     "videoReviewed": false,
     "experience": "recommendation",
@@ -2092,7 +2070,7 @@
     "chefOrCook": true,
     "category": "Thai",
     "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-chanthy-yen",
-    "videoUrl": "https://www.instagram.com/reel/Dcwrz62BIDH/",
+    "videoUrl": "https://www.instagram.com/reel/Dc9quJHhWus/",
     "evidenceType": "publisher_expanded_list",
     "videoReviewed": false,
     "experience": "recommendation",
@@ -2122,7 +2100,7 @@
     "chefOrCook": true,
     "category": "Vietnamese",
     "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-chanthy-yen",
-    "videoUrl": "https://www.instagram.com/reel/Dcwrz62BIDH/",
+    "videoUrl": "https://www.instagram.com/reel/Dc9quJHhWus/",
     "evidenceType": "publisher_expanded_list",
     "videoReviewed": false,
     "experience": "recommendation",
@@ -2148,7 +2126,7 @@
     "chefOrCook": true,
     "category": "Outside of Vancouver",
     "sourceUrl": "https://chefsfav.com/blog/mates-on-crates-feat-chanthy-yen",
-    "videoUrl": "https://www.instagram.com/reel/Dcwrz62BIDH/",
+    "videoUrl": "https://www.instagram.com/reel/Dc9quJHhWus/",
     "evidenceType": "publisher_expanded_list",
     "videoReviewed": false,
     "experience": "recommendation",
@@ -3563,11 +3541,7 @@
         "url": "https://www.sushihil.com/"
       },
       {
-        "name": "or Yagot",
-        "url": "https://www.sushihil.com/"
-      },
-      {
-        "name": "o Sushi",
+        "name": "Yagoto Sushi",
         "url": "https://yagotosushi.com/"
       }
     ],
@@ -5536,16 +5510,8 @@
     "recommendation": "Hyderabad Biryani House , Dosa Corner",
     "venueLinks": [
       {
-        "name": "Hyd",
-        "url": "https://hyderabadbiryanihouse.ca"
-      },
-      {
-        "name": "erabad Biry",
-        "url": "https://hyderabadbiryanihouse.ca"
-      },
-      {
-        "name": "ani House",
-        "url": "https://hyderabadbiryanihouse.ca"
+        "name": "Hyderabad Biryani House",
+        "url": "https://hyderabadbiryanihouse.ca/"
       },
       {
         "name": "Dosa Corner",
@@ -5708,12 +5674,8 @@
     "recommendation": "Nemesis Coffee / Dope Bakehouse",
     "venueLinks": [
       {
-        "name": "Nemesis",
+        "name": "Nemesis Coffee",
         "url": "https://www.nemesis.coffee/"
-      },
-      {
-        "name": "Coffee",
-        "url": "https://www.dennys.ca/?utm_source=chatgpt.com"
       },
       {
         "name": "Dope Bakehouse",
@@ -5812,16 +5774,8 @@
     "recommendation": "June",
     "venueLinks": [
       {
-        "name": "J",
-        "url": "https://juneoncambie.com/?utm_source=chatgpt.com"
-      },
-      {
-        "name": "u",
-        "url": "https://www.nemesis.coffee/"
-      },
-      {
-        "name": "ne",
-        "url": "https://www.dennys.ca/?utm_source=chatgpt.com"
+        "name": "June",
+        "url": "https://juneoncambie.com/"
       }
     ],
     "kind": "named_place_or_business",
@@ -6989,5 +6943,273 @@
     "kind": "named_place_or_business",
     "region": "British Columbia",
     "locationEvidence": "Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-gonzalo-almendrades",
+    "guest": "Gonzalo Almendrades",
+    "episodeGuest": "Gonzalo Almendrades",
+    "chefOrCook": true,
+    "category": "Neighbourhood pick",
+    "recommendation": "Bao Bei",
+    "sourceUrl": "https://www.instagram.com/reel/DfqL7HxMwSO/",
+    "videoUrl": "https://www.instagram.com/reel/DfqL7HxMwSO/",
+    "evidenceType": "video_transcript_and_caption_review",
+    "videoReviewed": true,
+    "experience": "recommendation",
+    "region": "British Columbia",
+    "kind": "named_place_or_business",
+    "venueLinks": [
+      {
+        "name": "Bao Bei",
+        "url": "https://www.bao-bei.ca/?utm_source=chatgpt.com"
+      }
+    ],
+    "locationEvidence": "BC venue identity checked against video caption and restaurant context",
+    "comment": "",
+    "startSeconds": 105
+  },
+  {
+    "episodeId": "mates-on-crates-feat-gonzalo-almendrades",
+    "guest": "Gonzalo Almendrades",
+    "episodeGuest": "Gonzalo Almendrades",
+    "chefOrCook": true,
+    "category": "Breakfast",
+    "recommendation": "Say Hey Cafe & Deli",
+    "sourceUrl": "https://www.instagram.com/reel/DfqL7HxMwSO/",
+    "videoUrl": "https://www.instagram.com/reel/DfqL7HxMwSO/",
+    "evidenceType": "video_transcript_and_caption_review",
+    "videoReviewed": true,
+    "experience": "recommendation",
+    "region": "British Columbia",
+    "kind": "named_place_or_business",
+    "venueLinks": [
+      {
+        "name": "Say Hey Cafe & Deli",
+        "url": "https://sayheycafe.square.site/?utm_source=chatgpt.com"
+      }
+    ],
+    "locationEvidence": "BC venue identity checked against video caption and restaurant context",
+    "comment": "He recommends Say Hey on Pender for breakfast.",
+    "startSeconds": 108
+  },
+  {
+    "episodeId": "mates-on-crates-feat-gonzalo-almendrades",
+    "guest": "Gonzalo Almendrades",
+    "episodeGuest": "Gonzalo Almendrades",
+    "chefOrCook": true,
+    "category": "Neighbourhood pick",
+    "recommendation": "DD Mau",
+    "sourceUrl": "https://www.instagram.com/reel/DfqL7HxMwSO/",
+    "videoUrl": "https://www.instagram.com/reel/DfqL7HxMwSO/",
+    "evidenceType": "video_transcript_and_caption_review",
+    "videoReviewed": true,
+    "experience": "recommendation",
+    "region": "British Columbia",
+    "kind": "named_place_or_business",
+    "venueLinks": [
+      {
+        "name": "DD Mau",
+        "url": "https://www.ddmau.ca/"
+      }
+    ],
+    "locationEvidence": "BC venue identity checked against video caption and restaurant context",
+    "comment": "His suggestion here is the carpaccio.",
+    "startSeconds": 110
+  },
+  {
+    "episodeId": "mates-on-crates-feat-gonzalo-almendrades",
+    "guest": "Gonzalo Almendrades",
+    "episodeGuest": "Gonzalo Almendrades",
+    "chefOrCook": true,
+    "category": "Pub",
+    "recommendation": "The Irish Heather",
+    "sourceUrl": "https://www.instagram.com/reel/DfqL7HxMwSO/",
+    "videoUrl": "https://www.instagram.com/reel/DfqL7HxMwSO/",
+    "evidenceType": "video_transcript_and_caption_review",
+    "videoReviewed": true,
+    "experience": "recommendation",
+    "region": "British Columbia",
+    "kind": "named_place_or_business",
+    "venueLinks": [
+      {
+        "name": "The Irish Heather",
+        "url": "https://www.irishheather.com/"
+      }
+    ],
+    "locationEvidence": "BC venue identity checked against video caption and restaurant context",
+    "comment": "He recommends it for a proper Guinness.",
+    "startSeconds": 114
+  },
+  {
+    "episodeId": "mates-on-crates-feat-gonzalo-almendrades",
+    "guest": "Gonzalo Almendrades",
+    "episodeGuest": "Gonzalo Almendrades",
+    "chefOrCook": true,
+    "category": "Brewery",
+    "recommendation": "Streetcar Brewing",
+    "sourceUrl": "https://www.instagram.com/reel/DfqL7HxMwSO/",
+    "videoUrl": "https://www.instagram.com/reel/DfqL7HxMwSO/",
+    "evidenceType": "video_transcript_and_caption_review",
+    "videoReviewed": true,
+    "experience": "recommendation",
+    "region": "British Columbia",
+    "kind": "named_place_or_business",
+    "venueLinks": [],
+    "locationEvidence": "BC venue identity checked against video caption and restaurant context",
+    "comment": "Close to his new North Vancouver location; he says they have been going a lot.",
+    "startSeconds": 147
+  },
+  {
+    "episodeId": "mates-on-crates-feat-gonzalo-almendrades",
+    "guest": "Gonzalo Almendrades",
+    "episodeGuest": "Gonzalo Almendrades",
+    "chefOrCook": true,
+    "category": "Chicken sandwich",
+    "recommendation": "Cream Pony",
+    "sourceUrl": "https://www.instagram.com/reel/DfqL7HxMwSO/",
+    "videoUrl": "https://www.instagram.com/reel/DfqL7HxMwSO/",
+    "evidenceType": "video_transcript_and_caption_review",
+    "videoReviewed": true,
+    "experience": "recommendation",
+    "region": "British Columbia",
+    "kind": "named_place_or_business",
+    "venueLinks": [],
+    "locationEvidence": "BC venue identity checked against video caption and restaurant context",
+    "comment": "Get the chicken sandwich next door when visiting Streetcar Brewing.",
+    "startSeconds": 150
+  },
+  {
+    "episodeId": "mates-on-crates-feat-rob-belcham",
+    "guest": "Rob Belcham",
+    "episodeGuest": "Rob Belcham",
+    "chefOrCook": true,
+    "category": "Chinatown favourite",
+    "recommendation": "Kissa Tanto",
+    "sourceUrl": "https://www.instagram.com/reel/DdIBT7ZhLoY/",
+    "videoUrl": "https://www.instagram.com/reel/DdIBT7ZhLoY/",
+    "evidenceType": "video_transcript_and_caption_review",
+    "videoReviewed": true,
+    "experience": "recommendation",
+    "region": "British Columbia",
+    "kind": "named_place_or_business",
+    "venueLinks": [
+      {
+        "name": "Kissa Tanto",
+        "url": "https://www.kissatanto.com"
+      }
+    ],
+    "locationEvidence": "BC venue identity checked against video caption and restaurant context",
+    "comment": "",
+    "startSeconds": 136
+  },
+  {
+    "episodeId": "mates-on-crates-feat-rob-belcham",
+    "guest": "Rob Belcham",
+    "episodeGuest": "Rob Belcham",
+    "chefOrCook": true,
+    "category": "Chinatown favourite",
+    "recommendation": "Bao Bei",
+    "sourceUrl": "https://www.instagram.com/reel/DdIBT7ZhLoY/",
+    "videoUrl": "https://www.instagram.com/reel/DdIBT7ZhLoY/",
+    "evidenceType": "video_transcript_and_caption_review",
+    "videoReviewed": true,
+    "experience": "recommendation",
+    "region": "British Columbia",
+    "kind": "named_place_or_business",
+    "venueLinks": [
+      {
+        "name": "Bao Bei",
+        "url": "https://www.bao-bei.ca/?utm_source=chatgpt.com"
+      }
+    ],
+    "locationEvidence": "BC venue identity checked against video caption and restaurant context",
+    "comment": "",
+    "startSeconds": 137
+  },
+  {
+    "episodeId": "mates-on-crates-feat-rob-belcham",
+    "guest": "Rob Belcham",
+    "episodeGuest": "Rob Belcham",
+    "chefOrCook": true,
+    "category": "Pub",
+    "recommendation": "The Irish Heather",
+    "sourceUrl": "https://www.instagram.com/reel/DdIBT7ZhLoY/",
+    "videoUrl": "https://www.instagram.com/reel/DdIBT7ZhLoY/",
+    "evidenceType": "video_transcript_and_caption_review",
+    "videoReviewed": true,
+    "experience": "recommendation",
+    "region": "British Columbia",
+    "kind": "named_place_or_business",
+    "venueLinks": [
+      {
+        "name": "The Irish Heather",
+        "url": "https://www.irishheather.com/"
+      }
+    ],
+    "locationEvidence": "BC venue identity checked against video caption and restaurant context",
+    "comment": "",
+    "startSeconds": 138
+  },
+  {
+    "episodeId": "mates-on-crates-feat-rob-belcham",
+    "guest": "Rob Belcham",
+    "episodeGuest": "Rob Belcham",
+    "chefOrCook": true,
+    "category": "Sandwich",
+    "recommendation": "Say Hey Cafe & Deli",
+    "sourceUrl": "https://www.instagram.com/reel/DdIBT7ZhLoY/",
+    "videoUrl": "https://www.instagram.com/reel/DdIBT7ZhLoY/",
+    "evidenceType": "video_transcript_and_caption_review",
+    "videoReviewed": true,
+    "experience": "recommendation",
+    "region": "British Columbia",
+    "kind": "named_place_or_business",
+    "venueLinks": [
+      {
+        "name": "Say Hey Cafe & Deli",
+        "url": "https://sayheycafe.square.site/?utm_source=chatgpt.com"
+      }
+    ],
+    "locationEvidence": "BC venue identity checked against video caption and restaurant context",
+    "comment": "His enthusiastic choice for an outstanding sandwich.",
+    "startSeconds": 140
+  },
+  {
+    "episodeId": "mates-on-crates-feat-tommy-shorthouse",
+    "guest": "Tommy Shorthouse",
+    "episodeGuest": "Tommy Shorthouse",
+    "chefOrCook": true,
+    "category": "Take an out-of-town guest",
+    "recommendation": "Pluvio",
+    "sourceUrl": "https://www.instagram.com/reel/Deu9uPRsn5h/",
+    "videoUrl": "https://www.instagram.com/reel/Deu9uPRsn5h/",
+    "evidenceType": "video_transcript_and_caption_review",
+    "videoReviewed": true,
+    "experience": "recommendation",
+    "region": "British Columbia",
+    "kind": "named_place_or_business",
+    "venueLinks": [],
+    "locationEvidence": "BC venue identity checked against video caption and restaurant context",
+    "comment": "He would take a visitor to Ucluelet or Tofino, specifically praising Pluvio.",
+    "startSeconds": 158
+  },
+  {
+    "episodeId": "mates-on-crates-feat-nathan-pai-phankum",
+    "guest": "Pai Phankum",
+    "episodeGuest": "Pai Phankum",
+    "chefOrCook": true,
+    "category": "Take an out-of-town guest",
+    "recommendation": "Phnom Penh",
+    "sourceUrl": "https://www.instagram.com/reel/DeFw8VEMOH8/",
+    "videoUrl": "https://www.instagram.com/reel/DeFw8VEMOH8/",
+    "evidenceType": "video_transcript_and_caption_review",
+    "videoReviewed": true,
+    "experience": "recommendation",
+    "region": "British Columbia",
+    "kind": "named_place_or_business",
+    "venueLinks": [],
+    "locationEvidence": "BC venue identity checked against video caption and restaurant context",
+    "comment": "",
+    "startSeconds": 136
   }
 ]

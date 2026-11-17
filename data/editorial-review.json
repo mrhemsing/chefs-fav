@@ -41,9 +41,15 @@
   "mates-on-crates-feat-etienne-buddingh": {
     "chefOrCook": true,
     "excludeAffiliations": [
-      "Oddfish"
+      "Oddfish",
+      "Radish"
     ],
-    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography.",
+    "videoAffiliationEvidence": {
+      "url": "https://www.instagram.com/reel/DfTAzEbMvpT/",
+      "startSeconds": 26,
+      "note": "Identifies Radish as their sister restaurant; reiterated at 111 seconds."
+    }
   },
   "mates-on-crates-feat-annika-hagen": {
     "chefOrCook": false,
@@ -70,9 +76,16 @@
   "mates-on-crates-feat-tommy-shorthouse": {
     "chefOrCook": true,
     "excludeAffiliations": [
-      "Banter Room"
+      "Banter Room",
+      "Prophecy",
+      "Navi House"
     ],
-    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography.",
+    "videoAffiliationEvidence": {
+      "url": "https://www.instagram.com/reel/Deu9uPRsn5h/",
+      "startSeconds": 78,
+      "note": "Banter Room group also includes Prophecy and upcoming Navi House."
+    }
   },
   "mates-on-crates-feat-james-heras": {
     "chefOrCook": false,
@@ -163,9 +176,12 @@
   "mates-on-crates-feat-chanthy-yen": {
     "chefOrCook": true,
     "excludeAffiliations": [
-      "Touk"
+      "Touk",
+      "Mee Bar"
     ],
-    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography.",
+    "videoUrlOverride": "https://www.instagram.com/reel/Dc9quJHhWus/",
+    "videoLinkCorrection": "The article links to Vanni Sartini in Halifax. Corrected against the actual reel caption naming Chanthy Yen at Touk and Mee Bar."
   },
   "mates-on-crates-feat-abbie-gluvic": {
     "chefOrCook": true,

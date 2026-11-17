@@ -88,6 +88,14 @@
     "entry": "Experience: The $85-per-person Feed Me menu, where the kitchen builds a meal around guests’ preferences and recommendations."
   },
   {
+    "episodeId": "mates-on-crates-feat-etienne-buddingh",
+    "reason": "own/current workplace or affiliated venue",
+    "entry": "Coffee: Radish",
+    "matchedAffiliations": [
+      "Radish"
+    ]
+  },
+  {
     "episodeId": "mates-on-crates-feat-annika-hagen",
     "reason": "own-venue menu / outside external favourites section",
     "entry": "Stay: Book the casita for a peaceful retreat with an outdoor shower, thoughtful design details, and a chance to enjoy the quiet of Salt Spring Island"
