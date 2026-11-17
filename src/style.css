@@ -107,3 +107,9 @@
 .category-label{min-width:0}
 #nav-back-chefs,#back-chefs,.back-to-picks{display:inline-flex;align-items:center;gap:10px}
 .back-arrow{width:24px;height:24px;stroke-width:3;flex-shrink:0}
+
+/* Neighbourhood and city get separate lines, with no separator dot. */
+.location-lines{display:block;min-width:0;text-align:left}
+.location-lines>span{display:block}
+.location-tag{align-items:flex-start;line-height:1.5}
+.location-tag svg{width:1em;height:1em;margin-top:calc((1lh - 1em)/2)}
