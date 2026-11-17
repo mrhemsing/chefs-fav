@@ -37,7 +37,8 @@
       "Elio Volpe",
       "Banda Volpi"
     ],
-    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+    "reviewBasis": "Publisher biography explicitly identifies a BC restaurant, cafe, bar, brewery, market or dining-resort owner/co-owner/founder/partner; included under clarified owner scope.",
+    "includeOwner": true
   },
   "mates-on-crates-feat-etienne-buddingh": {
     "chefOrCook": true,
@@ -64,7 +65,8 @@
     "excludeAffiliations": [
       "Kam Wai"
     ],
-    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+    "reviewBasis": "Publisher biography explicitly identifies a BC restaurant, cafe, bar, brewery, market or dining-resort owner/co-owner/founder/partner; included under clarified owner scope.",
+    "includeOwner": true
   },
   "mates-on-crates-feat-curtis-redel": {
     "chefOrCook": false,
@@ -72,7 +74,8 @@
       "Woods on Pender",
       "Coffee + Kitchen"
     ],
-    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+    "reviewBasis": "Publisher biography explicitly identifies a BC restaurant, cafe, bar, brewery, market or dining-resort owner/co-owner/founder/partner; included under clarified owner scope.",
+    "includeOwner": true
   },
   "mates-on-crates-feat-tommy-shorthouse": {
     "chefOrCook": true,
@@ -93,7 +96,8 @@
     "excludeAffiliations": [
       "7 Seas Fish Market"
     ],
-    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+    "reviewBasis": "Publisher biography explicitly identifies a BC restaurant, cafe, bar, brewery, market or dining-resort owner/co-owner/founder/partner; included under clarified owner scope.",
+    "includeOwner": true
   },
   "mates-on-crates-feat-kyle-smith": {
     "chefOrCook": false,
@@ -107,7 +111,8 @@
     "excludeAffiliations": [
       "Shaketown"
     ],
-    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+    "reviewBasis": "Publisher biography explicitly identifies a BC restaurant, cafe, bar, brewery, market or dining-resort owner/co-owner/founder/partner; included under clarified owner scope.",
+    "includeOwner": true
   },
   "mates-on-crates-feat-quynh-anh-pham": {
     "chefOrCook": true,
@@ -128,21 +133,24 @@
     "excludeAffiliations": [
       "Rise Up Marketplace"
     ],
-    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+    "reviewBasis": "Publisher biography explicitly identifies a BC restaurant, cafe, bar, brewery, market or dining-resort owner/co-owner/founder/partner; included under clarified owner scope.",
+    "includeOwner": true
   },
   "mates-on-crates-feat-paul-clark": {
     "chefOrCook": false,
     "excludeAffiliations": [
       "The Mainstay"
     ],
-    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+    "reviewBasis": "Publisher biography explicitly identifies a BC restaurant, cafe, bar, brewery, market or dining-resort owner/co-owner/founder/partner; included under clarified owner scope.",
+    "includeOwner": true
   },
   "mates-on-crates-feat-adam-mills": {
     "chefOrCook": false,
     "excludeAffiliations": [
-      "Four Winds Beach House"
+      "Four Winds"
     ],
-    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+    "reviewBasis": "Publisher biography explicitly identifies a BC restaurant, cafe, bar, brewery, market or dining-resort owner/co-owner/founder/partner; included under clarified owner scope.",
+    "includeOwner": true
   },
   "mates-on-crates-feat-melanie-gagnon": {
     "chefOrCook": false,
@@ -172,7 +180,8 @@
     "excludeAffiliations": [
       "Emilee’s Sweet House"
     ],
-    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+    "reviewBasis": "Publisher biography explicitly identifies a BC restaurant, cafe, bar, brewery, market or dining-resort owner/co-owner/founder/partner; included under clarified owner scope.",
+    "includeOwner": true
   },
   "mates-on-crates-feat-chanthy-yen": {
     "chefOrCook": true,
@@ -197,7 +206,8 @@
       "Peya",
       "Peya"
     ],
-    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+    "reviewBasis": "Publisher biography explicitly identifies a BC restaurant, cafe, bar, brewery, market or dining-resort owner/co-owner/founder/partner; included under clarified owner scope.",
+    "includeOwner": true
   },
   "mates-on-crates-feat-vanni-sartini": {
     "chefOrCook": false,
@@ -256,14 +266,17 @@
       "La Taqueria",
       "Touk"
     ],
-    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+    "reviewBasis": "Publisher biography explicitly identifies a BC restaurant, cafe, bar, brewery, market or dining-resort owner/co-owner/founder/partner; included under clarified owner scope.",
+    "includeOwner": true,
+    "videoUrlOverride": "https://www.instagram.com/reel/DbRhWTxhvwY/"
   },
   "mates-on-crates-feat-andrew-kong": {
     "chefOrCook": false,
     "excludeAffiliations": [
       "Bar Supernova"
     ],
-    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+    "reviewBasis": "Publisher biography explicitly identifies a BC restaurant, cafe, bar, brewery, market or dining-resort owner/co-owner/founder/partner; included under clarified owner scope.",
+    "includeOwner": true
   },
   "mates-on-crates-feat-roger-ma": {
     "chefOrCook": true,
@@ -277,7 +290,8 @@
     "excludeAffiliations": [
       "Innocent Ice Cream"
     ],
-    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+    "reviewBasis": "Publisher biography explicitly identifies a BC restaurant, cafe, bar, brewery, market or dining-resort owner/co-owner/founder/partner; included under clarified owner scope.",
+    "includeOwner": true
   },
   "mates-on-crates-feat-kyle-mcintosh": {
     "chefOrCook": true,
@@ -298,7 +312,8 @@
     "excludeAffiliations": [
       "Field & Social"
     ],
-    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+    "reviewBasis": "Publisher biography explicitly identifies a BC restaurant, cafe, bar, brewery, market or dining-resort owner/co-owner/founder/partner; included under clarified owner scope.",
+    "includeOwner": true
   },
   "mates-on-crates-feat-dylan-brentwood": {
     "chefOrCook": false,
@@ -312,7 +327,8 @@
     "excludeAffiliations": [
       "Cockney kings"
     ],
-    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+    "reviewBasis": "Publisher biography explicitly identifies a BC restaurant, cafe, bar, brewery, market or dining-resort owner/co-owner/founder/partner; included under clarified owner scope.",
+    "includeOwner": true
   },
   "mates-on-crates-feat-richard-stonehouse-mystic": {
     "chefOrCook": false,
@@ -333,7 +349,8 @@
     "excludeAffiliations": [
       "Northern Cafe"
     ],
-    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+    "reviewBasis": "Publisher biography explicitly identifies a BC restaurant, cafe, bar, brewery, market or dining-resort owner/co-owner/founder/partner; included under clarified owner scope.",
+    "includeOwner": true
   },
   "mates-on-crates-feat-keegan-mcgregor": {
     "chefOrCook": false,
@@ -361,7 +378,8 @@
     "excludeAffiliations": [
       "Les Amis du fromage"
     ],
-    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+    "reviewBasis": "Publisher biography explicitly identifies a BC restaurant, cafe, bar, brewery, market or dining-resort owner/co-owner/founder/partner; included under clarified owner scope.",
+    "includeOwner": true
   },
   "mates-on-crates-feat-nick-devine": {
     "chefOrCook": false,
@@ -385,7 +403,9 @@
     "excludeAffiliations": [
       "Columbus meats"
     ],
-    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+    "reviewBasis": "Publisher biography explicitly identifies a BC restaurant, cafe, bar, brewery, market or dining-resort owner/co-owner/founder/partner; included under clarified owner scope.",
+    "includeOwner": true,
+    "videoUrlOverride": "https://www.instagram.com/reel/DYnk0Qay6Le/"
   },
   "mates-on-crates-feat-jay-jones": {
     "chefOrCook": false,
@@ -399,14 +419,20 @@
     "excludeAffiliations": [
       "The Barn"
     ],
-    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+    "reviewBasis": "Publisher biography explicitly identifies a BC restaurant, cafe, bar, brewery, market or dining-resort owner/co-owner/founder/partner; included under clarified owner scope.",
+    "includeOwner": true
   },
   "mates-on-crates-feat-reuben-major": {
     "chefOrCook": false,
     "excludeAffiliations": [
-      "Violeté"
+      "Violeté",
+      "Belgard Kitchen",
+      "Havana",
+      "Flamingo Room",
+      "Van Urban"
     ],
-    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+    "reviewBasis": "Publisher biography explicitly identifies a BC restaurant, cafe, bar, brewery, market or dining-resort owner/co-owner/founder/partner; included under clarified owner scope.",
+    "includeOwner": true
   },
   "mates-on-crates-feat-mike-jacobsen": {
     "chefOrCook": false,
@@ -423,7 +449,9 @@
     "excludeAffiliations": [
       "El Santo"
     ],
-    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+    "reviewBasis": "Publisher biography explicitly identifies a BC restaurant, cafe, bar, brewery, market or dining-resort owner/co-owner/founder/partner; included under clarified owner scope.",
+    "includeOwner": true,
+    "videoUrlOverride": "https://www.instagram.com/reel/DX5OkakB1rj/"
   },
   "mates-on-crates-feat-aaron-surman": {
     "chefOrCook": true,
@@ -445,7 +473,8 @@
     "excludeAffiliations": [
       "Tacofino"
     ],
-    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+    "reviewBasis": "Publisher biography explicitly identifies a BC restaurant, cafe, bar, brewery, market or dining-resort owner/co-owner/founder/partner; included under clarified owner scope.",
+    "includeOwner": true
   },
   "mates-on-crates-feat-sarah-campbell": {
     "chefOrCook": false,
@@ -471,7 +500,8 @@
     "excludeAffiliations": [
       "Fable Diner"
     ],
-    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+    "reviewBasis": "Publisher biography explicitly identifies a BC restaurant, cafe, bar, brewery, market or dining-resort owner/co-owner/founder/partner; included under clarified owner scope.",
+    "includeOwner": true
   },
   "mates-on-crates-feat-haidee-hart": {
     "chefOrCook": true,
@@ -485,7 +515,8 @@
     "excludeAffiliations": [
       "La Cerveceria Astilleros"
     ],
-    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+    "reviewBasis": "Publisher biography explicitly identifies a BC restaurant, cafe, bar, brewery, market or dining-resort owner/co-owner/founder/partner; included under clarified owner scope.",
+    "includeOwner": true
   },
   "mates-on-crates-feat-johnny-wells": {
     "chefOrCook": true,
@@ -501,14 +532,16 @@
       "Lola",
       "The Pink Geranium"
     ],
-    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+    "reviewBasis": "Publisher biography explicitly identifies a BC restaurant, cafe, bar, brewery, market or dining-resort owner/co-owner/founder/partner; included under clarified owner scope.",
+    "includeOwner": true
   },
   "mates-on-crates-feat-sandra-bruzzese": {
     "chefOrCook": false,
     "excludeAffiliations": [
       "La Grotta Del Formaggio"
     ],
-    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+    "reviewBasis": "Publisher biography explicitly identifies a BC restaurant, cafe, bar, brewery, market or dining-resort owner/co-owner/founder/partner; included under clarified owner scope.",
+    "includeOwner": true
   },
   "mates-on-crates-feat-tushar-tondvalkar": {
     "chefOrCook": true,
@@ -536,7 +569,8 @@
     "excludeAffiliations": [
       "Tasty Indian Bistro"
     ],
-    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+    "reviewBasis": "Publisher biography explicitly identifies a BC restaurant, cafe, bar, brewery, market or dining-resort owner/co-owner/founder/partner; included under clarified owner scope.",
+    "includeOwner": true
   },
   "mates-on-crates-feat-oscar-holdago": {
     "chefOrCook": true,
@@ -562,7 +596,8 @@
       "Caffe Soccavo",
       "Don't Argue"
     ],
-    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+    "reviewBasis": "Publisher biography explicitly identifies a BC restaurant, cafe, bar, brewery, market or dining-resort owner/co-owner/founder/partner; included under clarified owner scope.",
+    "includeOwner": true
   },
   "mates-on-crates-feat-jake-mcwilliams": {
     "chefOrCook": true,
@@ -576,7 +611,8 @@
     "excludeAffiliations": [
       "Sawasdee Thai"
     ],
-    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+    "reviewBasis": "Publisher biography explicitly identifies a BC restaurant, cafe, bar, brewery, market or dining-resort owner/co-owner/founder/partner; included under clarified owner scope.",
+    "includeOwner": true
   },
   "mates-on-crates-feat-dylan-campbell": {
     "chefOrCook": false,
@@ -591,14 +627,16 @@
       "Irish Heather",
       "Sceal Eile"
     ],
-    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+    "reviewBasis": "Publisher biography explicitly identifies a BC restaurant, cafe, bar, brewery, market or dining-resort owner/co-owner/founder/partner; included under clarified owner scope.",
+    "includeOwner": true
   },
   "mates-on-crates-feat-tyson-reimer": {
     "chefOrCook": false,
     "excludeAffiliations": [
       "Rumblefish"
     ],
-    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+    "reviewBasis": "Publisher biography explicitly identifies a BC restaurant, cafe, bar, brewery, market or dining-resort owner/co-owner/founder/partner; included under clarified owner scope.",
+    "includeOwner": true
   },
   "mates-on-crates-feat-tannis-ling": {
     "chefOrCook": false,
@@ -647,7 +685,8 @@
       "Parkside",
       "Slackwater"
     ],
-    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+    "reviewBasis": "Publisher biography explicitly identifies a BC restaurant, cafe, bar, brewery, market or dining-resort owner/co-owner/founder/partner; included under clarified owner scope.",
+    "includeOwner": true
   },
   "mates-on-crates-feat-mijune-pak": {
     "chefOrCook": false,
@@ -674,7 +713,8 @@
       "Mon Pitou",
       "Jonathon Hawes"
     ],
-    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+    "reviewBasis": "Publisher biography explicitly identifies a BC restaurant, cafe, bar, brewery, market or dining-resort owner/co-owner/founder/partner; included under clarified owner scope.",
+    "includeOwner": true
   },
   "mates-on-crates-95-feat-frank-morra": {
     "chefOrCook": false,
@@ -685,7 +725,8 @@
       "Don't Argue",
       "Caffe Soccavo"
     ],
-    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+    "reviewBasis": "Publisher biography explicitly identifies a BC restaurant, cafe, bar, brewery, market or dining-resort owner/co-owner/founder/partner; included under clarified owner scope.",
+    "includeOwner": true
   },
   "mates-on-crates-93-feat-hilary-nguy": {
     "chefOrCook": true,
@@ -699,7 +740,8 @@
     "excludeAffiliations": [
       "Thank You Pizza"
     ],
-    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+    "reviewBasis": "Publisher biography explicitly identifies a BC restaurant, cafe, bar, brewery, market or dining-resort owner/co-owner/founder/partner; included under clarified owner scope.",
+    "includeOwner": true
   },
   "mates-on-crates-88-feat-reverie-beall": {
     "chefOrCook": false,
@@ -713,7 +755,8 @@
     "excludeAffiliations": [
       "Dear Gus"
     ],
-    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+    "reviewBasis": "Publisher biography explicitly identifies a BC restaurant, cafe, bar, brewery, market or dining-resort owner/co-owner/founder/partner; included under clarified owner scope.",
+    "includeOwner": true
   },
   "mates-on-crates-70-feat-taylor-mikasko": {
     "chefOrCook": false,
@@ -727,7 +770,8 @@
     "excludeAffiliations": [
       "Rosie's BBQ"
     ],
-    "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+    "reviewBasis": "Publisher biography explicitly identifies a BC restaurant, cafe, bar, brewery, market or dining-resort owner/co-owner/founder/partner; included under clarified owner scope.",
+    "includeOwner": true
   },
   "mates-on-crates-68-feat-claire-livia-lassam": {
     "chefOrCook": true,

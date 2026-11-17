@@ -6,9 +6,9 @@ A sourced starting list of **British Columbia destinations recommended by chefs 
 
 **[Open the chef directory](https://chefs-fav.vercel.app/)** — a chef/restaurant-owner directory in a newest-first list (no map). Crate episode photos introduce each person and their restaurant; selecting a profile reveals that person’s outside recommendations and timestamped comments. All-picks browsing is secondary, with no popularity ranking or endorsement tally. Saved favourites stay on your device. Mobile uses a scrolling profile list and individual recommendation cards.
 
-The directory has 23 profiles; dates are labelled as episode write-up dates. There are 268 place entries, with addresses available for 189 OpenStreetMap matches. Multiple-chain locations may be unspecified by the original chef; the location note makes this explicit.
+The directory has 64 profiles; dates are labelled as episode write-up dates. There are 585 place entries, with addresses available for 200 OpenStreetMap matches. Multiple-chain locations may be unspecified by the original chef; the location note makes this explicit.
 
-- **[Chef-by-chef recommendations](CHEFS.md)** — 318 category/answer entries from 23 episode write-ups.
+- **[Chef-by-chef recommendations](CHEFS.md)** — 785 category/answer entries from 64 episode write-ups.
 - [Spreadsheet CSV](data/recommendations.csv)
 - [Structured recommendations](data/recommendations.json)
 - [Included episodes and source links](data/episodes.json)
@@ -17,7 +17,7 @@ An entry is an answer, **not a unique restaurant**: a chef may recommend the sam
 
 ## Coverage — incomplete video review
 
-As of November 17, 2026, 99 official episode write-ups were inventoried across ten pages of the publisher’s blog. The published list above is the BC chef/cook subset, not all 99 guests: other guests include bartenders, owners and hospitality professionals whose biographies do not explicitly establish a culinary role.
+As of November 17, 2026, 99 official episode write-ups were inventoried across ten pages of the publisher’s blog. The published list above is the BC chef/cook and food-business-owner subset, not all 99 guests. Restaurant owners are included regardless of culinary title. Non-owner hospitality professionals and non-BC episodes remain outside this directory.
 
 **Video review is in progress. This is not a claim to cover every episode or everything said on camera.** The initial Instagram session stopped at a login wall; that was resolved when the owner signed in. Expanded publisher lists include off-camera recommendations and retain `publisher_expanded_list` / `videoReviewed: false`. Newly added video-sourced picks are separately marked `video_transcript_and_caption_review`.
 

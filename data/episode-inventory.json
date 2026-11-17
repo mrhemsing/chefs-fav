@@ -267,7 +267,7 @@
     "guest": "Adam Mills",
     "chefOrCook": false,
     "affiliationsExcluded": [
-      "Four Winds Beach House"
+      "Four Winds"
     ],
     "articleUrl": "https://chefsfav.com/blog/mates-on-crates-feat-adam-mills",
     "articleDate": "2026-09-21",
@@ -504,7 +504,7 @@
     "articleUrl": "https://chefsfav.com/blog/mates-on-crates-feat-tara-and-erick",
     "articleDate": "2026-07-27",
     "videoUrls": [
-      "https://www.instagram.com/reel/DbJy4AthANl/"
+      "https://www.instagram.com/reel/DbRhWTxhvwY/"
     ],
     "evidenceType": "publisher_expanded_list",
     "videoReviewed": false
@@ -778,7 +778,7 @@
     "articleUrl": "https://chefsfav.com/blog/mates-on-crates-feat-eugenio-masi",
     "articleDate": "2026-05-23",
     "videoUrls": [
-      "https://www.instagram.com/reel/DYVjQxxBRa_/"
+      "https://www.instagram.com/reel/DYnk0Qay6Le/"
     ],
     "evidenceType": "publisher_expanded_list",
     "videoReviewed": false
@@ -818,7 +818,11 @@
     "guest": "Reuben Major",
     "chefOrCook": false,
     "affiliationsExcluded": [
-      "Violeté"
+      "Violeté",
+      "Belgard Kitchen",
+      "Havana",
+      "Flamingo Room",
+      "Van Urban"
     ],
     "articleUrl": "https://chefsfav.com/blog/mates-on-crates-feat-reuben-major",
     "articleDate": "2026-05-08",
@@ -855,7 +859,7 @@
     "articleUrl": "https://chefsfav.com/blog/mates-on-crates-feat-alejandro-diaz",
     "articleDate": "2026-05-04",
     "videoUrls": [
-      "https://www.instagram.com/reel/DXsWlzpBhpe/"
+      "https://www.instagram.com/reel/DX5OkakB1rj/"
     ],
     "evidenceType": "publisher_expanded_list",
     "videoReviewed": false
@@ -892,7 +896,7 @@
   },
   {
     "id": "mates-on-crates-feat-gino-di-domenico-2026",
-    "guest": "Gino Di Domenico (2026",
+    "guest": "Gino Di Domenico",
     "chefOrCook": false,
     "affiliationsExcluded": [
       "Tacofino"

@@ -15,7 +15,7 @@ def norm(s):
     return re.sub(r'[^a-z0-9]', '', unicodedata.normalize('NFKD', s).encode('ascii', 'ignore').decode().lower())
 def clean(s):
     s = re.sub(r'\s+', ' ', html.unescape(s).replace('\u200d', '').replace('\u200b', '')).strip()
-    for old, new in {'S hipyards C offee':'Shipyards Coffee', 'Downl ow':'Downlow', 'Hyd erabad Biry ani':'Hyderabad Biryani', 'D enny':'Denny', 'J u ne':'June', 'Dim S um':'Dim Sum', 'Yagot o':'Yagoto', 'B l ew':'Blew', 'Chris ENns':'Chris Enns', 'Oscar Holdago':'Oscar Holgado'}.items():
+    for old, new in {'S hipyards C offee':'Shipyards Coffee', 'Downl ow':'Downlow', 'Hyd erabad Biry ani':'Hyderabad Biryani', 'D enny':'Denny', 'J u ne':'June', 'Dim S um':'Dim Sum', 'Yagot o':'Yagoto', 'B l ew':'Blew', 'Chris ENns':'Chris Enns', 'Oscar Holdago':'Oscar Holgado', 'Foglift er Cof fee':'Foglifter Coffee', 'C omo Taperia':'Como Taperia', 'The Flam ingo Room':'The Flamingo Room', 'HADA Coffe e':'HADA Coffee', 'Tap R estaurant':'Tap Restaurant', 'Sushi Ba r':'Sushi Bar'}.items():
         s = s.replace(old, new)
     return s
 articles = json.loads((ROOT / '.cache/articles.json').read_text(encoding='utf-8'))
@@ -38,6 +38,7 @@ for article in articles:
             li.decompose()
     title = clean(article['title'])
     guest = re.sub(r'^.*?[Ff]eat\.?\s*', '', title).strip(' ()')
+    guest = re.sub(r'\s*\(20\d\d\)?$', '', guest)
     source = article['fullUrl']
     if source.startswith('/'):
         source = 'https://chefsfav.com' + source
@@ -124,6 +125,14 @@ scope_excluded = []
 bc_rows = []
 for r in rows:
     reason = None
+    # Reviewed non-BC exceptions in owner episodes; retain mixed BC choices.
+    if (r['episodeGuest']=='Paul Grunberg' and r['category']=='Dying to Try') or (r['episodeGuest']=='Karl Gregg' and r['category']=='Burger') or (r['episodeGuest']=='Owen Coomer' and r['category']=='Brewery'):
+        reject=['Bistrot','Leroy','Deschutes','Modern Times','Rodenbach']
+        r['venueLinks']=[l for l in r['venueLinks'] if not any(v.lower() in l['name'].lower() for v in reject)]
+        r['recommendation']='; '.join(l['name'] for l in r['venueLinks'])
+    if any(x in r['category'] for x in ['Mexico','Texas']) or any(x in r['recommendation'] for x in ["Linny's",'Le Vin Papillon','Tetetlán']) or r['category'] in ['Soccer Team','Perfect Side for Brisket']:
+        scope_excluded.append({'episodeId':r['episodeId'],'category':r['category'],'reason':'Reviewed owner-episode outside-BC destination or non-place answer'})
+        continue
     if not r['chefOrCook'] and not review[r['episodeId']].get('includeOwner'):
         reason = 'Supplementary non-chef guest: outside chef-focused publication scope'
     elif r['episodeGuest'] in outside_guests:

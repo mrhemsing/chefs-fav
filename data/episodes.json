@@ -32,6 +32,26 @@
     "recommendationCount": 11
   },
   {
+    "id": "mates-on-crates-feat-paul-grunberg",
+    "guest": "Paul Grunberg",
+    "chefOrCook": false,
+    "affiliationsExcluded": [
+      "Savio Volpe",
+      "Pepino",
+      "Caffe La Tana",
+      "Elio Volpe",
+      "Banda Volpi"
+    ],
+    "articleUrl": "https://chefsfav.com/blog/mates-on-crates-feat-paul-grunberg",
+    "articleDate": "2026-11-06",
+    "videoUrls": [
+      "https://www.instagram.com/reel/DfYKY-BM-W-/"
+    ],
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "recommendationCount": 9
+  },
+  {
     "id": "mates-on-crates-feat-etienne-buddingh",
     "guest": "Etienne Buddingh",
     "chefOrCook": true,
@@ -47,6 +67,39 @@
     "evidenceType": "publisher_expanded_list",
     "videoReviewed": false,
     "recommendationCount": 16
+  },
+  {
+    "id": "mates-on-crates-feat-william-liu",
+    "guest": "William Liu",
+    "chefOrCook": false,
+    "affiliationsExcluded": [
+      "Kam Wai"
+    ],
+    "articleUrl": "https://chefsfav.com/blog/mates-on-crates-feat-william-liu",
+    "articleDate": "2026-10-28",
+    "videoUrls": [
+      "https://www.instagram.com/reel/DfA_MW2MfUa/"
+    ],
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "recommendationCount": 11
+  },
+  {
+    "id": "mates-on-crates-feat-curtis-redel",
+    "guest": "Curtis Redel",
+    "chefOrCook": false,
+    "affiliationsExcluded": [
+      "Woods on Pender",
+      "Coffee + Kitchen"
+    ],
+    "articleUrl": "https://chefsfav.com/blog/mates-on-crates-feat-curtis-redel",
+    "articleDate": "2026-10-26",
+    "videoUrls": [
+      "https://www.instagram.com/reel/De71mNzMjIt/"
+    ],
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "recommendationCount": 8
   },
   {
     "id": "mates-on-crates-feat-tommy-shorthouse",
@@ -65,6 +118,38 @@
     "evidenceType": "publisher_expanded_list",
     "videoReviewed": false,
     "recommendationCount": 17
+  },
+  {
+    "id": "mates-on-crates-feat-james-heras",
+    "guest": "James Heras",
+    "chefOrCook": false,
+    "affiliationsExcluded": [
+      "7 Seas Fish Market"
+    ],
+    "articleUrl": "https://chefsfav.com/blog/mates-on-crates-feat-james-heras",
+    "articleDate": "2026-10-20",
+    "videoUrls": [
+      "https://www.instagram.com/reel/Dep0C8osDK7/"
+    ],
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "recommendationCount": 12
+  },
+  {
+    "id": "mates-on-crates-feat-david-varga",
+    "guest": "David Varga",
+    "chefOrCook": false,
+    "affiliationsExcluded": [
+      "Shaketown"
+    ],
+    "articleUrl": "https://chefsfav.com/blog/mates-on-crates-feat-david-varga",
+    "articleDate": "2026-10-14",
+    "videoUrls": [
+      "https://www.instagram.com/reel/DeXyfrWsU_o/"
+    ],
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "recommendationCount": 10
   },
   {
     "id": "mates-on-crates-feat-quynh-anh-pham",
@@ -99,6 +184,54 @@
     "recommendationCount": 14
   },
   {
+    "id": "mates-on-crates-feat-roger-collins",
+    "guest": "Roger Collins",
+    "chefOrCook": false,
+    "affiliationsExcluded": [
+      "Rise Up Marketplace"
+    ],
+    "articleUrl": "https://chefsfav.com/blog/mates-on-crates-feat-roger-collins",
+    "articleDate": "2026-09-28",
+    "videoUrls": [
+      "https://www.instagram.com/reel/DdzvcnHMKQb/"
+    ],
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "recommendationCount": 12
+  },
+  {
+    "id": "mates-on-crates-feat-paul-clark",
+    "guest": "Paul Clark",
+    "chefOrCook": false,
+    "affiliationsExcluded": [
+      "The Mainstay"
+    ],
+    "articleUrl": "https://chefsfav.com/blog/mates-on-crates-feat-paul-clark",
+    "articleDate": "2026-09-28",
+    "videoUrls": [
+      "https://www.instagram.com/reel/Ddulwiisyre/"
+    ],
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "recommendationCount": 15
+  },
+  {
+    "id": "mates-on-crates-feat-adam-mills",
+    "guest": "Adam Mills",
+    "chefOrCook": false,
+    "affiliationsExcluded": [
+      "Four Winds"
+    ],
+    "articleUrl": "https://chefsfav.com/blog/mates-on-crates-feat-adam-mills",
+    "articleDate": "2026-09-21",
+    "videoUrls": [
+      "https://www.instagram.com/reel/Ddht266sybb/"
+    ],
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "recommendationCount": 11
+  },
+  {
     "id": "mates-on-crates-feat-rob-belcham",
     "guest": "Rob Belcham",
     "chefOrCook": true,
@@ -115,6 +248,22 @@
     "evidenceType": "publisher_expanded_list",
     "videoReviewed": false,
     "recommendationCount": 12
+  },
+  {
+    "id": "mates-on-crates-feat-cuma-yaldiz",
+    "guest": "Cuma Yaldiz",
+    "chefOrCook": false,
+    "affiliationsExcluded": [
+      "Emilee’s Sweet House"
+    ],
+    "articleUrl": "https://chefsfav.com/blog/mates-on-crates-feat-cuma-yaldiz",
+    "articleDate": "2026-09-09",
+    "videoUrls": [
+      "https://www.instagram.com/reel/DdC0UgWh_kd/"
+    ],
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "recommendationCount": 7
   },
   {
     "id": "mates-on-crates-feat-chanthy-yen",
@@ -148,6 +297,23 @@
     "evidenceType": "publisher_expanded_list",
     "videoReviewed": false,
     "recommendationCount": 12
+  },
+  {
+    "id": "mates-on-crates-feat-kevin-day-and-chris-enns",
+    "guest": "Kevin Day & Chris Enns",
+    "chefOrCook": false,
+    "affiliationsExcluded": [
+      "Peya",
+      "Peya"
+    ],
+    "articleUrl": "https://chefsfav.com/blog/mates-on-crates-feat-kevin-day-and-chris-enns",
+    "articleDate": "2026-09-03",
+    "videoUrls": [
+      "https://www.instagram.com/reel/Dbt2DYxhOsi/"
+    ],
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "recommendationCount": 14
   },
   {
     "id": "mates-on-crates-feat-brad-miller",
@@ -199,6 +365,40 @@
     "recommendationCount": 11
   },
   {
+    "id": "mates-on-crates-feat-tara-and-erick",
+    "guest": "Tara Davies & Erick Vazquez",
+    "chefOrCook": false,
+    "affiliationsExcluded": [
+      "Chupito",
+      "La Taqueria",
+      "Touk"
+    ],
+    "articleUrl": "https://chefsfav.com/blog/mates-on-crates-feat-tara-and-erick",
+    "articleDate": "2026-07-27",
+    "videoUrls": [
+      "https://www.instagram.com/reel/DbRhWTxhvwY/"
+    ],
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "recommendationCount": 8
+  },
+  {
+    "id": "mates-on-crates-feat-andrew-kong",
+    "guest": "Andrew Kong",
+    "chefOrCook": false,
+    "affiliationsExcluded": [
+      "Bar Supernova"
+    ],
+    "articleUrl": "https://chefsfav.com/blog/mates-on-crates-feat-andrew-kong",
+    "articleDate": "2026-07-24",
+    "videoUrls": [
+      "https://www.instagram.com/reel/DbJy4AthANl/"
+    ],
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "recommendationCount": 14
+  },
+  {
     "id": "mates-on-crates-feat-roger-ma",
     "guest": "Roger Ma",
     "chefOrCook": true,
@@ -213,6 +413,22 @@
     "evidenceType": "publisher_expanded_list",
     "videoReviewed": false,
     "recommendationCount": 20
+  },
+  {
+    "id": "mates-on-crates-feat-asacia-biln",
+    "guest": "Asacia Biln",
+    "chefOrCook": false,
+    "affiliationsExcluded": [
+      "Innocent Ice Cream"
+    ],
+    "articleUrl": "https://chefsfav.com/blog/mates-on-crates-feat-asacia-biln",
+    "articleDate": "2026-07-20",
+    "videoUrls": [
+      "https://www.instagram.com/reel/Da_fsbABh6E/"
+    ],
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "recommendationCount": 15
   },
   {
     "id": "mates-on-crates-feat-kyle-mcintosh",
@@ -231,6 +447,38 @@
     "recommendationCount": 15
   },
   {
+    "id": "mates-on-crates-feat-barbora-samieian",
+    "guest": "Barbora Samieian",
+    "chefOrCook": false,
+    "affiliationsExcluded": [
+      "Field & Social"
+    ],
+    "articleUrl": "https://chefsfav.com/blog/mates-on-crates-feat-barbora-samieian",
+    "articleDate": "2026-07-05",
+    "videoUrls": [
+      "https://www.instagram.com/reel/DaTL7Ish80D/"
+    ],
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "recommendationCount": 15
+  },
+  {
+    "id": "mates-on-crates-feat-greg-dion",
+    "guest": "Greg Dion",
+    "chefOrCook": false,
+    "affiliationsExcluded": [
+      "Cockney kings"
+    ],
+    "articleUrl": "https://chefsfav.com/blog/mates-on-crates-feat-greg-dion",
+    "articleDate": "2026-06-26",
+    "videoUrls": [
+      "https://www.instagram.com/reel/DaBsuEEB7nT/"
+    ],
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "recommendationCount": 12
+  },
+  {
     "id": "mates-on-crates-feat-marquella-uhrig",
     "guest": "Marquella Uhrig",
     "chefOrCook": true,
@@ -247,6 +495,38 @@
     "recommendationCount": 15
   },
   {
+    "id": "mates-on-crates-feat-richard-mah",
+    "guest": "Richard Mah",
+    "chefOrCook": false,
+    "affiliationsExcluded": [
+      "Northern Cafe"
+    ],
+    "articleUrl": "https://chefsfav.com/blog/mates-on-crates-feat-richard-mah",
+    "articleDate": "2026-06-18",
+    "videoUrls": [
+      "https://www.instagram.com/reel/DZdpkoUhEuW/"
+    ],
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "recommendationCount": 12
+  },
+  {
+    "id": "mates-on-crates-feat-joe-chaput",
+    "guest": "Joe Chaput",
+    "chefOrCook": false,
+    "affiliationsExcluded": [
+      "Les Amis du fromage"
+    ],
+    "articleUrl": "https://chefsfav.com/blog/mates-on-crates-feat-joe-chaput",
+    "articleDate": "2026-06-11",
+    "videoUrls": [
+      "https://www.instagram.com/reel/DZGeWnrBenL/"
+    ],
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "recommendationCount": 10
+  },
+  {
     "id": "mates-on-crates-feat-nathan-lowey",
     "guest": "Nathan Lowey",
     "chefOrCook": true,
@@ -257,6 +537,58 @@
     "articleDate": "2026-05-31",
     "videoUrls": [
       "https://www.instagram.com/reel/DY0d3wlhpXD/"
+    ],
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "recommendationCount": 11
+  },
+  {
+    "id": "mates-on-crates-feat-eugenio-masi",
+    "guest": "Eugenio Masi",
+    "chefOrCook": false,
+    "affiliationsExcluded": [
+      "Columbus meats"
+    ],
+    "articleUrl": "https://chefsfav.com/blog/mates-on-crates-feat-eugenio-masi",
+    "articleDate": "2026-05-23",
+    "videoUrls": [
+      "https://www.instagram.com/reel/DYnk0Qay6Le/"
+    ],
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "recommendationCount": 10
+  },
+  {
+    "id": "mates-on-crates-feat-owen-coomer",
+    "guest": "Owen Coomer",
+    "chefOrCook": false,
+    "affiliationsExcluded": [
+      "The Barn"
+    ],
+    "articleUrl": "https://chefsfav.com/blog/mates-on-crates-feat-owen-coomer",
+    "articleDate": "2026-05-11",
+    "videoUrls": [
+      "https://www.instagram.com/reel/DYLd4JRSGAB/"
+    ],
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "recommendationCount": 12
+  },
+  {
+    "id": "mates-on-crates-feat-reuben-major",
+    "guest": "Reuben Major",
+    "chefOrCook": false,
+    "affiliationsExcluded": [
+      "Violeté",
+      "Belgard Kitchen",
+      "Havana",
+      "Flamingo Room",
+      "Van Urban"
+    ],
+    "articleUrl": "https://chefsfav.com/blog/mates-on-crates-feat-reuben-major",
+    "articleDate": "2026-05-08",
+    "videoUrls": [
+      "https://www.instagram.com/reel/DYDhvRWBGTP/"
     ],
     "evidenceType": "publisher_expanded_list",
     "videoReviewed": false,
@@ -279,6 +611,22 @@
     "evidenceType": "publisher_expanded_list",
     "videoReviewed": false,
     "recommendationCount": 8
+  },
+  {
+    "id": "mates-on-crates-feat-alejandro-diaz",
+    "guest": "Alejandro Diaz",
+    "chefOrCook": false,
+    "affiliationsExcluded": [
+      "El Santo"
+    ],
+    "articleUrl": "https://chefsfav.com/blog/mates-on-crates-feat-alejandro-diaz",
+    "articleDate": "2026-05-04",
+    "videoUrls": [
+      "https://www.instagram.com/reel/DX5OkakB1rj/"
+    ],
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "recommendationCount": 7
   },
   {
     "id": "mates-on-crates-feat-aaron-surman",
@@ -313,6 +661,38 @@
     "recommendationCount": 10
   },
   {
+    "id": "mates-on-crates-feat-gino-di-domenico-2026",
+    "guest": "Gino Di Domenico",
+    "chefOrCook": false,
+    "affiliationsExcluded": [
+      "Tacofino"
+    ],
+    "articleUrl": "https://chefsfav.com/blog/mates-on-crates-feat-gino-di-domenico-2026",
+    "articleDate": "2026-04-28",
+    "videoUrls": [
+      "https://www.instagram.com/reel/DXnNAawS1Me/"
+    ],
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "recommendationCount": 9
+  },
+  {
+    "id": "mates-on-crates-feat-ron-macgillivray",
+    "guest": "Ron MacGillivray",
+    "chefOrCook": false,
+    "affiliationsExcluded": [
+      "Fable Diner"
+    ],
+    "articleUrl": "https://chefsfav.com/blog/mates-on-crates-feat-ron-macgillivray",
+    "articleDate": "2026-04-20",
+    "videoUrls": [
+      "https://www.instagram.com/reel/DXXwJd7ye6j/"
+    ],
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "recommendationCount": 11
+  },
+  {
     "id": "mates-on-crates-feat-haidee-hart",
     "guest": "Haidee Hart",
     "chefOrCook": true,
@@ -329,6 +709,22 @@
     "recommendationCount": 8
   },
   {
+    "id": "mates-on-crates-feat-andrew-doyle",
+    "guest": "Andrew Doyle",
+    "chefOrCook": false,
+    "affiliationsExcluded": [
+      "La Cerveceria Astilleros"
+    ],
+    "articleUrl": "https://chefsfav.com/blog/mates-on-crates-feat-andrew-doyle",
+    "articleDate": "2026-04-13",
+    "videoUrls": [
+      "https://www.instagram.com/reel/DXDJzMfzWCp/"
+    ],
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "recommendationCount": 12
+  },
+  {
     "id": "mates-on-crates-feat-johnny-wells",
     "guest": "Johnny Wells",
     "chefOrCook": true,
@@ -343,6 +739,40 @@
     "evidenceType": "publisher_expanded_list",
     "videoReviewed": false,
     "recommendationCount": 14
+  },
+  {
+    "id": "mates-on-crates-feat-sandra-bruzzese-xezlc",
+    "guest": "Jesse Keefer",
+    "chefOrCook": false,
+    "affiliationsExcluded": [
+      "Bodega Ridge",
+      "Lola",
+      "The Pink Geranium"
+    ],
+    "articleUrl": "https://chefsfav.com/blog/mates-on-crates-feat-sandra-bruzzese-xezlc",
+    "articleDate": "2026-04-08",
+    "videoUrls": [
+      "https://www.instagram.com/reel/DW2R1Z_SAx2/"
+    ],
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "recommendationCount": 9
+  },
+  {
+    "id": "mates-on-crates-feat-sandra-bruzzese",
+    "guest": "Sandra Bruzzese",
+    "chefOrCook": false,
+    "affiliationsExcluded": [
+      "La Grotta Del Formaggio"
+    ],
+    "articleUrl": "https://chefsfav.com/blog/mates-on-crates-feat-sandra-bruzzese",
+    "articleDate": "2026-04-06",
+    "videoUrls": [
+      "https://www.instagram.com/reel/DWxIS4ghXCG/"
+    ],
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "recommendationCount": 13
   },
   {
     "id": "mates-on-crates-feat-tushar-tondvalkar",
@@ -377,6 +807,91 @@
     "recommendationCount": 12
   },
   {
+    "id": "mates-on-crates-feat-harman-basutta",
+    "guest": "Harman Basutta",
+    "chefOrCook": false,
+    "affiliationsExcluded": [
+      "Tasty Indian Bistro"
+    ],
+    "articleUrl": "https://chefsfav.com/blog/mates-on-crates-feat-harman-basutta",
+    "articleDate": "2026-03-23",
+    "videoUrls": [
+      "https://www.instagram.com/reel/DWNFNIJSkaY/"
+    ],
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "recommendationCount": 14
+  },
+  {
+    "id": "mates-on-crates-feat-dom-morra",
+    "guest": "Dom Morra",
+    "chefOrCook": false,
+    "affiliationsExcluded": [
+      "Via Tevere",
+      "Straight Brooklyn",
+      "Dante",
+      "Caffe Soccavo",
+      "Don't Argue"
+    ],
+    "articleUrl": "https://chefsfav.com/blog/mates-on-crates-feat-dom-morra",
+    "articleDate": "2026-03-13",
+    "videoUrls": [
+      "https://www.instagram.com/reel/DVzVQYhy37t/"
+    ],
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "recommendationCount": 12
+  },
+  {
+    "id": "mates-on-crates-feat-natapon-poonpoem",
+    "guest": "Nat Poonpoem",
+    "chefOrCook": false,
+    "affiliationsExcluded": [
+      "Sawasdee Thai"
+    ],
+    "articleUrl": "https://chefsfav.com/blog/mates-on-crates-feat-natapon-poonpoem",
+    "articleDate": "2026-03-08",
+    "videoUrls": [
+      "https://www.instagram.com/reel/DVl65Zqh3Yk/"
+    ],
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "recommendationCount": 16
+  },
+  {
+    "id": "mates-on-crates-feat-erin-heather",
+    "guest": "Erin Heather",
+    "chefOrCook": false,
+    "affiliationsExcluded": [
+      "Irish Heather",
+      "Sceal Eile"
+    ],
+    "articleUrl": "https://chefsfav.com/blog/mates-on-crates-feat-erin-heather",
+    "articleDate": "2026-02-27",
+    "videoUrls": [
+      "https://www.instagram.com/reel/DVPY7xMFFzo/"
+    ],
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "recommendationCount": 11
+  },
+  {
+    "id": "mates-on-crates-feat-tyson-reimer",
+    "guest": "Tyson Reimer",
+    "chefOrCook": false,
+    "affiliationsExcluded": [
+      "Rumblefish"
+    ],
+    "articleUrl": "https://chefsfav.com/blog/mates-on-crates-feat-tyson-reimer",
+    "articleDate": "2026-02-23",
+    "videoUrls": [
+      "https://www.instagram.com/reel/DVFFyiFgWl6/"
+    ],
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "recommendationCount": 10
+  },
+  {
     "id": "mates-on-crates-feat-tannis-ling",
     "guest": "Tannis Ling",
     "chefOrCook": false,
@@ -395,6 +910,63 @@
     "recommendationCount": 12
   },
   {
+    "id": "mates-on-crates-feat-sam-payne",
+    "guest": "Sam Payne",
+    "chefOrCook": false,
+    "affiliationsExcluded": [
+      "Rewind",
+      "High Top",
+      "Hightop",
+      "Parkside",
+      "Slackwater"
+    ],
+    "articleUrl": "https://chefsfav.com/blog/mates-on-crates-feat-sam-payne",
+    "articleDate": "2026-01-10",
+    "videoUrls": [
+      "https://www.instagram.com/reel/DTROAbyEqm7/"
+    ],
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "recommendationCount": 10
+  },
+  {
+    "id": "mates-on-crates-95-feat-frank-morra-kwley",
+    "guest": "Jesse Jonathon Hawes",
+    "chefOrCook": false,
+    "affiliationsExcluded": [
+      "Mon Pitou",
+      "Jonathon Hawes"
+    ],
+    "articleUrl": "https://chefsfav.com/blog/mates-on-crates-95-feat-frank-morra-kwley",
+    "articleDate": "2025-05-01",
+    "videoUrls": [
+      "https://www.instagram.com/reel/DIxCr7AzlJ9/"
+    ],
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "recommendationCount": 12
+  },
+  {
+    "id": "mates-on-crates-95-feat-frank-morra",
+    "guest": "Frank Morra",
+    "chefOrCook": false,
+    "affiliationsExcluded": [
+      "Dante",
+      "Via Tevere",
+      "Straight Brooklyn",
+      "Don't Argue",
+      "Caffe Soccavo"
+    ],
+    "articleUrl": "https://chefsfav.com/blog/mates-on-crates-95-feat-frank-morra",
+    "articleDate": "2025-03-06",
+    "videoUrls": [
+      "https://www.instagram.com/reel/DGy-ihyyzBa/"
+    ],
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "recommendationCount": 14
+  },
+  {
     "id": "mates-on-crates-93-feat-hilary-nguy",
     "guest": "Hilary Nguy",
     "chefOrCook": true,
@@ -410,6 +982,54 @@
     "evidenceType": "publisher_expanded_list",
     "videoReviewed": false,
     "recommendationCount": 15
+  },
+  {
+    "id": "mates-on-crates-91-devon-trowler",
+    "guest": "Devon Towler",
+    "chefOrCook": false,
+    "affiliationsExcluded": [
+      "Thank You Pizza"
+    ],
+    "articleUrl": "https://chefsfav.com/blog/mates-on-crates-91-devon-trowler",
+    "articleDate": "2025-02-12",
+    "videoUrls": [
+      "https://www.instagram.com/reel/DF86BlhyP3d/"
+    ],
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "recommendationCount": 14
+  },
+  {
+    "id": "mates-on-crates-71-feat-rachel-lee",
+    "guest": "Rachel Lee",
+    "chefOrCook": false,
+    "affiliationsExcluded": [
+      "Dear Gus"
+    ],
+    "articleUrl": "https://chefsfav.com/blog/mates-on-crates-71-feat-rachel-lee",
+    "articleDate": "2024-11-22",
+    "videoUrls": [
+      "https://www.instagram.com/reel/DCp2OgPSac9/"
+    ],
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "recommendationCount": 15
+  },
+  {
+    "id": "mates-on-crates-69-feat-karl-gregg",
+    "guest": "Karl Gregg",
+    "chefOrCook": false,
+    "affiliationsExcluded": [
+      "Rosie's BBQ"
+    ],
+    "articleUrl": "https://chefsfav.com/blog/mates-on-crates-69-feat-karl-gregg",
+    "articleDate": "2024-11-18",
+    "videoUrls": [
+      "https://www.instagram.com/p/DCfddjoyuxr/"
+    ],
+    "evidenceType": "publisher_expanded_list",
+    "videoReviewed": false,
+    "recommendationCount": 9
   },
   {
     "id": "mates-on-crates-68-feat-claire-livia-lassam",

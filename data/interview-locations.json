@@ -187,5 +187,264 @@
     "region": "Metro Vancouver",
     "source": "https://chefsfav.com/blog/mates-on-crates-feat-tannis-ling",
     "basis": "Publisher interview biography identifies Bao Bei in Chinatown."
+  },
+  "mates-on-crates-feat-paul-grunberg": {
+    "neighbourhood": "",
+    "city": "Vancouver",
+    "region": "Metro Vancouver",
+    "source": "https://chefsfav.com/blog/mates-on-crates-feat-paul-grunberg",
+    "basis": "Reviewed publisher interview biography and venue context; finer neighbourhood omitted where unverified."
+  },
+  "mates-on-crates-feat-william-liu": {
+    "neighbourhood": "Chinatown",
+    "city": "Vancouver",
+    "region": "Metro Vancouver",
+    "source": "https://chefsfav.com/blog/mates-on-crates-feat-william-liu",
+    "basis": "Reviewed publisher interview biography and venue context; finer neighbourhood omitted where unverified."
+  },
+  "mates-on-crates-feat-curtis-redel": {
+    "neighbourhood": "",
+    "city": "Pender Island",
+    "region": "Gulf Islands",
+    "source": "https://chefsfav.com/blog/mates-on-crates-feat-curtis-redel",
+    "basis": "Reviewed publisher interview biography and venue context; finer neighbourhood omitted where unverified."
+  },
+  "mates-on-crates-feat-james-heras": {
+    "neighbourhood": "Kitsilano",
+    "city": "Vancouver",
+    "region": "Metro Vancouver",
+    "source": "https://chefsfav.com/blog/mates-on-crates-feat-james-heras",
+    "basis": "Reviewed publisher interview biography and venue context; finer neighbourhood omitted where unverified."
+  },
+  "mates-on-crates-feat-david-varga": {
+    "neighbourhood": "Lower Lonsdale",
+    "city": "North Vancouver",
+    "region": "Metro Vancouver",
+    "source": "https://chefsfav.com/blog/mates-on-crates-feat-david-varga",
+    "basis": "Reviewed publisher interview biography and venue context; finer neighbourhood omitted where unverified."
+  },
+  "mates-on-crates-feat-roger-collins": {
+    "neighbourhood": "Strathcona",
+    "city": "Vancouver",
+    "region": "Metro Vancouver",
+    "source": "https://chefsfav.com/blog/mates-on-crates-feat-roger-collins",
+    "basis": "Reviewed publisher interview biography and venue context; finer neighbourhood omitted where unverified."
+  },
+  "mates-on-crates-feat-paul-clark": {
+    "neighbourhood": "Lonsdale Quay",
+    "city": "North Vancouver",
+    "region": "Metro Vancouver",
+    "source": "https://chefsfav.com/blog/mates-on-crates-feat-paul-clark",
+    "basis": "Reviewed publisher interview biography and venue context; finer neighbourhood omitted where unverified."
+  },
+  "mates-on-crates-feat-adam-mills": {
+    "neighbourhood": "Tsawwassen",
+    "city": "Delta",
+    "region": "Metro Vancouver",
+    "source": "https://chefsfav.com/blog/mates-on-crates-feat-adam-mills",
+    "basis": "Reviewed publisher interview biography and venue context; finer neighbourhood omitted where unverified."
+  },
+  "mates-on-crates-feat-cuma-yaldiz": {
+    "neighbourhood": "East Hastings",
+    "city": "Vancouver",
+    "region": "Metro Vancouver",
+    "source": "https://chefsfav.com/blog/mates-on-crates-feat-cuma-yaldiz",
+    "basis": "Reviewed publisher interview biography and venue context; finer neighbourhood omitted where unverified."
+  },
+  "mates-on-crates-feat-kevin-day-and-chris-enns": {
+    "neighbourhood": "East Hastings",
+    "city": "Vancouver",
+    "region": "Metro Vancouver",
+    "source": "https://chefsfav.com/blog/mates-on-crates-feat-kevin-day-and-chris-enns",
+    "basis": "Reviewed publisher interview biography and venue context; finer neighbourhood omitted where unverified."
+  },
+  "mates-on-crates-feat-tara-and-erick": {
+    "neighbourhood": "",
+    "city": "Vancouver",
+    "region": "Metro Vancouver",
+    "source": "https://chefsfav.com/blog/mates-on-crates-feat-tara-and-erick",
+    "basis": "Reviewed publisher interview biography and venue context; finer neighbourhood omitted where unverified."
+  },
+  "mates-on-crates-feat-andrew-kong": {
+    "neighbourhood": "Chinatown",
+    "city": "Vancouver",
+    "region": "Metro Vancouver",
+    "source": "https://chefsfav.com/blog/mates-on-crates-feat-andrew-kong",
+    "basis": "Reviewed publisher interview biography and venue context; finer neighbourhood omitted where unverified."
+  },
+  "mates-on-crates-feat-asacia-biln": {
+    "neighbourhood": "Hastings-Sunrise",
+    "city": "Vancouver",
+    "region": "Metro Vancouver",
+    "source": "https://chefsfav.com/blog/mates-on-crates-feat-asacia-biln",
+    "basis": "Reviewed publisher interview biography and venue context; finer neighbourhood omitted where unverified."
+  },
+  "mates-on-crates-feat-barbora-samieian": {
+    "neighbourhood": "",
+    "city": "Vancouver",
+    "region": "Metro Vancouver",
+    "source": "https://chefsfav.com/blog/mates-on-crates-feat-barbora-samieian",
+    "basis": "Reviewed publisher interview biography and venue context; finer neighbourhood omitted where unverified."
+  },
+  "mates-on-crates-feat-greg-dion": {
+    "neighbourhood": "Kitsilano",
+    "city": "Vancouver",
+    "region": "Metro Vancouver",
+    "source": "https://chefsfav.com/blog/mates-on-crates-feat-greg-dion",
+    "basis": "Reviewed publisher interview biography and venue context; finer neighbourhood omitted where unverified."
+  },
+  "mates-on-crates-feat-richard-mah": {
+    "neighbourhood": "South Vancouver",
+    "city": "Vancouver",
+    "region": "Metro Vancouver",
+    "source": "https://chefsfav.com/blog/mates-on-crates-feat-richard-mah",
+    "basis": "Reviewed publisher interview biography and venue context; finer neighbourhood omitted where unverified."
+  },
+  "mates-on-crates-feat-joe-chaput": {
+    "neighbourhood": "",
+    "city": "Vancouver",
+    "region": "Metro Vancouver",
+    "source": "https://chefsfav.com/blog/mates-on-crates-feat-joe-chaput",
+    "basis": "Reviewed publisher interview biography and venue context; finer neighbourhood omitted where unverified."
+  },
+  "mates-on-crates-feat-eugenio-masi": {
+    "neighbourhood": "East Vancouver",
+    "city": "Vancouver",
+    "region": "Metro Vancouver",
+    "source": "https://chefsfav.com/blog/mates-on-crates-feat-eugenio-masi",
+    "basis": "Reviewed publisher interview biography and venue context; finer neighbourhood omitted where unverified."
+  },
+  "mates-on-crates-feat-owen-coomer": {
+    "neighbourhood": "Guildford",
+    "city": "Surrey",
+    "region": "Metro Vancouver",
+    "source": "https://chefsfav.com/blog/mates-on-crates-feat-owen-coomer",
+    "basis": "Reviewed publisher interview biography and venue context; finer neighbourhood omitted where unverified."
+  },
+  "mates-on-crates-feat-reuben-major": {
+    "neighbourhood": "Commercial Drive",
+    "city": "Vancouver",
+    "region": "Metro Vancouver",
+    "source": "https://chefsfav.com/blog/mates-on-crates-feat-reuben-major",
+    "basis": "Reviewed publisher interview biography and venue context; finer neighbourhood omitted where unverified."
+  },
+  "mates-on-crates-feat-alejandro-diaz": {
+    "neighbourhood": "",
+    "city": "New Westminster",
+    "region": "Metro Vancouver",
+    "source": "https://chefsfav.com/blog/mates-on-crates-feat-alejandro-diaz",
+    "basis": "Reviewed publisher interview biography and venue context; finer neighbourhood omitted where unverified."
+  },
+  "mates-on-crates-feat-gino-di-domenico-2026": {
+    "neighbourhood": "",
+    "city": "Vancouver",
+    "region": "Metro Vancouver",
+    "source": "https://chefsfav.com/blog/mates-on-crates-feat-gino-di-domenico-2026",
+    "basis": "Reviewed publisher interview biography and venue context; finer neighbourhood omitted where unverified."
+  },
+  "mates-on-crates-feat-ron-macgillivray": {
+    "neighbourhood": "Mount Pleasant",
+    "city": "Vancouver",
+    "region": "Metro Vancouver",
+    "source": "https://chefsfav.com/blog/mates-on-crates-feat-ron-macgillivray",
+    "basis": "Reviewed publisher interview biography and venue context; finer neighbourhood omitted where unverified."
+  },
+  "mates-on-crates-feat-andrew-doyle": {
+    "neighbourhood": "Lower Lonsdale",
+    "city": "North Vancouver",
+    "region": "Metro Vancouver",
+    "source": "https://chefsfav.com/blog/mates-on-crates-feat-andrew-doyle",
+    "basis": "Reviewed publisher interview biography and venue context; finer neighbourhood omitted where unverified."
+  },
+  "mates-on-crates-feat-sandra-bruzzese-xezlc": {
+    "neighbourhood": "",
+    "city": "Galiano Island",
+    "region": "Gulf Islands",
+    "source": "https://chefsfav.com/blog/mates-on-crates-feat-sandra-bruzzese-xezlc",
+    "basis": "Reviewed publisher interview biography and venue context; finer neighbourhood omitted where unverified."
+  },
+  "mates-on-crates-feat-sandra-bruzzese": {
+    "neighbourhood": "Commercial Drive",
+    "city": "Vancouver",
+    "region": "Metro Vancouver",
+    "source": "https://chefsfav.com/blog/mates-on-crates-feat-sandra-bruzzese",
+    "basis": "Reviewed publisher interview biography and venue context; finer neighbourhood omitted where unverified."
+  },
+  "mates-on-crates-feat-harman-basutta": {
+    "neighbourhood": "Yaletown",
+    "city": "Vancouver",
+    "region": "Metro Vancouver",
+    "source": "https://chefsfav.com/blog/mates-on-crates-feat-harman-basutta",
+    "basis": "Reviewed publisher interview biography and venue context; finer neighbourhood omitted where unverified."
+  },
+  "mates-on-crates-feat-dom-morra": {
+    "neighbourhood": "Victoria Drive",
+    "city": "Vancouver",
+    "region": "Metro Vancouver",
+    "source": "https://chefsfav.com/blog/mates-on-crates-feat-dom-morra",
+    "basis": "Reviewed publisher interview biography and venue context; finer neighbourhood omitted where unverified."
+  },
+  "mates-on-crates-feat-natapon-poonpoem": {
+    "neighbourhood": "Main Street",
+    "city": "Vancouver",
+    "region": "Metro Vancouver",
+    "source": "https://chefsfav.com/blog/mates-on-crates-feat-natapon-poonpoem",
+    "basis": "Reviewed publisher interview biography and venue context; finer neighbourhood omitted where unverified."
+  },
+  "mates-on-crates-feat-erin-heather": {
+    "neighbourhood": "Chinatown",
+    "city": "Vancouver",
+    "region": "Metro Vancouver",
+    "source": "https://chefsfav.com/blog/mates-on-crates-feat-erin-heather",
+    "basis": "Reviewed publisher interview biography and venue context; finer neighbourhood omitted where unverified."
+  },
+  "mates-on-crates-feat-tyson-reimer": {
+    "neighbourhood": "East Hastings",
+    "city": "Vancouver",
+    "region": "Metro Vancouver",
+    "source": "https://chefsfav.com/blog/mates-on-crates-feat-tyson-reimer",
+    "basis": "Reviewed publisher interview biography and venue context; finer neighbourhood omitted where unverified."
+  },
+  "mates-on-crates-feat-sam-payne": {
+    "neighbourhood": "Brewers Row",
+    "city": "Port Moody",
+    "region": "Metro Vancouver",
+    "source": "https://chefsfav.com/blog/mates-on-crates-feat-sam-payne",
+    "basis": "Reviewed publisher interview biography and venue context; finer neighbourhood omitted where unverified."
+  },
+  "mates-on-crates-95-feat-frank-morra-kwley": {
+    "neighbourhood": "",
+    "city": "Vancouver",
+    "region": "Metro Vancouver",
+    "source": "https://chefsfav.com/blog/mates-on-crates-95-feat-frank-morra-kwley",
+    "basis": "Reviewed publisher interview biography and venue context; finer neighbourhood omitted where unverified."
+  },
+  "mates-on-crates-95-feat-frank-morra": {
+    "neighbourhood": "",
+    "city": "Vancouver",
+    "region": "Metro Vancouver",
+    "source": "https://chefsfav.com/blog/mates-on-crates-95-feat-frank-morra",
+    "basis": "Reviewed publisher interview biography and venue context; finer neighbourhood omitted where unverified."
+  },
+  "mates-on-crates-91-devon-trowler": {
+    "neighbourhood": "Strathcona",
+    "city": "Vancouver",
+    "region": "Metro Vancouver",
+    "source": "https://chefsfav.com/blog/mates-on-crates-91-devon-trowler",
+    "basis": "Reviewed publisher interview biography and venue context; finer neighbourhood omitted where unverified."
+  },
+  "mates-on-crates-71-feat-rachel-lee": {
+    "neighbourhood": "Mount Pleasant",
+    "city": "Vancouver",
+    "region": "Metro Vancouver",
+    "source": "https://chefsfav.com/blog/mates-on-crates-71-feat-rachel-lee",
+    "basis": "Reviewed publisher interview biography and venue context; finer neighbourhood omitted where unverified."
+  },
+  "mates-on-crates-69-feat-karl-gregg": {
+    "neighbourhood": "",
+    "city": "Vancouver",
+    "region": "Metro Vancouver",
+    "source": "https://chefsfav.com/blog/mates-on-crates-69-feat-karl-gregg",
+    "basis": "Reviewed publisher interview biography and venue context; finer neighbourhood omitted where unverified."
   }
 }

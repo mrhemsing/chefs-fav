@@ -1,5 +1,5 @@
 """Prepare sourced chef images, deduplicated places and cached OSM coordinates."""
-import json, re, time, urllib.request, urllib.parse, unicodedata
+import json, re, time, urllib.request, urllib.parse, unicodedata, sys
 from pathlib import Path
 from difflib import SequenceMatcher
 
@@ -80,7 +80,7 @@ for i,p in enumerate(places.values()):
     city=cities.get(p['name'],'Vancouver')
     query_name={'Kingyo Izakaya':'Kingyo','Juke Fried Chicken':'Juke','The Greek':'The Greek by Anatoli','Dope Bakehouse':'Dope Bakehouse','Tanaka':'Tanaka Sushi','La Grotta Del Formaggio':'La Grotta del Formaggio'}.get(p['name'],p['name'])
     query=query_name+' '+city
-    if query not in cache:
+    if query not in cache and '--geocode' in sys.argv:
         try:
             url='https://photon.komoot.io/api/?'+urllib.parse.urlencode({'q':query,'limit':5,'lat':49.28,'lon':-123.12})
             req=urllib.request.Request(url,headers={'User-Agent':'ChefsFavResearch/1.0 (github.com/mrhemsing/chefs-fav)'})
@@ -90,7 +90,7 @@ for i,p in enumerate(places.values()):
         cachepath.write_text(json.dumps(cache,ensure_ascii=False),encoding='utf-8')
         time.sleep(1.1)
     candidates=[]
-    for f in cache[query].get('features',[]):
+    for f in cache.get(query,{}).get('features',[]):
         a=f['properties']; coords=f['geometry']['coordinates']; n=norm(a.get('name','')); wanted=norm(p['name'])
         score=SequenceMatcher(None,n,wanted).ratio()
         if a.get('countrycode')!='CA' or a.get('state') not in ['British Columbia','BC']: continue

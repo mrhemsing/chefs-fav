@@ -11,3 +11,5 @@
 - Default discovery is chef-first: crate episode photos pinned at their own/current restaurant, tap reveals that chef’s external picks and comments. All picks is an alternate mode. Do not imply all guests own their affiliation. Restaurant locations live in data/chef-locations.json; leave unverified venues unpinned.
 
 - Latest product direction: NO MAP. Default newest-first profile list; each crate-photo profile opens that individual’s recommendations/comments. No popularity ranking or endorsement tallies.
+
+- Include ALL BC restaurant/cafe/bar/food-business owners, partners and founders regardless of chef title; never use chefOrCook as the sole inclusion gate. includeOwner records source-reviewed owner cases. Show interview-location neighbourhood/city (city alone when neighbourhood unverified); include Victoria, Vancouver Island and Gulf Islands.
