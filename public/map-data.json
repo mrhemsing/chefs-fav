@@ -7341,7 +7341,17 @@
       "locationSource": "https://www.openstreetmap.org/node/4424551035",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Cadeaux Bakery",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-tannis-ling",
+          "placeId": "cadeauxbakery",
+          "comment": "She praises her friend Eleanor’s pastries and feels the bakery deserves more attention.",
+          "startSeconds": 124,
+          "source": "https://www.instagram.com/reel/DU9XZugCXgq/",
+          "type": "summary",
+          "reviewMethod": "Full spoken transcript read; named venues cross-checked against official expanded list."
+        }
+      ]
     },
     {
       "id": "justpizza",
@@ -7852,7 +7862,17 @@
       "locationSource": "https://www.openstreetmap.org/node/4005041520",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Propaganda Coffee",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-tannis-ling",
+          "placeId": "propagandacoffee",
+          "comment": "She says she goes here every day.",
+          "startSeconds": 121,
+          "source": "https://www.instagram.com/reel/DU9XZugCXgq/",
+          "type": "summary",
+          "reviewMethod": "Full spoken transcript read; named venues cross-checked against official expanded list."
+        }
+      ]
     },
     {
       "id": "prototypecoffee",
@@ -10259,7 +10279,17 @@
       "city": "British Columbia",
       "address": "",
       "locationStatus": "Location pending verification",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-tannis-ling",
+          "placeId": "nerotondo",
+          "comment": "On her wish list after hearing people talk about its late-night service.",
+          "startSeconds": 133,
+          "source": "https://www.instagram.com/reel/DU9XZugCXgq/",
+          "type": "summary",
+          "reviewMethod": "Full spoken transcript read; named venues cross-checked against official expanded list."
+        }
+      ]
     },
     {
       "id": "lachicken",
@@ -16334,7 +16364,17 @@
       "locationSource": "https://www.openstreetmap.org/node/5581791241",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "It's Okay",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-tannis-ling",
+          "placeId": "itsokay",
+          "comment": "She describes it as a great little dive bar on Hastings with really good cocktails.",
+          "startSeconds": 137,
+          "source": "https://www.instagram.com/reel/DU9XZugCXgq/",
+          "type": "summary",
+          "reviewMethod": "Full spoken transcript read; named venues cross-checked against official expanded list."
+        }
+      ]
     },
     {
       "id": "happyfamily",
@@ -16372,7 +16412,17 @@
       "locationSource": "https://www.openstreetmap.org/node/1937561314",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Happy Family Restaurant",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-tannis-ling",
+          "placeId": "happyfamily",
+          "comment": "She recommends pre-ordering the whole fried chicken over sticky rice, describing both the chicken and the bottom layer of rice as crisp.",
+          "startSeconds": 106,
+          "source": "https://www.instagram.com/reel/DU9XZugCXgq/",
+          "type": "summary",
+          "reviewMethod": "Full spoken transcript read; named venues cross-checked against official expanded list."
+        }
+      ]
     },
     {
       "id": "fishwithyou",
@@ -16520,7 +16570,17 @@
       "city": "British Columbia",
       "address": "",
       "locationStatus": "Location pending verification",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-tannis-ling",
+          "placeId": "lolaatbodegaridge",
+          "comment": "Her Galiano Island recommendation: a beautiful restaurant at Bodega Ridge serving Southeast Asian food she enthusiastically praises.",
+          "startSeconds": 145,
+          "source": "https://www.instagram.com/reel/DU9XZugCXgq/",
+          "type": "summary",
+          "reviewMethod": "Full spoken transcript read; named venues cross-checked against official expanded list."
+        }
+      ]
     },
     {
       "id": "sweettalk",
@@ -17667,5 +17727,5 @@
     "videosReviewed": 0,
     "completeVideoInventory": false
   },
-  "spokenReviewEpisodes": 23
+  "spokenReviewEpisodes": 24
 }

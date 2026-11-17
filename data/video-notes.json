@@ -862,5 +862,59 @@
     "source": "https://www.instagram.com/reel/DCNbbV9yve5/",
     "type": "summary",
     "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+  },
+  {
+    "chefId": "mates-on-crates-feat-tannis-ling",
+    "placeId": "happyfamily",
+    "comment": "She recommends pre-ordering the whole fried chicken over sticky rice, describing both the chicken and the bottom layer of rice as crisp.",
+    "startSeconds": 106,
+    "source": "https://www.instagram.com/reel/DU9XZugCXgq/",
+    "type": "summary",
+    "reviewMethod": "Full spoken transcript read; named venues cross-checked against official expanded list."
+  },
+  {
+    "chefId": "mates-on-crates-feat-tannis-ling",
+    "placeId": "propagandacoffee",
+    "comment": "She says she goes here every day.",
+    "startSeconds": 121,
+    "source": "https://www.instagram.com/reel/DU9XZugCXgq/",
+    "type": "summary",
+    "reviewMethod": "Full spoken transcript read; named venues cross-checked against official expanded list."
+  },
+  {
+    "chefId": "mates-on-crates-feat-tannis-ling",
+    "placeId": "cadeauxbakery",
+    "comment": "She praises her friend Eleanor’s pastries and feels the bakery deserves more attention.",
+    "startSeconds": 124,
+    "source": "https://www.instagram.com/reel/DU9XZugCXgq/",
+    "type": "summary",
+    "reviewMethod": "Full spoken transcript read; named venues cross-checked against official expanded list."
+  },
+  {
+    "chefId": "mates-on-crates-feat-tannis-ling",
+    "placeId": "nerotondo",
+    "comment": "On her wish list after hearing people talk about its late-night service.",
+    "startSeconds": 133,
+    "source": "https://www.instagram.com/reel/DU9XZugCXgq/",
+    "type": "summary",
+    "reviewMethod": "Full spoken transcript read; named venues cross-checked against official expanded list."
+  },
+  {
+    "chefId": "mates-on-crates-feat-tannis-ling",
+    "placeId": "itsokay",
+    "comment": "She describes it as a great little dive bar on Hastings with really good cocktails.",
+    "startSeconds": 137,
+    "source": "https://www.instagram.com/reel/DU9XZugCXgq/",
+    "type": "summary",
+    "reviewMethod": "Full spoken transcript read; named venues cross-checked against official expanded list."
+  },
+  {
+    "chefId": "mates-on-crates-feat-tannis-ling",
+    "placeId": "lolaatbodegaridge",
+    "comment": "Her Galiano Island recommendation: a beautiful restaurant at Bodega Ridge serving Southeast Asian food she enthusiastically praises.",
+    "startSeconds": 145,
+    "source": "https://www.instagram.com/reel/DU9XZugCXgq/",
+    "type": "summary",
+    "reviewMethod": "Full spoken transcript read; named venues cross-checked against official expanded list."
   }
 ]

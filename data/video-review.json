@@ -159,5 +159,12 @@
     "status": "speech_reviewed_visual_followup_pending",
     "method": "Full machine transcript read by editor; named venues cross-checked against official expanded list. Ambiguous/new venue mentions require caption-frame follow-up.",
     "completeVideoReview": false
+  },
+  {
+    "episodeId": "mates-on-crates-feat-tannis-ling",
+    "videoUrl": "https://www.instagram.com/reel/DU9XZugCXgq/",
+    "status": "speech_reviewed_visual_followup_pending",
+    "method": "Full spoken transcript read; venue names cross-checked against official expanded list.",
+    "completeVideoReview": false
   }
 ]
