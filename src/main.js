@@ -38,7 +38,7 @@ async function init(){
  </main><div id="mobile-return" hidden></div><div id="modal-root"></div><div id="live" class="sr-only" role="status" aria-live="polite"></div>`;
  $('#search').addEventListener('input',e=>{state.query=e.target.value;renderResults()});
  $('#chef-select').addEventListener('change',e=>{state.chef=e.target.value;state.mode=e.target.value==='all'?'chefs':'picks';renderResults();fitMap()});
- document.querySelectorAll('[data-mode]').forEach(b=>b.addEventListener('click',()=>{state.mode=b.dataset.mode;state.chef='all';$('#chef-select').value='all';renderResults();fitMap()}));
+ document.querySelectorAll('[data-mode]').forEach(b=>b.addEventListener('click',()=>{state.mode=b.dataset.mode;state.chef='all';history.pushState({chef:'all'},'',state.mode==='picks'?'#chef/all':location.pathname);$('#chef-select').value='all';renderResults();fitMap()}));
  document.querySelectorAll('[data-category]').forEach(b=>b.addEventListener('click',()=>{state.category=b.dataset.category;document.querySelectorAll('[data-category]').forEach(x=>{x.classList.toggle('active',x===b);x.setAttribute('aria-pressed',x===b)});renderResults()}));
  $('.saved-toggle').addEventListener('click',()=>{state.saved=!state.saved;if(state.saved)state.mode='picks';$('.saved-toggle').setAttribute('aria-pressed',state.saved);renderResults()});
  document.querySelectorAll('.about').forEach(b=>b.addEventListener('click',showAbout));
@@ -109,6 +109,7 @@ function openPicksOverlay(){
  const source=$('.layout'),snapshot=source.cloneNode(true);snapshot.id='directory-snapshot';snapshot.setAttribute('inert','');snapshot.setAttribute('aria-hidden','true');
  snapshot.querySelectorAll('[class]').forEach(e=>{e.setAttribute('class',(e.getAttribute('class')||'').split(' ').map(c=>'preview-'+c).join(' '))});
  snapshot.querySelectorAll('[id]').forEach(e=>{if(e.id==='cards')e.classList.add('snapshot-cards');e.removeAttribute('id')});
+ snapshot.querySelectorAll('*').forEach(e=>{for(const a of [...e.attributes])if(a.name.startsWith('data-'))e.removeAttribute(a.name)});
  source.before(snapshot);source.hidden=true;$('.masthead').inert=true;
  const layer=document.createElement('div');layer.id='picks-overlay';layer.innerHTML='<section class="picks-sheet" role="dialog" aria-modal="true" aria-label="Chef recommendations"><div class="picks-scroll"></div></section>';
  document.body.append(layer);const sheet=layer.querySelector('.picks-sheet'),scroll=layer.querySelector('.picks-scroll');sheet.prepend($('#profile-nav'));scroll.append($('.discovery'),$('.results'));

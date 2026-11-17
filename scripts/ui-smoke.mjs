@@ -15,6 +15,7 @@ for(const [name,width,height] of [['desktop',1440,1000],['mobile',390,844],['sma
  await page.locator('[data-chef]').first().click();
  assert.equal(await page.locator('[data-mode=picks]').getAttribute('aria-pressed'),'true');
  assert.ok((await page.locator('#result-title').innerText()).includes('picks'));
+ await page.locator('#close-picks-overlay').click();
  await page.locator('[data-mode=picks]').click();
  await page.locator('#search').fill('Sushi Hil');
  assert.ok(await page.locator('.place-card').count()<30);
@@ -25,6 +26,7 @@ for(const [name,width,height] of [['desktop',1440,1000],['mobile',390,844],['sma
  assert.equal(await page.locator('#detail-save').getAttribute('aria-pressed'),'true');
  await page.screenshot({path:`.cache/ui/${name}-detail.png`});
  await page.locator('#dialog-close').click();
+ await page.locator('.detail-dialog').waitFor({state:'hidden'});
  await page.locator('#search').fill('no such place xyz');
  await page.getByRole('button',{name:'Reset filters'}).click();
  assert.ok(await page.locator('.place-card').count()>100);
@@ -34,9 +36,11 @@ for(const [name,width,height] of [['desktop',1440,1000],['mobile',390,844],['sma
  assert.ok(await page.locator('.place-card').count()>=1);
  assert.equal(await page.locator('#map').count(),0);
  assert.ok(await page.locator('body').evaluate(e=>e.classList.contains('list-view')));
+ await page.locator('#close-picks-overlay').click();
  await page.locator('.head-actions .about').click();
  assert.ok(await page.locator('.detail-dialog').isVisible());
  await page.locator('#dialog-close').click();
+ await page.locator('.detail-dialog').waitFor({state:'hidden'});
  await page.close();
  console.log(`PASS ${name}: layout, search, detail, save, empty-state reset, category, chef, list-only layout and information`);
 }
