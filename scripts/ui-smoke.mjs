@@ -32,14 +32,13 @@ for(const [name,width,height] of [['desktop',1440,1000],['mobile',390,844],['sma
  assert.ok(await page.locator('.place-card').count()>10);
  await page.locator('#chef-select').selectOption({label:'Gonzalo Almendrades'});
  assert.ok(await page.locator('.place-card').count()>=1);
- const listButton=page.locator(width<700?'.mobile-view [data-view="list"]':'.view-switch [data-view="list"]');
- await listButton.click();
+ assert.equal(await page.locator('#map').count(),0);
  assert.ok(await page.locator('body').evaluate(e=>e.classList.contains('list-view')));
  await page.locator('.head-actions .about').click();
  assert.ok(await page.getByRole('dialog').isVisible());
  await page.locator('#dialog-close').click();
  await page.close();
- console.log(`PASS ${name}: layout, search, detail, save, empty-state reset, category, chef, list and information`);
+ console.log(`PASS ${name}: layout, search, detail, save, empty-state reset, category, chef, list-only layout and information`);
 }
 await browser.close();
 assert.deepEqual(errors,[]);

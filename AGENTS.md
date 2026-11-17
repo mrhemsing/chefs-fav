@@ -9,3 +9,5 @@
 - Use mrhemsing <46225546+mrhemsing@users.noreply.github.com> for commits. Vercel project `baverages-projects/chefs-fav` is linked to GitHub; production https://chefs-fav.vercel.app/.
 
 - Default discovery is chef-first: crate episode photos pinned at their own/current restaurant, tap reveals that chef’s external picks and comments. All picks is an alternate mode. Do not imply all guests own their affiliation. Restaurant locations live in data/chef-locations.json; leave unverified venues unpinned.
+
+- Latest product direction: NO MAP. Default newest-first profile list; each crate-photo profile opens that individual’s recommendations/comments. No popularity ranking or endorsement tallies.
