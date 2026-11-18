@@ -58,7 +58,36 @@ function avatar(c,classes=''){
  const p=c.facePosition||[36,30];
  return `<span class="avatar ${classes}" style="--fx:${p[0]}%;--fy:${p[1]}%" aria-hidden="true"><span class="initials">${esc(c.name.split(' ').map(x=>x[0]).slice(0,2).join(''))}</span><img src="${esc(c.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"></span>`;
 }
-function categoryLabel(category){return esc(pickGroup(category)).replace(/(\bFavourites)\s+(?=\S)/gi,'$1<br>')}
+function categoryQuestion(category){
+ const c=pickGroup(category);
+ const questions={
+  'Last Meal That Blew Them Away':'Last meal that blew them away?',
+  'Take an Out of Town Guest':'Where would they take an out-of-town guest?',
+  'Dying to Try':'Where are they dying to try?',
+  'Dying to Go Back to':'Where are they dying to go back to?',
+  'Outside of Vancouver':'Favourite spot outside Vancouver?',
+  'Neighbourhood Favourites':'Favourite neighbourhood spots?',
+  'Food Neighbourhood':'Favourite food neighbourhood?',
+  'Easy on the Wallet':'Favourite budget-friendly spot?',
+  'Family Friendly':'Favourite family-friendly spot?',
+  'Family Meal':'Favourite spot for a family meal?',
+  'Family Dinner':'Favourite spot for a family dinner?',
+  'Meal for Families With Kids':'Favourite spot for a meal with kids?',
+  'Spot for a Family Lunch':'Favourite spot for a family lunch?',
+  'Natural Winemaker in BC':'Favourite natural winemaker in BC?'
+ };
+ if(questions[c])return questions[c];
+ const neighbourhood=c.match(/^Neighbourhood (?:Favourites|Spots?|Restaurant) \((.+)\)$/i);
+ if(neighbourhood)return `Favourite spots in ${neighbourhood[1]}?`;
+ const areas=['Salt Spring Island','Commercial Drive','Penticton, BC','- Tofino','- Ucluelet','- Vancouver','Hastings Sunrise','White Rock','Sturdies Bay (Galiano Ferry Terminal)'];
+ if(areas.includes(c))return `Favourite spots in ${c.replace(/^- /,'')}?`;
+ if(c==='Commercial Drive (Neighbourhood)')return 'Favourite spots on Commercial Drive?';
+ if(c==='Gastown (Neighbourhood)')return 'Favourite spots in Gastown?';
+ if(c==='Chinatown favourite')return 'Favourite spots in Chinatown?';
+ const label=c.replace(/\b[A-Z][a-z]+\b/g,word=>['Vietnamese','Italian','Mexican','Japanese','Thai','French','Chinese','Indian','Filipino','Caribbean','Spanish','Korean','Greek','Taiwanese','Vancouver','Chinatown','Victoria','Pender','Ladner','Coquitlam'].includes(word)?word:word.toLowerCase());
+ return `Favourite ${label}?`;
+}
+function categoryLabel(category){return esc(categoryQuestion(category))}
 function categoryFor(m){let c=m.category.toLowerCase();if(/coffee|chai/.test(c))return 'Coffee';if(/cocktail|brewery|wine|pub|bar$/.test(c))return 'Drinks';if(/bakery|pastry|ice cream|gelato/.test(c))return 'Sweet';return 'Bites'}
 function placeLocation(p){const city=(p.city||'').trim();return /^(British Columbia|B\.?C\.?|Vancouver)$/i.test(city)?'':city}
 function locationMarkup(label){return `<span class="location-lines">${locationLines(label).map(line=>`<span>${line.map(({name,scope})=>scope?`<button type="button" class="location-link" data-location="${esc(JSON.stringify(scope))}" aria-label="Show all picks in ${esc(name)}${scope.city?', '+esc(scope.city):''}">${esc(name)}</button>`:esc(name)).join(' / ')}</span>`).join('')}</span>`}
@@ -136,7 +165,7 @@ function renderPickGroups(ps,individual){
  }
  const priority=['Last Meal That Blew Them Away','Pizza','Sushi','Fried Chicken','Coffee','Cocktail Bar','Hidden Gem','Take an Out of Town Guest','Food Neighbourhood'];
  const rank=k=>priority.includes(k)?priority.indexOf(k):priority.length;
- return [...groups].sort(([a],[b])=>rank(a)-rank(b)||a.localeCompare(b)).map(([name,items],i)=>`<section class="pick-section" aria-labelledby="pick-section-${i}"><h2 id="pick-section-${i}" class="pick-section-title">${crateMark}<span>${esc(name)}</span></h2><div class="pick-section-cards">${items.map(({p,ms},j)=>pickCard(p,j,ms)).join('')}</div></section>`).join('');
+ return [...groups].sort(([a],[b])=>rank(a)-rank(b)||a.localeCompare(b)).map(([name,items],i)=>`<section class="pick-section" aria-labelledby="pick-section-${i}"><h2 id="pick-section-${i}" class="pick-section-title">${crateMark}<span>${esc(categoryQuestion(name))}</span></h2><div class="pick-section-cards">${items.map(({p,ms},j)=>pickCard(p,j,ms)).join('')}</div></section>`).join('');
 }
 function renderResults(){
  document.querySelectorAll('[data-region]').forEach(b=>b.setAttribute('aria-pressed',b.dataset.region===state.region));
