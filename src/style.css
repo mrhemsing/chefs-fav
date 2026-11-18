@@ -204,3 +204,16 @@
 .no-map .card-topline .place-city .location-lines{overflow-wrap:anywhere}
 
 @media(max-width:700px){.no-map .chef-filter{display:none}}
+
+.no-map .category-row{display:flex;flex-wrap:nowrap;overflow-x:auto;gap:8px;scrollbar-width:thin;padding:10px 0}
+.no-map .category-row .category{flex:0 0 auto}
+.active-category{font-size:14px;line-height:1.4;color:var(--green);padding:0 0 10px;font-weight:600}
+.chef-directory .category-row,.chef-directory .active-category{display:none}
+@media(max-width:700px){.no-map .category-row .category{width:48px;min-width:48px;height:48px;padding:10px}.no-map .category-row{scrollbar-width:none}}
+@media(max-width:700px){
+ .no-map .location-lines>span{display:inline}
+ .no-map .location-lines>span+span::before{content:' · '}
+ .no-map .location-lines .location-link{display:inline;white-space:normal}
+}
+
+.no-map .category-row{justify-content:flex-start}

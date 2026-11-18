@@ -1,8 +1,8 @@
-import {createIcons, Search, SlidersHorizontal, ArrowUpRight, ArrowRight, X, Heart, MapPin, Map, List, Plus, Minus, Coffee, Wine, Utensils, Croissant, Check, Info, ChevronDown, Navigation, Sparkles} from 'lucide';
+import {createIcons, Search, SlidersHorizontal, ArrowUpRight, ArrowRight, X, Heart, MapPin, Map, List, Plus, Minus, Coffee, Wine, Utensils, Croissant, Check, Info, ChevronDown, Navigation, Pizza, Fish, Drumstick, Gem, Users, Beer, Sandwich, EggFried, IceCreamBowl, Soup, Beef, Store, Compass, Flame, Sparkles} from 'lucide';
 import './style.css';
 import {locationLines, matchesLocation, matchesRegion} from './locations.js';
 
-const icons={Search,SlidersHorizontal,ArrowUpRight,ArrowRight,X,Heart,MapPin,Map,List,Plus,Minus,Coffee,Wine,Utensils,Croissant,Check,Info,ChevronDown,Navigation,Sparkles};
+const icons={Search,SlidersHorizontal,ArrowUpRight,ArrowRight,X,Heart,MapPin,Map,List,Plus,Minus,Coffee,Wine,Utensils,Croissant,Check,Info,ChevronDown,Navigation,Pizza,Fish,Drumstick,Gem,Users,Beer,Sandwich,EggFried,IceCreamBowl,Soup,Beef,Store,Compass,Flame,Sparkles};
 const icon=(name,cls='')=>`<i data-lucide="${name}" class="${cls}"></i>`;
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const $=s=>document.querySelector(s);
@@ -93,7 +93,25 @@ function placeLocation(p){const city=(p.city||'').trim();return /^(British Colum
 function locationMarkup(label){return `<span class="location-lines">${locationLines(label).map(line=>`<span>${line.map(({name,scope})=>scope?`<button type="button" class="location-link" data-location="${esc(JSON.stringify(scope))}" aria-label="Show all picks in ${esc(name)}${scope.city?', '+esc(scope.city):''}">${esc(name)}</button>`:esc(name)).join(' / ')}</span>`).join('')}</span>`}
 function locationLabel(c){const area=(c.location?.neighbourhood||'').trim(),city=(c.location?.city||'').trim();if(!area)return placeLocation({city});if(!city||area.toLowerCase().includes(city.toLowerCase()))return area;return [area,city].join(' · ')}
 function chefFor(id){return data.chefs.find(c=>c.id===id)}
-function mentions(p){return p.mentions.filter(m=>(state.chef==='all'||m.chefId===state.chef)&&(state.category==='All'||categoryFor(m)===state.category))}
+function categoryOptions(){
+ const priority=['All','Last Meal That Blew Them Away','Pizza','Sushi','Fried Chicken','Coffee','Cocktail Bar','Hidden Gem','Take an Out of Town Guest','Food Neighbourhood'];
+ const names=[...new Set(data.places.flatMap(p=>p.mentions.map(m=>pickGroup(m.category))))];
+ return [...priority.filter(n=>n==='All'||names.includes(n)),...names.filter(n=>!priority.includes(n)).sort((a,b)=>a.localeCompare(b))];
+}
+function categoryIcon(name){
+ if(name==='All')return 'sparkles';
+ if(/blew|dying/i.test(name))return 'flame';
+ if(/pizza/i.test(name))return 'pizza';if(/sushi|fish|seafood/i.test(name))return 'fish';
+ if(/chicken/i.test(name))return 'drumstick';if(/coffee|chai/i.test(name))return 'coffee';
+ if(/wine|cocktail|martini|night out/i.test(name))return 'wine';if(/brewery|pub|guinness|beer/i.test(name))return 'beer';
+ if(/hidden gem/i.test(name))return 'gem';if(/guest|family|families/i.test(name))return 'users';
+ if(/sandwich|burger/i.test(name))return 'sandwich';if(/brunch|breakfast/i.test(name))return 'egg-fried';
+ if(/bakery|pastry/i.test(name))return 'croissant';if(/ice cream/i.test(name))return 'ice-cream-bowl';
+ if(/noodle|ramen|soup|pho|udon/i.test(name))return 'soup';if(/barbecue|bbq|beef/i.test(name))return 'beef';
+ if(/market|grocer|florist/i.test(name))return 'store';if(/neighbourhood|outside/i.test(name))return 'map-pin';
+ return 'utensils';
+}
+function mentions(p){return p.mentions.filter(m=>(state.chef==='all'||m.chefId===state.chef)&&(state.category==='All'||pickGroup(m.category)===state.category))}
 function filtered(){const q=state.query.toLowerCase().trim();return data.places.filter(p=>matchesRegion(p.city,state.region)&&matchesLocation(placeLocation(p),state.location)&&mentions(p).length&&(!state.saved||saved.has(p.id))&&(!q||[p.name,p.city,...p.mentions.map(m=>m.category+' '+chefFor(m.chefId).name+' '+chefFor(m.chefId).affiliation+' '+locationLabel(chefFor(m.chefId))+' '+(chefFor(m.chefId).location?.region||''))].join(' ').toLowerCase().includes(q))).sort((a,b)=>a.name.localeCompare(b.name))}
 function save(id){saved.has(id)?saved.delete(id):saved.add(id);try{localStorage.setItem('chefs-fav-saved',JSON.stringify([...saved]))}catch{}renderResults();if(selected===id)renderDetail(data.places.find(p=>p.id===id));announce(saved.has(id)?'Saved to your shortlist':'Removed from your shortlist')}
 function announce(text){$('#live').textContent=text}
@@ -107,7 +125,7 @@ async function init(){
  <nav id="profile-nav" aria-label="Profile navigation" hidden></nav><main class="layout">
  <aside class="explore"><div class="intro"><h1>MATES ON CRATES</h1><p class="intro-lead">What’s your favourite pizza? Sushi? The last meal that blew you away?</p><p>Those in the know know that the best conversations in hospitality happen on a humble milk crate.</p><p>From those sacred perches, Mates on Crates introduces you to top hospitality professionals to uncover their favourites and get local recommendations from the insiders who know the industry best.</p><div class="intro-footer"><div class="mini-faces">${data.chefs.slice(0,4).map(c=>avatar(c)).join('')}</div><span><b>${data.chefs.length} chefs & owners</b><br>sharing their BC favourites</span><span class="hand-arrow">↘</span></div></div>
  <div class="discovery"><div class="discovery-mode" role="group" aria-label="Explore mode"><button data-mode="chefs" class="active" aria-pressed="true">Meet the mates</button><button data-mode="picks" aria-pressed="false">All picks</button></div><label class="search-box">${icon('search')}<input id="search" type="search" placeholder="A spot, a chef, a craving…" autocomplete="off" aria-label="Search places, chefs and cravings"><kbd>/</kbd></label>
- <div class="region-filter" role="group" aria-label="Filter by region">${[["all","All BC"],["mainland","Mainland"],["islands","Islands"]].map(([value,label])=>`<button type="button" data-region="${value}" aria-pressed="${value===state.region}">${label}</button>`).join('')}</div><div id="location-filter" hidden></div><div class="category-row" role="group" aria-label="Filter by type">${[['All','sparkles'],['Bites','utensils'],['Coffee','coffee'],['Drinks','wine'],['Sweet','croissant']].map(([name,i])=>`<button data-category="${name}" aria-label="${name}" title="${name}" class="category ${name==='All'?'active':''}" aria-pressed="${name==='All'}">${icon(i)}<span class="category-label">${name}</span></button>`).join('')}</div>
+ <div class="region-filter" role="group" aria-label="Filter by region">${[["all","All BC"],["mainland","Mainland"],["islands","Islands"]].map(([value,label])=>`<button type="button" data-region="${value}" aria-pressed="${value===state.region}">${label}</button>`).join('')}</div><div id="location-filter" hidden></div><div class="category-row" role="group" aria-label="Filter by recommendation category">${categoryOptions().map(name=>`<button data-category="${esc(name)}" aria-label="${esc(name==='All'?'All categories':categoryQuestion(name))}" title="${esc(name==='All'?'All categories':categoryQuestion(name))}" class="category ${name==='All'?'active':''}" aria-pressed="${name==='All'}">${icon(categoryIcon(name))}<span class="category-label">${esc(name)}</span></button>`).join('')}</div><p class="active-category" id="active-category"></p>
  <div class="chef-filter"><label for="chef-select">${icon('sliders-horizontal')} Follow a chef</label><select id="chef-select"><option value="all">Everyone’s favourites</option>${data.chefs.map(c=>`<option value="${esc(c.id)}">${esc(c.name)}</option>`).join('')}</select></div></div>
  <section class="results" aria-label="Recommendations"><button class="sheet-handle" aria-label="Expand recommendations" aria-expanded="false"><span></span></button><div class="results-heading"><div><h2 id="result-title">Good places, good people</h2><p id="result-count" aria-live="polite"></p></div></div><div id="selected-profile"></div><div id="cards"></div><div class="list-footer"><p>Handpicked by chefs. Sourced from<br><a href="https://chefsfav.com/blog" target="_blank" rel="noopener">Chef’s Favourite · Mates on Crates ${icon('arrow-up-right')}</a></p><button class="text-button about">Read our coverage notes ${icon('arrow-right')}</button><span>© ${new Date().getFullYear()} · <a href="https://b-average.com" target="_blank" rel="noopener">b-average</a></span></div></section>
  </aside>
@@ -168,6 +186,8 @@ function renderPickGroups(ps,individual){
  return [...groups].sort(([a],[b])=>rank(a)-rank(b)||a.localeCompare(b)).map(([name,items],i)=>`<section class="pick-section" aria-labelledby="pick-section-${i}"><h2 id="pick-section-${i}" class="pick-section-title">${crateMark}<span>${esc(categoryQuestion(name))}</span></h2><div class="pick-section-cards">${items.map(({p,ms},j)=>pickCard(p,j,ms)).join('')}</div></section>`).join('');
 }
 function renderResults(){
+ $('#active-category').textContent=state.category==='All'?'All categories':categoryQuestion(state.category);
+ document.querySelectorAll('[data-category]').forEach(b=>{b.classList.toggle('active',b.dataset.category===state.category);b.setAttribute('aria-pressed',b.dataset.category===state.category)});
  document.querySelectorAll('[data-region]').forEach(b=>b.setAttribute('aria-pressed',b.dataset.region===state.region));
  renderLocationFilter();
  const activeChef=state.chef!=='all'?chefFor(state.chef):null;
