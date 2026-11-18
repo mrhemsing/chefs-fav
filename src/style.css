@@ -37,6 +37,7 @@
 /* Constrain the desktop list to its viewport so overflow gets a scrollbar. */
 @media(min-width:701px){.no-map .explore{height:100%;overflow-y:auto;scrollbar-width:auto;scrollbar-gutter:stable}}
 .no-map .discovery{height:auto;min-height:0}
+.no-map .intro p+p{margin-top:16px}
 .no-map .results{z-index:auto}
 @media(max-width:700px){.no-map .chef-filter{flex-wrap:wrap;gap:6px 12px;padding-top:2px}.no-map .chef-filter select{min-width:0;max-width:100%;min-height:44px}.no-map .results-heading{gap:12px}.no-map .results-heading>div{min-width:0}}
 
