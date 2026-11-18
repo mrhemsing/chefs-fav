@@ -108,6 +108,30 @@ function renderChefs(){
  $('#cards').querySelectorAll('[data-chef]').forEach(b=>b.addEventListener('click',()=>selectChef(b.dataset.chef)));
  refreshIcons();
 }
+function pickCard(p,i,ms=mentions(p)){const cs=[...new Set(ms.map(m=>m.chefId))].map(chefFor);const wish=ms.every(m=>m.wishList);return `<article class="place-card" style="--order:${Math.min(i,8)}"><div class="card-open"><div class="card-topline"><span class="place-type">${icon(categoryFor(ms[0])==='Coffee'?'coffee':categoryFor(ms[0])==='Drinks'?'wine':'utensils')} <span class="category-label">${categoryLabel(ms[0].category)}</span></span>${placeLocation(p)?`<span class="place-city">${locationMarkup(placeLocation(p))}</span>`:''}</div><h3><button class="card-title" data-place="${p.id}" aria-label="Explore ${esc(p.name)}">${esc(p.name)}</button></h3><div class="recommendation"><div class="face-stack">${avatar(cs[0])}</div><div><span>${wish?'On the wish list of':'Picked by'} <b>${esc(cs[0].name.split(' ')[0])}</b></span><small>${esc(cs[0].affiliation)}</small></div>${icon('arrow-up-right','card-arrow')}</div>${cardNote(p,ms)?`<p class="card-comment">${esc(cardNote(p,ms))}</p>`:''}</div><button class="save-button ${saved.has(p.id)?'is-saved':''}" data-save="${p.id}" aria-label="${saved.has(p.id)?'Unsave':'Save'} ${esc(p.name)}" aria-pressed="${saved.has(p.id)}">${icon('heart')}</button></article>`}
+function pickGroup(category){
+ const c=category.replace(/Neighborhood/g,'Neighbourhood').trim();
+ if(/meal.*blew/i.test(c))return 'Last Meal That Blew Them Away';
+ if(/out.of.town guest/i.test(c))return 'Take an Out of Town Guest';
+ if(/^pizza\b/i.test(c))return 'Pizza';
+ if(/^hidden gem/i.test(c))return 'Hidden Gem';
+ if(/^dying to try$/i.test(c))return 'Dying to Try';
+ if(/^(favourite )?food neighbourhood/i.test(c))return 'Food Neighbourhood';
+ return c;
+}
+const crateMark='<svg class="section-crate" viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M4 9 16 3l12 6v16l-12 5-12-5Z M4 9l12 5 12-5M16 14v16M4 14l12 5 12-5M4 20l12 5 12-5M9 11v16M23 11v16" stroke-linejoin="round"/></svg>';
+function renderPickGroups(ps,individual){
+ if(individual)return ps.map((p,i)=>pickCard(p,i)).join('');
+ const groups=new globalThis.Map();
+ for(const p of ps){
+  const byCategory=new globalThis.Map();
+  for(const m of mentions(p)){const key=pickGroup(m.category);if(!byCategory.has(key))byCategory.set(key,[]);byCategory.get(key).push(m)}
+  for(const [key,ms] of byCategory){if(!groups.has(key))groups.set(key,[]);groups.get(key).push({p,ms})}
+ }
+ const priority=['Last Meal That Blew Them Away','Pizza','Sushi','Fried Chicken','Coffee','Cocktail Bar','Hidden Gem','Take an Out of Town Guest','Food Neighbourhood'];
+ const rank=k=>priority.includes(k)?priority.indexOf(k):priority.length;
+ return [...groups].sort(([a],[b])=>rank(a)-rank(b)||a.localeCompare(b)).map(([name,items],i)=>`<section class="pick-section" aria-labelledby="pick-section-${i}"><h2 id="pick-section-${i}" class="pick-section-title">${crateMark}<span>${esc(name)}</span></h2><div class="pick-section-cards">${items.map(({p,ms},j)=>pickCard(p,j,ms)).join('')}</div></section>`).join('');
+}
 function renderResults(){
  document.querySelectorAll('[data-region]').forEach(b=>b.setAttribute('aria-pressed',b.dataset.region===state.region));
  renderLocationFilter();
@@ -133,7 +157,7 @@ function renderResults(){
  $('#result-title').textContent=state.location?'Picks in '+state.location.name:state.saved?'Your little black book':state.chef==='all'?'Good places, good people':chefFor(state.chef).name+ '’s picks';
  $('#result-count').textContent=`${ps.length} personal picks`;
  $('.saved-count').textContent=saved.size;
- $('#cards').innerHTML=ps.length?ps.map((p,i)=>{const ms=mentions(p),cs=[...new Set(ms.map(m=>m.chefId))].map(chefFor);const wish=ms.every(m=>m.wishList);return `<article class="place-card" style="--order:${Math.min(i,8)}"><div class="card-open"><div class="card-topline"><span class="place-type">${icon(categoryFor(ms[0])==='Coffee'?'coffee':categoryFor(ms[0])==='Drinks'?'wine':'utensils')} <span class="category-label">${categoryLabel(ms[0].category)}</span></span>${placeLocation(p)?`<span class="place-city">${locationMarkup(placeLocation(p))}</span>`:''}</div><h3><button class="card-title" data-place="${p.id}" aria-label="Explore ${esc(p.name)}">${esc(p.name)}</button></h3><div class="recommendation"><div class="face-stack">${avatar(cs[0])}</div><div><span>${wish?'On the wish list of':'Picked by'} <b>${esc(cs[0].name.split(' ')[0])}</b></span><small>${esc(cs[0].affiliation)}</small></div>${icon('arrow-up-right','card-arrow')}</div>${cardNote(p,ms)?`<p class="card-comment">${esc(cardNote(p,ms))}</p>`:''}</div><button class="save-button ${saved.has(p.id)?'is-saved':''}" data-save="${p.id}" aria-label="${saved.has(p.id)?'Unsave':'Save'} ${esc(p.name)}" aria-pressed="${saved.has(p.id)}">${icon('heart')}</button></article>`}).join(''):`<div class="empty-state"><span>🍽️</span><h3>No bites here. Yet.</h3><p>${state.saved?'Save a few spots with the heart button, or try different filters.':'Try another chef, craving or neighbourhood.'}</p><button id="reset-filters">Reset filters</button></div>`;
+ $('#cards').innerHTML=ps.length?renderPickGroups(ps,Boolean(activeChef)):`<div class="empty-state"><span>🍽️</span><h3>No bites here. Yet.</h3><p>${state.saved?'Save a few spots with the heart button, or try different filters.':'Try another chef, craving or neighbourhood.'}</p><button id="reset-filters">Reset filters</button></div>`;
  $('#cards').querySelectorAll('article').forEach(card=>card.addEventListener('click',e=>{if(!e.target.closest('button,a'))card.querySelector('[data-place]')?.click()}));
  $('#cards').querySelectorAll('[data-place]').forEach(b=>b.addEventListener('click',()=>openPlace(b.dataset.place)));
  $('#cards').querySelectorAll('[data-save]').forEach(b=>b.addEventListener('click',()=>save(b.dataset.save)));
