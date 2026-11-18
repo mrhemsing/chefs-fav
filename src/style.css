@@ -155,3 +155,19 @@
 .region-filter button{flex:1;min-height:44px;padding:9px 12px;border:1px solid #d8d9ce;border-radius:12px;background:transparent;color:#254537;font:inherit;font-size:15px;font-weight:700;cursor:pointer}
 .region-filter button[aria-pressed="true"]{background:#183f30;color:#fff;border-color:#183f30}
 .region-filter button:focus-visible{outline:3px solid #91b854;outline-offset:2px}
+
+/* Desktop supporting text must be readable, not miniature card metadata. */
+@media(min-width:701px){
+ .no-map{--muted:#58635c}
+ .no-map .card-topline{flex-wrap:wrap;align-items:flex-start;gap:8px 14px}
+ .no-map .card-topline .place-type{font-size:14px;line-height:1.5;max-width:100%;white-space:normal}
+ .no-map .card-topline .place-city{font-size:14px;line-height:1.5;white-space:normal}
+ .no-map .recommendation span:not(.avatar):not(.initials),.no-map .recommendation small{font-size:14px;line-height:1.5}
+ .no-map .recommendation small{white-space:normal;max-width:none;overflow-wrap:anywhere}
+ .no-map .card-comment,.no-map .chef-comment p{font-size:16px;line-height:1.6}
+ .no-map .interview-location,.no-map .results-heading p,.no-map .profile-cta,.no-map .profile-copy .place-type{font-size:14px;line-height:1.5}
+ .no-map .profile-copy p,.no-map .intro p{font-size:16px;line-height:1.6}
+ .no-map .category,.no-map .chef-filter,.no-map .chef-filter label,.no-map .chef-filter select,.no-map .search-box input{font-size:14px}
+ .no-map .selected-chef a,.no-map #profile-nav,.no-map .location-tag,.no-map .source-link,.no-map .detail-note,.no-map .pick-tag,.no-map .chef-intro>div>span,.no-map .list-footer{font-size:14px;line-height:1.5}
+ .no-map .picks-sheet #cards{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
