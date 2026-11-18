@@ -53,6 +53,26 @@
 
 .layout[hidden]{display:none!important}
 
+/* A focused chef profile: discovery controls belong on the main directory. */
+.picks-sheet .discovery{display:none!important}
+.picks-sheet .results{display:flex;flex-direction:column;gap:0}
+.picks-sheet #selected-profile{order:-1}
+.picks-sheet .selected-chef{max-width:none;margin:0 0 24px;padding:4px 0 24px;gap:24px;align-items:flex-start;border-bottom:1px solid var(--line)}
+.picks-sheet .selected-chef>img{width:180px;height:auto;object-fit:contain;background:#eeeee4;border-radius:12px;flex-shrink:0}
+.picks-sheet .selected-chef>div{min-width:0;flex:1;padding-top:4px}
+.picks-sheet .selected-chef #back-chefs{display:none}
+.picks-sheet .selected-chef h2{font-size:30px;line-height:1.15;letter-spacing:-.8px}
+.picks-sheet .selected-chef p{font-size:15px;line-height:1.5;margin:10px 0}
+.picks-sheet .selected-chef a{font-size:14px;display:inline-block;margin-top:4px}
+.picks-sheet .results-heading{padding:0 0 20px}
+.picks-sheet .recommendation .face-stack{display:none}
+@media(max-width:700px){
+ .picks-sheet .selected-chef{gap:16px;margin-bottom:20px;padding-bottom:20px}
+ .picks-sheet .selected-chef>img{width:104px;height:auto}
+ .picks-sheet .selected-chef h2{font-size:24px}
+ .picks-sheet .selected-chef p{font-size:14px}
+}
+
 /* Readable category labels and filters, including narrow mobile sheets. */
 @media(max-width:700px){
   .no-map .category-row{flex-wrap:wrap;overflow:visible;gap:8px}
