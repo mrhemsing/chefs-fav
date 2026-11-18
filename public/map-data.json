@@ -2536,7 +2536,8 @@
           "category": "Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-paul-grunberg",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Neighbourhood Favourites: Timbertrain Coffee Roasters , Earnest Icecream , Livia."
         }
       ],
       "coordinates": null,
@@ -3106,14 +3107,16 @@
           "category": "Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-etienne-buddingh",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Neighbourhood Favourites (Main Street): Savio Volpe , Suyo , Published on Main."
         },
         {
           "chefId": "mates-on-crates-feat-kyle-mcintosh",
-          "category": "Food Neighborhood",
+          "category": "Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-kyle-mcintosh",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Named as a favourite food neighbourhood. More detail on why they chose it is not yet available in this guide."
         }
       ],
       "coordinates": null,
@@ -3697,7 +3700,8 @@
           "category": "Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-eleanor-waterfall",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Their neighbourhood pick: Chinatown ( Phnom Pehn , Kam Wai Dim Sum , Fat Mao , Bao Bei , Kissa Tanto )."
         },
         {
           "chefId": "mates-on-crates-feat-dom-morra",
@@ -5153,10 +5157,11 @@
         },
         {
           "chefId": "mates-on-crates-feat-greg-dion",
-          "category": "Food Neighborhood",
+          "category": "Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-greg-dion",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Their neighbourhood pick: Kitsilano ( AnnaLena , Oddfish )."
         },
         {
           "chefId": "mates-on-crates-feat-mike-jacobsen",
@@ -5220,7 +5225,8 @@
           "category": "Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-tommy-shorthouse",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Neighbourhood Favourites (Yaletown): Rodneys Oyster Bar , The Greek , Elisa Steak , The Parlour."
         }
       ],
       "coordinates": null,
@@ -5867,21 +5873,24 @@
           "category": "Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-james-heras",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Named as a favourite food neighbourhood. More detail on why they chose it is not yet available in this guide."
         },
         {
           "chefId": "mates-on-crates-feat-adam-mills",
           "category": "Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-adam-mills",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Named as a favourite food neighbourhood. More detail on why they chose it is not yet available in this guide."
         },
         {
           "chefId": "mates-on-crates-feat-roger-ma",
           "category": "Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-roger-ma",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Named as a favourite food neighbourhood. More detail on why they chose it is not yet available in this guide."
         }
       ],
       "coordinates": null,
@@ -6407,7 +6416,7 @@
         },
         {
           "chefId": "mates-on-crates-67-feat-josh-ochotorena",
-          "category": "Gastown (Neighborhood)",
+          "category": "Gastown (Neighbourhood)",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-67-feat-josh-ochotorena",
           "evidenceType": "publisher_expanded_list"
@@ -6581,7 +6590,8 @@
           "category": "Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-quynh-anh-pham",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Neighbourhood Spots (West End): Noah’s Cafe , Zakkushi , Jang Mo Jib."
         }
       ],
       "coordinates": null,
@@ -6894,10 +6904,11 @@
         },
         {
           "chefId": "mates-on-crates-feat-marquella-uhrig",
-          "category": "Food Neighborhood",
+          "category": "Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-marquella-uhrig",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Their neighbourhood pick: Commercial Drive ( Bar Corso , Pax Romana , Magari by Oca , Lunch Lady )."
         },
         {
           "chefId": "mates-on-crates-feat-marquella-uhrig",
@@ -7072,7 +7083,8 @@
           "category": "Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-eleanor-waterfall",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Their neighbourhood pick: Chinatown ( Phnom Pehn , Kam Wai Dim Sum , Fat Mao , Bao Bei , Kissa Tanto )."
         },
         {
           "chefId": "mates-on-crates-feat-morgain-cuddy",
@@ -7561,14 +7573,16 @@
           "category": "Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-roger-collins",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Named as a favourite food neighbourhood. More detail on why they chose it is not yet available in this guide."
         },
         {
           "chefId": "mates-on-crates-67-feat-josh-ochotorena",
-          "category": "Food Neighborhood",
+          "category": "Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-67-feat-josh-ochotorena",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Gastown (Neighbourhood): Oku Izakaya."
         }
       ],
       "coordinates": null,
@@ -7840,7 +7854,8 @@
           "category": "Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-paul-clark",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Neighbourhood Favourites: Cilantro and Jalapeño."
         }
       ],
       "coordinates": null,
@@ -8726,17 +8741,19 @@
       "mentions": [
         {
           "chefId": "mates-on-crates-feat-chanthy-yen",
-          "category": "Food Neighborhood",
+          "category": "Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-chanthy-yen",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Named as a favourite food neighbourhood. More detail on why they chose it is not yet available in this guide."
         },
         {
           "chefId": "mates-on-crates-69-feat-karl-gregg",
-          "category": "Food Neighborhood",
+          "category": "Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-69-feat-karl-gregg",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Named as a favourite food neighbourhood. More detail on why they chose it is not yet available in this guide."
         }
       ],
       "coordinates": null,
@@ -9794,7 +9811,8 @@
           "category": "Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-eleanor-waterfall",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Their neighbourhood pick: Chinatown ( Phnom Pehn , Kam Wai Dim Sum , Fat Mao , Bao Bei , Kissa Tanto )."
         },
         {
           "chefId": "mates-on-crates-feat-nathan-pai-phankum",
@@ -9826,7 +9844,8 @@
           "category": "Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-eleanor-waterfall",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Their neighbourhood pick: Chinatown ( Phnom Pehn , Kam Wai Dim Sum , Fat Mao , Bao Bei , Kissa Tanto )."
         },
         {
           "chefId": "mates-on-crates-71-feat-rachel-lee",
@@ -9868,7 +9887,8 @@
           "category": "Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-eleanor-waterfall",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Their neighbourhood pick: Chinatown ( Phnom Pehn , Kam Wai Dim Sum , Fat Mao , Bao Bei , Kissa Tanto )."
         }
       ],
       "coordinates": null,
@@ -10100,35 +10120,40 @@
           "category": "Favourite Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-maria-ponce",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Named as a favourite food neighbourhood. More detail on why they chose it is not yet available in this guide."
         },
         {
           "chefId": "mates-on-crates-feat-johnny-wells",
-          "category": "Food Neighborhood",
+          "category": "Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-johnny-wells",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Neighbourhood Restaurant: Autostrada."
         },
         {
           "chefId": "mates-on-crates-feat-tushar-tondvalkar",
-          "category": "Food Neighborhood",
+          "category": "Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-tushar-tondvalkar",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Named as a favourite food neighbourhood. More detail on why they chose it is not yet available in this guide."
         },
         {
           "chefId": "mates-on-crates-93-feat-hilary-nguy",
-          "category": "Food Neighborhood",
+          "category": "Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-93-feat-hilary-nguy",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Named as a favourite food neighbourhood. More detail on why they chose it is not yet available in this guide."
         },
         {
           "chefId": "mates-on-crates-71-feat-rachel-lee",
-          "category": "Food Neighborhood",
+          "category": "Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-71-feat-rachel-lee",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Named as a favourite food neighbourhood. More detail on why they chose it is not yet available in this guide."
         }
       ],
       "coordinates": null,
@@ -10375,10 +10400,11 @@
       "mentions": [
         {
           "chefId": "mates-on-crates-feat-andrew-kong",
-          "category": "Food Neighborhood",
+          "category": "Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-andrew-kong",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Their neighbourhood pick: Chinatown (Chinatown BBQ, DD Mau)."
         }
       ],
       "coordinates": null,
@@ -10772,10 +10798,11 @@
         },
         {
           "chefId": "mates-on-crates-feat-marquella-uhrig",
-          "category": "Food Neighborhood",
+          "category": "Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-marquella-uhrig",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Their neighbourhood pick: Commercial Drive ( Bar Corso , Pax Romana , Magari by Oca , Lunch Lady )."
         },
         {
           "chefId": "mates-on-crates-feat-marquella-uhrig",
@@ -11133,10 +11160,11 @@
         },
         {
           "chefId": "mates-on-crates-feat-marquella-uhrig",
-          "category": "Food Neighborhood",
+          "category": "Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-marquella-uhrig",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Their neighbourhood pick: Commercial Drive ( Bar Corso , Pax Romana , Magari by Oca , Lunch Lady )."
         },
         {
           "chefId": "mates-on-crates-95-feat-frank-morra",
@@ -11224,49 +11252,56 @@
           "category": "Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-asacia-biln",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Named as a favourite food neighbourhood. More detail on why they chose it is not yet available in this guide."
         },
         {
           "chefId": "mates-on-crates-feat-owen-coomer",
-          "category": "Food Neighborhood",
+          "category": "Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-owen-coomer",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Named as a favourite food neighbourhood. More detail on why they chose it is not yet available in this guide."
         },
         {
           "chefId": "mates-on-crates-feat-reuben-major",
-          "category": "Food Neighborhood",
+          "category": "Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-reuben-major",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Named as a favourite food neighbourhood. More detail on why they chose it is not yet available in this guide."
         },
         {
           "chefId": "mates-on-crates-feat-sandra-bruzzese",
-          "category": "Food Neighborhood",
+          "category": "Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-sandra-bruzzese",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Named as a favourite food neighbourhood. More detail on why they chose it is not yet available in this guide."
         },
         {
           "chefId": "mates-on-crates-feat-dom-morra",
-          "category": "Food Neighborhood",
+          "category": "Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-dom-morra",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Named as a favourite food neighbourhood. More detail on why they chose it is not yet available in this guide."
         },
         {
           "chefId": "mates-on-crates-95-feat-frank-morra",
-          "category": "Food Neighborhood",
+          "category": "Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-95-feat-frank-morra",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Named as a favourite food neighbourhood. More detail on why they chose it is not yet available in this guide."
         },
         {
           "chefId": "mates-on-crates-68-feat-claire-livia-lassam",
-          "category": "Food Neighborhood",
+          "category": "Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-68-feat-claire-livia-lassam",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Commercial Drive (Neighbourhood): Pepino’s Spaghetti House , Caffé La Tana , Pax Romana."
         }
       ],
       "coordinates": null,
@@ -11402,14 +11437,15 @@
         },
         {
           "chefId": "mates-on-crates-feat-marquella-uhrig",
-          "category": "Food Neighborhood",
+          "category": "Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-marquella-uhrig",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Their neighbourhood pick: Commercial Drive ( Bar Corso , Pax Romana , Magari by Oca , Lunch Lady )."
         },
         {
           "chefId": "mates-on-crates-68-feat-claire-livia-lassam",
-          "category": "Commercial Drive (Neighborhood)",
+          "category": "Commercial Drive (Neighbourhood)",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-68-feat-claire-livia-lassam",
           "evidenceType": "publisher_expanded_list"
@@ -11783,17 +11819,19 @@
       "mentions": [
         {
           "chefId": "mates-on-crates-feat-barbora-samieian",
-          "category": "Food Neighborhood",
+          "category": "Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-barbora-samieian",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Their neighbourhood pick: Fairview / Kitsilano / Granville Island (Favourite: Oddfish )."
         },
         {
           "chefId": "mates-on-crates-feat-greg-dion",
-          "category": "Food Neighborhood",
+          "category": "Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-greg-dion",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Their neighbourhood pick: Kitsilano ( AnnaLena , Oddfish )."
         }
       ],
       "coordinates": null,
@@ -11934,7 +11972,7 @@
         },
         {
           "chefId": "mates-on-crates-68-feat-claire-livia-lassam",
-          "category": "Commercial Drive (Neighborhood)",
+          "category": "Commercial Drive (Neighbourhood)",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-68-feat-claire-livia-lassam",
           "evidenceType": "publisher_expanded_list"
@@ -12896,10 +12934,11 @@
       "mentions": [
         {
           "chefId": "mates-on-crates-feat-nathan-lowey",
-          "category": "Food Neighborhood",
+          "category": "Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-nathan-lowey",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Named as a favourite food neighbourhood. More detail on why they chose it is not yet available in this guide."
         }
       ],
       "coordinates": null,
@@ -14372,10 +14411,11 @@
       "mentions": [
         {
           "chefId": "mates-on-crates-feat-gino-di-domenico-2026",
-          "category": "Food Neighborhood",
+          "category": "Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-gino-di-domenico-2026",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Named as a favourite food neighbourhood. More detail on why they chose it is not yet available in this guide."
         }
       ],
       "coordinates": null,
@@ -14931,10 +14971,11 @@
       "mentions": [
         {
           "chefId": "mates-on-crates-feat-andrew-doyle",
-          "category": "Food Neighborhood",
+          "category": "Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-andrew-doyle",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Named as a favourite food neighbourhood. More detail on why they chose it is not yet available in this guide."
         }
       ],
       "coordinates": null,
@@ -15302,7 +15343,7 @@
       "mentions": [
         {
           "chefId": "mates-on-crates-feat-johnny-wells",
-          "category": "Neighborhood Restaurant",
+          "category": "Neighbourhood Restaurant",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-johnny-wells",
           "evidenceType": "publisher_expanded_list"
@@ -16202,10 +16243,11 @@
       "mentions": [
         {
           "chefId": "mates-on-crates-feat-scott-thornhill",
-          "category": "Food Neighborhood",
+          "category": "Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-scott-thornhill",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Their neighbourhood pick: Kingsway (Favourite spot: Joojak )."
         }
       ],
       "coordinates": [
@@ -16352,10 +16394,11 @@
       "mentions": [
         {
           "chefId": "mates-on-crates-feat-harman-basutta",
-          "category": "Food Neighborhood (and Restaurant)",
+          "category": "Food Neighbourhood (and Restaurant)",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-harman-basutta",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Their neighbourhood pick: Commercial Drive ( Loula’s Taverna )."
         }
       ],
       "coordinates": null,
@@ -16849,10 +16892,11 @@
       "mentions": [
         {
           "chefId": "mates-on-crates-feat-erin-heather",
-          "category": "Food Neighborhood",
+          "category": "Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-erin-heather",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Named as a favourite food neighbourhood. More detail on why they chose it is not yet available in this guide."
         }
       ],
       "coordinates": null,
@@ -17032,10 +17076,11 @@
       "mentions": [
         {
           "chefId": "mates-on-crates-feat-tyson-reimer",
-          "category": "Food Neighborhood",
+          "category": "Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-tyson-reimer",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Named as a favourite food neighbourhood. More detail on why they chose it is not yet available in this guide."
         }
       ],
       "coordinates": null,
@@ -17190,10 +17235,11 @@
       "mentions": [
         {
           "chefId": "mates-on-crates-feat-tannis-ling",
-          "category": "Food Neighborhood",
+          "category": "Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-tannis-ling",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Named as a favourite food neighbourhood. More detail on why they chose it is not yet available in this guide."
         }
       ],
       "coordinates": null,
@@ -17201,7 +17247,17 @@
       "address": "",
       "locationStatus": "Geographic destination named by publisher; not a single street address.",
       "locationSource": "https://chefsfav.com/blog/mates-on-crates-feat-tannis-ling",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-tannis-ling",
+          "placeId": "kingswaycorridor",
+          "comment": "Her Kingsway pick is Happy Family: she recommends pre-ordering the whole fried chicken over sticky rice, with crispy chicken and a crisp layer of rice underneath.",
+          "startSeconds": 103,
+          "source": "https://www.instagram.com/reel/DU9XZugCXgq/",
+          "type": "summary",
+          "reviewMethod": "Neighbourhood answer at 103-119 seconds read in cached transcript; Happy Family identity and dish corroborated with existing reviewed note and official expanded list."
+        }
+      ]
     },
     {
       "id": "chickochicken",
@@ -17906,10 +17962,11 @@
       "mentions": [
         {
           "chefId": "mates-on-crates-91-devon-trowler",
-          "category": "Food Neighborhood",
+          "category": "Food Neighbourhood",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-91-devon-trowler",
-          "evidenceType": "publisher_expanded_list"
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Named as a favourite food neighbourhood. More detail on why they chose it is not yet available in this guide."
         }
       ],
       "coordinates": null,
@@ -18126,7 +18183,7 @@
       "mentions": [
         {
           "chefId": "mates-on-crates-68-feat-claire-livia-lassam",
-          "category": "Commercial Drive (Neighborhood)",
+          "category": "Commercial Drive (Neighbourhood)",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-68-feat-claire-livia-lassam",
           "evidenceType": "publisher_expanded_list"

@@ -27,7 +27,8 @@ homes=load('data/chef-locations.json') if (ROOT/'data/chef-locations.json').exis
 for c in chefs: c['home']=homes.get(c['id'],{})
 
 places={}
-for r in load('data/recommendations.json'):
+recommendations=load('data/recommendations.json')
+for r in recommendations:
     links=r['venueLinks']
     # Source HTML contains a stray Denny's link around the word Coffee in a
     # Nemesis answer. Keep factual answer rather than propagating that bad link.
@@ -53,7 +54,20 @@ for r in load('data/recommendations.json'):
         }.items():
             if key in [norm(x) for x in [canonical]+choices]: name=canonical; key=norm(canonical)
         p=places.setdefault(key,{'id':key,'name':name,'website':l['url'].split('?')[0], 'mentions':[], 'coordinates':None})
-        mention={'chefId':r['episodeId'],'category':r['category'],'wishList':r['experience']=='wish_list_not_visited','source':r['sourceUrl'],'evidenceType':r['evidenceType']}
+        mention={'chefId':r['episodeId'],'category':r['category'].replace('Neighborhood','Neighbourhood'),'wishList':r['experience']=='wish_list_not_visited','source':r['sourceUrl'],'evidenceType':r['evidenceType']}
+        if re.search(r'food neighbou?rhood',r['category'],re.I):
+            # Keep context tied to this guest's explicit neighbourhood answer.
+            context=[]
+            if '(' in r['recommendation']:
+                context.append('Their neighbourhood pick: '+r['recommendation']+'.')
+            for related in recommendations:
+                if related['episodeId']!=r['episodeId'] or related is r: continue
+                category=related['category']
+                if not re.search(r'neighbou?rhood',category,re.I) or re.search(r'food neighbou?rhood',category,re.I): continue
+                area=re.search(r'\(([^)]+)\)',category)
+                if area and 'neighb' not in area[1].lower() and area[1].lower() not in r['recommendation'].lower(): continue
+                context.append(category.replace('Neighborhood','Neighbourhood')+': '+related['recommendation']+'.')
+            mention['neighbourhoodContext']=' '.join(context) if context else 'Named as a favourite food neighbourhood. More detail on why they chose it is not yet available in this guide.'
         if mention not in p['mentions']: p['mentions'].append(mention)
 
 cachepath=ROOT/'.cache/geocodes.json'
