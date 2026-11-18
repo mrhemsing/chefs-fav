@@ -19,3 +19,5 @@
 - Place labels must show a specific town/city/island, never just BC or British Columbia. Omit unverified card locations rather than guessing; keep uncertainty in details. Source-backed corrections live in data/place-location-overrides.json and are applied by prepare-map.py.
 
 - Vancouver location labels must include a verified neighbourhood, never Vancouver alone. Omit the city suffix when the neighbourhood already includes it (South Vancouver, East Vancouver). Hide unverified labels, retaining source data for later verification.
+
+- Category display/grouping/filtering uses the shared pickGroup/categoryQuestion functions in src/main.js. Merge equivalent variants (e.g. sushi price tiers, family meals, neighbourhood spot sublabels) into one question; preserve raw sourced categories in data. Keep distinct cuisines/dishes and wish-list versus visited recommendations separate.

@@ -158,6 +158,15 @@ function renderChefs(){
 function pickCard(p,i,ms=mentions(p)){const cs=[...new Set(ms.map(m=>m.chefId))].map(chefFor);const wish=ms.every(m=>m.wishList);return `<article class="place-card" style="--order:${Math.min(i,8)}"><div class="card-open"><div class="card-topline"><span class="place-type">${icon(categoryFor(ms[0])==='Coffee'?'coffee':categoryFor(ms[0])==='Drinks'?'wine':'utensils')} <span class="category-label">${categoryLabel(ms[0].category)}</span></span>${placeLocation(p)?`<span class="place-city">${locationMarkup(placeLocation(p))}</span>`:''}</div><h3><button class="card-title" data-place="${p.id}" aria-label="Explore ${esc(p.name)}">${esc(p.name)}</button></h3><div class="recommendation"><div class="face-stack">${avatar(cs[0])}</div><div><span>${wish?'On the wish list of':'Picked by'} <b>${esc(cs[0].name.split(' ')[0])}</b></span><small>${esc(cs[0].affiliation)}</small></div>${icon('arrow-up-right','card-arrow')}</div>${cardNote(p,ms)?`<p class="card-comment">${esc(cardNote(p,ms))}</p>`:''}</div><button class="save-button ${saved.has(p.id)?'is-saved':''}" data-save="${p.id}" aria-label="${saved.has(p.id)?'Unsave':'Save'} ${esc(p.name)}" aria-pressed="${saved.has(p.id)}">${icon('heart')}</button></article>`}
 function pickGroup(category){
  const c=category.replace(/Neighborhood/g,'Neighbourhood').trim();
+ if(/^sushi\b/i.test(c))return 'Sushi';
+ if(/^coffee\b/i.test(c))return 'Coffee';
+ if(c==='(Most Influential) Italian')return 'Italian';
+ if(/^(?:family (?:dinner|friendly|meal)|meal for families with kids|spot for a family lunch)$/i.test(c))return 'Family Friendly';
+ if(/^neighbourhood (?:favourites?|spots?|pick|restaurant)(?: \(.+\))?$/i.test(c))return 'Neighbourhood Favourites';
+ if(['Chinatown favourite','Commercial Drive','Commercial Drive (Neighbourhood)','Gastown (Neighbourhood)','Hastings Sunrise'].includes(c))return 'Neighbourhood Favourites';
+ if(c==='Hangover Brunch')return 'Hangover Cure';
+ if(c==='Chicken sandwich')return 'Sandwich';
+
  if(/^(?:barbecue|bbq)(?: pork)?$/i.test(c))return 'Barbecue';
  if(/meal.*blew/i.test(c))return 'Last Meal That Blew Them Away';
  if(/out.of.town guest/i.test(c))return 'Take an Out of Town Guest';
