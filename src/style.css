@@ -137,7 +137,7 @@
 .location-lines>span{display:block}
 .location-link{color:inherit;font:inherit;text-align:left;padding:2px 0;background:none;border:0;text-decoration:underline;text-decoration-color:#a7b9ab;text-underline-offset:3px;cursor:pointer;max-width:100%}
 .location-link:hover{color:var(--green);text-decoration-color:currentColor}
-.card-topline .place-city{margin-left:auto;text-align:right}
+.card-topline .place-city{margin-left:auto;margin-top:-5.5px;text-align:right}
 .card-topline .place-city .location-lines,.card-topline .place-city .location-link{text-align:right}
 .location-link:focus-visible,.card-title:focus-visible{outline:2px solid var(--green);outline-offset:3px;border-radius:3px}
 .card-title{font:inherit;color:inherit;text-align:left;padding:0;background:none;border:0;cursor:pointer}
