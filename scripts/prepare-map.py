@@ -114,6 +114,8 @@ for i,p in enumerate(places.values()):
 # Source-verified location corrections survive data regeneration.
 for place_id, correction in load('data/place-location-overrides.json').items():
     if place_id in places:
+        if places[place_id].get('coordinates'):
+            places[place_id]['coordinateSource'] = places[place_id]['locationSource']
         places[place_id].update(correction)
 
 (ROOT/'public').mkdir(exist_ok=True)

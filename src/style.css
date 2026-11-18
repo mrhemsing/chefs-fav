@@ -111,5 +111,21 @@
 /* Neighbourhood and city get separate lines, with no separator dot. */
 .location-lines{display:block;min-width:0;text-align:left}
 .location-lines>span{display:block}
+.location-link{color:inherit;font:inherit;text-align:left;padding:2px 0;background:none;border:0;text-decoration:underline;text-decoration-color:#a7b9ab;text-underline-offset:3px;cursor:pointer;max-width:100%}
+.location-link:hover{color:var(--green);text-decoration-color:currentColor}
+.location-link:focus-visible,.card-title:focus-visible{outline:2px solid var(--green);outline-offset:3px;border-radius:3px}
+.card-title{font:inherit;color:inherit;text-align:left;padding:0;background:none;border:0;cursor:pointer}
+.profile-cta{background:none;border:0;padding:0;text-align:left;width:100%}
+#location-filter{display:flex;gap:12px;align-items:center;background:#e7eddf;border:1px solid #c3d0b8;border-radius:12px;padding:10px 12px;margin:10px 0;font-size:14px;color:var(--green)}
+#location-filter[hidden]{display:none}
+#location-filter>span{flex:1;min-width:0;overflow-wrap:anywhere}
+#location-filter small{display:block}
+#location-filter button{display:flex;align-items:center;gap:4px;min-height:44px;background:none;border:0;color:inherit;font:inherit;cursor:pointer}
+#location-filter svg{width:20px;height:20px;flex-shrink:0}
 .location-tag{align-items:flex-start;line-height:1.5}
 .location-tag svg{width:1em;height:1em;margin-top:calc((1lh - 1em)/2)}
+
+.region-filter{display:flex;gap:6px;margin:12px 0;flex-wrap:wrap}
+.region-filter button{flex:1;min-height:44px;padding:9px 12px;border:1px solid #d8d9ce;border-radius:12px;background:transparent;color:#254537;font:inherit;font-size:15px;font-weight:700;cursor:pointer}
+.region-filter button[aria-pressed="true"]{background:#183f30;color:#fff;border-color:#183f30}
+.region-filter button:focus-visible{outline:3px solid #91b854;outline-offset:2px}

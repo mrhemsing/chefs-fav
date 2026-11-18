@@ -36,7 +36,13 @@ if (root/'public/map-data.json').exists():
             assert n['chefId'] in chefs and n['startSeconds']>=0 and n['type']=='summary'
         if p['coordinates']:
             lon,lat=p['coordinates'];assert -139<lon<-114 and 48<lat<61
-            assert p['locationSource'].startswith('https://www.openstreetmap.org/')
+            assert p.get('coordinateSource',p['locationSource']).startswith('https://www.openstreetmap.org/')
+        assert p['city'].strip() and p['city'] not in ['British Columbia', 'BC', 'Vancouver'], p['id']
+        assert p.get('locationSource','').startswith(('https://','http://')), p['id']
+        assert p['city'] == read('place-location-overrides')[p['id']]['city']
+    for c in app['chefs']:
+        assert c['location'].get('city')
+        assert c['location']['city'] != 'Vancouver' or c['location'].get('neighbourhood')
     for n in read('video-notes'):
         assert n['chefId'] in chefs and n['placeId'] in placeids
     print(f"PASS: {len(app['places'])} app places; chef, note and coordinate integrity.")

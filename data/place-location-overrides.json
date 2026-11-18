@@ -22,5 +22,4421 @@
     "address": "116 Jackson Avenue",
     "locationSource": "https://thelittlecoffeecan.ca/",
     "locationStatus": "Location verified from official website on 2026-11-17"
+  },
+  "ombre": {
+    "city": "Tofino",
+    "locationSource": "https://www.ombrerestaurant.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "wildsidegrill": {
+    "city": "Tofino",
+    "locationSource": "https://www.wildsidegrill.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "thegull": {
+    "city": "Lower Lonsdale · North Vancouver",
+    "locationSource": "https://www.thegull.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "copperpenny": {
+    "city": "Lower Lonsdale · North Vancouver",
+    "locationSource": "https://copperpennydistilling.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "loambistro": {
+    "city": "Lower Lonsdale · North Vancouver",
+    "locationSource": "https://www.loambistro.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "farinaalegna": {
+    "city": "Lower Lonsdale · North Vancouver",
+    "locationSource": "https://www.farinaalegna.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "catch122": {
+    "city": "Lower Lonsdale · North Vancouver",
+    "locationSource": "https://www.catch122.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "sharkyschophouseeatery": {
+    "city": "Lower Lonsdale · North Vancouver",
+    "locationSource": "https://sharkyschophouse.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "thegullbarandkitchen": {
+    "city": "Lower Lonsdale · North Vancouver",
+    "locationSource": "https://www.thegull.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "sushimahana": {
+    "city": "Lower Lonsdale · North Vancouver",
+    "locationSource": "https://sushimahana.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "cafecalabria": {
+    "city": "Commercial Drive · Vancouver",
+    "locationSource": "https://www.cafecalabria.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "bellipizza": {
+    "city": "Commercial Drive · Vancouver",
+    "locationSource": "https://www.belli.pizza/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "nomonomo": {
+    "city": "Commercial Drive · Vancouver",
+    "locationSource": "https://nomonomo.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "chancho": {
+    "city": "Commercial Drive · Vancouver",
+    "locationSource": "https://www.chancho.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "harambe": {
+    "city": "Commercial Drive · Vancouver",
+    "locationSource": "https://www.zomi.menu/shop/haramberestaurant",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "theburrow": {
+    "city": "Commercial Drive · Vancouver",
+    "locationSource": "https://theburrowrestaurant.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "pepinos": {
+    "city": "Commercial Drive · Vancouver",
+    "locationSource": "https://pepinos.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "caffelatana": {
+    "city": "Commercial Drive · Vancouver",
+    "locationSource": "https://caffelatana.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "sunrisepizzasteakhouse": {
+    "city": "Commercial Drive · Vancouver",
+    "locationSource": "https://thedrive.ca/vancouver/sunrise-pizza-steak-house/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "marcelloristorantepizzeria": {
+    "city": "Commercial Drive · Vancouver",
+    "locationSource": "http://marcellopizzeria.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "theflam": {
+    "city": "Commercial Drive · Vancouver",
+    "locationSource": "https://www.flamingoroomvan.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "ingoroom": {
+    "city": "Commercial Drive · Vancouver",
+    "locationSource": "https://www.flamingoroomvan.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "vietfamilyvegan": {
+    "city": "Commercial Drive · Vancouver",
+    "locationSource": "http://vietfamilyvegan.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "loulastaverna": {
+    "city": "Commercial Drive · Vancouver",
+    "locationSource": "http://loulastaverna.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "chanchotortilleria": {
+    "city": "Commercial Drive · Vancouver",
+    "locationSource": "https://www.chancho.ca",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "bevel": {
+    "city": "Yaletown · Vancouver",
+    "locationSource": "https://www.bevelrestaurant.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "rodneysoysterbar": {
+    "city": "Yaletown · Vancouver",
+    "locationSource": "https://rohvan.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "elisasteak": {
+    "city": "Yaletown · Vancouver",
+    "locationSource": "https://elisasteak.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "dovetail": {
+    "city": "Yaletown · Vancouver",
+    "locationSource": "https://www.dovetailrestaurant.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "elisa": {
+    "city": "Yaletown · Vancouver",
+    "locationSource": "https://elisasteak.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "bluewatercafe": {
+    "city": "Yaletown · Vancouver",
+    "locationSource": "https://bluewatercafe.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "lecrocodilebyrobfeenie": {
+    "city": "Downtown · Vancouver",
+    "locationSource": "https://www.lecrocodilerestaurant.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "touk": {
+    "city": "Downtown · Vancouver",
+    "locationSource": "https://www.toukyvr.com/menu",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "chambar": {
+    "city": "Downtown · Vancouver",
+    "locationSource": "https://www.chambar.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "prophecy": {
+    "city": "Downtown · Vancouver",
+    "locationSource": "https://www.prophecybar.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "fivesails": {
+    "city": "Downtown · Vancouver",
+    "locationSource": "https://fivesails.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "sushimasuda": {
+    "city": "Downtown · Vancouver",
+    "locationSource": "https://www.sushimasuda.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "guuonthurlow": {
+    "city": "Downtown · Vancouver",
+    "locationSource": "https://guu-izakaya.com/original_qr/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "blackblue": {
+    "city": "Downtown · Vancouver",
+    "locationSource": "https://blackandbluesteakhouse.ca/vancouver-home/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "fannybayoysterbar": {
+    "city": "Downtown · Vancouver",
+    "locationSource": "https://www.fannybayoysters.com/location/oyster-bar--shellfish-market",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "tableaubarbistro": {
+    "city": "Downtown · Vancouver",
+    "locationSource": "https://www.tableaubarbistro.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "thepawnshop": {
+    "city": "Downtown · Vancouver",
+    "locationSource": "https://thepawnshopyvr.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "medina": {
+    "city": "Downtown · Vancouver",
+    "locationSource": "https://www.medinacafe.com",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "giardino": {
+    "city": "Downtown · Vancouver",
+    "locationSource": "https://umberto.com/giardino/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "nightingale": {
+    "city": "Downtown · Vancouver",
+    "locationSource": "https://hawknightingale.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "coast": {
+    "city": "Downtown · Vancouver",
+    "locationSource": "https://glowbalgroup.com/coast/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "joefortes": {
+    "city": "Downtown · Vancouver",
+    "locationSource": "https://www.joefortes.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "askforluigi": {
+    "city": "Gastown · Vancouver",
+    "locationSource": "https://www.askforluigi.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "revolver": {
+    "city": "Gastown · Vancouver",
+    "locationSource": "https://revolvercoffee.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "monarca": {
+    "city": "Gastown · Vancouver",
+    "locationSource": "https://monarcavancouver.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "amberlisteningbar": {
+    "city": "Gastown · Vancouver",
+    "locationSource": "https://www.amber99.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "thegardenstrathcona": {
+    "city": "Strathcona · Vancouver",
+    "locationSource": "https://thegardenstrathcona.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "torafuku": {
+    "city": "Strathcona · Vancouver",
+    "locationSource": "https://www.torafuku.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "pinkpearldimsum": {
+    "city": "Strathcona · Vancouver",
+    "locationSource": "https://pinkpearl.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "tommyswholegrainbakery": {
+    "city": "Strathcona · Vancouver",
+    "locationSource": "https://www.tommyswholegrain.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "s2cafehouse": {
+    "city": "Strathcona · Vancouver",
+    "locationSource": "https://strathconabia.com/listings/s2-cafe-house/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "hypechocolate": {
+    "city": "Strathcona · Vancouver",
+    "locationSource": "https://hypechocolate.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "coastaledencafe": {
+    "city": "Strathcona · Vancouver",
+    "locationSource": "https://coastaledencafe.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "railtowncatering": {
+    "city": "Strathcona · Vancouver",
+    "locationSource": "https://railtowncatering.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "huneybeebruncheonette": {
+    "city": "Strathcona · Vancouver",
+    "locationSource": "https://www.hunnybeebrunch.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "selene": {
+    "city": "Hastings-Sunrise · Vancouver",
+    "locationSource": "https://seleneagn.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "halina": {
+    "city": "Hastings-Sunrise · Vancouver",
+    "locationSource": "https://www.halinarestaurant.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "toliveforbakery": {
+    "city": "Hastings-Sunrise · Vancouver",
+    "locationSource": "https://tolivefor.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "redwagoncafe": {
+    "city": "Hastings-Sunrise · Vancouver",
+    "locationSource": "https://redwagoncafe.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "meetandeathalalturkishrestaurant": {
+    "city": "Hastings-Sunrise · Vancouver",
+    "locationSource": "https://meetandeat.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "innocenticecream": {
+    "city": "Hastings-Sunrise · Vancouver",
+    "locationSource": "https://innocenticecream.com/shop-overview/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "mercadopanaderia": {
+    "city": "Hastings-Sunrise · Vancouver",
+    "locationSource": "https://www.mercadopanaderia.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "nerotondo": {
+    "city": "Hastings-Sunrise · Vancouver",
+    "locationSource": "https://nerotondo.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "theredwagon": {
+    "city": "Hastings-Sunrise · Vancouver",
+    "locationSource": "https://redwagoncafe.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "seleneaegeanbistro": {
+    "city": "Hastings-Sunrise · Vancouver",
+    "locationSource": "https://seleneagn.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "redwagon": {
+    "city": "Hastings-Sunrise · Vancouver",
+    "locationSource": "http://www.redwagoncafe.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "pantitlanspeakeasy": {
+    "city": "Hastings-Sunrise · Vancouver",
+    "locationSource": "https://www.pantitlan.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "whiskeysixbbq": {
+    "city": "Hastings-Sunrise · Vancouver",
+    "locationSource": "https://www.whiskeysixbbq.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "thebrightonpub": {
+    "city": "Hastings-Sunrise · Vancouver",
+    "locationSource": "http://www.thebrightonpub.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "royalseafoodpalace": {
+    "city": "Hastings-Sunrise · Vancouver",
+    "locationSource": "https://royalpalaceseafoodrestaurant.zomi.menu/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "doe": {
+    "city": "Grandview-Woodland · Vancouver",
+    "locationSource": "https://doecoffee.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "renzullofoodmarket": {
+    "city": "Grandview-Woodland · Vancouver",
+    "locationSource": "https://renzullofoodmarket.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "cantonesebbq": {
+    "city": "Renfrew-Collingwood · Vancouver",
+    "locationSource": "https://cantonesebbq.com/location/Vancouver/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "happyfamilyrestaurant": {
+    "address": "2178 Kingsway",
+    "coordinates": [
+      -123.062358,
+      49.2435959
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/1937561314",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Kensington-Cedar Cottage · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "kookkoreanbbq": {
+    "city": "Renfrew-Collingwood · Vancouver",
+    "locationSource": "https://www.kookbbq.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "lapiazzadario": {
+    "city": "Renfrew-Collingwood · Vancouver",
+    "locationSource": "https://lapiazzadario.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "saviovolpe": {
+    "city": "Mount Pleasant · Vancouver",
+    "locationSource": "https://www.saviovolpe.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "fifebakery": {
+    "city": "Mount Pleasant · Vancouver",
+    "locationSource": "https://www.fifebakery.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "comotaperia": {
+    "city": "Mount Pleasant · Vancouver",
+    "locationSource": "https://www.comotaperia.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "himesushi": {
+    "city": "Mount Pleasant · Vancouver",
+    "locationSource": "https://himesushi.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "chupito": {
+    "city": "Mount Pleasant · Vancouver",
+    "locationSource": "https://www.chupito.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "songbykinkao": {
+    "city": "Mount Pleasant · Vancouver",
+    "locationSource": "https://songyvr.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "deargussnackbar": {
+    "city": "Mount Pleasant · Vancouver",
+    "locationSource": "https://www.deargus.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "kavita": {
+    "city": "Mount Pleasant · Vancouver",
+    "locationSource": "https://www.restaurantkavita.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "33acresbrewing": {
+    "city": "Mount Pleasant · Vancouver",
+    "locationSource": "https://33acresbrewing.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "monarchburger": {
+    "city": "Mount Pleasant · Vancouver",
+    "locationSource": "https://www.monarchburger.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "c": {
+    "city": "Mount Pleasant · Vancouver",
+    "locationSource": "https://www.comotaperia.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "omotaperia": {
+    "city": "Mount Pleasant · Vancouver",
+    "locationSource": "https://www.comotaperia.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "giusti": {
+    "city": "Mount Pleasant · Vancouver",
+    "locationSource": "https://www.giustivancouver.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "elem": {
+    "city": "Mount Pleasant · Vancouver",
+    "locationSource": "http://elemvancouver.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "brassneck": {
+    "city": "Mount Pleasant · Vancouver",
+    "locationSource": "https://brassneck.ca",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "slimsbbq": {
+    "city": "Mount Pleasant · Vancouver",
+    "locationSource": "https://narrowgroup.ca/project/slims-bbq/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "kaoriizakaya": {
+    "city": "Mount Pleasant · Vancouver",
+    "locationSource": "https://kaori-menu.vercel.app/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "nui": {
+    "city": "Riley Park · Vancouver",
+    "locationSource": "https://www.nuivancouver.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "pizzacarano": {
+    "city": "Riley Park · Vancouver",
+    "locationSource": "https://www.pizzacarano.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "banisterprovisionsatheroswelcome": {
+    "city": "Riley Park · Vancouver",
+    "locationSource": "https://www.heros-welcome.com/foodmenu",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "amarawbar": {
+    "city": "Riley Park · Vancouver",
+    "locationSource": "https://amarawbar.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "acorn": {
+    "city": "Riley Park · Vancouver",
+    "locationSource": "https://www.theacornrestaurant.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "trafiqcafebakery": {
+    "city": "Riley Park · Vancouver",
+    "locationSource": "http://trafiq.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "lady3kitchen": {
+    "city": "Victoria-Fraserview · Vancouver",
+    "locationSource": "https://www.zomi.menu/shop/ladykitchen",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "banhmisaigon": {
+    "city": "Victoria-Fraserview · Vancouver",
+    "locationSource": "https://www.banhmisaigon.ca",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "westernlakechineseseafoodrestaurant": {
+    "city": "Victoria-Fraserview · Vancouver",
+    "locationSource": "https://westernlake.ca/english/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "thebossbakery": {
+    "city": "Chinatown · Vancouver",
+    "locationSource": "https://www.facebook.com/TheBossBakeryandRestaurantChinatown",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "maximsbakery": {
+    "city": "Chinatown · Vancouver",
+    "locationSource": "https://www.facebook.com/MaximsBakeryandRestaurantChinatown/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "jukefriedchicken": {
+    "city": "Chinatown · Vancouver",
+    "locationSource": "https://www.jukefriedchicken.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "lossapostacos": {
+    "city": "Chinatown · Vancouver",
+    "locationSource": "https://www.lossapostacos.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "uglyduckling": {
+    "city": "Chinatown · Victoria",
+    "locationSource": "https://www.uglyducklingrestaurant.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "citruscane": {
+    "city": "Downtown · Victoria",
+    "locationSource": "https://www.citrusandcane.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "thecourtenayroom": {
+    "city": "Downtown · Victoria",
+    "locationSource": "https://thecourtneyroom.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "humboldt": {
+    "city": "Downtown · Victoria",
+    "locationSource": "https://www.humboldtbar.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "bigbadjohns": {
+    "city": "Downtown · Victoria",
+    "locationSource": "https://strathconahotel.com/big-bad-johns",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "ilterrazzo": {
+    "city": "Downtown · Victoria",
+    "locationSource": "https://www.ilterrazzo.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "marilenacaferawbar": {
+    "city": "Downtown · Victoria",
+    "locationSource": "http://marilenacafe.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "byhandson": {
+    "city": "West End · Vancouver",
+    "locationSource": "https://www.handsonyvr.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "tetsusushiba": {
+    "city": "West End · Vancouver",
+    "locationSource": "https://www.tetsusushibar.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "thefryingpan": {
+    "city": "West End · Vancouver",
+    "locationSource": "https://www.thefryingpan604.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "chosunkoreanbbq": {
+    "city": "West End · Vancouver",
+    "locationSource": "https://chosunbbq.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "thered": {
+    "city": "West End · Vancouver",
+    "locationSource": "https://www.theredaccordion.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "accordion": {
+    "city": "West End · Vancouver",
+    "locationSource": "https://www.theredaccordion.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "raisu": {
+    "city": "Kitsilano · Vancouver",
+    "locationSource": "https://raisu.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "octopusgarden": {
+    "city": "Kitsilano · Vancouver",
+    "locationSource": "https://www.octopusgarden-canada.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "temakisushi": {
+    "city": "Kitsilano · Vancouver",
+    "locationSource": "https://www.temakisushi.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "newfuji": {
+    "city": "Kitsilano · Vancouver",
+    "locationSource": "https://new-fuji.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "laquercia": {
+    "city": "Kitsilano · Vancouver",
+    "locationSource": "https://www.laquercia.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "the": {
+    "city": "Kitsilano · Vancouver",
+    "locationSource": "https://thekingsheadkits.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "kingsheadpublichouse": {
+    "city": "Kitsilano · Vancouver",
+    "locationSource": "https://thekingsheadkits.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "thekingsheadpublichouse": {
+    "city": "Kitsilano · Vancouver",
+    "locationSource": "https://thekingsheadkits.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "apolloniagreekrestaurant": {
+    "city": "Kitsilano · Vancouver",
+    "locationSource": "http://www.apolloniagreekrestaurant.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "htastinglounge": {
+    "city": "Coal Harbour · Vancouver",
+    "locationSource": "https://htastinglounge.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "tojos": {
+    "city": "Fairview · Vancouver",
+    "locationSource": "https://tojos.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "osakateppanyaki": {
+    "city": "Fairview · Vancouver",
+    "locationSource": "https://www.osakavancouver.com",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "mangiassandwiches": {
+    "city": "Fairview · Vancouver",
+    "locationSource": "https://mangiassandwiches.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "autostradabritanniabeach": {
+    "city": "Britannia Beach",
+    "locationSource": "https://www.autostradahospitality.ca/britannia-beach-oyster-bar-grill",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "thewatershedgrill": {
+    "city": "Brackendale · Squamish",
+    "locationSource": "https://www.thewatershedgrill.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "clayoven": {
+    "city": "Tsawwassen · Delta",
+    "locationSource": "https://www.clayovendelta.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "stircoffee": {
+    "city": "Ladner · Delta",
+    "locationSource": "https://stircoffeehouse.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "soiram": {
+    "city": "Ladner · Delta",
+    "locationSource": "https://soiram.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "oyeskebab": {
+    "city": "Metrotown · Burnaby",
+    "locationSource": "https://oyes.ca/about/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "fernie": {
+    "city": "Fernie",
+    "locationSource": "https://tourismfernie.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "baciristorante": {
+    "city": "Burnaby Heights · Burnaby",
+    "locationSource": "http://www.bacirestaurant.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "ilcappelloenoteca": {
+    "city": "Capitol Hill · Burnaby",
+    "locationSource": "https://www.ilcappello.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "humblerootscafedeli": {
+    "city": "Maple Ridge",
+    "locationSource": "https://humbleroots.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "kingfisherswaterfrontbargrill": {
+    "city": "Maple Ridge",
+    "locationSource": "https://kingfisherspub.com",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "chadspizza": {
+    "city": "Maple Ridge",
+    "locationSource": "https://chadspizzamapleridge.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "thegoldenboot": {
+    "city": "Austin Heights · Coquitlam",
+    "locationSource": "https://www.thegoldenboot.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "elvispizza": {
+    "city": "Surrey",
+    "locationSource": "https://www.elvispizza.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "graymonkestatewinery": {
+    "city": "Lake Country",
+    "locationSource": "https://graymonk.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "saltspringkitchenco": {
+    "city": "Ganges · Salt Spring Island",
+    "locationSource": "https://saltspringkitchen.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "thewoodshed": {
+    "city": "Ganges · Salt Spring Island",
+    "locationSource": "https://woodshedprovisions.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "woodshedprovisions": {
+    "city": "Ganges · Salt Spring Island",
+    "locationSource": "https://woodshedprovisions.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "hastingshouse": {
+    "city": "Ganges · Salt Spring Island",
+    "locationSource": "https://www.hastingshouse.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "pacosclubhouse": {
+    "city": "Ganges · Salt Spring Island",
+    "locationSource": "https://www.pacosclubhouse.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "steeloak": {
+    "city": "New Westminster",
+    "locationSource": "https://www.steelandoak.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "ikoisushi": {
+    "city": "Sapperton · New Westminster",
+    "locationSource": "https://ikoisushi.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "pivamodernitalian": {
+    "city": "Downtown · New Westminster",
+    "locationSource": "https://pivarestaurant.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "dipcosandwich": {
+    "city": "Deep Cove · North Vancouver",
+    "locationSource": "http://dip-co.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "superchargerpizza": {
+    "city": "Powell River",
+    "locationSource": "https://superchargerpizza.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "mikesgelato": {
+    "city": "Gibsons",
+    "locationSource": "https://www.mikesgelato.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "northerncafe": {
+    "city": "South Vancouver",
+    "locationSource": "https://northerncafeandgrill.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "tapr": {
+    "city": "South Surrey · Surrey",
+    "locationSource": "https://www.taprestaurant.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "estaurant": {
+    "city": "South Surrey · Surrey",
+    "locationSource": "https://www.taprestaurant.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "lala": {
+    "city": "Cambie Village · Vancouver",
+    "locationSource": "https://juneoncambie.com/menu/#lala",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "neighbourhoodbrewing": {
+    "city": "Penticton",
+    "locationSource": "https://neighbourhoodbrewing.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "pentagewinery": {
+    "city": "Penticton",
+    "locationSource": "https://pentage.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "littleenginewines": {
+    "city": "Penticton",
+    "locationSource": "https://littleenginewines.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "chulotapasbar": {
+    "city": "Penticton",
+    "locationSource": "https://www.chulotapasbar.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "isettacafebistro": {
+    "city": "West Vancouver",
+    "locationSource": "http://isetta.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "lolaatbodegaridge": {
+    "city": "Galiano Island",
+    "locationSource": "https://www.bodegaridge.com/lola",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "sagehills": {
+    "city": "Summerland",
+    "locationSource": "https://www.sagehillswine.com",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "phodochay": {
+    "city": "Kensington-Cedar Cottage · Vancouver",
+    "locationSource": "http://dochay.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "earnesticecream": {
+    "city": "Multiple locations · Vancouver / North Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://earnesticecream.com/",
+    "locationStatus": "Multiple locations verified from venue website; recommended branch unspecified.",
+    "branchUnspecified": true
+  },
+  "timbertraincoffeeroasters": {
+    "city": "Multiple locations · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://timbertrain.ca/",
+    "locationStatus": "Multiple locations verified from venue website; recommended branch unspecified.",
+    "branchUnspecified": true
+  },
+  "milanocoffee": {
+    "city": "Multiple locations · Vancouver / Victoria / Courtenay",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.milanocoffee.ca/",
+    "locationStatus": "Multiple locations verified from venue website; recommended branch unspecified.",
+    "branchUnspecified": true
+  },
+  "clovers": {
+    "city": "Multiple locations · Lower Mainland / Vancouver Island / Kamloops",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://c-lovers.com/",
+    "locationStatus": "Multiple locations verified from venue website; recommended branch unspecified.",
+    "branchUnspecified": true
+  },
+  "churchstexaschicken": {
+    "city": "Multiple locations · Lower Mainland",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://canada.churchstexaschicken.com/menu",
+    "locationStatus": "Multiple locations verified from venue website; recommended branch unspecified.",
+    "branchUnspecified": true
+  },
+  "scratchkitchen": {
+    "city": "Multiple locations · North Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.eatscratchkitchen.com/",
+    "locationStatus": "Multiple locations verified from venue website; recommended branch unspecified.",
+    "branchUnspecified": true
+  },
+  "straightbrooklynpizza": {
+    "city": "Multiple locations · Vancouver / Port Moody",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.straightbkpizza.com/",
+    "locationStatus": "Multiple locations verified from venue website; recommended branch unspecified.",
+    "branchUnspecified": true
+  },
+  "tastyindianbistro": {
+    "city": "Multiple locations · Vancouver / Delta / Abbotsford",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://tastybistro.ca/",
+    "locationStatus": "Multiple locations verified from venue website; recommended branch unspecified.",
+    "branchUnspecified": true
+  },
+  "sula": {
+    "city": "Multiple locations · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://sulaindianrestaurant.com/",
+    "locationStatus": "Multiple locations verified from venue website; recommended branch unspecified.",
+    "branchUnspecified": true
+  },
+  "lecoqfrit": {
+    "city": "Multiple locations · Vancouver / North Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://lecoqfrit.ca/",
+    "locationStatus": "Multiple locations verified from venue website; recommended branch unspecified.",
+    "branchUnspecified": true
+  },
+  "tanaka": {
+    "city": "Multiple locations · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://takenakavancouver.com/",
+    "locationStatus": "Multiple locations verified from venue website; recommended branch unspecified.",
+    "branchUnspecified": true
+  },
+  "palletcoffeeroasters": {
+    "city": "Multiple locations · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://palletcoffeeroasters.com/",
+    "locationStatus": "Multiple locations verified from venue website; recommended branch unspecified.",
+    "branchUnspecified": true
+  },
+  "breakfasttable": {
+    "city": "Multiple locations · Vancouver / Richmond",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.breakfasttable.ca/",
+    "locationStatus": "Multiple locations verified from venue website; recommended branch unspecified.",
+    "branchUnspecified": true
+  },
+  "straightouttabrooklyn": {
+    "city": "Multiple locations · Vancouver / Port Moody",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.straightbkpizza.com/",
+    "locationStatus": "Multiple locations verified from venue website; recommended branch unspecified.",
+    "branchUnspecified": true
+  },
+  "fujiya": {
+    "city": "Multiple locations · Vancouver / Richmond / Victoria",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.fujiya.ca/",
+    "locationStatus": "Multiple locations verified from venue website; recommended branch unspecified.",
+    "branchUnspecified": true
+  },
+  "fourwinds": {
+    "city": "Multiple locations · Delta",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://fourwindsbrewing.ca/",
+    "locationStatus": "Multiple locations verified from venue website; recommended branch unspecified.",
+    "branchUnspecified": true
+  },
+  "emiliofinattipizzeria": {
+    "city": "Multiple locations · Lower Mainland",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://emiliofinatti.com/",
+    "locationStatus": "Multiple locations verified from venue website; recommended branch unspecified.",
+    "branchUnspecified": true
+  },
+  "coasterscoffee": {
+    "city": "Multiple locations · Vancouver / New Westminster",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://coasterscoffee.com/",
+    "locationStatus": "Multiple locations verified from venue website; recommended branch unspecified.",
+    "branchUnspecified": true
+  },
+  "dante": {
+    "city": "Multiple locations · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.dantesandwich.com/",
+    "locationStatus": "Multiple locations verified from venue website; recommended branch unspecified.",
+    "branchUnspecified": true
+  },
+  "yellowdogbrewing": {
+    "city": "Multiple locations · Port Moody / Penticton",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://yellowdogbeer.com",
+    "locationStatus": "Multiple locations verified from venue website; recommended branch unspecified.",
+    "branchUnspecified": true
+  },
+  "caffedivano": {
+    "city": "Multiple locations · Port Moody / Coquitlam",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://caffedivano.ca",
+    "locationStatus": "Multiple locations verified from venue website; recommended branch unspecified.",
+    "branchUnspecified": true
+  },
+  "gabijules": {
+    "city": "Multiple locations · Port Moody / Burnaby",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://gabiandjules.com",
+    "locationStatus": "Multiple locations verified from venue website; recommended branch unspecified.",
+    "branchUnspecified": true
+  },
+  "autostrada": {
+    "city": "Multiple locations · Vancouver / Britannia Beach",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://autostradahospitality.ca/",
+    "locationStatus": "Multiple locations verified from venue website; recommended branch unspecified.",
+    "branchUnspecified": true
+  },
+  "soprasotto": {
+    "city": "Multiple locations · Vancouver / Burnaby",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://soprasotto.ca/",
+    "locationStatus": "Multiple locations verified from venue website; recommended branch unspecified.",
+    "branchUnspecified": true
+  },
+  "baoguettevietnamesebistro": {
+    "city": "Multiple locations · Vancouver / Richmond",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://baoguettebistro.com/",
+    "locationStatus": "Multiple locations verified from venue website; recommended branch unspecified.",
+    "branchUnspecified": true
+  },
+  "thehardbeanbrunchco": {
+    "city": "Multiple locations · Vancouver / Port Moody / Langley",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "http://thehardbeanbrunchco.com/",
+    "locationStatus": "Multiple locations verified from venue website; recommended branch unspecified.",
+    "branchUnspecified": true
+  },
+  "fieldhousebrewing": {
+    "city": "Multiple locations · Abbotsford / Chilliwack",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://fieldhousebrewing.com/",
+    "locationStatus": "Multiple locations verified from venue website; recommended branch unspecified.",
+    "branchUnspecified": true
+  },
+  "chochohotpot": {
+    "city": "Multiple locations · Burnaby / Richmond",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.chochohotpot.com/",
+    "locationStatus": "Multiple locations verified from venue website; recommended branch unspecified.",
+    "branchUnspecified": true
+  },
+  "moduscoffeeroasters": {
+    "city": "Multiple locations · Vancouver / Burnaby",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.moduscoffee.com",
+    "locationStatus": "Multiple locations verified from venue website; recommended branch unspecified.",
+    "branchUnspecified": true
+  },
+  "backcountrybrewing": {
+    "address": "1201 Commercial Way",
+    "coordinates": [
+      -123.1539884,
+      49.7237282
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/5593462665",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Squamish"
+  },
+  "strangefellowsbrewing": {
+    "address": "1345 Clark Drive",
+    "coordinates": [
+      -123.0780409,
+      49.2725048
+    ],
+    "locationSource": "https://www.openstreetmap.org/way/302147964",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Strathcona · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "lamezcaleria": {
+    "address": "1622 Commercial Drive",
+    "coordinates": [
+      -123.069429,
+      49.2701295
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/5192909078",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Commercial Drive · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "tworiversmeats": {
+    "address": "180 Donaghy Avenue",
+    "coordinates": [
+      -123.0964714,
+      49.3190428
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/10720162665",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "North Vancouver"
+  },
+  "livia": {
+    "address": "1399 Commercial Drive",
+    "coordinates": [
+      -123.0697856,
+      49.2722682
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/3870325217",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Commercial Drive · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "thekeeferbar": {
+    "address": "133 Keefer Street",
+    "coordinates": [
+      -123.101326,
+      49.2796198
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/3933398898",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef Specific local neighbourhood normalized from the venue street location.",
+    "city": "Chinatown · Vancouver"
+  },
+  "thehideoutdiner": {
+    "address": "1951 Glen Drive",
+    "coordinates": [
+      -123.0824299,
+      49.2675852
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/11976658656",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Strathcona · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "fiorino": {
+    "address": "212 East Georgia Street",
+    "coordinates": [
+      -123.099185,
+      49.278434
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/1604467564",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef Specific local neighbourhood normalized from the venue street location.",
+    "city": "Chinatown · Vancouver"
+  },
+  "kingyoizakaya": {
+    "address": "871 Denman Street",
+    "coordinates": [
+      -123.137056,
+      49.290566
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/4484895630",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "West End · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "cassettecafedivebar": {
+    "address": "106 Lower Ganges Road",
+    "coordinates": [
+      -123.499807,
+      48.8526003
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/6242489151",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Salt Spring Island"
+  },
+  "jeju": {
+    "address": "Fourth Street",
+    "coordinates": [
+      -125.9023531,
+      49.1526908
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/4171003693",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Tofino"
+  },
+  "pluvio": {
+    "address": "1714 Peninsula Road",
+    "coordinates": [
+      -125.5491185,
+      48.9426873
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/9104637696",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Ucluelet"
+  },
+  "between2buns": {
+    "address": "105 East Pender Street",
+    "coordinates": [
+      -123.1019726,
+      49.2805398
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/11062762221",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef Specific local neighbourhood normalized from the venue street location.",
+    "city": "Chinatown · Vancouver"
+  },
+  "dynastyseafoodrestaurant": {
+    "address": "777 West Broadway",
+    "coordinates": [
+      -123.1214739,
+      49.2637006
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/5866981376",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Fairview · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "streethawker": {
+    "address": "3424 Cambie Street",
+    "coordinates": [
+      -123.1149427,
+      49.254585
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/3694529887",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef Specific local neighbourhood normalized from the venue street location.",
+    "city": "Cambie Village · Vancouver"
+  },
+  "june": {
+    "address": "3305 Cambie Street",
+    "coordinates": [
+      -123.115362,
+      49.2557773
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/3694094549",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef Specific local neighbourhood normalized from the venue street location.",
+    "city": "Cambie Village · Vancouver"
+  },
+  "nook": {
+    "city": "Multiple locations · Vancouver / North Vancouver",
+    "address": "",
+    "coordinates": null,
+    "branchUnspecified": true,
+    "locationSource": "https://nookrestaurants.com/",
+    "locationStatus": "Venue website lists multiple locations; episode does not identify a branch. BC cities shown, not an exhaustive branch directory."
+  },
+  "chezceline": {
+    "address": "4298 Fraser Street",
+    "coordinates": [
+      -123.089969,
+      49.2467275
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/7788441613",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Kensington-Cedar Cottage · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "popeyes": {
+    "city": "Multiple locations · Vancouver",
+    "coordinates": null,
+    "address": "",
+    "branchUnspecified": true,
+    "locationSource": "https://www.popeyeschicken.ca/",
+    "locationStatus": "Multiple branches; chef does not select one. Vancouver availability corroborated; label is not an exhaustive branch directory."
+  },
+  "unchai": {
+    "address": "2351 Burrard Street",
+    "coordinates": [
+      -123.1459042,
+      49.2650187
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/8886602016",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Kitsilano · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "sumibiyakiarashi": {
+    "address": "363 East Broadway",
+    "coordinates": [
+      -123.0974628,
+      49.2629654
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/6283748533",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Mount Pleasant · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "suyo": {
+    "address": "3475 Main Street",
+    "coordinates": [
+      -123.101144,
+      49.2540003
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/11072510112",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Riley Park · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "publishedonmain": {
+    "address": "3593 Main Street",
+    "coordinates": [
+      -123.1011732,
+      49.2528469
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/7083406173",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Riley Park · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "ajsbrooklynpizza": {
+    "address": "325 East Broadway",
+    "coordinates": [
+      -123.0983787,
+      49.2629998
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/10741979195",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Mount Pleasant · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "luckytaco": {
+    "city": "Multiple locations · Vancouver",
+    "coordinates": null,
+    "address": "",
+    "branchUnspecified": true,
+    "locationSource": "https://www.luckytaco.ca/lucky-taco-rd",
+    "locationStatus": "Multiple branches; chef does not select one. Vancouver availability corroborated; label is not an exhaustive branch directory."
+  },
+  "sushihil": {
+    "address": "3330 Main Street",
+    "coordinates": [
+      -123.101046,
+      49.2553638
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/5867020307",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Riley Park · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "baobei": {
+    "address": "163 Keefer Street",
+    "coordinates": [
+      -123.1005703,
+      49.2796203
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/3933401480",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef Specific local neighbourhood normalized from the venue street location.",
+    "city": "Chinatown · Vancouver"
+  },
+  "jldrivein": {
+    "address": "4422 Gertrude Street",
+    "coordinates": [
+      -124.8096292,
+      49.2564104
+    ],
+    "locationSource": "https://www.openstreetmap.org/way/1244516632",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Port Alberni"
+  },
+  "theirishheather": {
+    "address": "248 East Georgia Street",
+    "coordinates": [
+      -123.0980902,
+      49.2784186
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/8913557680",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef Specific local neighbourhood normalized from the venue street location.",
+    "city": "Chinatown · Vancouver"
+  },
+  "stlawrence": {
+    "address": "269 Powell Street",
+    "coordinates": [
+      -123.0978958,
+      49.2832655
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/5581881756",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef Specific local neighbourhood normalized from the venue street location.",
+    "city": "Japantown · Vancouver"
+  },
+  "bargobo": {
+    "address": "237 Union Street",
+    "coordinates": [
+      -123.0983733,
+      49.2777874
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/10928025190",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef Specific local neighbourhood normalized from the venue street location.",
+    "city": "Chinatown · Vancouver"
+  },
+  "ddmau": {
+    "city": "Multiple locations · Vancouver",
+    "coordinates": null,
+    "address": "",
+    "branchUnspecified": true,
+    "locationSource": "https://www.ddmau.ca/",
+    "locationStatus": "Multiple branches; chef does not select one. Vancouver availability corroborated; label is not an exhaustive branch directory."
+  },
+  "meo": {
+    "address": "265 East Pender Street",
+    "coordinates": [
+      -123.098128,
+      49.2804768
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/13302217762",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef Specific local neighbourhood normalized from the venue street location.",
+    "city": "Chinatown · Vancouver"
+  },
+  "dachi": {
+    "address": "2297 East Hastings Street",
+    "coordinates": [
+      -123.0580252,
+      49.2813981
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/1339095361",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef Specific local neighbourhood normalized from the venue street location.",
+    "city": "Hastings-Sunrise · Vancouver"
+  },
+  "lepho": {
+    "address": "East Hastings Street",
+    "coordinates": [
+      -123.0543852,
+      49.2812885
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/2945450342",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Hastings-Sunrise · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "sunsuiwah": {
+    "address": "East 23rd Avenue",
+    "coordinates": [
+      -123.1004298,
+      49.2504332
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/822487113",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Riley Park · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "cafemedina": {
+    "address": "780 Richards Street",
+    "coordinates": [
+      -123.116906,
+      49.2805588
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/3734928054",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Downtown · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "bambam": {
+    "address": "160 West Georgia Street",
+    "coordinates": [
+      -123.1130729,
+      49.2789618
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/13689517364",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Downtown · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "marilena": {
+    "city": "Downtown · Victoria",
+    "locationSource": "http://marilenacafe.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "pourhouse": {
+    "address": "162 Water Street",
+    "coordinates": [
+      -123.1083829,
+      49.2841314
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/4390232892",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef Specific local neighbourhood normalized from the venue street location.",
+    "city": "Gastown · Vancouver"
+  },
+  "elysiancoffee": {
+    "city": "Multiple locations · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "branchUnspecified": true,
+    "locationSource": "https://elysiancoffee.com/",
+    "locationStatus": "Venue website lists multiple locations; episode does not identify a branch. BC cities shown, not an exhaustive branch directory."
+  },
+  "annalena": {
+    "address": "1809 West 1st Avenue",
+    "coordinates": [
+      -123.1467646,
+      49.2708255
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/6339016833",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Kitsilano · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "downlowchickenshack": {
+    "city": "Multiple locations · Vancouver / University Endowment Lands",
+    "address": "",
+    "coordinates": null,
+    "branchUnspecified": true,
+    "locationSource": "https://dlchicken.com/",
+    "locationStatus": "Venue website lists multiple locations; episode does not identify a branch. BC cities shown, not an exhaustive branch directory."
+  },
+  "isthatfrench": {
+    "address": "45 Blood Alley Square",
+    "coordinates": [
+      -123.1055878,
+      49.2832632
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/12997424001",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef Specific local neighbourhood normalized from the venue street location.",
+    "city": "Gastown · Vancouver"
+  },
+  "thegreek": {
+    "city": "Multiple locations · Vancouver / North Vancouver",
+    "address": "",
+    "coordinates": null,
+    "branchUnspecified": true,
+    "locationSource": "https://thegreekbyanatoli.com/",
+    "locationStatus": "Venue website lists multiple locations; episode does not identify a branch. BC cities shown, not an exhaustive branch directory."
+  },
+  "theparlour": {
+    "address": "1011 Hamilton Street",
+    "coordinates": [
+      -123.120266,
+      49.2766922
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/5380908922",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef Specific local neighbourhood normalized from the venue street location.",
+    "city": "Yaletown · Vancouver"
+  },
+  "parksidebrewery": {
+    "address": "2731 Murray Street",
+    "coordinates": [
+      -122.851063,
+      49.2785289
+    ],
+    "locationSource": "https://www.openstreetmap.org/way/397027056",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Port Moody"
+  },
+  "ramendanbo": {
+    "city": "Multiple locations · Vancouver",
+    "coordinates": null,
+    "address": "",
+    "branchUnspecified": true,
+    "locationSource": "https://ramendanbo.com/locations/",
+    "locationStatus": "Multiple branches; chef does not select one. Vancouver availability corroborated; label is not an exhaustive branch directory."
+  },
+  "dintaifung": {
+    "address": "1132 Alberni Street",
+    "coordinates": [
+      -123.1247019,
+      49.2857327
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/2320273635",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "West End · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "doecoffeeroasters": {
+    "address": "828 Clark Drive",
+    "coordinates": [
+      -123.0769489,
+      49.2773979
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/12470684819",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Grandview-Woodland · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "themackenzieroom": {
+    "address": "415 Powell Street",
+    "coordinates": [
+      -123.0949154,
+      49.2831953
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/3777187681",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef Specific local neighbourhood normalized from the venue street location.",
+    "city": "Japantown · Vancouver"
+  },
+  "viateverepizzeria": {
+    "city": "Multiple locations · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "branchUnspecified": true,
+    "locationSource": "https://www.viateverepizzeria.com/",
+    "locationStatus": "Venue website lists multiple locations; episode does not identify a branch. BC cities shown, not an exhaustive branch directory."
+  },
+  "nemesiscoffee": {
+    "city": "Multiple locations · Vancouver / North Vancouver / Surrey / Coquitlam",
+    "address": "",
+    "coordinates": null,
+    "branchUnspecified": true,
+    "locationSource": "https://www.nemesis.coffee/",
+    "locationStatus": "Venue website lists multiple locations; episode does not identify a branch. BC cities shown, not an exhaustive branch directory."
+  },
+  "kingtaps": {
+    "address": "123 Carrie Cates Court",
+    "coordinates": [
+      -123.082226,
+      49.3099193
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/13683399814",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "North Vancouver"
+  },
+  "okuizakaya": {
+    "address": "2 Water Street",
+    "coordinates": [
+      -123.1044823,
+      49.2834307
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/13158221401",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef Specific local neighbourhood normalized from the venue street location.",
+    "city": "Gastown · Vancouver"
+  },
+  "broyecafebakery": {
+    "address": "Fraser Street",
+    "coordinates": [
+      -123.090546,
+      49.2263571
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/5842135838",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Sunset · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "wangsshanghaicuisine": {
+    "address": "3328 Kingsway",
+    "coordinates": [
+      -123.034803,
+      49.2327946
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/4636869390",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Killarney · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "shinobisushi": {
+    "address": "119 Avenue",
+    "coordinates": [
+      -122.5576361,
+      49.2186782
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/9756478635",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Maple Ridge"
+  },
+  "noahscafe": {
+    "address": "1096 Denman Street",
+    "coordinates": [
+      -123.14005,
+      49.288292
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/4264535594",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "West End · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "zakkushi": {
+    "address": "823 Denman Street",
+    "coordinates": [
+      -123.1361902,
+      49.2911695
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/4976343548",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "West End · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "jangmojib": {
+    "address": "808 Bute Street",
+    "coordinates": [
+      -123.126991,
+      49.2857079
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/3690938881",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "West End · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "thepatchbrewery": {
+    "address": "12745 Laity Street",
+    "coordinates": [
+      -122.6326472,
+      49.2341346
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/13722520701",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Maple Ridge"
+  },
+  "danteitaliansandwich": {
+    "city": "Multiple locations · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.dantesandwich.com/",
+    "locationStatus": "Multiple locations verified from venue website; recommended branch unspecified.",
+    "branchUnspecified": true
+  },
+  "lunchlady": {
+    "address": "1046 Commercial Drive",
+    "coordinates": [
+      -123.069283,
+      49.2749694
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/3836773457",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Commercial Drive · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "zabbite": {
+    "address": "4197 Fraser Street",
+    "coordinates": [
+      -123.0903813,
+      49.2477451
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/4993885806",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Riley Park · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "hunnybeebruncheonette": {
+    "address": "789 Gore Avenue",
+    "coordinates": [
+      -123.0971613,
+      49.2777356
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/582802371",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Strathcona · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "oidecoffee": {
+    "address": "1548 West 2nd Avenue",
+    "coordinates": [
+      -123.1402111,
+      49.269559
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/11251517779",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Fairview · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "theshamefultikiroom": {
+    "address": "4362 Main Street",
+    "coordinates": [
+      -123.1009863,
+      49.2461154
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/6148806055",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Riley Park · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "kissatanto": {
+    "address": "263 East Pender Street",
+    "coordinates": [
+      -123.0981769,
+      49.2804783
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/11566576120",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef Specific local neighbourhood normalized from the venue street location.",
+    "city": "Chinatown · Vancouver"
+  },
+  "edokkonigirisushi": {
+    "address": "3679 Westminster Highway",
+    "coordinates": [
+      -123.181554,
+      49.1703574
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/4892314522",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Richmond"
+  },
+  "japadog": {
+    "city": "Multiple locations · Vancouver / Burnaby / Richmond",
+    "address": "",
+    "coordinates": null,
+    "branchUnspecified": true,
+    "locationSource": "https://japadog.com/",
+    "locationStatus": "Venue website lists multiple locations; episode does not identify a branch. BC cities shown, not an exhaustive branch directory."
+  },
+  "ilposto": {
+    "address": "4866 Delta Street",
+    "coordinates": [
+      -123.0857826,
+      49.0913608
+    ],
+    "locationSource": "https://www.openstreetmap.org/way/410667441",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Ladner · Delta"
+  },
+  "panago": {
+    "city": "Ladner · Delta",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://chefsfav.com/blog/mates-on-crates-feat-nathan-pai-phankum",
+    "locationStatus": "Publisher explicitly specifies Ladner."
+  },
+  "hutieuhongphat": {
+    "city": "Richmond",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://hutieuhongphat.com/en/hong-phat-richmond-canada/",
+    "locationStatus": "Publisher links the Richmond branch; removed conflicting Vancouver geocoder match."
+  },
+  "mojacoffee": {
+    "address": "1102 Commercial Drive",
+    "coordinates": [
+      -123.0692817,
+      49.2747084
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/4682097803",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Commercial Drive · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "cadeauxbakery": {
+    "address": "172 Powell Street",
+    "coordinates": [
+      -123.1004851,
+      49.2831011
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/4424551035",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef Specific local neighbourhood normalized from the venue street location.",
+    "city": "Gastown · Vancouver"
+  },
+  "justpizza": {
+    "address": "1629 Kingsway",
+    "coordinates": [
+      -123.0710791,
+      49.2481083
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/6634601070",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Kensington-Cedar Cottage · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "marinerbrewing": {
+    "address": "1100 Lansdowne Drive",
+    "coordinates": [
+      -122.8097427,
+      49.2773001
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/5859618095",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Coquitlam"
+  },
+  "rewindbeerco": {
+    "address": "2809 Murray Street",
+    "coordinates": [
+      -122.8492836,
+      49.278572
+    ],
+    "locationSource": "https://www.openstreetmap.org/way/397027060",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Port Moody"
+  },
+  "propagandacoffee": {
+    "address": "209 East Pender Street",
+    "coordinates": [
+      -123.0990277,
+      49.2804964
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/4005041520",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef Specific local neighbourhood normalized from the venue street location.",
+    "city": "Chinatown · Vancouver"
+  },
+  "prototypecoffee": {
+    "address": "883 East Hastings Street",
+    "coordinates": [
+      -123.0852617,
+      49.2813068
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/6738071638",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Strathcona · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "folietta": {
+    "address": "1480 Nanaimo Street",
+    "coordinates": [
+      -123.0563264,
+      49.2715263
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/12337992030",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef Specific local neighbourhood normalized from the venue street location.",
+    "city": "Grandview-Woodland · Vancouver"
+  },
+  "elmobakingco": {
+    "address": "3133 Murray Street",
+    "coordinates": [
+      -122.8406028,
+      49.2786393
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/11039898310",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Port Moody"
+  },
+  "mamasaidpizzaco": {
+    "address": "3135 Murray Street",
+    "coordinates": [
+      -122.840499,
+      49.2786318
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/11039898309",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Port Moody"
+  },
+  "hightoppizza": {
+    "address": "Murray Street",
+    "coordinates": [
+      -122.8492199,
+      49.2786591
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/12968812447",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Port Moody"
+  },
+  "masayoshi": {
+    "address": "4376 Fraser Street",
+    "coordinates": [
+      -123.0900087,
+      49.2458146
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/4438770140",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Kensington-Cedar Cottage · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "hkbbqmaster": {
+    "address": "4651 Number 3 Road",
+    "coordinates": [
+      -123.1377358,
+      49.1796897
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/4186808293",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Richmond"
+  },
+  "thefishman": {
+    "address": "8391 Alexandra Road",
+    "coordinates": [
+      -123.1302833,
+      49.1784638
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/4526331271",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Richmond"
+  },
+  "vivacafebakery": {
+    "address": "1555 Yew Street",
+    "coordinates": [
+      -123.1551831,
+      49.2720193
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/9092733705",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Kitsilano · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "baanlaofinethaicuisine": {
+    "address": "4100 Bayview Street",
+    "coordinates": [
+      -123.1785466,
+      49.1230377
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/11079533605",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Richmond"
+  },
+  "kinkao": {
+    "address": "903 Commercial Drive",
+    "coordinates": [
+      -123.069698,
+      49.2763976
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/11515579494",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Commercial Drive · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "anhandchi": {
+    "address": "3388 Main Street",
+    "coordinates": [
+      -123.1008857,
+      49.2550596
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/582801920",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Riley Park · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "loscuervostaqueriacantina": {
+    "address": "603 Kingsway",
+    "coordinates": [
+      -123.0911303,
+      49.2574692
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/4957934649",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Mount Pleasant · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "singsing": {
+    "address": "2718 Main Street",
+    "coordinates": [
+      -123.1006987,
+      49.2606899
+    ],
+    "locationSource": "https://www.openstreetmap.org/way/292351757",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Mount Pleasant · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "phovietlotus": {
+    "address": "2680 West Broadway",
+    "coordinates": [
+      -123.1657678,
+      49.2639086
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/10025618568",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Kitsilano · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "libertybakery": {
+    "address": "3699 Main Street",
+    "coordinates": [
+      -123.1012129,
+      49.2519208
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/1128724571",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Riley Park · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "batch": {
+    "city": "Multiple locations · Vancouver",
+    "coordinates": null,
+    "address": "",
+    "branchUnspecified": true,
+    "locationSource": "https://batchvancouver.com/",
+    "locationStatus": "Multiple branches; chef does not select one. Vancouver availability corroborated; label is not an exhaustive branch directory."
+  },
+  "groundsgreenscafe": {
+    "address": "1369 Johnston Road",
+    "coordinates": [
+      -122.8013635,
+      49.0270076
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/9472860893",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "White Rock"
+  },
+  "ulisrestaurant": {
+    "address": "15023 Marine Drive",
+    "coordinates": [
+      -122.8059452,
+      49.0215128
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/7104982870",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "White Rock"
+  },
+  "pho777vietnamese": {
+    "address": "15230 Russell Avenue",
+    "coordinates": [
+      -122.8005183,
+      49.0292578
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/6243670452",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "White Rock"
+  },
+  "meatbread": {
+    "city": "Multiple locations · Vancouver / Victoria",
+    "address": "",
+    "coordinates": null,
+    "branchUnspecified": true,
+    "locationSource": "https://www.meatandbread.com/",
+    "locationStatus": "Venue website lists multiple locations; episode does not identify a branch. BC cities shown, not an exhaustive branch directory."
+  },
+  "jjbean": {
+    "city": "Multiple locations · Vancouver",
+    "coordinates": null,
+    "address": "",
+    "branchUnspecified": true,
+    "locationSource": "https://jjbeancoffee.com/",
+    "locationStatus": "Multiple branches; chef does not select one. Vancouver availability corroborated; label is not an exhaustive branch directory."
+  },
+  "lesfauxbourgeois": {
+    "address": "663 East 15th Avenue",
+    "coordinates": [
+      -123.0896714,
+      49.2572991
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/1205355496",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Mount Pleasant · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "argocafe": {
+    "address": "1836 Ontario Street",
+    "coordinates": [
+      -123.1044929,
+      49.2685884
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/4358246396",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Mount Pleasant · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "salylimon": {
+    "address": "3614 East Hastings Street",
+    "coordinates": [
+      -123.0251491,
+      49.2809356
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/14322302360",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Hastings-Sunrise · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "niclianticapizzeria": {
+    "address": "3142 Highland Boulevard",
+    "coordinates": [
+      -123.1012042,
+      49.3377335
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/3518466465",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "North Vancouver"
+  },
+  "dibeppe": {
+    "address": "8 West Cordova Street",
+    "coordinates": [
+      -123.1045255,
+      49.2823835
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/9371329417",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef Specific local neighbourhood normalized from the venue street location.",
+    "city": "Gastown · Vancouver"
+  },
+  "thewildbunch": {
+    "address": "7 East 7th Avenue",
+    "coordinates": [
+      -123.1046255,
+      49.2648287
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/7852403842",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Mount Pleasant · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "phnompenh": {
+    "address": "244 East Georgia Street",
+    "coordinates": [
+      -123.098202,
+      49.2783508
+    ],
+    "locationSource": "https://www.openstreetmap.org/way/147224794",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef Specific local neighbourhood normalized from the venue street location.",
+    "city": "Chinatown · Vancouver"
+  },
+  "kamwaidimsum": {
+    "address": "249 East Pender Street",
+    "coordinates": [
+      -123.0985054,
+      49.2804832
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/8886515051",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef Specific local neighbourhood normalized from the venue street location.",
+    "city": "Chinatown · Vancouver"
+  },
+  "fatmao": {
+    "city": "Multiple locations · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "branchUnspecified": true,
+    "locationSource": "https://www.fatmaonoodles.com/",
+    "locationStatus": "Venue website lists multiple locations; episode does not identify a branch. BC cities shown, not an exhaustive branch directory."
+  },
+  "mogu": {
+    "address": "1012 Commercial Drive",
+    "coordinates": [
+      -123.069294,
+      49.2754879
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/1247817627",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Commercial Drive · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "mortadella": {
+    "address": "915 Main Street",
+    "coordinates": [
+      -123.1001031,
+      49.276638
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/4427334491",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Downtown · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "smallvictory": {
+    "city": "Multiple locations · Vancouver / Burnaby",
+    "address": "",
+    "coordinates": null,
+    "branchUnspecified": true,
+    "locationSource": "https://www.smallvictory.ca/",
+    "locationStatus": "Venue website lists multiple locations; episode does not identify a branch. BC cities shown, not an exhaustive branch directory."
+  },
+  "barbara": {
+    "address": "305 East Pender Street",
+    "coordinates": [
+      -123.0969849,
+      49.2804688
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/8913557691",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef Specific local neighbourhood normalized from the venue street location.",
+    "city": "Chinatown · Vancouver"
+  },
+  "windcriesmary": {
+    "address": "Bastion Square",
+    "coordinates": [
+      -123.3686153,
+      48.4256798
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/12637871905",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Victoria"
+  },
+  "casamolina": {
+    "address": "2211 Manitoba Street",
+    "coordinates": [
+      -123.106942,
+      49.2653887
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/8689479701",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Mount Pleasant · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "chinatownbbq": {
+    "address": "130 East Pender Street",
+    "coordinates": [
+      -123.1015048,
+      49.2803102
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/13302217750",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef Specific local neighbourhood normalized from the venue street location.",
+    "city": "Chinatown · Vancouver"
+  },
+  "seaportcityseafoodrestaurant": {
+    "address": "2425 Cambie Street",
+    "coordinates": [
+      -123.1151505,
+      49.263885
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/11061358496",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Fairview · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "yuansgarden": {
+    "address": "8077 Alexandra Road",
+    "coordinates": [
+      -123.1349005,
+      49.1787192
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/8407781659",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Richmond"
+  },
+  "lachicken": {
+    "address": "11780 Thorpe Road",
+    "coordinates": [
+      -123.0918387,
+      49.1829289
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/6581115397",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Richmond"
+  },
+  "sainam": {
+    "address": "1235 Davie Street",
+    "coordinates": [
+      -123.1337057,
+      49.2821447
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/2321011479",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "West End · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "magaribyoca": {
+    "address": "1260 Commercial Drive",
+    "coordinates": [
+      -123.0693791,
+      49.2733751
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/1934826018",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Commercial Drive · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "lemarchestgeorge": {
+    "address": "4393 St George Street",
+    "coordinates": [
+      -123.094297,
+      49.2457153
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/4005181996",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Riley Park · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "linhcafe": {
+    "address": "1428 Granville Street",
+    "coordinates": [
+      -123.129537,
+      49.2746748
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/9112129053",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Downtown · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "sashimiya": {
+    "address": "1348 Hornby Street",
+    "coordinates": [
+      -123.130413,
+      49.2767415
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/638861830",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Downtown · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "yagotosushi": {
+    "address": "2180 West Broadway",
+    "coordinates": [
+      -123.1546937,
+      49.2636938
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/4505059398",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Kitsilano · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "sushihyun": {
+    "address": "795 Jervis Street",
+    "coordinates": [
+      -123.128401,
+      49.2873076
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/4639170589",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "West End · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "motonobuudon": {
+    "address": "3501 East Hastings Street",
+    "coordinates": [
+      -123.02808,
+      49.2812813
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/8095702781",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Hastings-Sunrise · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "maxnoodlehouse": {
+    "address": "185-8291 Alexandra Road",
+    "coordinates": [
+      -123.1323595,
+      49.1790013
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/4029360633",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Richmond"
+  },
+  "barcorso": {
+    "address": "1566 Commercial Drive",
+    "coordinates": [
+      -123.0694252,
+      49.2707499
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/9354059697",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Commercial Drive · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "noctcoffee": {
+    "address": "4807 Main Street",
+    "coordinates": [
+      -123.1017009,
+      49.2418841
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/6148806057",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Riley Park · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "cmarketcoffee": {
+    "city": "Multiple locations · Vancouver / Coquitlam / Port Coquitlam / Pitt Meadows",
+    "address": "",
+    "coordinates": null,
+    "branchUnspecified": true,
+    "locationSource": "https://www.cmarket.ca/",
+    "locationStatus": "Venue website lists multiple locations; episode does not identify a branch. BC cities shown, not an exhaustive branch directory."
+  },
+  "newtownbakery": {
+    "address": "10302 City Pkwy",
+    "coordinates": [
+      -122.8469496,
+      49.1899409
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/5999692249",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Surrey"
+  },
+  "bbqchicken": {
+    "city": "Multiple locations · Vancouver",
+    "coordinates": null,
+    "address": "",
+    "branchUnspecified": true,
+    "locationSource": "https://bbqchicken.com/",
+    "locationStatus": "Multiple branches; chef does not select one. Vancouver availability corroborated; label is not an exhaustive branch directory."
+  },
+  "onda": {
+    "address": "1610 Salt Street",
+    "coordinates": [
+      -123.1058486,
+      49.2714093
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/6268389463",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Mount Pleasant · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "zoomak": {
+    "address": "52 Alexander Street",
+    "coordinates": [
+      -123.1029056,
+      49.2835008
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/12458436300",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef Specific local neighbourhood normalized from the venue street location.",
+    "city": "Gastown · Vancouver"
+  },
+  "thegreekbyanatoli": {
+    "city": "Multiple locations · Vancouver / North Vancouver",
+    "address": "",
+    "coordinates": null,
+    "branchUnspecified": true,
+    "locationSource": "https://www.thegreekbyanatoli.com/",
+    "locationStatus": "Venue website lists multiple locations; episode does not identify a branch. BC cities shown, not an exhaustive branch directory."
+  },
+  "eliovolpe": {
+    "address": "540 West 17th Avenue",
+    "coordinates": [
+      -123.1157635,
+      49.2558749
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/12813149751",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef Specific local neighbourhood normalized from the venue street location.",
+    "city": "Cambie Village · Vancouver"
+  },
+  "maxinescafebar": {
+    "address": "1325 Burrard Street",
+    "coordinates": [
+      -123.131368,
+      49.27789
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/8984391468",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "West End · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "unionmarket": {
+    "address": "810 Union Street",
+    "coordinates": [
+      -123.0869409,
+      49.2772847
+    ],
+    "locationSource": "https://www.openstreetmap.org/way/301015796",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Strathcona · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "dolceamore": {
+    "address": "113 West 2nd Street",
+    "coordinates": [
+      -123.0784564,
+      49.3127857
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/11310688307",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "North Vancouver"
+  },
+  "ilcappello": {
+    "city": "Capitol Hill · Burnaby",
+    "locationSource": "https://www.ilcappello.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "altabistro": {
+    "address": "4319 Main Street",
+    "coordinates": [
+      -122.95747,
+      50.117186
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/4454903689",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Whistler"
+  },
+  "singletreewinery": {
+    "address": "5782 Mount Lehman Road",
+    "coordinates": [
+      -122.3809585,
+      49.1071183
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/12465961410",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Abbotsford"
+  },
+  "starbucks": {
+    "city": "Multiple locations · Vancouver",
+    "coordinates": null,
+    "address": "",
+    "branchUnspecified": true,
+    "locationSource": "https://www.starbucks.ca/",
+    "locationStatus": "Multiple branches; chef does not select one. Vancouver availability corroborated; label is not an exhaustive branch directory."
+  },
+  "duffinsdonuts": {
+    "address": "1391 East 41st Avenue",
+    "coordinates": [
+      -123.077638,
+      49.2330008
+    ],
+    "locationSource": "https://www.openstreetmap.org/way/155380723",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Kensington-Cedar Cottage · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "alvingarden": {
+    "address": "4850 Imperial Street",
+    "coordinates": [
+      -122.994703,
+      49.2218267
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/3180338747",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Burnaby"
+  },
+  "jollibee": {
+    "city": "Multiple locations · Vancouver",
+    "coordinates": null,
+    "address": "",
+    "branchUnspecified": true,
+    "locationSource": "https://ca.jollibeefoods.com/",
+    "locationStatus": "Multiple branches; chef does not select one. Vancouver availability corroborated; label is not an exhaustive branch directory."
+  },
+  "paramountbbq": {
+    "address": "3129 Kingsway",
+    "coordinates": [
+      -123.03883,
+      49.235596
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/6665118732",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Renfrew-Collingwood · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "hyderabadbiryanihouse": {
+    "address": "6231 Fraser Street",
+    "coordinates": [
+      -123.090905,
+      49.2279743
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/11182190770",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Sunset · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "saltspringislandcheesecompany": {
+    "address": "285 Reynolds Road",
+    "coordinates": [
+      -123.4301304,
+      48.7801593
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/621962785",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Salt Spring Island"
+  },
+  "superflux": {
+    "address": "505 Clark Drive",
+    "coordinates": [
+      -123.0775112,
+      49.2801766
+    ],
+    "locationSource": "https://www.openstreetmap.org/way/302138381",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Strathcona · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "saltspringsaturdaymarket": {
+    "city": "Ganges · Salt Spring Island",
+    "address": "Centennial Park",
+    "locationSource": "https://www.saltspringmarket.com/",
+    "locationStatus": "Location verified from official website on 2026-11-17"
+  },
+  "kutataswines": {
+    "address": "164 Norton Road",
+    "coordinates": [
+      -123.5141675,
+      48.8648196
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/13066491628",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Salt Spring Island"
+  },
+  "laowai": {
+    "address": "251 East Georgia Street",
+    "coordinates": [
+      -123.0979765,
+      49.2787081
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/12765476601",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef Specific local neighbourhood normalized from the venue street location.",
+    "city": "Chinatown · Vancouver"
+  },
+  "mariastaverna": {
+    "address": "2324 West 4th Avenue",
+    "coordinates": [
+      -123.1580755,
+      49.2680988
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/3992895754",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Kitsilano · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "thecoppercoilstillgrill": {
+    "address": "37996 Cleveland Avenue",
+    "coordinates": [
+      -123.1534767,
+      49.6982062
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/4149047067",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Squamish"
+  },
+  "mobyspub": {
+    "address": "124A Upper Ganges Road",
+    "coordinates": [
+      -123.5007585,
+      48.8591963
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/3638078070",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Salt Spring Island"
+  },
+  "saltspringwildcider": {
+    "address": "Sharp Road",
+    "coordinates": [
+      -123.5205161,
+      48.8620592
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/3743591809",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Salt Spring Island"
+  },
+  "cassette": {
+    "address": "106 Lower Ganges Road",
+    "coordinates": [
+      -123.499807,
+      48.8526003
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/6242489151",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Salt Spring Island"
+  },
+  "labattoir": {
+    "address": "217 Carrall Street",
+    "coordinates": [
+      -123.1044629,
+      49.2831177
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/11079572105",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef Specific local neighbourhood normalized from the venue street location.",
+    "city": "Gastown · Vancouver"
+  },
+  "brixmortar": {
+    "address": "1138 Homer Street",
+    "coordinates": [
+      -123.1220661,
+      49.2756856
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/3932735573",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef Specific local neighbourhood normalized from the venue street location.",
+    "city": "Yaletown · Vancouver"
+  },
+  "shipyardscoffee": {
+    "address": "123 Carrie Cates Court",
+    "coordinates": [
+      -123.0812975,
+      49.3106978
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/4591022389",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "North Vancouver"
+  },
+  "superbaba": {
+    "city": "Multiple locations · Vancouver / Victoria",
+    "address": "",
+    "coordinates": null,
+    "branchUnspecified": true,
+    "locationSource": "https://eatsuperbaba.com/",
+    "locationStatus": "Venue website lists multiple locations; episode does not identify a branch. BC cities shown, not an exhaustive branch directory."
+  },
+  "monzoburger": {
+    "address": "1401 Granville Street",
+    "coordinates": [
+      -123.1298409,
+      49.2749894
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/9112159969",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Downtown · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "misotaco": {
+    "address": "3456 Cambie Street",
+    "coordinates": [
+      -123.1149543,
+      49.2543719
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/3694094539",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef Specific local neighbourhood normalized from the venue street location.",
+    "city": "Cambie Village · Vancouver"
+  },
+  "hellonori": {
+    "city": "Multiple locations · Vancouver / Burnaby / Richmond / West Vancouver",
+    "address": "",
+    "coordinates": null,
+    "branchUnspecified": true,
+    "locationSource": "https://www.hellonori.com/",
+    "locationStatus": "Venue website lists multiple locations; episode does not identify a branch. BC cities shown, not an exhaustive branch directory."
+  },
+  "elaichichai": {
+    "address": "6281 Fraser Street",
+    "coordinates": [
+      -123.0909403,
+      49.2276115
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/8724590029",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Sunset · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "goodthief": {
+    "address": "3336 Main Street",
+    "coordinates": [
+      -123.1010059,
+      49.2552878
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/9246794604",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Riley Park · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "dosacorner": {
+    "address": "6181 Fraser Street",
+    "coordinates": [
+      -123.0908986,
+      49.2285422
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/11182190771",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Sunset · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "tetsusushibar": {
+    "address": "775 Denman Street",
+    "coordinates": [
+      -123.135189,
+      49.2918102
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/3733886693",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "West End · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "garys": {
+    "address": "1485 West 12th Avenue",
+    "coordinates": [
+      -123.1382643,
+      49.2609085
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/1116400381",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Fairview · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "dennys": {
+    "city": "Multiple locations · Vancouver / Burnaby / Coquitlam / Richmond / Surrey / Victoria",
+    "address": "",
+    "coordinates": null,
+    "branchUnspecified": true,
+    "locationSource": "https://www.dennys.ca/",
+    "locationStatus": "Venue website lists multiple locations; episode does not identify a branch. BC cities shown, not an exhaustive branch directory."
+  },
+  "bartholomew": {
+    "address": "1026 Mainland Street",
+    "coordinates": [
+      -123.1195743,
+      49.276088
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/8533748445",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef Specific local neighbourhood normalized from the venue street location.",
+    "city": "Yaletown · Vancouver"
+  },
+  "joojak": {
+    "address": "Kingsway",
+    "coordinates": [
+      -123.034517,
+      49.2336425
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/9203548824",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Renfrew-Collingwood · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "littlebirddimsum": {
+    "address": "2958 West 4th Avenue",
+    "coordinates": [
+      -123.1715376,
+      49.2682988
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/12039497818",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Kitsilano · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "momosushi": {
+    "address": "1230 Robson Street",
+    "coordinates": [
+      -123.1276348,
+      49.2862529
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/4336609289",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "West End · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "itsokay": {
+    "address": "2481 East Hastings Street",
+    "coordinates": [
+      -123.0550368,
+      49.2812821
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/5581791241",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Hastings-Sunrise · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "happyfamily": {
+    "address": "2178 Kingsway",
+    "coordinates": [
+      -123.062358,
+      49.2435959
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/1937561314",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Kensington-Cedar Cottage · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "fishwithyou": {
+    "address": "4500 Kingsway",
+    "coordinates": [
+      -123.0051017,
+      49.2295475
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/3123437717",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Burnaby"
+  },
+  "chickochicken": {
+    "city": "Multiple locations · Vancouver",
+    "coordinates": null,
+    "address": "",
+    "branchUnspecified": true,
+    "locationSource": "https://chickochickenfranchise.ca/",
+    "locationStatus": "Multiple branches; chef does not select one. Vancouver availability corroborated; label is not an exhaustive branch directory."
+  },
+  "theacorn": {
+    "address": "3995 Main Street",
+    "coordinates": [
+      -123.1012544,
+      49.2495976
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/4595611689",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Riley Park · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "bartartare": {
+    "address": "54 Alexander Street",
+    "coordinates": [
+      -123.1028246,
+      49.2835079
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/13025162703",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef Specific local neighbourhood normalized from the venue street location.",
+    "city": "Gastown · Vancouver"
+  },
+  "aucomptoir": {
+    "address": "2278 West 4th Avenue",
+    "coordinates": [
+      -123.157013,
+      49.2680391
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/3992894634",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Kitsilano · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "miku": {
+    "address": "200 Granville Street",
+    "coordinates": [
+      -123.112828,
+      49.2870647
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/4898455721",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Downtown · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "ragazzipizza": {
+    "address": "2996 East 22nd Avenue",
+    "coordinates": [
+      -123.0417872,
+      49.2504667
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/5235848489",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Renfrew-Collingwood · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "tableau": {
+    "address": "1181 Melville Street",
+    "coordinates": [
+      -123.123306,
+      49.2874987
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/5837059827",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Downtown · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "bunchacahoangyen": {
+    "address": "5155 Victoria Drive",
+    "coordinates": [
+      -123.0656128,
+      49.2378772
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/4937624920",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Kensington-Cedar Cottage · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "landmarkhotpothouse": {
+    "address": "4023 Cambie Street",
+    "coordinates": [
+      -123.1155922,
+      49.2498312
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/5866930558",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef Specific local neighbourhood normalized from the venue street location.",
+    "city": "Cambie Village · Vancouver"
+  },
+  "33acres": {
+    "address": "15 West 8th Avenue",
+    "coordinates": [
+      -123.1053068,
+      49.2639525
+    ],
+    "locationSource": "https://www.openstreetmap.org/way/163538013",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Mount Pleasant · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "pepinosspaghettihouse": {
+    "address": "631 Commercial Drive",
+    "coordinates": [
+      -123.0706037,
+      49.2788768
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/11141972840",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Commercial Drive · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "troutlakefarmersmarket": {
+    "address": "BC Parkway",
+    "coordinates": [
+      -123.0610848,
+      49.2579836
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/12915102265",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Kensington-Cedar Cottage · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "doucediner": {
+    "address": "1490 Pemberton Avenue",
+    "coordinates": [
+      -123.1075841,
+      49.3219373
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/5032946047",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "North Vancouver"
+  },
+  "delara": {
+    "address": "2272 West 4th Avenue",
+    "coordinates": [
+      -123.156837,
+      49.2680363
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/3992895458",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Kitsilano · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "twistedfork": {
+    "address": "213 Carrall Street",
+    "coordinates": [
+      -123.1044636,
+      49.2831802
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/1493611790",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef Specific local neighbourhood normalized from the venue street location.",
+    "city": "Gastown · Vancouver"
+  },
+  "milano": {
+    "city": "Multiple locations · Vancouver / Victoria / Courtenay",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.milanocoffee.ca/",
+    "locationStatus": "Multiple locations verified from venue website; recommended branch unspecified.",
+    "branchUnspecified": true
+  },
+  "kulinarya": {
+    "address": "1134 Commercial Drive",
+    "coordinates": [
+      -123.069358,
+      49.2743503
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/7126942686",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Commercial Drive · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "memorycorner": {
+    "address": "4651 Garden City Road",
+    "coordinates": [
+      -123.1250272,
+      49.1791592
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/5933665594",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Richmond"
+  },
+  "kunsomakasebar": {
+    "address": "3500 Moncton Street",
+    "coordinates": [
+      -123.1848034,
+      49.1248578
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/1884431134",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Richmond"
+  },
+  "streetcarbrewing": {
+    "address": "123 East 1st Street",
+    "coordinates": [
+      -123.0779453,
+      49.3112868
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/6654011926",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "North Vancouver"
+  },
+  "creampony": {
+    "address": "111 East 1st Street",
+    "coordinates": [
+      -123.0784509,
+      49.3113021
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/12024654583",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "North Vancouver"
+  },
+  "mogufriedchicken": {
+    "address": "1012 Commercial Drive",
+    "coordinates": [
+      -123.069294,
+      49.2754879
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/1247817627",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Commercial Drive · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "viateverepizzerianapoletana": {
+    "city": "Multiple locations · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "branchUnspecified": true,
+    "locationSource": "https://www.viateverepizzeria.com/",
+    "locationStatus": "Venue website lists multiple locations; episode does not identify a branch. BC cities shown, not an exhaustive branch directory."
+  },
+  "downlowburgers": {
+    "city": "Strathcona · Vancouver",
+    "address": "926 Main Street",
+    "coordinates": null,
+    "locationSource": "https://dailyhive.com/vancouver/downlow-burgers-open",
+    "locationStatus": "DownLow Burgers at The American, not the similarly named chicken venue on Commercial Drive."
+  },
+  "amabar": {
+    "city": "Riley Park · Vancouver",
+    "locationSource": "https://amarawbar.ca/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "batchatkitsbeach": {
+    "address": "2305 Cornwall Avenue",
+    "coordinates": null,
+    "locationSource": "https://vancouver.ca/parks-recreation-culture/kitsilano-beach.aspx",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef Specific local neighbourhood normalized from the venue street location.",
+    "city": "Kitsilano · Vancouver"
+  },
+  "kutatas": {
+    "address": "164 Norton Road",
+    "coordinates": [
+      -123.5141675,
+      48.8648196
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/13066491628",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Salt Spring Island"
+  },
+  "ajsbrooklynpizzajoint": {
+    "address": "325 East Broadway",
+    "coordinates": [
+      -123.0983787,
+      49.2629998
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/10741979195",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Mount Pleasant · Vancouver",
+    "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/"
+  },
+  "saltspringkitchen": {
+    "city": "Ganges · Salt Spring Island",
+    "locationSource": "https://saltspringkitchen.com/",
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+  },
+  "kutataswinery": {
+    "address": "164 Norton Road",
+    "coordinates": [
+      -123.5141675,
+      48.8648196
+    ],
+    "locationSource": "https://www.openstreetmap.org/node/13066491628",
+    "locationStatus": "OpenStreetMap match; branch not specified by chef",
+    "city": "Salt Spring Island"
+  },
+  "barsupernova": {
+    "city": "Chinatown · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://dailyhive.com/vancouver/vancouver-restaurants-opening-soon-august-2026",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "propaganda": {
+    "city": "Chinatown · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.vancouver-chinatown.com/directory/propaganda-coffee",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location.",
+    "website": "https://www.propagandacoffee.ca/"
+  },
+  "sayheycafedeli": {
+    "city": "Chinatown · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://maps.apple.com/place?place-id=IBB394D0DB5A91461",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "annabellescafe": {
+    "city": "Chinatown · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://brewatlas.co/vancouver/cafes/annabelles-chinatown",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "pizzacomingsoon": {
+    "city": "Chinatown · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://pizzacomingsoon.com/",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "mountarrowsmithbrewingcompany": {
+    "city": "Parksville",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://arrowsmithbrewing.com/",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "hopcreekfarms": {
+    "city": "Brackendale · Squamish",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://hopcreekfarms.com/pages/bar-and-food-trailers",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "hopcreekbrewing": {
+    "city": "Brackendale · Squamish",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://bcaletrail.ca/breweries/hop-creek-brewing/",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "francisbread": {
+    "city": "Ganges · Salt Spring Island",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://francisbread.com/",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "truelovepizza": {
+    "city": "Ganges · Salt Spring Island",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.happycow.net/reviews/true-love-pizza-salt-spring-island-333392",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "southendsausage": {
+    "city": "Ganges · Salt Spring Island",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.southendsausage.com/contact",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "adrianassandwichshop": {
+    "city": "Tofino",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.tripadvisor.ca/Restaurant_Review-g154942-d23905895-Reviews-Adriana_s_Sandwich_Shop-Tofino_Clayoquot_Sound_Alberni_Clayoquot_Regional_Distri.html",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "turkscoffee": {
+    "city": "Commercial Drive · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.yellowpages.ca/bus/British-Columbia/Vancouver/Turks-Coffee/3046464.html",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "babydhal": {
+    "city": "Commercial Drive · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://byblacks.com/directory/business/restaurants/search-by/business-type/2?value=Dine-in",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "dontarguepizza": {
+    "city": "Commercial Drive · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://dontarguepizza.com/",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "commercialdrive": {
+    "city": "Commercial Drive · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.vancouverisawesome.com/food-and-drink/commercial-drive-food-drink-restaurant-bar-cafe-guide-vancouver-bc-8445648",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "paxromana": {
+    "city": "Commercial Drive · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.paxromana.ca/",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "kishimotojapaneserestaurant": {
+    "city": "Commercial Drive · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.opentable.com/r/kishimoto-japanese-restaurant-vancouver",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "dontarguepizzeria": {
+    "city": "Commercial Drive · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://dontarguepizza.com/",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "turkscoffeebar": {
+    "city": "Commercial Drive · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://thedrive.ca/vancouver/turks-coffee-bar/",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "nonnascucina": {
+    "city": "Commercial Drive · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.tripadvisor.ca/Restaurant_Review-g154943-d32978042-Reviews-Nonna_s_Cucina_Commercial_The_Drive-Vancouver_British_Columbia.html",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "merciboulangerie": {
+    "city": "Commercial Drive · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.mapquest.com/ca/british-columbia/merci-boulangerie-751551611",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "rumblefish": {
+    "city": "Hastings-Sunrise · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.findmeglutenfree.com/biz/rumble-fish-restaurant/6568373792407552",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "thelaughingbean": {
+    "city": "Hastings-Sunrise · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.yellowpages.ca/bus/British-Columbia/Vancouver/Laughing-Bean/5840427.html",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "fernwoodcoffee": {
+    "city": "Fernwood · Victoria",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://maps.apple.com/place?place-id=I7916242BDB189846",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "heyhappycoffee": {
+    "city": "Downtown · Victoria",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://maps.apple.com/place?place-id=I25B2AFE4F2748508",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "heyhappy": {
+    "city": "Downtown · Victoria",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.tripadvisor.ca/Restaurant_Review-g154945-d6997186-Reviews-Hey_Happy_Coffee-Victoria_Victoria_Capital_Regional_District_Vancouver_Island_Bri.html",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "hanksarestaurant": {
+    "city": "Downtown · Victoria",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.tripadvisor.ca/Restaurant_Review-g154945-d5520438-Reviews-Hanks_A_Restaurant-Victoria_Victoria_Capital_Regional_District_Vancouver_Island_B.html",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "touristwinebar": {
+    "city": "Downtown · Victoria",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.tripadvisor.com/Restaurant_Review-g154945-d26658721-Reviews-Tourist_Wine_Bar-Victoria_Victoria_Capital_Regional_District_Vancouver_Island_Br.html",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "ravenrockfarm": {
+    "city": "Pender Island",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.supernaturalbc.com/listings/raven-rock-farm-900384695/",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "braelochfarms": {
+    "city": "Pender Island",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.braelochfarms.com/",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "goodsidebakery": {
+    "city": "Victoria",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.restaurantji.com/bc/victoria/goodside-pastry-house-/",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "wildmountain": {
+    "city": "Sooke",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://vancouverisland.travel/listings/wild-mountain",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "twinsailsbrewing": {
+    "city": "Brewers Row · Port Moody",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://twinsailsbrewing.com/contact/",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "moodyales": {
+    "city": "Brewers Row · Port Moody",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.tripadvisor.ca/Attraction_Review-g815383-d12565063-Reviews-Moody_Ales-Port_Moody_British_Columbia.html",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "hamaeisushi": {
+    "city": "Westview · North Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.tripadvisor.ca/Restaurant_Review-g181717-d2446852-Reviews-Hamaei_Sushi-North_Vancouver_British_Columbia.html",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "thebigflatpancakeco": {
+    "city": "Port Coquitlam",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.tripadvisor.ca/Restaurant_Review-g181777-d12793306-Reviews-The_Big_Flat_Pancake_Co-Port_Coquitlam_British_Columbia.html",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "nonnas": {
+    "city": "Maillardville · Coquitlam",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.tripadvisor.com/Restaurant_Review-g181718-d33419649-Reviews-Nonna_s_Cucina_Coquitlam-Coquitlam_British_Columbia.html",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "rehanahsrotishop": {
+    "city": "Port Moody",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.zabihah.com/restaurants/cbd58af2-7767-11ef-95ae-6045bdeb9f57/rehanahs-roti-shop-port-moody-bc",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "hanayukisushi": {
+    "city": "Port Moody",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.tripadvisor.ca/Restaurant_Review-g815383-d17165690-Reviews-Hanayuki_Sushi-Port_Moody_British_Columbia.html",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "sweettalk": {
+    "city": "Port Moody",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://sincerelyloewe.com/sweet-talk-cute-donut-cafe-in-port-moody/",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "butterlanebakeshop": {
+    "city": "Lower Lonsdale · North Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.yellowpages.ca/bus/British-Columbia/North-Vancouver/Butter-Lane-Bake-Shop/101327399.html",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "cilantroandjalapeno": {
+    "city": "Lower Lonsdale · North Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.tripadvisor.ca/Restaurant_Review-g181717-d5095301-Reviews-Cilantro_and_Jalapeno_Gourmet_Mexican_Foods-North_Vancouver_British_Columbia.html",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "thesoupmeistersnephew": {
+    "city": "Lower Lonsdale · North Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://wanderlog.com/place/details/1523319/the-meisters-nephew-soup-restaurant-north-vancouver",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "thefederalstore": {
+    "city": "Mount Pleasant · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.tripadvisor.ca/Restaurant_Review-g154943-d12374624-Reviews-The_Federal_Store-Vancouver_British_Columbia.html",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "danielchocolates": {
+    "city": "Mount Pleasant · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://danielchocolates.com/",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "redtruckbeer": {
+    "city": "Mount Pleasant · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.yellowpages.ca/bus/British-Columbia/Vancouver/Red-Truck-Beer-Company/100913832.html",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "mountpleasantvintage": {
+    "city": "Mount Pleasant · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://maps.apple.com/place?place-id=I6BB6277F9D553AD7",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "osteriaotto": {
+    "city": "Mount Pleasant · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.aaa.com/tripcanvas/restaurant/osteria-otto-AA88925",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "mainstreetbrewing": {
+    "city": "Mount Pleasant · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.tripadvisor.com/Attraction_Review-g154943-d9595204-Reviews-or20-Main_Street_Brewery-Vancouver_British_Columbia.html",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "federalstore": {
+    "city": "Mount Pleasant · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.tripadvisor.ca/Restaurant_Review-g154943-d12374624-Reviews-The_Federal_Store-Vancouver_British_Columbia.html",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "elgatogabgab": {
+    "city": "Mount Pleasant · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.exploretock.com/elgatogabgab",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location.",
+    "website": "https://www.exploretock.com/elgatogabgab"
+  },
+  "sunnysdiner": {
+    "city": "Downtown · Kelowna",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://winebc.com/restaurant/sunnys-modern-diner/",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "sproutbread": {
+    "city": "Downtown · Kelowna",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.tripadvisor.com/Restaurant_Review-g154933-d15352700-Reviews-or15-Sprout_Bread-Kelowna_Okanagan_Valley_British_Columbia.html",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "granvilleislandbrewing": {
+    "city": "Granville Island · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://granvilleisland.com/venue/granville-island-brewing-co",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "grandvillacasino": {
+    "city": "Burnaby",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://grand-villa-casino.ca/",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "koisushi": {
+    "city": "West Point Grey · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.yellowpages.ca/bus/British-Columbia/Vancouver/Koi-Sushi/101890427.html",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "haven": {
+    "city": "Langley",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://ww2.aaa.com/tripcanvas/restaurant/haven-kitchen-bar-AA32026",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "chuckecheese": {
+    "city": "Langley",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.chuckecheese.com/langley-bc/",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "vijs": {
+    "city": "Cambie Village · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://en.wikipedia.org/wiki/Vij's",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "baroso": {
+    "city": "Whistler Village · Whistler",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.tripadvisor.ca/Restaurant_Review-g154948-d9464724-Reviews-Bar_Oso-Whistler_British_Columbia.html",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "theponyrestaurant": {
+    "city": "Pemberton",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.tripadvisor.com/Restaurant_Review-g183736-d4850041-Reviews-The_Pony_Restaurant-Pemberton_British_Columbia.html",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "no5orange": {
+    "city": "Downtown Eastside · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.no5orange.ca/about/",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "niwa": {
+    "city": "Grandview-Woodland · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://guide.michelin.com/us/en/british-columbia/ca-vancouver/restaurant/niwa",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "theprincetonpubgrill": {
+    "city": "Grandview-Woodland · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.restaurantji.com/bc/vancouver/the-princeton-pub-/",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "angelapastificio": {
+    "city": "Grandview-Woodland · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.angelapastificio.ca/about",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "mahmilkbar": {
+    "city": "Grandview-Woodland · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.mahmilkbar.com/",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "frankspizzabaratresurrectionspirits": {
+    "city": "Grandview-Woodland · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://happyhourfriends.com/bc/vancouver/venue/frank-s-pizza-bar-at-resurrection-spirits",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "mishmish": {
+    "city": "Fraserhood · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.mishmish.ca/location",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "miradoro": {
+    "city": "Oliver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://winebc.com/restaurant/miradoro-restaurant/",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "salmonnbannock": {
+    "city": "Fairview · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.indigenousbc.com/listings/salmon-nbannock/",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "grapessoda": {
+    "city": "Fairview · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://grapesandsoda.ca/",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "nickelsbakery": {
+    "city": "Central Lonsdale · North Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.restaurantji.com/bc/north-vancouver/nickels-bakery-/",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "oddfish": {
+    "city": "Kitsilano · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.waze.com/live-map/directions/ca/bc/vancouver/oddfish-restaurant?to=place.ChIJ9ZQCacpzhlQRLx_Hge2HPaU",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "localpizzaiolopizzeria": {
+    "city": "Kitsilano · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.restaurantji.com/bc/vancouver/pizza-catering-vancouver-local-pizzaiolo-/",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "theirthere": {
+    "city": "Kitsilano · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.tripadvisor.ca/Restaurant_Review-g154943-d14093939-Reviews-Their_There-Vancouver_British_Columbia.html",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "seasidepearlwinery": {
+    "city": "Mount Lehman · Abbotsford",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://winebc.com/winery/seaside-pearl-farmgate-winery/",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "kowloondelight": {
+    "city": "Richmond",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://kowloondelight.com/",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "provencemarinaside": {
+    "city": "Yaletown · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://winebc.com/restaurant/provence-marinaside/",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "perse": {
+    "city": "Yaletown · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://guide.michelin.com/ca/en/british-columbia/ca-vancouver/restaurant/per-se-social-corner",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "socialcorner": {
+    "city": "Yaletown · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.tripadvisor.com/Restaurant_Review-g154943-d9838673-Reviews-or15-Social_Corner-Vancouver_British_Columbia.html",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "passionegelato": {
+    "city": "Yaletown · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.passionegelato.ca/contact",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "lartista": {
+    "city": "Burnaby Heights · Burnaby",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.restaurantji.com/bc/burnaby/lartista-italian-restaurant-/",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "republicacoffeeroasters": {
+    "city": "Fort Langley · Langley",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.linkedin.com/company/republica-coffee-roasters",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "thefirehallbistro": {
+    "city": "Pitt Meadows",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.tripadvisor.ca/Restaurant_Review-g562666-d2350255-Reviews-The_Firehall_Bistro-Pitt_Meadows_British_Columbia.html",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "arrowleafcellars": {
+    "city": "Lake Country",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.waze.com/live-map/directions/arrowleaf-cellars-camp-rd-1574-lake-country?to=place.w.157680116.1576539021.3490472",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "gastronomiaitalia": {
+    "city": "Downtown · New Westminster",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.gastronomia-italia.com/contact",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "beachhouse": {
+    "city": "Dundarave · West Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.destinationvancouver.com/vancouver-restaurants/listings/beach-house-restaurant",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location.",
+    "website": "https://www.thebeachhouserestaurant.ca/"
+  },
+  "thankyoupizza": {
+    "city": "Strathcona · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://wanderlog.com/place/details/1442998/thank-you-pizza",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "cuchillo": {
+    "city": "Japantown · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.cuchillo.ca/",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location. Specific local neighbourhood normalized from the venue street location."
+  },
+  "taqueriachicatana": {
+    "city": "Strathcona · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://wanderlog.com/place/details/12530554/taquer%C3%ADa-chicatana--mexican-restaurant-in-vancouver",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "cactusclubcoalharbour": {
+    "city": "Coal Harbour · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.cactusclubcafe.com/locations/coal-harbour/",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "thelobbyloungerawbar": {
+    "city": "Coal Harbour · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.fairmont.com/en/hotels/vancouver/fairmont-pacific-rim/dining/lobby-lounge.restaurant.html",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "ozkoreancuisine": {
+    "city": "City Centre · Coquitlam",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.tripadvisor.in/Restaurant_Review-g181718-d12874653-Reviews-OZ_Korean_Cuisine-Coquitlam_British_Columbia.html",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "orofinowinery": {
+    "city": "Cawston",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://winebc.com/winery/orofino-vineyards/",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "rowfourteen": {
+    "city": "Cawston",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://winebc.com/restaurant/row-fourteen-restaurant-at-klippers/",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "foglift": {
+    "city": "Riley Park · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.tripadvisor.com/Restaurant_Review-g154943-d27236706-Reviews-Foglifter_Coffee_Flagship-Vancouver_British_Columbia.html",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "charmerpizza": {
+    "city": "Galiano Island",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.canadaculinary.com/experiences/pilgrimme/",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "oxeye": {
+    "city": "Galiano Island",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.tripadvisor.ca/Restaurant_Review-g184840-d21282328-Reviews-Oxeye-Galiano_Island_British_Columbia.html",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "pilgrimme": {
+    "city": "Galiano Island",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.theworlds50best.com/discovery/Establishments/Canada/Galiano-Island/Pilgrimme.html",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "angelsharerestaurantatcrownthieveswinery": {
+    "city": "West Kelowna",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://kelowna.com/business/angel-share-restaurant/",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "quailsgatewinery": {
+    "city": "West Kelowna",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://winebc.com/winery/quails-gate-winery/",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "dopebakehouse": {
+    "city": "Lynnmour · North Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.vancouversnorthshore.com/explore/eat-drink/",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "elma": {
+    "city": "Penticton",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://visitpenticton.com/listing/elma-restaurant/",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "hyssteakhouse": {
+    "city": "Downtown · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.hyssteakhouse.com/locations/vancouver",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "vomerocoffeehouse": {
+    "city": "Marine-Hamilton · North Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.tripadvisor.ca/Restaurant_Review-g181717-d15271067-Reviews-Vomero_Coffee_House-North_Vancouver_British_Columbia.html",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "terracottaboyz": {
+    "city": "Metrotown · Burnaby",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://nomsmagazine.com/xian-style-eatery-closes-burnaby-terracottaboyz/",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "benjerrys": {
+    "city": "Multiple locations · Vancouver / Victoria",
+    "address": "",
+    "coordinates": null,
+    "branchUnspecified": true,
+    "locationSource": "https://www.ubereats.com/ca/brand-city/vancouver-bc/ben-jerry",
+    "locationStatus": "Multiple branches; source does not select one. Locations shown are within BC, not an exhaustive branch list."
+  },
+  "bowstern": {
+    "city": "Multiple locations · Burnaby / Abbotsford / Chilliwack",
+    "address": "",
+    "coordinates": null,
+    "branchUnspecified": true,
+    "locationSource": "https://www.tripadvisor.ca/Restaurant_Review-g181725-d7350034-Reviews-Bow_Stern_Abbotsford-Abbotsford_British_Columbia.html",
+    "locationStatus": "Multiple branches; source does not select one. Locations shown are within BC, not an exhaustive branch list."
+  },
+  "lagrottadelformaggio": {
+    "city": "Multiple locations · Vancouver / Burnaby",
+    "address": "",
+    "coordinates": null,
+    "branchUnspecified": true,
+    "locationSource": "https://www.lagrottadelformaggio.com/",
+    "locationStatus": "Multiple branches; source does not select one. Locations shown are within BC, not an exhaustive branch list."
+  },
+  "bandavolpe": {
+    "city": "Multiple locations · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "branchUnspecified": true,
+    "locationSource": "https://www.linkedin.com/company/banda-volpi",
+    "locationStatus": "Multiple branches; source does not select one. Locations shown are within BC, not an exhaustive branch list."
+  },
+  "cactusclubcafe": {
+    "city": "Multiple locations · Metro Vancouver / Kelowna / Victoria",
+    "address": "",
+    "coordinates": null,
+    "branchUnspecified": true,
+    "locationSource": "https://www.cactusclubcafe.com/locations/",
+    "locationStatus": "Multiple branches; source does not select one. Locations shown are within BC, not an exhaustive branch list."
+  },
+  "brekabakerycafe": {
+    "city": "Multiple locations · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "branchUnspecified": true,
+    "locationSource": "https://www.tripadvisor.ca/Restaurant_Review-g154943-d8726743-Reviews-Breka_Bakery_Cafe-Vancouver_British_Columbia.html",
+    "locationStatus": "Multiple branches; source does not select one. Locations shown are within BC, not an exhaustive branch list."
+  },
+  "horinramen": {
+    "city": "Multiple locations · Vancouver / Burnaby / Victoria",
+    "address": "",
+    "coordinates": null,
+    "branchUnspecified": true,
+    "locationSource": "https://horinramen.com/locations",
+    "locationStatus": "Multiple branches; source does not select one. Locations shown are within BC, not an exhaustive branch list."
+  },
+  "thegelatomafiadolceamore": {
+    "city": "Multiple locations · Vancouver / North Vancouver / Burnaby",
+    "address": "",
+    "coordinates": null,
+    "branchUnspecified": true,
+    "locationSource": "https://www.familyfuncanada.com/vancouver/ice-cream-shops/",
+    "locationStatus": "Multiple branches; source does not select one. Locations shown are within BC, not an exhaustive branch list."
+  },
+  "texassmokebbq": {
+    "city": "Multiple locations · Langley / Surrey",
+    "address": "",
+    "coordinates": null,
+    "branchUnspecified": true,
+    "locationSource": "https://www.eatingvancouver.ca/restaurant/texas-smoke-bbq/",
+    "locationStatus": "Multiple branches; source does not select one. Locations shown are within BC, not an exhaustive branch list."
+  },
+  "dominos": {
+    "city": "Multiple locations · Vancouver / Gibsons",
+    "address": "",
+    "coordinates": null,
+    "branchUnspecified": true,
+    "locationSource": "https://pizza.dominos.ca/gibsons-british-columbia-39079/",
+    "locationStatus": "Multiple branches; source does not select one. Locations shown are within BC, not an exhaustive branch list."
+  },
+  "churchschicken": {
+    "city": "Multiple locations · Metro Vancouver",
+    "address": "",
+    "coordinates": null,
+    "branchUnspecified": true,
+    "locationSource": "https://www.yellowpages.ca/bus/British-Columbia/Coquitlam/Church-s-Chicken/2181546.html",
+    "locationStatus": "Multiple branches; source does not select one. Locations shown are within BC, not an exhaustive branch list."
+  },
+  "platform7coffee": {
+    "city": "Multiple locations · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "branchUnspecified": true,
+    "locationSource": "https://platform7coffee.com/?page_id=116",
+    "locationStatus": "Multiple branches; source does not select one. Locations shown are within BC, not an exhaustive branch list."
+  },
+  "bufala": {
+    "city": "Multiple locations · Vancouver / North Vancouver",
+    "address": "",
+    "coordinates": null,
+    "branchUnspecified": true,
+    "locationSource": "https://www.opentable.com/r/bufala-river-district-vancouver",
+    "locationStatus": "Multiple branches; source does not select one. Locations shown are within BC, not an exhaustive branch list."
+  },
+  "mountpleasantandcambie": {
+    "city": "Mount Pleasant / Cambie Village · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://chefsfav.com/blog/mates-on-crates-feat-paul-grunberg",
+    "locationStatus": "Geographic destination named by publisher; not a single street address."
+  },
+  "mainstreetfraserhood": {
+    "city": "Main Street / Fraserhood · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://chefsfav.com/blog/mates-on-crates-feat-etienne-buddingh",
+    "locationStatus": "Geographic destination named by publisher; not a single street address."
+  },
+  "yaletown": {
+    "city": "Yaletown · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://chefsfav.com/blog/mates-on-crates-feat-tommy-shorthouse",
+    "locationStatus": "Geographic destination named by publisher; not a single street address."
+  },
+  "uclueletortofino": {
+    "city": "Ucluelet / Tofino",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://chefsfav.com/blog/mates-on-crates-feat-tommy-shorthouse",
+    "locationStatus": "Geographic destination named by publisher; not a single street address."
+  },
+  "fraserhood": {
+    "city": "Fraserhood · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://chefsfav.com/blog/mates-on-crates-feat-james-heras",
+    "locationStatus": "Geographic destination named by publisher; not a single street address."
+  },
+  "rockypointicecreamportmoody": {
+    "city": "Rocky Point · Port Moody",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://chefsfav.com/blog/mates-on-crates-feat-david-varga",
+    "locationStatus": "Geographic destination named by publisher; not a single street address."
+  },
+  "westend": {
+    "city": "West End · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://chefsfav.com/blog/mates-on-crates-feat-quynh-anh-pham",
+    "locationStatus": "Geographic destination named by publisher; not a single street address."
+  },
+  "gastown": {
+    "city": "Gastown · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://chefsfav.com/blog/mates-on-crates-feat-roger-collins",
+    "locationStatus": "Geographic destination named by publisher; not a single street address."
+  },
+  "lowerlonsdale": {
+    "city": "Lower Lonsdale · North Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://chefsfav.com/blog/mates-on-crates-feat-paul-clark",
+    "locationStatus": "Geographic destination named by publisher; not a single street address."
+  },
+  "mainstreet": {
+    "city": "Main Street · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://chefsfav.com/blog/mates-on-crates-feat-chanthy-yen",
+    "locationStatus": "Geographic destination named by publisher; not a single street address."
+  },
+  "wreckbeach": {
+    "city": "University Endowment Lands",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://chefsfav.com/blog/mates-on-crates-feat-chanthy-yen",
+    "locationStatus": "Geographic destination named by publisher; not a single street address."
+  },
+  "spallumcheenokanagan": {
+    "city": "Spallumcheen",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://chefsfav.com/blog/mates-on-crates-feat-eleanor-waterfall",
+    "locationStatus": "Geographic destination named by publisher; not a single street address."
+  },
+  "mountpleasant": {
+    "city": "Mount Pleasant · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://chefsfav.com/blog/mates-on-crates-feat-maria-ponce",
+    "locationStatus": "Geographic destination named by publisher; not a single street address."
+  },
+  "victoria": {
+    "city": "Victoria",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://chefsfav.com/blog/mates-on-crates-feat-maria-ponce",
+    "locationStatus": "Geographic destination named by publisher; not a single street address."
+  },
+  "chinatownchinatownbbqddmau": {
+    "city": "Chinatown · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://chefsfav.com/blog/mates-on-crates-feat-andrew-kong",
+    "locationStatus": "Geographic destination named by publisher; not a single street address."
+  },
+  "oldjapantownpowellstreet": {
+    "city": "Japantown · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://chefsfav.com/blog/mates-on-crates-feat-nathan-lowey",
+    "locationStatus": "Geographic destination named by publisher; not a single street address."
+  },
+  "barcorsoliviaturkscoffeebar": {
+    "city": "Commercial Drive · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://chefsfav.com/blog/mates-on-crates-feat-reuben-major",
+    "locationStatus": "Geographic destination named by publisher; not a single street address."
+  },
+  "squamishvalley": {
+    "city": "Squamish Valley",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://chefsfav.com/blog/mates-on-crates-feat-aaron-surman",
+    "locationStatus": "Geographic destination named by publisher; not a single street address."
+  },
+  "mountpleasantchinatown": {
+    "city": "Mount Pleasant / Chinatown · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://chefsfav.com/blog/mates-on-crates-feat-gino-di-domenico-2026",
+    "locationStatus": "Geographic destination named by publisher; not a single street address."
+  },
+  "portmoody": {
+    "city": "Port Moody",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://chefsfav.com/blog/mates-on-crates-feat-andrew-doyle",
+    "locationStatus": "Geographic destination named by publisher; not a single street address."
+  },
+  "chinatown": {
+    "city": "Chinatown · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://chefsfav.com/blog/mates-on-crates-feat-erin-heather",
+    "locationStatus": "Geographic destination named by publisher; not a single street address."
+  },
+  "hastingssunrise": {
+    "city": "Hastings-Sunrise · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://chefsfav.com/blog/mates-on-crates-feat-tyson-reimer",
+    "locationStatus": "Geographic destination named by publisher; not a single street address."
+  },
+  "kingswaycorridor": {
+    "city": "Kingsway · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://chefsfav.com/blog/mates-on-crates-feat-tannis-ling",
+    "locationStatus": "Geographic destination named by publisher; not a single street address."
+  },
+  "richmond": {
+    "city": "Richmond",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://chefsfav.com/blog/mates-on-crates-91-devon-trowler",
+    "locationStatus": "Geographic destination named by publisher; not a single street address."
+  },
+  "saltspringisland": {
+    "city": "Salt Spring Island",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://chefsfav.com/blog/mates-on-crates-feat-kyle-mcintosh",
+    "locationStatus": "Geographic destination named by publisher; not a single street address."
+  },
+  "niwaopeningsoonat875powellst": {
+    "city": "Grandview-Woodland · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://guide.michelin.com/us/en/british-columbia/ca-vancouver/restaurant/niwa",
+    "locationStatus": "Niwa opened at 1875 Powell Street per Michelin; publisher opening-address typo corrected.",
+    "name": "Niwa"
+  },
+  "ercof": {
+    "city": "Riley Park · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.tripadvisor.com/Restaurant_Review-g154943-d27236706-Reviews-Foglifter_Coffee_Flagship-Vancouver_British_Columbia.html",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "feeroasters": {
+    "city": "Riley Park · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.tripadvisor.com/Restaurant_Review-g154943-d27236706-Reviews-Foglifter_Coffee_Flagship-Vancouver_British_Columbia.html",
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+  },
+  "wilderwoodfarm": {
+    "city": "Pender Island",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://mulliganstew.ca/category/mulligan_stew_podcast/",
+    "locationStatus": "Location corroborated by linked source on 2026-11-17; pop-ups and mobile venues may vary.",
+    "branchUnspecified": false
+  },
+  "nerobelgianwafflebar": {
+    "city": "Multiple locations · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.nerowafflebar.com/",
+    "locationStatus": "Location corroborated by linked source on 2026-11-17; pop-ups and mobile venues may vary.",
+    "branchUnspecified": true
+  },
+  "midnightjoes": {
+    "city": "Mobile food truck · North Vancouver / Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.cnv.org/-/media/City-of-North-Vancouver/Documents/Business-Licences/Monthly-Update-of-New-Businesses/Issued---May-2026---Resident-Businesses.pdf",
+    "locationStatus": "Location corroborated by linked source on 2026-11-17; pop-ups and mobile venues may vary.",
+    "branchUnspecified": true
+  },
+  "giovanecaffe": {
+    "city": "Multiple locations · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.giovanecaffe.com/",
+    "locationStatus": "Location corroborated by linked source on 2026-11-17; pop-ups and mobile venues may vary.",
+    "branchUnspecified": true
+  },
+  "groundsforcoffee": {
+    "city": "Multiple locations · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://groundsforcoffee.ca/locations/",
+    "locationStatus": "Location corroborated by linked source on 2026-11-17; pop-ups and mobile venues may vary.",
+    "branchUnspecified": true
+  },
+  "italyonthetablebygustoferrari": {
+    "city": "Penticton",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.restaurantji.com/bc/penticton/",
+    "locationStatus": "Location corroborated by linked source on 2026-11-17; pop-ups and mobile venues may vary.",
+    "branchUnspecified": false
+  },
+  "countrygrocer": {
+    "city": "Ganges · Salt Spring Island",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.countrygrocer.com/locations/salt-spring-island/",
+    "locationStatus": "Location corroborated by linked source on 2026-11-17; pop-ups and mobile venues may vary.",
+    "branchUnspecified": false
+  },
+  "coyotespopup": {
+    "city": "Mount Pleasant · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://nomsmagazine.com/things-to-do-in-vancouver-this-weekend-march-13-to-15-2026/",
+    "locationStatus": "Location corroborated by linked source on 2026-11-17; pop-ups and mobile venues may vary.",
+    "branchUnspecified": false
+  },
+  "mavericks": {
+    "city": "Ganges · Salt Spring Island",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.maverickstreats.com/",
+    "locationStatus": "Location corroborated by linked source on 2026-11-17; pop-ups and mobile venues may vary.",
+    "branchUnspecified": false
+  },
+  "sushinanaimo": {
+    "city": "Hastings-Sunrise · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://sushi-nanaimo.com/products",
+    "locationStatus": "Location corroborated by linked source on 2026-11-17; pop-ups and mobile venues may vary.",
+    "branchUnspecified": false
+  },
+  "cafeflora": {
+    "city": "Fernwood · Salt Spring Island",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.cafeflorassi.com/about-1",
+    "locationStatus": "Location corroborated by linked source on 2026-11-17; pop-ups and mobile venues may vary.",
+    "branchUnspecified": false
+  },
+  "thefarmhouse": {
+    "city": "Keremeos",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://nutrixe.app/en/restaurants/canada/keremeos/the-farm-store/",
+    "locationStatus": "Location corroborated by linked source on 2026-11-17; pop-ups and mobile venues may vary.",
+    "branchUnspecified": false
+  },
+  "folia": {
+    "city": "Galiano Island",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://bcbirdtrail.ca/trails/southern-gulf-islands/",
+    "locationStatus": "Location corroborated by linked source on 2026-11-17; pop-ups and mobile venues may vary.",
+    "branchUnspecified": false
+  },
+  "hadacoffe": {
+    "city": "South Surrey · Surrey",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://dailyhive.com/vancouver/best-things-we-ate-vancouver-april-2026",
+    "locationStatus": "Location corroborated by linked source on 2026-11-17; pop-ups and mobile venues may vary.",
+    "branchUnspecified": false
+  },
+  "pinehousebakery": {
+    "city": "Multiple locations · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://www.yellowpages.ca/bus/British-Columbia/Vancouver/Pine-House-Bakery/1234260.html",
+    "locationStatus": "Location corroborated by linked source on 2026-11-17; pop-ups and mobile venues may vary.",
+    "branchUnspecified": true
+  },
+  "rosiesbbqandsmokehouse": {
+    "city": "Mobile food truck · Vancouver",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://marketspread.com/vendor/98264/rosies-bbq-smokehouse/",
+    "locationStatus": "Location corroborated by linked source on 2026-11-17; pop-ups and mobile venues may vary.",
+    "branchUnspecified": true
+  },
+  "e": {
+    "city": "South Surrey · Surrey",
+    "address": "",
+    "coordinates": null,
+    "locationSource": "https://dailyhive.com/vancouver/best-things-we-ate-vancouver-april-2026",
+    "locationStatus": "Location corroborated by linked source on 2026-11-17; pop-ups and mobile venues may vary.",
+    "branchUnspecified": false
+  },
+  "thre3cocafe": {
+    "city": "Ladner · Delta",
+    "locationSource": "https://chefsfav.com/blog/mates-on-crates-feat-nathan-pai-phankum",
+    "locationStatus": "Publisher explicitly lists this venue under Neighbourhood Spots (Ladner)."
   }
 }

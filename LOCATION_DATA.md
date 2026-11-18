@@ -1,0 +1,13 @@
+# Location data and filtering
+
+- Every profile and pick must have a source-backed location. `data/place-location-overrides.json` is the durable publication layer; `public/map-data.json` is generated.
+- Use consistent neighbourhood names, then city/island on a separate line. No separator dot in the rendered UI. Never show province-only or Vancouver-only labels. Keep single-component destinations intact and do not repeat Vancouver after South Vancouver.
+- Multi-branch businesses are labelled **Multiple locations**, not assigned the first geocoder result as though it were the chef's selected branch. Mobile food trucks are explicitly labelled. Profile business locations do not establish an unknown interview branch.
+- Sources include venue websites, publisher context, tourism/business directories, and reviewed OSM matches. Vancouver local-area boundaries are from the City of Vancouver open-data `local-area-boundary` dataset; familiar subareas such as Chinatown, Gastown, Commercial Drive and Cambie Village are retained where supported. `coordinateSource` is distinct from the source supporting the display label.
+- November 17, 2026 audit: all 585 pick records and 64 profiles have labels. The starting generated dataset had 358 province-only pick labels and 151 Vancouver-only labels. Raw website/search material remains in ignored `.cache/`.
+- A geographic label filters **destination locations across all chefs**, not the location of the recommending chef. Neighbourhood keys include their city: Chinatown in Victoria is not Chinatown in Vancouver. City matching must not confuse Vancouver and North Vancouver. Do not infer a neighbourhood for a branch-unspecified business.
+- Location filtering resets other restrictions when entered. Back/Clear returns to the prior view, search, filters and scroll, including nested pick details. Location URLs support reload, browser Back/Forward and direct linking.
+
+Checks: `python scripts/prepare-map.py`, `python scripts/validate.py`, `npm run build`, `node scripts/location-filter-smoke.mjs`, and the existing UI/overlay smoke suites. Use `TEST_URL` to target production.
+
+- Broad filter: All BC / Mainland / Islands applies to profile business cities in the directory and destination cities in picks. Mainland includes the BC interior and Sunshine Coast. Islands includes Vancouver Island and Gulf Islands. Multi-location businesses can match both (526 mainland / 69 islands / 585 total at this checkpoint). Classify city components, never neighbourhood names: Granville Island remains Vancouver/mainland. Check `scripts/region-filter-smoke.mjs`.
