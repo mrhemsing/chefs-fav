@@ -171,3 +171,5 @@
  .no-map .selected-chef a,.no-map #profile-nav,.no-map .location-tag,.no-map .source-link,.no-map .detail-note,.no-map .pick-tag,.no-map .chef-intro>div>span,.no-map .list-footer{font-size:14px;line-height:1.5}
  .no-map .picks-sheet #cards{grid-template-columns:repeat(2,minmax(0,1fr))}
 }
+
+.no-map .intro p.intro-lead{font-size:18px}
