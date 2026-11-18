@@ -241,3 +241,7 @@
  .no-map .location-lines>span+span::before{content:' · '}
  .no-map .location-lines .location-link{display:inline;white-space:normal}
 }
+
+.brand h1{font:inherit;margin:0;line-height:1.1}
+.brand img{transform:none}
+@media(max-width:700px){.no-map .brand{font-size:20px}.brand h1{max-width:185px}}
