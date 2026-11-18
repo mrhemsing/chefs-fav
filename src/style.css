@@ -228,3 +228,16 @@
  .no-map .picks-sheet .selected-chef .interview-location{grid-column:1/-1;grid-row:3;justify-self:start;text-align:left;margin:8px 0 0}
  .no-map .picks-sheet .selected-chef>div>a{grid-column:1/-1;grid-row:4;justify-self:start;text-align:left;margin:4px 0 0}
 }
+
+@media(min-width:701px){
+ .no-map .card-topline .place-city,.no-map .card-topline .place-city .location-lines,.no-map .card-topline .place-city .location-link{text-align:left}
+ .no-map .card-topline .place-city .location-lines>span{display:inline}
+ .no-map .card-topline .place-city .location-lines>span+span::before{content:' · '}
+ .no-map .card-topline .place-city .location-link{display:inline;white-space:normal}
+}
+@media(min-width:701px){
+ .no-map .location-lines,.no-map .location-lines .location-link{text-align:left}
+ .no-map .location-lines>span{display:inline}
+ .no-map .location-lines>span+span::before{content:' · '}
+ .no-map .location-lines .location-link{display:inline;white-space:normal}
+}
