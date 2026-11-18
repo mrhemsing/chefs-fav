@@ -195,3 +195,12 @@
 .section-crate{width:32px;height:32px;color:var(--green);flex-shrink:0}
 .pick-section-cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:20px}
 @media(max-width:700px){.pick-section-title{font-size:23px;gap:10px}.pick-section-cards{grid-template-columns:1fr;gap:14px}.no-map .pick-section{margin-bottom:12px}}
+
+/* Separate category and location rows: long labels never change the layout. */
+.no-map .card-topline{display:grid;grid-template-columns:minmax(0,1fr);align-items:start;gap:6px;padding-right:29px}
+.no-map .card-topline .place-type{max-width:100%;min-width:0;white-space:normal;align-items:flex-start}
+.no-map .card-topline .place-type svg{margin-top:calc((1lh - 1em)/2)}
+.no-map .card-topline .place-city{width:100%;min-width:0;margin:0;text-align:right;white-space:normal}
+.no-map .card-topline .place-city .location-lines{overflow-wrap:anywhere}
+
+@media(max-width:700px){.no-map .chef-filter{display:none}}

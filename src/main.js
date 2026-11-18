@@ -58,7 +58,7 @@ function avatar(c,classes=''){
  const p=c.facePosition||[36,30];
  return `<span class="avatar ${classes}" style="--fx:${p[0]}%;--fy:${p[1]}%" aria-hidden="true"><span class="initials">${esc(c.name.split(' ').map(x=>x[0]).slice(0,2).join(''))}</span><img src="${esc(c.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"></span>`;
 }
-function categoryLabel(category){return esc(category.replace(/Neighborhood/g,'Neighbourhood')).replace(/(\bFavourites)\s+(?=\S)/gi,'$1<br>')}
+function categoryLabel(category){return esc(pickGroup(category)).replace(/(\bFavourites)\s+(?=\S)/gi,'$1<br>')}
 function categoryFor(m){let c=m.category.toLowerCase();if(/coffee|chai/.test(c))return 'Coffee';if(/cocktail|brewery|wine|pub|bar$/.test(c))return 'Drinks';if(/bakery|pastry|ice cream|gelato/.test(c))return 'Sweet';return 'Bites'}
 function placeLocation(p){const city=(p.city||'').trim();return /^(British Columbia|B\.?C\.?|Vancouver)$/i.test(city)?'':city}
 function locationMarkup(label){return `<span class="location-lines">${locationLines(label).map(line=>`<span>${line.map(({name,scope})=>scope?`<button type="button" class="location-link" data-location="${esc(JSON.stringify(scope))}" aria-label="Show all picks in ${esc(name)}${scope.city?', '+esc(scope.city):''}">${esc(name)}</button>`:esc(name)).join(' / ')}</span>`).join('')}</span>`}
@@ -114,6 +114,12 @@ function pickGroup(category){
  if(/meal.*blew/i.test(c))return 'Last Meal That Blew Them Away';
  if(/out.of.town guest/i.test(c))return 'Take an Out of Town Guest';
  if(/^pizza\b/i.test(c))return 'Pizza';
+ if(/^date night(?: spot)?$/i.test(c))return 'Date Night';
+ if(/^ice cream(?:\/gelato)?$/i.test(c))return 'Ice Cream & Gelato';
+ if(/^thai(?: food)?$/i.test(c))return 'Thai';
+ if(/^pastry(?: program)?$/i.test(c))return 'Pastry';
+ if(/^late night (?:bite|spot)$/i.test(c))return 'Late Night Bite';
+ if(/^neighbourhood (?:favourite|favourites|pick|restaurant)$/i.test(c))return 'Neighbourhood Favourites';
  if(/^hidden gem/i.test(c))return 'Hidden Gem';
  if(/^dying to try$/i.test(c))return 'Dying to Try';
  if(/^(favourite )?food neighbourhood/i.test(c))return 'Food Neighbourhood';
