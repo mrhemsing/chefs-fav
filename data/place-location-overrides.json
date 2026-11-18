@@ -4200,6 +4200,7 @@
     "locationStatus": "Geographic destination named by publisher; not a single street address."
   },
   "chinatownchinatownbbqddmau": {
+    "name": "Chinatown",
     "city": "Chinatown · Vancouver",
     "address": "",
     "coordinates": null,
