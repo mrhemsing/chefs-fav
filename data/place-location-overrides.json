@@ -1441,7 +1441,7 @@
     ],
     "locationSource": "https://www.openstreetmap.org/node/5581881756",
     "locationStatus": "OpenStreetMap match; branch not specified by chef Specific local neighbourhood normalized from the venue street location.",
-    "city": "Japantown · Vancouver"
+    "city": "Downtown Eastside · Vancouver"
   },
   "bargobo": {
     "address": "237 Union Street",
@@ -1643,7 +1643,7 @@
     ],
     "locationSource": "https://www.openstreetmap.org/node/3777187681",
     "locationStatus": "OpenStreetMap match; branch not specified by chef Specific local neighbourhood normalized from the venue street location.",
-    "city": "Japantown · Vancouver"
+    "city": "Downtown Eastside · Vancouver"
   },
   "viateverepizzeria": {
     "city": "Multiple locations · Vancouver",
@@ -3872,7 +3872,7 @@
     "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
   },
   "cuchillo": {
-    "city": "Japantown · Vancouver",
+    "city": "Downtown Eastside · Vancouver",
     "address": "",
     "coordinates": null,
     "locationSource": "https://www.cuchillo.ca/",
@@ -4207,7 +4207,7 @@
     "locationStatus": "Geographic destination named by publisher; not a single street address."
   },
   "oldjapantownpowellstreet": {
-    "city": "Japantown · Vancouver",
+    "city": "Downtown Eastside · Vancouver",
     "address": "",
     "coordinates": null,
     "locationSource": "https://chefsfav.com/blog/mates-on-crates-feat-nathan-lowey",

@@ -794,7 +794,7 @@
         27
       ],
       "location": {
-        "neighbourhood": "Japantown",
+        "neighbourhood": "Downtown Eastside",
         "city": "Vancouver",
         "region": "Metro Vancouver",
         "source": "https://chefsfav.com/blog/mates-on-crates-feat-nathan-lowey",
@@ -4026,7 +4026,7 @@
         -123.0978958,
         49.2832655
       ],
-      "city": "Japantown · Vancouver",
+      "city": "Downtown Eastside · Vancouver",
       "address": "269 Powell Street",
       "locationSource": "https://www.openstreetmap.org/node/5581881756",
       "locationStatus": "OpenStreetMap match; branch not specified by chef Specific local neighbourhood normalized from the venue street location.",
@@ -5812,7 +5812,7 @@
         -123.0949154,
         49.2831953
       ],
-      "city": "Japantown · Vancouver",
+      "city": "Downtown Eastside · Vancouver",
       "address": "415 Powell Street",
       "locationSource": "https://www.openstreetmap.org/node/3777187681",
       "locationStatus": "OpenStreetMap match; branch not specified by chef Specific local neighbourhood normalized from the venue street location.",
@@ -12942,7 +12942,7 @@
         }
       ],
       "coordinates": null,
-      "city": "Japantown · Vancouver",
+      "city": "Downtown Eastside · Vancouver",
       "address": "",
       "locationStatus": "Geographic destination named by publisher; not a single street address.",
       "locationSource": "https://chefsfav.com/blog/mates-on-crates-feat-nathan-lowey",
@@ -17111,7 +17111,7 @@
         }
       ],
       "coordinates": null,
-      "city": "Japantown · Vancouver",
+      "city": "Downtown Eastside · Vancouver",
       "address": "",
       "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location. Specific local neighbourhood normalized from the venue street location.",
       "locationSource": "https://www.cuchillo.ca/",
