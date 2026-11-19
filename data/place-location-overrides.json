@@ -126,7 +126,8 @@
   "theflam": {
     "city": "Commercial Drive · Vancouver",
     "locationSource": "https://www.flamingoroomvan.com/",
-    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location.",
+    "name": "The Flamingo Room"
   },
   "ingoroom": {
     "city": "Commercial Drive · Vancouver",
@@ -642,7 +643,8 @@
   "thered": {
     "city": "West End · Vancouver",
     "locationSource": "https://www.theredaccordion.com/",
-    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location.",
+    "name": "The Red Accordion"
   },
   "accordion": {
     "city": "West End · Vancouver",
@@ -852,7 +854,8 @@
   "tapr": {
     "city": "South Surrey · Surrey",
     "locationSource": "https://www.taprestaurant.ca/",
-    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location."
+    "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location.",
+    "name": "Tap Restaurant"
   },
   "estaurant": {
     "city": "South Surrey · Surrey",
@@ -3805,7 +3808,8 @@
     "address": "",
     "coordinates": null,
     "locationSource": "https://guide.michelin.com/ca/en/british-columbia/ca-vancouver/restaurant/per-se-social-corner",
-    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location.",
+    "name": "Per Se Social Corner"
   },
   "socialcorner": {
     "city": "Yaletown · Vancouver",
@@ -3925,7 +3929,8 @@
     "address": "",
     "coordinates": null,
     "locationSource": "https://www.tripadvisor.com/Restaurant_Review-g154943-d27236706-Reviews-Foglifter_Coffee_Flagship-Vancouver_British_Columbia.html",
-    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location."
+    "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location.",
+    "name": "Foglifter Coffee Roasters"
   },
   "charmerpizza": {
     "city": "Galiano Island",
@@ -4409,7 +4414,8 @@
     "coordinates": null,
     "locationSource": "https://dailyhive.com/vancouver/best-things-we-ate-vancouver-april-2026",
     "locationStatus": "Location corroborated by linked source on 2026-11-17; pop-ups and mobile venues may vary.",
-    "branchUnspecified": false
+    "branchUnspecified": false,
+    "name": "HADA Coffee"
   },
   "pinehousebakery": {
     "city": "Multiple locations · Vancouver",

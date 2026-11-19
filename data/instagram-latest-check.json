@@ -1,0 +1,21 @@
+{
+  "checkedOn": "2026-11-19",
+  "profile": "https://www.instagram.com/chefs.favourite/",
+  "posts": [
+    {
+      "url": "https://www.instagram.com/reel/Df5ovIsMLIW/",
+      "description": "Robert Belcham describing Dirty Burger at Monarch Burger",
+      "decision": "Venue feature, not an outside-recommendation Mates on Crates interview; not imported."
+    },
+    {
+      "url": "https://www.instagram.com/p/Df0fLZfEuHE/",
+      "description": "Publisher Southern Gulf Islands travel/food guide",
+      "decision": "Publisher guide, not guest-attributed interview picks; not imported."
+    },
+    {
+      "url": "https://www.instagram.com/reel/Dfx6UpVsXxV/",
+      "description": "Stephanie Duboudin, Wine Victoria, Australia",
+      "decision": "Already inventoried, outside BC scope."
+    }
+  ]
+}

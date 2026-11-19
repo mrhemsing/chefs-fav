@@ -6,7 +6,7 @@ A sourced starting list of **British Columbia destinations recommended by chefs 
 
 **[Open the chef directory](https://chefs-fav.vercel.app/)** — a chef/restaurant-owner directory in a newest-first list (no map). Crate episode photos introduce each person and their restaurant; selecting a profile reveals that person’s outside recommendations and timestamped comments. All-picks browsing is secondary, with no popularity ranking or endorsement tally. Saved favourites stay on your device. Mobile uses a scrolling profile list and individual recommendation cards.
 
-The directory has 64 profiles; dates are labelled as episode write-up dates. There are 585 place entries, with addresses available for 200 OpenStreetMap matches. Multiple-chain locations may be unspecified by the original chef; the location note makes this explicit.
+The directory has 64 profiles; dates are labelled as episode write-up dates. There are 539 place entries, with addresses available for 200 OpenStreetMap matches. Multiple-chain locations may be unspecified by the original chef; the location note makes this explicit.
 
 - **[Chef-by-chef recommendations](CHEFS.md)** — 785 category/answer entries from 64 episode write-ups.
 - [Spreadsheet CSV](data/recommendations.csv)
@@ -63,3 +63,7 @@ Dev uses port 3000. `npm run build` produces `dist/` for Vercel. The Vercel proj
 Optional local research: `yt-dlp` and `faster-whisper` power the metadata/transcription scripts. These outputs are **unreviewed** until an editor checks them, corrects named entities against sources and records source-linked notes. Do not publish bulk automatic transcripts.
 
 Source: [Chef’s Favourite](https://chefsfav.com/blog). Independent research index; not an official Chef’s Favourite product.
+
+## Reviewed venue aliases
+
+`data/place-aliases.json` records reviewed duplicate IDs and their evidence. `scripts/merge_places.py` merges unique mentions/comments after location overrides and video notes are attached, and is called by `prepare-map.py`. Old IDs remain in `placeAliases` for saved favourites and deep links. Do not deduplicate automatically by domain: separate branches, sister venues and shared booking hosts can use the same site.

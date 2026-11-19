@@ -140,7 +140,9 @@ for added in load('data/video-additions.json') if (ROOT/'data/video-additions.js
                       'startSeconds':added['startSeconds'],'source':added['source'],'type':'summary'})
 for p in places.values():
     p['comments']=[n for n in notes if n['placeId']==p['id']]
-output={'chefs':chefs,'places':list(places.values()),'coverage':load('data/coverage.json'),
+from merge_places import merge_places
+merged_places,place_aliases=merge_places(list(places.values()))
+output={'chefs':chefs,'places':merged_places,'placeAliases':place_aliases,'coverage':load('data/coverage.json'),
         'spokenReviewEpisodes':len(set(n['chefId'] for n in notes))}
 (ROOT/'public/map-data.json').write_text(json.dumps(output,ensure_ascii=False,indent=2),encoding='utf-8')
-print(f"Prepared {len(chefs)} chefs, {len(places)} places, {sum(bool(p['coordinates']) for p in places.values())} OSM matches",flush=True)
+print(f"Prepared {len(chefs)} chefs, {len(merged_places)} places, {sum(bool(p['coordinates']) for p in merged_places)} OSM matches",flush=True)

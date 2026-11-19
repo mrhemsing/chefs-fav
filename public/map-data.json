@@ -2083,6 +2083,34 @@
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-sandra-bruzzese-xezlc",
           "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-feat-haidee-hart",
+          "category": "Brunch",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-feat-haidee-hart",
+          "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-feat-haidee-hart",
+          "category": "Coffee",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-feat-haidee-hart",
+          "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-feat-haidee-hart",
+          "category": "Patio",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-feat-haidee-hart",
+          "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-feat-haidee-hart",
+          "category": "Take an Out of Town Guest",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-feat-haidee-hart",
+          "evidenceType": "publisher_expanded_list"
         }
       ],
       "coordinates": [
@@ -2095,7 +2123,17 @@
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "matchedName": "Cassette Cafe and Dive Bar",
       "coordinateSource": "https://www.openstreetmap.org/node/6242489151",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-haidee-hart",
+          "placeId": "cassettecafedivebar",
+          "comment": "Her brunch pick; she says the team is doing fantastic work.",
+          "startSeconds": 132,
+          "source": "https://www.instagram.com/reel/DXITa3-BSWL/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "thecoffeecan",
@@ -2251,26 +2289,6 @@
       ]
     },
     {
-      "id": "saturdaymarket",
-      "name": "Saturday market",
-      "website": "https://www.saltspringmarket.com/",
-      "mentions": [
-        {
-          "chefId": "mates-on-crates-feat-maxime-bergeron",
-          "category": "Take an Out of Town Guest",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-maxime-bergeron",
-          "evidenceType": "publisher_expanded_list"
-        }
-      ],
-      "coordinates": null,
-      "city": "Ganges · Salt Spring Island",
-      "address": "Centennial Park",
-      "locationStatus": "Location verified from official website on 2026-11-17",
-      "locationSource": "https://www.saltspringmarket.com/",
-      "comments": []
-    },
-    {
       "id": "ombre",
       "name": "Ombré",
       "website": "https://www.ombrerestaurant.com/",
@@ -2422,6 +2440,13 @@
           "category": "Neighbourhood Spot (North Vancouver)",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-david-varga",
+          "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-feat-andrew-doyle",
+          "category": "Hidden Gem",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-feat-andrew-doyle",
           "evidenceType": "publisher_expanded_list"
         }
       ],
@@ -2992,33 +3017,6 @@
       "comments": []
     },
     {
-      "id": "selene",
-      "name": "Selene",
-      "website": "https://seleneagn.com/",
-      "mentions": [
-        {
-          "chefId": "mates-on-crates-feat-etienne-buddingh",
-          "category": "Dying to Try",
-          "wishList": true,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-etienne-buddingh",
-          "evidenceType": "publisher_expanded_list"
-        },
-        {
-          "chefId": "mates-on-crates-feat-kevin-day-and-chris-enns",
-          "category": "Dying to Try",
-          "wishList": true,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-kevin-day-and-chris-enns",
-          "evidenceType": "publisher_expanded_list"
-        }
-      ],
-      "coordinates": null,
-      "city": "Hastings-Sunrise · Vancouver",
-      "address": "",
-      "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location.",
-      "locationSource": "https://seleneagn.com/",
-      "comments": []
-    },
-    {
       "id": "nook",
       "name": "Nook",
       "website": "https://nookrestaurants.com/",
@@ -3491,6 +3489,34 @@
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-scott-thornhill",
           "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-feat-ron-macgillivray",
+          "category": "Pizza",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-feat-ron-macgillivray",
+          "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-feat-natapon-poonpoem",
+          "category": "Pizza",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-feat-natapon-poonpoem",
+          "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-feat-tyson-reimer",
+          "category": "Pizza",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-feat-tyson-reimer",
+          "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-feat-sam-payne",
+          "category": "Pizza (Vancouver)",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-feat-sam-payne",
+          "evidenceType": "publisher_expanded_list"
         }
       ],
       "coordinates": [
@@ -3808,26 +3834,6 @@
       "comments": []
     },
     {
-      "id": "doe",
-      "name": "Doe",
-      "website": "https://doecoffee.com/",
-      "mentions": [
-        {
-          "chefId": "mates-on-crates-feat-william-liu",
-          "category": "Coffee",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-william-liu",
-          "evidenceType": "publisher_expanded_list"
-        }
-      ],
-      "coordinates": null,
-      "city": "Grandview-Woodland · Vancouver",
-      "address": "",
-      "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location.",
-      "locationSource": "https://doecoffee.com/",
-      "comments": []
-    },
-    {
       "id": "happyfamilyrestaurant",
       "name": "Happy Family Restaurant",
       "website": "https://www.happyfamilyeats.com/",
@@ -3837,6 +3843,27 @@
           "category": "Chinese",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-william-liu",
+          "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-feat-tannis-ling",
+          "category": "Chinese",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-feat-tannis-ling",
+          "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-feat-tannis-ling",
+          "category": "Hidden Gem",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-feat-tannis-ling",
+          "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-feat-tannis-ling",
+          "category": "Take an Out of Town Guest",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-feat-tannis-ling",
           "evidenceType": "publisher_expanded_list"
         }
       ],
@@ -3851,7 +3878,17 @@
       "matchedName": "Happy Family Restaurant",
       "coordinateSource": "https://www.openstreetmap.org/node/1937561314",
       "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-tannis-ling",
+          "placeId": "happyfamilyrestaurant",
+          "comment": "She recommends pre-ordering the whole fried chicken over sticky rice, describing both the chicken and the bottom layer of rice as crisp.",
+          "startSeconds": 106,
+          "source": "https://www.instagram.com/reel/DU9XZugCXgq/",
+          "type": "summary",
+          "reviewMethod": "Full spoken transcript read; named venues cross-checked against official expanded list."
+        }
+      ]
     },
     {
       "id": "touk",
@@ -4498,6 +4535,13 @@
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-95-feat-frank-morra",
           "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-feat-sandra-bruzzese-xezlc",
+          "category": "Brunch",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-feat-sandra-bruzzese-xezlc",
+          "evidenceType": "publisher_expanded_list"
         }
       ],
       "coordinates": [
@@ -4675,6 +4719,13 @@
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-curtis-redel",
           "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-feat-curtis-redel",
+          "category": "Neighbourhood Favourites (Victoria)",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-feat-curtis-redel",
+          "evidenceType": "publisher_expanded_list"
         }
       ],
       "coordinates": null,
@@ -4803,26 +4854,6 @@
       "comments": []
     },
     {
-      "id": "heyhappy",
-      "name": "Hey Happy",
-      "website": "https://www.heyhappycoffee.com/",
-      "mentions": [
-        {
-          "chefId": "mates-on-crates-feat-curtis-redel",
-          "category": "Neighbourhood Favourites (Victoria)",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-curtis-redel",
-          "evidenceType": "publisher_expanded_list"
-        }
-      ],
-      "coordinates": null,
-      "city": "Downtown · Victoria",
-      "address": "",
-      "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location.",
-      "locationSource": "https://www.tripadvisor.ca/Restaurant_Review-g154945-d6997186-Reviews-Hey_Happy_Coffee-Victoria_Victoria_Capital_Regional_District_Vancouver_Island_Bri.html",
-      "comments": []
-    },
-    {
       "id": "marilena",
       "name": "Marilena",
       "website": "https://marilenacafe.com/",
@@ -4839,6 +4870,13 @@
           "category": "Outside of Vancouver",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-93-feat-hilary-nguy",
+          "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-95-feat-frank-morra-kwley",
+          "category": "Outside of Vancouver",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-95-feat-frank-morra-kwley",
           "evidenceType": "publisher_expanded_list"
         }
       ],
@@ -5437,6 +5475,13 @@
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-tommy-shorthouse",
           "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-feat-barbora-samieian",
+          "category": "Greek",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-feat-barbora-samieian",
+          "evidenceType": "publisher_expanded_list"
         }
       ],
       "coordinates": null,
@@ -5466,6 +5511,20 @@
           "category": "Take an Out of Town Guest",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-james-heras",
+          "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-feat-dom-morra",
+          "category": "Take an Out of Town Guest",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-feat-dom-morra",
+          "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-95-feat-frank-morra",
+          "category": "Take An Out of Town Guest",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-95-feat-frank-morra",
           "evidenceType": "publisher_expanded_list"
         }
       ],
@@ -5736,6 +5795,13 @@
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-james-heras",
           "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-67-feat-josh-ochotorena",
+          "category": "Coffee",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-67-feat-josh-ochotorena",
+          "evidenceType": "publisher_expanded_list"
         }
       ],
       "coordinates": null,
@@ -5765,6 +5831,13 @@
           "category": "Coffee",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-rob-belcham",
+          "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-feat-william-liu",
+          "category": "Coffee",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-feat-william-liu",
           "evidenceType": "publisher_expanded_list"
         }
       ],
@@ -6117,6 +6190,13 @@
           "category": "Pizza",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-93-feat-hilary-nguy",
+          "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-feat-asacia-biln",
+          "category": "Pizza",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-feat-asacia-biln",
           "evidenceType": "publisher_expanded_list"
         }
       ],
@@ -6798,6 +6878,13 @@
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-joe-chaput",
           "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-feat-gino-di-domenico-2026",
+          "category": "Sandwich",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-feat-gino-di-domenico-2026",
+          "evidenceType": "publisher_expanded_list"
         }
       ],
       "coordinates": null,
@@ -7357,6 +7444,13 @@
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-67-feat-josh-ochotorena",
           "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-feat-richard-mah",
+          "category": "Pizza",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-feat-richard-mah",
+          "evidenceType": "publisher_expanded_list"
         }
       ],
       "coordinates": null,
@@ -7391,6 +7485,20 @@
           "category": "Brunch",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-dom-morra",
+          "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-feat-asacia-biln",
+          "category": "Breakfast",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-feat-asacia-biln",
+          "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-feat-asacia-biln",
+          "category": "Hastings Sunrise",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-feat-asacia-biln",
           "evidenceType": "publisher_expanded_list"
         }
       ],
@@ -7554,6 +7662,13 @@
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-71-feat-rachel-lee",
           "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-feat-sandra-bruzzese-xezlc",
+          "category": "Dying to Try",
+          "wishList": true,
+          "source": "https://chefsfav.com/blog/mates-on-crates-feat-sandra-bruzzese-xezlc",
+          "evidenceType": "publisher_expanded_list"
         }
       ],
       "coordinates": null,
@@ -7705,6 +7820,13 @@
           "category": "Take an Out of Town Guest",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-roger-collins",
+          "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-91-devon-trowler",
+          "category": "Mexican",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-91-devon-trowler",
           "evidenceType": "publisher_expanded_list"
         }
       ],
@@ -7876,6 +7998,20 @@
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-paul-clark",
           "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-feat-tushar-tondvalkar",
+          "category": "Coffee",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-feat-tushar-tondvalkar",
+          "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-feat-tushar-tondvalkar",
+          "category": "Hidden Gem",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-feat-tushar-tondvalkar",
+          "evidenceType": "publisher_expanded_list"
         }
       ],
       "coordinates": null,
@@ -8034,26 +8170,6 @@
       "comments": []
     },
     {
-      "id": "pepinos",
-      "name": "Pepino’s",
-      "website": "https://pepinos.ca/",
-      "mentions": [
-        {
-          "chefId": "mates-on-crates-feat-adam-mills",
-          "category": "Family Friendly",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-adam-mills",
-          "evidenceType": "publisher_expanded_list"
-        }
-      ],
-      "coordinates": null,
-      "city": "Commercial Drive · Vancouver",
-      "address": "",
-      "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location.",
-      "locationSource": "https://pepinos.ca/",
-      "comments": []
-    },
-    {
       "id": "clayoven",
       "name": "Clay Oven",
       "website": "https://www.clayovendelta.ca/",
@@ -8187,6 +8303,13 @@
           "category": "Coffee",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-tannis-ling",
+          "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-feat-andrew-kong",
+          "category": "Coffee",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-feat-andrew-kong",
           "evidenceType": "publisher_expanded_list"
         }
       ],
@@ -9912,32 +10035,6 @@
       ]
     },
     {
-      "id": "mogu",
-      "name": "Mogu",
-      "website": "https://www.eatmogu.com/",
-      "mentions": [
-        {
-          "chefId": "mates-on-crates-feat-eleanor-waterfall",
-          "category": "Fried Chicken",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-eleanor-waterfall",
-          "evidenceType": "publisher_expanded_list"
-        }
-      ],
-      "coordinates": [
-        -123.069294,
-        49.2754879
-      ],
-      "city": "Commercial Drive · Vancouver",
-      "address": "1012 Commercial Drive",
-      "locationSource": "https://www.openstreetmap.org/node/1247817627",
-      "locationStatus": "OpenStreetMap match; branch not specified by chef",
-      "matchedName": "Mogu Fried Chicken",
-      "coordinateSource": "https://www.openstreetmap.org/node/1247817627",
-      "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/",
-      "comments": []
-    },
-    {
       "id": "mortadella",
       "name": "Mortadella",
       "website": "https://www.boxcarvancouver.com/pizza-menu",
@@ -10347,26 +10444,6 @@
       "comments": []
     },
     {
-      "id": "propaganda",
-      "name": "Propaganda",
-      "website": "https://www.propagandacoffee.ca/",
-      "mentions": [
-        {
-          "chefId": "mates-on-crates-feat-andrew-kong",
-          "category": "Coffee",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-andrew-kong",
-          "evidenceType": "publisher_expanded_list"
-        }
-      ],
-      "coordinates": null,
-      "city": "Chinatown · Vancouver",
-      "address": "",
-      "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location.",
-      "locationSource": "https://www.vancouver-chinatown.com/directory/propaganda-coffee",
-      "comments": []
-    },
-    {
       "id": "pinkpearldimsum",
       "name": "Pink Pearl Dim Sum",
       "website": "https://pinkpearl.com/",
@@ -10391,27 +10468,6 @@
       "address": "",
       "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location.",
       "locationSource": "https://pinkpearl.com/",
-      "comments": []
-    },
-    {
-      "id": "chinatownchinatownbbqddmau",
-      "name": "Chinatown",
-      "website": "",
-      "mentions": [
-        {
-          "chefId": "mates-on-crates-feat-andrew-kong",
-          "category": "Food Neighbourhood",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-andrew-kong",
-          "evidenceType": "publisher_expanded_list",
-          "neighbourhoodContext": "Their neighbourhood pick: Chinatown (Chinatown BBQ, DD Mau)."
-        }
-      ],
-      "coordinates": null,
-      "city": "Chinatown · Vancouver",
-      "address": "",
-      "locationStatus": "Geographic destination named by publisher; not a single street address.",
-      "locationSource": "https://chefsfav.com/blog/mates-on-crates-feat-andrew-kong",
       "comments": []
     },
     {
@@ -10479,6 +10535,13 @@
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-andrew-kong",
           "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-feat-nathan-lowey",
+          "category": "Pizza",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-feat-nathan-lowey",
+          "evidenceType": "publisher_expanded_list"
         }
       ],
       "coordinates": null,
@@ -10486,26 +10549,6 @@
       "address": "",
       "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location.",
       "locationSource": "https://dontarguepizza.com/",
-      "comments": []
-    },
-    {
-      "id": "tetsusushiba",
-      "name": "Tetsu Sushi Ba",
-      "website": "https://www.tetsusushibar.com/",
-      "mentions": [
-        {
-          "chefId": "mates-on-crates-feat-andrew-kong",
-          "category": "Sushi",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-andrew-kong",
-          "evidenceType": "publisher_expanded_list"
-        }
-      ],
-      "coordinates": null,
-      "city": "West End · Vancouver",
-      "address": "",
-      "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location.",
-      "locationSource": "https://www.tetsusushibar.com/",
       "comments": []
     },
     {
@@ -11120,26 +11163,6 @@
       "comments": []
     },
     {
-      "id": "theredwagon",
-      "name": "The Red Wagon",
-      "website": "https://redwagoncafe.ca/",
-      "mentions": [
-        {
-          "chefId": "mates-on-crates-feat-asacia-biln",
-          "category": "Breakfast",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-asacia-biln",
-          "evidenceType": "publisher_expanded_list"
-        }
-      ],
-      "coordinates": null,
-      "city": "Hastings-Sunrise · Vancouver",
-      "address": "",
-      "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location.",
-      "locationSource": "https://redwagoncafe.ca/",
-      "comments": []
-    },
-    {
       "id": "barcorso",
       "name": "Bar Corso",
       "website": "https://www.barcorso.ca/",
@@ -11233,6 +11256,20 @@
           "wishList": true,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-asacia-biln",
           "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-feat-etienne-buddingh",
+          "category": "Dying to Try",
+          "wishList": true,
+          "source": "https://chefsfav.com/blog/mates-on-crates-feat-etienne-buddingh",
+          "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-feat-kevin-day-and-chris-enns",
+          "category": "Dying to Try",
+          "wishList": true,
+          "source": "https://chefsfav.com/blog/mates-on-crates-feat-kevin-day-and-chris-enns",
+          "evidenceType": "publisher_expanded_list"
         }
       ],
       "coordinates": null,
@@ -11312,26 +11349,6 @@
       "comments": []
     },
     {
-      "id": "redwagon",
-      "name": "Red Wagon",
-      "website": "http://www.redwagoncafe.ca/",
-      "mentions": [
-        {
-          "chefId": "mates-on-crates-feat-asacia-biln",
-          "category": "Hastings Sunrise",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-asacia-biln",
-          "evidenceType": "publisher_expanded_list"
-        }
-      ],
-      "coordinates": null,
-      "city": "Hastings-Sunrise · Vancouver",
-      "address": "",
-      "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location.",
-      "locationSource": "http://www.redwagoncafe.ca/",
-      "comments": []
-    },
-    {
       "id": "pantitlanspeakeasy",
       "name": "Pantitlan Speakeasy",
       "website": "https://www.pantitlan.ca/",
@@ -11368,6 +11385,13 @@
           "category": "Fried Chicken",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-dom-morra",
+          "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-feat-eleanor-waterfall",
+          "category": "Fried Chicken",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-feat-eleanor-waterfall",
           "evidenceType": "publisher_expanded_list"
         }
       ],
@@ -11459,27 +11483,6 @@
       "comments": []
     },
     {
-      "id": "viateverepizzerianapoletana",
-      "name": "Via Tevere Pizzeria Napoletana",
-      "website": "https://www.viateverepizzeria.com/",
-      "mentions": [
-        {
-          "chefId": "mates-on-crates-feat-asacia-biln",
-          "category": "Pizza",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-asacia-biln",
-          "evidenceType": "publisher_expanded_list"
-        }
-      ],
-      "coordinates": null,
-      "city": "Multiple locations · Vancouver",
-      "address": "",
-      "locationStatus": "Venue website lists multiple locations; episode does not identify a branch. BC cities shown, not an exhaustive branch directory.",
-      "branchUnspecified": true,
-      "locationSource": "https://www.viateverepizzeria.com/",
-      "comments": []
-    },
-    {
       "id": "kishimotojapaneserestaurant",
       "name": "Kishimoto Japanese Restaurant",
       "website": "https://www.kishimotorestaurant.com/",
@@ -11537,26 +11540,6 @@
       "address": "926 Main Street",
       "locationStatus": "DownLow Burgers at The American, not the similarly named chicken venue on Commercial Drive.",
       "locationSource": "https://dailyhive.com/vancouver/downlow-burgers-open",
-      "comments": []
-    },
-    {
-      "id": "amabar",
-      "name": "AMA Bar",
-      "website": "https://amarawbar.ca/",
-      "mentions": [
-        {
-          "chefId": "mates-on-crates-feat-kyle-mcintosh",
-          "category": "Cocktail Bar",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-kyle-mcintosh",
-          "evidenceType": "publisher_expanded_list"
-        }
-      ],
-      "coordinates": null,
-      "city": "Riley Park · Vancouver",
-      "address": "",
-      "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location.",
-      "locationSource": "https://amarawbar.ca/",
       "comments": []
     },
     {
@@ -11842,29 +11825,6 @@
       "comments": []
     },
     {
-      "id": "thegreekbyanatoli",
-      "name": "The Greek by Anatoli",
-      "website": "https://www.thegreekbyanatoli.com/",
-      "mentions": [
-        {
-          "chefId": "mates-on-crates-feat-barbora-samieian",
-          "category": "Greek",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-barbora-samieian",
-          "evidenceType": "publisher_expanded_list"
-        }
-      ],
-      "coordinates": null,
-      "city": "Multiple locations · Vancouver / North Vancouver",
-      "address": "",
-      "locationSource": "https://www.thegreekbyanatoli.com/",
-      "locationStatus": "Venue website lists multiple locations; episode does not identify a branch. BC cities shown, not an exhaustive branch directory.",
-      "matchedName": "The Greek by Anatoli",
-      "coordinateSource": "https://www.openstreetmap.org/node/652955244",
-      "branchUnspecified": true,
-      "comments": []
-    },
-    {
       "id": "danielchocolates",
       "name": "Daniel Chocolates",
       "website": "https://danielchocolates.com/",
@@ -12106,6 +12066,20 @@
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-greg-dion",
           "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-91-devon-trowler",
+          "category": "Brewery",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-91-devon-trowler",
+          "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-67-feat-josh-ochotorena",
+          "category": "Brewery",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-67-feat-josh-ochotorena",
+          "evidenceType": "publisher_expanded_list"
         }
       ],
       "coordinates": null,
@@ -12284,6 +12258,13 @@
           "category": "Pizza",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-marquella-uhrig",
+          "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-feat-eugenio-masi",
+          "category": "Dying to Try",
+          "wishList": true,
+          "source": "https://chefsfav.com/blog/mates-on-crates-feat-eugenio-masi",
           "evidenceType": "publisher_expanded_list"
         }
       ],
@@ -12567,27 +12548,6 @@
       "comments": []
     },
     {
-      "id": "straightouttabrooklyn",
-      "name": "Straight Outta Brooklyn",
-      "website": "https://www.straightbkpizza.com/",
-      "mentions": [
-        {
-          "chefId": "mates-on-crates-feat-richard-mah",
-          "category": "Pizza",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-richard-mah",
-          "evidenceType": "publisher_expanded_list"
-        }
-      ],
-      "coordinates": null,
-      "city": "Multiple locations · Vancouver / Port Moody",
-      "address": "",
-      "locationStatus": "Multiple locations verified from venue website; recommended branch unspecified.",
-      "locationSource": "https://www.straightbkpizza.com/",
-      "branchUnspecified": true,
-      "comments": []
-    },
-    {
       "id": "fannybayoysterbar",
       "name": "Fanny Bay Oyster Bar",
       "website": "https://www.fannybayoysters.com/location/oyster-bar--shellfish-market",
@@ -12638,6 +12598,13 @@
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-joe-chaput",
           "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-93-feat-hilary-nguy",
+          "category": "Brunch",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-93-feat-hilary-nguy",
+          "evidenceType": "publisher_expanded_list"
         }
       ],
       "coordinates": null,
@@ -12645,7 +12612,17 @@
       "address": "",
       "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location.",
       "locationSource": "https://www.tableaubarbistro.com/",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-93-feat-hilary-nguy",
+          "placeId": "tableaubarbistro",
+          "comment": "He singles out the omelettes and mushroom toast for brunch.",
+          "startSeconds": 97,
+          "source": "https://www.instagram.com/p/DGJxm01SaXb/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "starbucks",
@@ -13058,26 +13035,6 @@
       ]
     },
     {
-      "id": "dontarguepizzeria",
-      "name": "Don’t Argue Pizzeria",
-      "website": "https://dontarguepizza.com/",
-      "mentions": [
-        {
-          "chefId": "mates-on-crates-feat-nathan-lowey",
-          "category": "Pizza",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-nathan-lowey",
-          "evidenceType": "publisher_expanded_list"
-        }
-      ],
-      "coordinates": null,
-      "city": "Commercial Drive · Vancouver",
-      "address": "",
-      "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location.",
-      "locationSource": "https://dontarguepizza.com/",
-      "comments": []
-    },
-    {
       "id": "saltspringislandcheesecompany",
       "name": "Salt Spring Island Cheese Company",
       "website": "https://saltspringcheese.ca/",
@@ -13111,26 +13068,6 @@
           "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
         }
       ]
-    },
-    {
-      "id": "ilcappelloenoteca",
-      "name": "Il Cappello Enoteca",
-      "website": "https://www.ilcappello.ca/",
-      "mentions": [
-        {
-          "chefId": "mates-on-crates-feat-eugenio-masi",
-          "category": "Dying to Try",
-          "wishList": true,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-eugenio-masi",
-          "evidenceType": "publisher_expanded_list"
-        }
-      ],
-      "coordinates": null,
-      "city": "Capitol Hill · Burnaby",
-      "address": "",
-      "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location.",
-      "locationSource": "https://www.ilcappello.ca/",
-      "comments": []
     },
     {
       "id": "baciristorante",
@@ -13365,7 +13302,7 @@
     },
     {
       "id": "perse",
-      "name": "Per Se",
+      "name": "Per Se Social Corner",
       "website": "https://persesocialcorner.com",
       "mentions": [
         {
@@ -13381,26 +13318,6 @@
       "address": "",
       "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location.",
       "locationSource": "https://guide.michelin.com/ca/en/british-columbia/ca-vancouver/restaurant/per-se-social-corner",
-      "comments": []
-    },
-    {
-      "id": "socialcorner",
-      "name": "Social Corner",
-      "website": "https://persesocialcorner.com",
-      "mentions": [
-        {
-          "chefId": "mates-on-crates-feat-owen-coomer",
-          "category": "Dying to Try",
-          "wishList": true,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-owen-coomer",
-          "evidenceType": "publisher_expanded_list"
-        }
-      ],
-      "coordinates": null,
-      "city": "Yaletown · Vancouver",
-      "address": "",
-      "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location.",
-      "locationSource": "https://www.tripadvisor.com/Restaurant_Review-g154943-d9838673-Reviews-or15-Social_Corner-Vancouver_British_Columbia.html",
       "comments": []
     },
     {
@@ -13655,6 +13572,13 @@
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-reuben-major",
           "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-feat-kyle-mcintosh",
+          "category": "Cocktail Bar",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-feat-kyle-mcintosh",
+          "evidenceType": "publisher_expanded_list"
         }
       ],
       "coordinates": null,
@@ -13759,6 +13683,13 @@
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-mike-jacobsen",
           "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-feat-haidee-hart",
+          "category": "Take an Out of Town Guest",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-feat-haidee-hart",
+          "evidenceType": "publisher_expanded_list"
         }
       ],
       "coordinates": null,
@@ -13766,7 +13697,17 @@
       "address": "",
       "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location.",
       "locationSource": "https://saltspringkitchen.com/",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-haidee-hart",
+          "placeId": "saltspringkitchenco",
+          "comment": "She praises Melanie’s preserves and the business’s journey from a home kitchen and market stall.",
+          "startSeconds": 78,
+          "source": "https://www.instagram.com/reel/DXITa3-BSWL/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        }
+      ]
     },
     {
       "id": "kutatas",
@@ -13779,6 +13720,27 @@
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-mike-jacobsen",
           "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-feat-mike-jacobsen",
+          "category": "Salt Spring Island",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-feat-mike-jacobsen",
+          "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-feat-mike-jacobsen",
+          "category": "Take an Out of Town Guest",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-feat-mike-jacobsen",
+          "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-feat-haidee-hart",
+          "category": "Winery",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-feat-haidee-hart",
+          "evidenceType": "publisher_expanded_list"
         }
       ],
       "coordinates": [
@@ -13789,27 +13751,17 @@
       "address": "164 Norton Road",
       "locationStatus": "OpenStreetMap match; branch not specified by chef",
       "locationSource": "https://www.openstreetmap.org/node/13066491628",
-      "comments": []
-    },
-    {
-      "id": "thewoodshed",
-      "name": "The Woodshed",
-      "website": "https://woodshedprovisions.com/",
-      "mentions": [
+      "comments": [
         {
-          "chefId": "mates-on-crates-feat-mike-jacobsen",
-          "category": "Salt Spring Island",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-mike-jacobsen",
-          "evidenceType": "publisher_expanded_list"
+          "chefId": "mates-on-crates-feat-haidee-hart",
+          "placeId": "kutatas",
+          "comment": "She praises the local winery’s work and recommends supporting island producers.",
+          "startSeconds": 124,
+          "source": "https://www.instagram.com/reel/DXITa3-BSWL/",
+          "type": "summary",
+          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
         }
-      ],
-      "coordinates": null,
-      "city": "Ganges · Salt Spring Island",
-      "address": "",
-      "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location.",
-      "locationSource": "https://woodshedprovisions.com/",
-      "comments": []
+      ]
     },
     {
       "id": "countrygrocer",
@@ -13843,6 +13795,13 @@
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-mike-jacobsen",
           "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-feat-maxime-bergeron",
+          "category": "Take an Out of Town Guest",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-feat-maxime-bergeron",
+          "evidenceType": "publisher_expanded_list"
         }
       ],
       "coordinates": [
@@ -13855,38 +13814,6 @@
       "locationStatus": "Location verified from official website on 2026-11-17",
       "matchedName": "Salt Spring Saturday Market",
       "coordinateSource": "https://www.openstreetmap.org/way/666736191",
-      "comments": []
-    },
-    {
-      "id": "kutataswines",
-      "name": "Kutatás Wines",
-      "website": "https://kutataswines.com/",
-      "mentions": [
-        {
-          "chefId": "mates-on-crates-feat-mike-jacobsen",
-          "category": "Salt Spring Island",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-mike-jacobsen",
-          "evidenceType": "publisher_expanded_list"
-        },
-        {
-          "chefId": "mates-on-crates-feat-mike-jacobsen",
-          "category": "Take an Out of Town Guest",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-mike-jacobsen",
-          "evidenceType": "publisher_expanded_list"
-        }
-      ],
-      "coordinates": [
-        -123.5141675,
-        48.8648196
-      ],
-      "city": "Salt Spring Island",
-      "address": "164 Norton Road",
-      "locationSource": "https://www.openstreetmap.org/node/13066491628",
-      "locationStatus": "OpenStreetMap match; branch not specified by chef",
-      "matchedName": "Kutatás Wines",
-      "coordinateSource": "https://www.openstreetmap.org/node/13066491628",
       "comments": []
     },
     {
@@ -14507,27 +14434,6 @@
       "comments": []
     },
     {
-      "id": "dante",
-      "name": "Dante",
-      "website": "https://www.dantesandwich.com/",
-      "mentions": [
-        {
-          "chefId": "mates-on-crates-feat-gino-di-domenico-2026",
-          "category": "Sandwich",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-gino-di-domenico-2026",
-          "evidenceType": "publisher_expanded_list"
-        }
-      ],
-      "coordinates": null,
-      "city": "Multiple locations · Vancouver",
-      "address": "",
-      "locationStatus": "Multiple locations verified from venue website; recommended branch unspecified.",
-      "locationSource": "https://www.dantesandwich.com/",
-      "branchUnspecified": true,
-      "comments": []
-    },
-    {
       "id": "cactusclubcoalharbour",
       "name": "Cactus Club (Coal Harbour)",
       "website": "https://www.cactusclubcafe.com",
@@ -14648,51 +14554,6 @@
       "comments": []
     },
     {
-      "id": "ajsbrooklynpizzajoint",
-      "name": "AJ’s Brooklyn Pizza Joint",
-      "website": "https://www.ajsbrooklynpizzajoint.com/",
-      "mentions": [
-        {
-          "chefId": "mates-on-crates-feat-ron-macgillivray",
-          "category": "Pizza",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-ron-macgillivray",
-          "evidenceType": "publisher_expanded_list"
-        },
-        {
-          "chefId": "mates-on-crates-feat-natapon-poonpoem",
-          "category": "Pizza",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-natapon-poonpoem",
-          "evidenceType": "publisher_expanded_list"
-        },
-        {
-          "chefId": "mates-on-crates-feat-tyson-reimer",
-          "category": "Pizza",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-tyson-reimer",
-          "evidenceType": "publisher_expanded_list"
-        },
-        {
-          "chefId": "mates-on-crates-feat-sam-payne",
-          "category": "Pizza (Vancouver)",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-sam-payne",
-          "evidenceType": "publisher_expanded_list"
-        }
-      ],
-      "coordinates": [
-        -123.0983787,
-        49.2629998
-      ],
-      "city": "Mount Pleasant · Vancouver",
-      "address": "325 East Broadway",
-      "locationStatus": "OpenStreetMap match; branch not specified by chef",
-      "locationSource": "https://www.openstreetmap.org/node/10741979195",
-      "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/",
-      "comments": []
-    },
-    {
       "id": "sushinanaimo",
       "name": "Sushi Nanaimo",
       "website": "https://sushi-nanaimo.com/",
@@ -14748,62 +14609,6 @@
       "comments": []
     },
     {
-      "id": "cassette",
-      "name": "Cassette",
-      "website": "http://www.cassettecafebar.com/",
-      "mentions": [
-        {
-          "chefId": "mates-on-crates-feat-haidee-hart",
-          "category": "Brunch",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-haidee-hart",
-          "evidenceType": "publisher_expanded_list"
-        },
-        {
-          "chefId": "mates-on-crates-feat-haidee-hart",
-          "category": "Coffee",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-haidee-hart",
-          "evidenceType": "publisher_expanded_list"
-        },
-        {
-          "chefId": "mates-on-crates-feat-haidee-hart",
-          "category": "Patio",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-haidee-hart",
-          "evidenceType": "publisher_expanded_list"
-        },
-        {
-          "chefId": "mates-on-crates-feat-haidee-hart",
-          "category": "Take an Out of Town Guest",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-haidee-hart",
-          "evidenceType": "publisher_expanded_list"
-        }
-      ],
-      "coordinates": [
-        -123.499807,
-        48.8526003
-      ],
-      "city": "Salt Spring Island",
-      "address": "106 Lower Ganges Road",
-      "locationSource": "https://www.openstreetmap.org/node/6242489151",
-      "locationStatus": "OpenStreetMap match; branch not specified by chef",
-      "matchedName": "Cassette Cafe and Dive Bar",
-      "coordinateSource": "https://www.openstreetmap.org/node/6242489151",
-      "comments": [
-        {
-          "chefId": "mates-on-crates-feat-haidee-hart",
-          "placeId": "cassette",
-          "comment": "Her brunch pick; she says the team is doing fantastic work.",
-          "startSeconds": 132,
-          "source": "https://www.instagram.com/reel/DXITa3-BSWL/",
-          "type": "summary",
-          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
-        }
-      ]
-    },
-    {
       "id": "cafeflora",
       "name": "Café Flora",
       "website": "https://cafeflorassi.com/",
@@ -14823,69 +14628,6 @@
       "locationSource": "https://www.cafeflorassi.com/about-1",
       "branchUnspecified": false,
       "comments": []
-    },
-    {
-      "id": "saltspringkitchen",
-      "name": "Salt Spring Kitchen",
-      "website": "https://www.saltspringkitchen.com/",
-      "mentions": [
-        {
-          "chefId": "mates-on-crates-feat-haidee-hart",
-          "category": "Take an Out of Town Guest",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-haidee-hart",
-          "evidenceType": "publisher_expanded_list"
-        }
-      ],
-      "coordinates": null,
-      "city": "Ganges · Salt Spring Island",
-      "address": "",
-      "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location.",
-      "locationSource": "https://saltspringkitchen.com/",
-      "comments": [
-        {
-          "chefId": "mates-on-crates-feat-haidee-hart",
-          "placeId": "saltspringkitchen",
-          "comment": "She praises Melanie’s preserves and the business’s journey from a home kitchen and market stall.",
-          "startSeconds": 78,
-          "source": "https://www.instagram.com/reel/DXITa3-BSWL/",
-          "type": "summary",
-          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
-        }
-      ]
-    },
-    {
-      "id": "kutataswinery",
-      "name": "Kutatás Winery",
-      "website": "http://www.kutataswines.com/",
-      "mentions": [
-        {
-          "chefId": "mates-on-crates-feat-haidee-hart",
-          "category": "Winery",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-haidee-hart",
-          "evidenceType": "publisher_expanded_list"
-        }
-      ],
-      "coordinates": [
-        -123.5141675,
-        48.8648196
-      ],
-      "city": "Salt Spring Island",
-      "address": "164 Norton Road",
-      "locationStatus": "OpenStreetMap match; branch not specified by chef",
-      "locationSource": "https://www.openstreetmap.org/node/13066491628",
-      "comments": [
-        {
-          "chefId": "mates-on-crates-feat-haidee-hart",
-          "placeId": "kutataswinery",
-          "comment": "She praises the local winery’s work and recommends supporting island producers.",
-          "startSeconds": 124,
-          "source": "https://www.instagram.com/reel/DXITa3-BSWL/",
-          "type": "summary",
-          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
-        }
-      ]
     },
     {
       "id": "yellowdogbrewing",
@@ -15003,26 +14745,6 @@
       "address": "",
       "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location.",
       "locationSource": "https://www.tripadvisor.in/Restaurant_Review-g181718-d12874653-Reviews-OZ_Korean_Cuisine-Coquitlam_British_Columbia.html",
-      "comments": []
-    },
-    {
-      "id": "thegullbarandkitchen",
-      "name": "The Gull Bar and Kitchen",
-      "website": "https://www.thegull.ca/",
-      "mentions": [
-        {
-          "chefId": "mates-on-crates-feat-andrew-doyle",
-          "category": "Hidden Gem",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-andrew-doyle",
-          "evidenceType": "publisher_expanded_list"
-        }
-      ],
-      "coordinates": null,
-      "city": "Lower Lonsdale · North Vancouver",
-      "address": "",
-      "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location.",
-      "locationSource": "https://www.thegull.ca/",
       "comments": []
     },
     {
@@ -15408,28 +15130,8 @@
       "comments": []
     },
     {
-      "id": "medina",
-      "name": "Medina",
-      "website": "https://www.medinacafe.com",
-      "mentions": [
-        {
-          "chefId": "mates-on-crates-feat-sandra-bruzzese-xezlc",
-          "category": "Brunch",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-sandra-bruzzese-xezlc",
-          "evidenceType": "publisher_expanded_list"
-        }
-      ],
-      "coordinates": null,
-      "city": "Downtown · Vancouver",
-      "address": "",
-      "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location.",
-      "locationSource": "https://www.medinacafe.com",
-      "comments": []
-    },
-    {
       "id": "foglift",
-      "name": "Foglift",
+      "name": "Foglifter Coffee Roasters",
       "website": "https://www.fogliftercoffee.com/",
       "mentions": [
         {
@@ -15445,86 +15147,6 @@
       "address": "",
       "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location.",
       "locationSource": "https://www.tripadvisor.com/Restaurant_Review-g154943-d27236706-Reviews-Foglifter_Coffee_Flagship-Vancouver_British_Columbia.html",
-      "comments": []
-    },
-    {
-      "id": "ercof",
-      "name": "er Cof",
-      "website": "https://www.fogliftercoffee.com/",
-      "mentions": [
-        {
-          "chefId": "mates-on-crates-feat-sandra-bruzzese-xezlc",
-          "category": "Coffee",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-sandra-bruzzese-xezlc",
-          "evidenceType": "publisher_expanded_list"
-        }
-      ],
-      "coordinates": null,
-      "city": "Riley Park · Vancouver",
-      "address": "",
-      "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location.",
-      "locationSource": "https://www.tripadvisor.com/Restaurant_Review-g154943-d27236706-Reviews-Foglifter_Coffee_Flagship-Vancouver_British_Columbia.html",
-      "comments": []
-    },
-    {
-      "id": "feeroasters",
-      "name": "fee Roasters",
-      "website": "https://www.fogliftercoffee.com/",
-      "mentions": [
-        {
-          "chefId": "mates-on-crates-feat-sandra-bruzzese-xezlc",
-          "category": "Coffee",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-sandra-bruzzese-xezlc",
-          "evidenceType": "publisher_expanded_list"
-        }
-      ],
-      "coordinates": null,
-      "city": "Riley Park · Vancouver",
-      "address": "",
-      "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location.",
-      "locationSource": "https://www.tripadvisor.com/Restaurant_Review-g154943-d27236706-Reviews-Foglifter_Coffee_Flagship-Vancouver_British_Columbia.html",
-      "comments": []
-    },
-    {
-      "id": "c",
-      "name": "C",
-      "website": "https://www.comotaperia.com/",
-      "mentions": [
-        {
-          "chefId": "mates-on-crates-feat-sandra-bruzzese-xezlc",
-          "category": "Dying to Try",
-          "wishList": true,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-sandra-bruzzese-xezlc",
-          "evidenceType": "publisher_expanded_list"
-        }
-      ],
-      "coordinates": null,
-      "city": "Mount Pleasant · Vancouver",
-      "address": "",
-      "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location.",
-      "locationSource": "https://www.comotaperia.com/",
-      "comments": []
-    },
-    {
-      "id": "omotaperia",
-      "name": "omo Taperia",
-      "website": "https://www.comotaperia.com/",
-      "mentions": [
-        {
-          "chefId": "mates-on-crates-feat-sandra-bruzzese-xezlc",
-          "category": "Dying to Try",
-          "wishList": true,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-sandra-bruzzese-xezlc",
-          "evidenceType": "publisher_expanded_list"
-        }
-      ],
-      "coordinates": null,
-      "city": "Mount Pleasant · Vancouver",
-      "address": "",
-      "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location.",
-      "locationSource": "https://www.comotaperia.com/",
       "comments": []
     },
     {
@@ -15639,6 +15261,13 @@
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-sandra-bruzzese-xezlc",
           "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-feat-mike-jacobsen",
+          "category": "Salt Spring Island",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-feat-mike-jacobsen",
+          "evidenceType": "publisher_expanded_list"
         }
       ],
       "coordinates": null,
@@ -15650,27 +15279,7 @@
     },
     {
       "id": "theflam",
-      "name": "The Flam",
-      "website": "https://www.flamingoroomvan.com/",
-      "mentions": [
-        {
-          "chefId": "mates-on-crates-feat-sandra-bruzzese",
-          "category": "Cocktail Bar",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-sandra-bruzzese",
-          "evidenceType": "publisher_expanded_list"
-        }
-      ],
-      "coordinates": null,
-      "city": "Commercial Drive · Vancouver",
-      "address": "",
-      "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location.",
-      "locationSource": "https://www.flamingoroomvan.com/",
-      "comments": []
-    },
-    {
-      "id": "ingoroom",
-      "name": "ingo Room",
+      "name": "The Flamingo Room",
       "website": "https://www.flamingoroomvan.com/",
       "mentions": [
         {
@@ -15710,27 +15319,7 @@
     },
     {
       "id": "thered",
-      "name": "The Red",
-      "website": "https://www.theredaccordion.com/",
-      "mentions": [
-        {
-          "chefId": "mates-on-crates-feat-sandra-bruzzese",
-          "category": "Hidden Gem",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-sandra-bruzzese",
-          "evidenceType": "publisher_expanded_list"
-        }
-      ],
-      "coordinates": null,
-      "city": "West End · Vancouver",
-      "address": "",
-      "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location.",
-      "locationSource": "https://www.theredaccordion.com/",
-      "comments": []
-    },
-    {
-      "id": "accordion",
-      "name": "Accordion",
+      "name": "The Red Accordion",
       "website": "https://www.theredaccordion.com/",
       "mentions": [
         {
@@ -15797,46 +15386,6 @@
       "comments": []
     },
     {
-      "id": "the",
-      "name": "The",
-      "website": "https://thekingsheadkits.com/",
-      "mentions": [
-        {
-          "chefId": "mates-on-crates-feat-sandra-bruzzese",
-          "category": "Pub",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-sandra-bruzzese",
-          "evidenceType": "publisher_expanded_list"
-        }
-      ],
-      "coordinates": null,
-      "city": "Kitsilano · Vancouver",
-      "address": "",
-      "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location.",
-      "locationSource": "https://thekingsheadkits.com/",
-      "comments": []
-    },
-    {
-      "id": "kingsheadpublichouse",
-      "name": "King’s Head Public House",
-      "website": "https://thekingsheadkits.com/",
-      "mentions": [
-        {
-          "chefId": "mates-on-crates-feat-sandra-bruzzese",
-          "category": "Pub",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-sandra-bruzzese",
-          "evidenceType": "publisher_expanded_list"
-        }
-      ],
-      "coordinates": null,
-      "city": "Kitsilano · Vancouver",
-      "address": "",
-      "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location.",
-      "locationSource": "https://thekingsheadkits.com/",
-      "comments": []
-    },
-    {
       "id": "thekingsheadpublichouse",
       "name": "The King’s Head Public House",
       "website": "https://thekingsheadkits.com/",
@@ -15844,6 +15393,13 @@
         {
           "chefId": "mates-on-crates-feat-sandra-bruzzese",
           "category": "Take an Out of Town Guest",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-feat-sandra-bruzzese",
+          "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-feat-sandra-bruzzese",
+          "category": "Pub",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-sandra-bruzzese",
           "evidenceType": "publisher_expanded_list"
@@ -15894,33 +15450,6 @@
       "address": "",
       "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location.",
       "locationSource": "https://kelowna.com/business/angel-share-restaurant/",
-      "comments": []
-    },
-    {
-      "id": "federalstore",
-      "name": "Federal Store",
-      "website": "https://federalstore.ca/",
-      "mentions": [
-        {
-          "chefId": "mates-on-crates-feat-tushar-tondvalkar",
-          "category": "Coffee",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-tushar-tondvalkar",
-          "evidenceType": "publisher_expanded_list"
-        },
-        {
-          "chefId": "mates-on-crates-feat-tushar-tondvalkar",
-          "category": "Hidden Gem",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-tushar-tondvalkar",
-          "evidenceType": "publisher_expanded_list"
-        }
-      ],
-      "coordinates": null,
-      "city": "Mount Pleasant · Vancouver",
-      "address": "",
-      "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location.",
-      "locationSource": "https://www.tripadvisor.ca/Restaurant_Review-g154943-d12374624-Reviews-The_Federal_Store-Vancouver_British_Columbia.html",
       "comments": []
     },
     {
@@ -16076,6 +15605,13 @@
           "category": "Sushi",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-93-feat-hilary-nguy",
+          "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-feat-andrew-kong",
+          "category": "Sushi",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-feat-andrew-kong",
           "evidenceType": "publisher_expanded_list"
         }
       ],
@@ -16347,28 +15883,7 @@
     },
     {
       "id": "hadacoffe",
-      "name": "HADA Coffe",
-      "website": "https://www.instagram.com/hadacoffee.ca/",
-      "mentions": [
-        {
-          "chefId": "mates-on-crates-feat-harman-basutta",
-          "category": "Coffee",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-harman-basutta",
-          "evidenceType": "publisher_expanded_list"
-        }
-      ],
-      "coordinates": null,
-      "city": "South Surrey · Surrey",
-      "address": "",
-      "locationStatus": "Location corroborated by linked source on 2026-11-17; pop-ups and mobile venues may vary.",
-      "locationSource": "https://dailyhive.com/vancouver/best-things-we-ate-vancouver-april-2026",
-      "branchUnspecified": false,
-      "comments": []
-    },
-    {
-      "id": "e",
-      "name": "e",
+      "name": "HADA Coffee",
       "website": "https://www.instagram.com/hadacoffee.ca/",
       "mentions": [
         {
@@ -16410,34 +15925,7 @@
     },
     {
       "id": "tapr",
-      "name": "Tap R",
-      "website": "https://www.taprestaurant.ca/",
-      "mentions": [
-        {
-          "chefId": "mates-on-crates-feat-harman-basutta",
-          "category": "Hidden Gem",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-harman-basutta",
-          "evidenceType": "publisher_expanded_list"
-        },
-        {
-          "chefId": "mates-on-crates-feat-harman-basutta",
-          "category": "White Rock",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-harman-basutta",
-          "evidenceType": "publisher_expanded_list"
-        }
-      ],
-      "coordinates": null,
-      "city": "South Surrey · Surrey",
-      "address": "",
-      "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location.",
-      "locationSource": "https://www.taprestaurant.ca/",
-      "comments": []
-    },
-    {
-      "id": "estaurant",
-      "name": "estaurant",
+      "name": "Tap Restaurant",
       "website": "https://www.taprestaurant.ca/",
       "mentions": [
         {
@@ -16553,6 +16041,13 @@
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-harman-basutta",
           "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-feat-tannis-ling",
+          "category": "Last Meal That Blew Them Away",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-feat-tannis-ling",
+          "evidenceType": "publisher_expanded_list"
         }
       ],
       "coordinates": null,
@@ -16600,33 +16095,6 @@
       "address": "",
       "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location.",
       "locationSource": "https://www.passionegelato.ca/contact",
-      "comments": []
-    },
-    {
-      "id": "elisa",
-      "name": "Elisa",
-      "website": "https://elisasteak.com/",
-      "mentions": [
-        {
-          "chefId": "mates-on-crates-feat-dom-morra",
-          "category": "Take an Out of Town Guest",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-dom-morra",
-          "evidenceType": "publisher_expanded_list"
-        },
-        {
-          "chefId": "mates-on-crates-95-feat-frank-morra",
-          "category": "Take An Out of Town Guest",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-95-feat-frank-morra",
-          "evidenceType": "publisher_expanded_list"
-        }
-      ],
-      "coordinates": null,
-      "city": "Yaletown · Vancouver",
-      "address": "",
-      "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location.",
-      "locationSource": "https://elisasteak.com/",
       "comments": []
     },
     {
@@ -16897,6 +16365,14 @@
           "source": "https://chefsfav.com/blog/mates-on-crates-feat-erin-heather",
           "evidenceType": "publisher_expanded_list",
           "neighbourhoodContext": "Named as a favourite food neighbourhood. More detail on why they chose it is not yet available in this guide."
+        },
+        {
+          "chefId": "mates-on-crates-feat-andrew-kong",
+          "category": "Food Neighbourhood",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-feat-andrew-kong",
+          "evidenceType": "publisher_expanded_list",
+          "neighbourhoodContext": "Their neighbourhood pick: Chinatown (Chinatown BBQ, DD Mau)."
         }
       ],
       "coordinates": null,
@@ -17154,56 +16630,6 @@
       ]
     },
     {
-      "id": "happyfamily",
-      "name": "Happy Family",
-      "website": "https://www.happyfamilyeats.com/",
-      "mentions": [
-        {
-          "chefId": "mates-on-crates-feat-tannis-ling",
-          "category": "Chinese",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-tannis-ling",
-          "evidenceType": "publisher_expanded_list"
-        },
-        {
-          "chefId": "mates-on-crates-feat-tannis-ling",
-          "category": "Hidden Gem",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-tannis-ling",
-          "evidenceType": "publisher_expanded_list"
-        },
-        {
-          "chefId": "mates-on-crates-feat-tannis-ling",
-          "category": "Take an Out of Town Guest",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-tannis-ling",
-          "evidenceType": "publisher_expanded_list"
-        }
-      ],
-      "coordinates": [
-        -123.062358,
-        49.2435959
-      ],
-      "city": "Kensington-Cedar Cottage · Vancouver",
-      "address": "2178 Kingsway",
-      "locationSource": "https://www.openstreetmap.org/node/1937561314",
-      "locationStatus": "OpenStreetMap match; branch not specified by chef",
-      "matchedName": "Happy Family Restaurant",
-      "coordinateSource": "https://www.openstreetmap.org/node/1937561314",
-      "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/",
-      "comments": [
-        {
-          "chefId": "mates-on-crates-feat-tannis-ling",
-          "placeId": "happyfamily",
-          "comment": "She recommends pre-ordering the whole fried chicken over sticky rice, describing both the chicken and the bottom layer of rice as crisp.",
-          "startSeconds": 106,
-          "source": "https://www.instagram.com/reel/DU9XZugCXgq/",
-          "type": "summary",
-          "reviewMethod": "Full spoken transcript read; named venues cross-checked against official expanded list."
-        }
-      ]
-    },
-    {
       "id": "fishwithyou",
       "name": "Fish With You",
       "website": "https://www.fishwithyoubc.com/",
@@ -17280,32 +16706,6 @@
       "matchedName": "Chicko Chicken",
       "coordinateSource": "https://www.openstreetmap.org/node/9164400185",
       "branchUnspecified": true,
-      "comments": []
-    },
-    {
-      "id": "theacorn",
-      "name": "The Acorn",
-      "website": "https://www.theacornrestaurant.ca/",
-      "mentions": [
-        {
-          "chefId": "mates-on-crates-feat-tannis-ling",
-          "category": "Last Meal That Blew Them Away",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-feat-tannis-ling",
-          "evidenceType": "publisher_expanded_list"
-        }
-      ],
-      "coordinates": [
-        -123.1012544,
-        49.2495976
-      ],
-      "city": "Riley Park · Vancouver",
-      "address": "3995 Main Street",
-      "locationSource": "https://www.openstreetmap.org/node/4595611689",
-      "locationStatus": "OpenStreetMap match; branch not specified by chef",
-      "matchedName": "The Acorn",
-      "coordinateSource": "https://www.openstreetmap.org/node/4595611689",
-      "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/",
       "comments": []
     },
     {
@@ -17607,26 +17007,6 @@
       "comments": []
     },
     {
-      "id": "marilenacaferawbar",
-      "name": "Marilena Cafe & Raw Bar",
-      "website": "http://marilenacafe.com/",
-      "mentions": [
-        {
-          "chefId": "mates-on-crates-95-feat-frank-morra-kwley",
-          "category": "Outside of Vancouver",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-95-feat-frank-morra-kwley",
-          "evidenceType": "publisher_expanded_list"
-        }
-      ],
-      "coordinates": null,
-      "city": "Downtown · Victoria",
-      "address": "",
-      "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location.",
-      "locationSource": "http://marilenacafe.com/",
-      "comments": []
-    },
-    {
       "id": "vomerocoffeehouse",
       "name": "Vomero Coffee House",
       "website": "https://www.instagram.com/vomerocoffee",
@@ -17727,42 +17107,6 @@
       "comments": []
     },
     {
-      "id": "tableau",
-      "name": "Tableau",
-      "website": "http://tableaubarbistro.com/",
-      "mentions": [
-        {
-          "chefId": "mates-on-crates-93-feat-hilary-nguy",
-          "category": "Brunch",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-93-feat-hilary-nguy",
-          "evidenceType": "publisher_expanded_list"
-        }
-      ],
-      "coordinates": [
-        -123.123306,
-        49.2874987
-      ],
-      "city": "Downtown · Vancouver",
-      "address": "1181 Melville Street",
-      "locationSource": "https://www.openstreetmap.org/node/5837059827",
-      "locationStatus": "OpenStreetMap match; branch not specified by chef",
-      "matchedName": "Tableau",
-      "coordinateSource": "https://www.openstreetmap.org/node/5837059827",
-      "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/",
-      "comments": [
-        {
-          "chefId": "mates-on-crates-93-feat-hilary-nguy",
-          "placeId": "tableau",
-          "comment": "He singles out the omelettes and mushroom toast for brunch.",
-          "startSeconds": 97,
-          "source": "https://www.instagram.com/p/DGJxm01SaXb/",
-          "type": "summary",
-          "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
-        }
-      ]
-    },
-    {
       "id": "sushimahana",
       "name": "Sushi Mahana",
       "website": "https://sushimahana.com/",
@@ -17852,39 +17196,6 @@
       "locationStatus": "OpenStreetMap match; branch not specified by chef Specific local neighbourhood normalized from the venue street location.",
       "matchedName": "Landmark Hot Pot House",
       "coordinateSource": "https://www.openstreetmap.org/node/5866930558",
-      "comments": []
-    },
-    {
-      "id": "33acres",
-      "name": "33 Acres",
-      "website": "https://33acresbrewing.com",
-      "mentions": [
-        {
-          "chefId": "mates-on-crates-91-devon-trowler",
-          "category": "Brewery",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-91-devon-trowler",
-          "evidenceType": "publisher_expanded_list"
-        },
-        {
-          "chefId": "mates-on-crates-67-feat-josh-ochotorena",
-          "category": "Brewery",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-67-feat-josh-ochotorena",
-          "evidenceType": "publisher_expanded_list"
-        }
-      ],
-      "coordinates": [
-        -123.1053068,
-        49.2639525
-      ],
-      "city": "Mount Pleasant · Vancouver",
-      "address": "15 West 8th Avenue",
-      "locationSource": "https://www.openstreetmap.org/way/163538013",
-      "locationStatus": "OpenStreetMap match; branch not specified by chef",
-      "matchedName": "33 Acres Brewing",
-      "coordinateSource": "https://www.openstreetmap.org/way/163538013",
-      "neighbourhoodSource": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/",
       "comments": []
     },
     {
@@ -18014,26 +17325,6 @@
       "address": "",
       "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location.",
       "locationSource": "https://pizzacomingsoon.com/",
-      "comments": []
-    },
-    {
-      "id": "chanchotortilleria",
-      "name": "Chancho Tortilleria",
-      "website": "https://www.chancho.ca",
-      "mentions": [
-        {
-          "chefId": "mates-on-crates-91-devon-trowler",
-          "category": "Mexican",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-91-devon-trowler",
-          "evidenceType": "publisher_expanded_list"
-        }
-      ],
-      "coordinates": null,
-      "city": "Commercial Drive · Vancouver",
-      "address": "",
-      "locationStatus": "Venue website address or neighbourhood reviewed 2026-11-17; neighbourhood standardized from street location.",
-      "locationSource": "https://www.chancho.ca",
       "comments": []
     },
     {
@@ -18186,6 +17477,13 @@
           "category": "Commercial Drive (Neighbourhood)",
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-68-feat-claire-livia-lassam",
+          "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-feat-adam-mills",
+          "category": "Family Friendly",
+          "wishList": false,
+          "source": "https://chefsfav.com/blog/mates-on-crates-feat-adam-mills",
           "evidenceType": "publisher_expanded_list"
         }
       ],
@@ -18372,29 +17670,6 @@
       "locationStatus": "OpenStreetMap match; branch not specified by chef Specific local neighbourhood normalized from the venue street location.",
       "matchedName": "Twisted Fork",
       "coordinateSource": "https://www.openstreetmap.org/node/1493611790",
-      "comments": []
-    },
-    {
-      "id": "milano",
-      "name": "Milano",
-      "website": "https://www.milanocoffee.ca",
-      "mentions": [
-        {
-          "chefId": "mates-on-crates-67-feat-josh-ochotorena",
-          "category": "Coffee",
-          "wishList": false,
-          "source": "https://chefsfav.com/blog/mates-on-crates-67-feat-josh-ochotorena",
-          "evidenceType": "publisher_expanded_list"
-        }
-      ],
-      "coordinates": null,
-      "city": "Multiple locations · Vancouver / Victoria / Courtenay",
-      "address": "",
-      "locationSource": "https://www.milanocoffee.ca/",
-      "locationStatus": "Multiple locations verified from venue website; recommended branch unspecified.",
-      "matchedName": "Milano Cafe",
-      "coordinateSource": "https://www.openstreetmap.org/node/5357068721",
-      "branchUnspecified": true,
       "comments": []
     },
     {
@@ -18585,5 +17860,53 @@
     "videosReviewed": 0,
     "completeVideoInventory": false
   },
-  "spokenReviewEpisodes": 24
+  "spokenReviewEpisodes": 24,
+  "placeAliases": {
+    "cassette": "cassettecafedivebar",
+    "saturdaymarket": "saltspringsaturdaymarket",
+    "thegullbarandkitchen": "thegull",
+    "selene": "seleneaegeanbistro",
+    "ajsbrooklynpizzajoint": "ajsbrooklynpizza",
+    "doe": "doecoffeeroasters",
+    "happyfamily": "happyfamilyrestaurant",
+    "medina": "cafemedina",
+    "heyhappy": "heyhappycoffee",
+    "marilenacaferawbar": "marilena",
+    "thegreekbyanatoli": "thegreek",
+    "elisa": "elisasteak",
+    "milano": "milanocoffee",
+    "viateverepizzerianapoletana": "viateverepizzeria",
+    "dante": "danteitaliansandwich",
+    "straightouttabrooklyn": "straightbrooklynpizza",
+    "theredwagon": "redwagoncafe",
+    "redwagon": "redwagoncafe",
+    "c": "comotaperia",
+    "omotaperia": "comotaperia",
+    "chanchotortilleria": "chancho",
+    "federalstore": "thefederalstore",
+    "pepinos": "pepinosspaghettihouse",
+    "propaganda": "propagandacoffee",
+    "mogu": "mogufriedchicken",
+    "dontarguepizzeria": "dontarguepizza",
+    "tetsusushiba": "tetsusushibar",
+    "amabar": "amarawbar",
+    "33acres": "33acresbrewing",
+    "ilcappelloenoteca": "ilcappello",
+    "tableau": "tableaubarbistro",
+    "socialcorner": "perse",
+    "saltspringkitchen": "saltspringkitchenco",
+    "kutataswines": "kutatas",
+    "kutataswinery": "kutatas",
+    "thewoodshed": "woodshedprovisions",
+    "ercof": "foglift",
+    "feeroasters": "foglift",
+    "ingoroom": "theflam",
+    "accordion": "thered",
+    "the": "thekingsheadpublichouse",
+    "kingsheadpublichouse": "thekingsheadpublichouse",
+    "estaurant": "tapr",
+    "e": "hadacoffe",
+    "theacorn": "acorn",
+    "chinatownchinatownbbqddmau": "chinatown"
+  }
 }

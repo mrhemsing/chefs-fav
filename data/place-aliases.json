@@ -1,0 +1,406 @@
+[
+  {
+    "alias": "cassette",
+    "canonical": "cassettecafedivebar",
+    "reason": "Same venue name variant or split hyperlink text; matching linked venue and location.",
+    "evidence": [
+      "http://www.cassettecafebar.com/",
+      "https://cassettecafebar.com/",
+      "https://www.openstreetmap.org/node/6242489151"
+    ]
+  },
+  {
+    "alias": "saturdaymarket",
+    "canonical": "saltspringsaturdaymarket",
+    "reason": "Same venue name variant or split hyperlink text; matching linked venue and location.",
+    "evidence": [
+      "https://www.saltspringmarket.com/"
+    ]
+  },
+  {
+    "alias": "thegullbarandkitchen",
+    "canonical": "thegull",
+    "reason": "Same venue name variant or split hyperlink text; matching linked venue and location.",
+    "evidence": [
+      "https://www.thegull.ca/"
+    ]
+  },
+  {
+    "alias": "selene",
+    "canonical": "seleneaegeanbistro",
+    "reason": "Same venue name variant or split hyperlink text; matching linked venue and location.",
+    "evidence": [
+      "https://seleneagn.com/"
+    ]
+  },
+  {
+    "alias": "ajsbrooklynpizzajoint",
+    "canonical": "ajsbrooklynpizza",
+    "reason": "Same venue name variant or split hyperlink text; matching linked venue and location.",
+    "evidence": [
+      "https://www.ajsbrooklynpizzajoint.com/",
+      "https://www.openstreetmap.org/node/10741979195"
+    ]
+  },
+  {
+    "alias": "doe",
+    "canonical": "doecoffeeroasters",
+    "reason": "Same venue name variant or split hyperlink text; matching linked venue and location.",
+    "evidence": [
+      "https://doecoffee.com/",
+      "https://www.openstreetmap.org/node/12470684819"
+    ]
+  },
+  {
+    "alias": "happyfamily",
+    "canonical": "happyfamilyrestaurant",
+    "reason": "Same venue name variant or split hyperlink text; matching linked venue and location.",
+    "evidence": [
+      "https://www.happyfamilyeats.com/",
+      "https://www.openstreetmap.org/node/1937561314"
+    ]
+  },
+  {
+    "alias": "medina",
+    "canonical": "cafemedina",
+    "reason": "Same venue name variant or split hyperlink text; matching linked venue and location.",
+    "evidence": [
+      "https://www.medinacafe.com",
+      "https://www.medinacafe.com/",
+      "https://www.openstreetmap.org/node/3734928054"
+    ]
+  },
+  {
+    "alias": "heyhappy",
+    "canonical": "heyhappycoffee",
+    "reason": "Same venue name variant or split hyperlink text; matching linked venue and location.",
+    "evidence": [
+      "https://www.heyhappycoffee.com/",
+      "https://www.tripadvisor.ca/Restaurant_Review-g154945-d6997186-Reviews-Hey_Happy_Coffee-Victoria_Victoria_Capital_Regional_District_Vancouver_Island_Bri.html",
+      "https://maps.apple.com/place?place-id=I25B2AFE4F2748508"
+    ]
+  },
+  {
+    "alias": "marilenacaferawbar",
+    "canonical": "marilena",
+    "reason": "Same venue name variant or split hyperlink text; matching linked venue and location.",
+    "evidence": [
+      "http://marilenacafe.com/",
+      "https://marilenacafe.com/"
+    ]
+  },
+  {
+    "alias": "thegreekbyanatoli",
+    "canonical": "thegreek",
+    "reason": "Same venue name variant or split hyperlink text; matching linked venue and location.",
+    "evidence": [
+      "https://www.thegreekbyanatoli.com/",
+      "https://thegreekbyanatoli.com/"
+    ]
+  },
+  {
+    "alias": "elisa",
+    "canonical": "elisasteak",
+    "reason": "Same venue name variant or split hyperlink text; matching linked venue and location.",
+    "evidence": [
+      "https://elisasteak.com/"
+    ]
+  },
+  {
+    "alias": "milano",
+    "canonical": "milanocoffee",
+    "reason": "Same venue name variant or split hyperlink text; matching linked venue and location.",
+    "evidence": [
+      "https://www.milanocoffee.ca",
+      "https://www.milanocoffee.ca/"
+    ]
+  },
+  {
+    "alias": "viateverepizzerianapoletana",
+    "canonical": "viateverepizzeria",
+    "reason": "Same venue name variant or split hyperlink text; matching linked venue and location.",
+    "evidence": [
+      "https://www.viateverepizzeria.com/"
+    ]
+  },
+  {
+    "alias": "dante",
+    "canonical": "danteitaliansandwich",
+    "reason": "Same venue name variant or split hyperlink text; matching linked venue and location.",
+    "evidence": [
+      "https://www.dantesandwich.com/"
+    ]
+  },
+  {
+    "alias": "straightouttabrooklyn",
+    "canonical": "straightbrooklynpizza",
+    "reason": "Same venue name variant or split hyperlink text; matching linked venue and location.",
+    "evidence": [
+      "https://www.straightbkpizza.com/"
+    ]
+  },
+  {
+    "alias": "theredwagon",
+    "canonical": "redwagoncafe",
+    "reason": "Same venue name variant or split hyperlink text; matching linked venue and location.",
+    "evidence": [
+      "https://redwagoncafe.ca/"
+    ]
+  },
+  {
+    "alias": "redwagon",
+    "canonical": "redwagoncafe",
+    "reason": "Same venue name variant or split hyperlink text; matching linked venue and location.",
+    "evidence": [
+      "http://www.redwagoncafe.ca/",
+      "https://redwagoncafe.ca/"
+    ]
+  },
+  {
+    "alias": "c",
+    "canonical": "comotaperia",
+    "reason": "Same venue name variant or split hyperlink text; matching linked venue and location.",
+    "evidence": [
+      "https://www.comotaperia.com/"
+    ]
+  },
+  {
+    "alias": "omotaperia",
+    "canonical": "comotaperia",
+    "reason": "Same venue name variant or split hyperlink text; matching linked venue and location.",
+    "evidence": [
+      "https://www.comotaperia.com/"
+    ]
+  },
+  {
+    "alias": "chanchotortilleria",
+    "canonical": "chancho",
+    "reason": "Same venue name variant or split hyperlink text; matching linked venue and location.",
+    "evidence": [
+      "https://www.chancho.ca",
+      "https://www.chancho.ca/"
+    ]
+  },
+  {
+    "alias": "federalstore",
+    "canonical": "thefederalstore",
+    "reason": "Same venue name variant or split hyperlink text; matching linked venue and location.",
+    "evidence": [
+      "https://federalstore.ca/",
+      "https://www.tripadvisor.ca/Restaurant_Review-g154943-d12374624-Reviews-The_Federal_Store-Vancouver_British_Columbia.html"
+    ]
+  },
+  {
+    "alias": "pepinos",
+    "canonical": "pepinosspaghettihouse",
+    "reason": "Same venue name variant or split hyperlink text; matching linked venue and location.",
+    "evidence": [
+      "https://pepinos.ca/",
+      "https://www.pepinos.ca",
+      "https://www.openstreetmap.org/node/11141972840"
+    ]
+  },
+  {
+    "alias": "propaganda",
+    "canonical": "propagandacoffee",
+    "reason": "Same venue name variant or split hyperlink text; matching linked venue and location.",
+    "evidence": [
+      "https://www.propagandacoffee.ca/",
+      "https://www.vancouver-chinatown.com/directory/propaganda-coffee",
+      "https://www.openstreetmap.org/node/4005041520"
+    ]
+  },
+  {
+    "alias": "mogu",
+    "canonical": "mogufriedchicken",
+    "reason": "Same venue name variant or split hyperlink text; matching linked venue and location.",
+    "evidence": [
+      "https://www.eatmogu.com/",
+      "https://www.openstreetmap.org/node/1247817627"
+    ]
+  },
+  {
+    "alias": "dontarguepizzeria",
+    "canonical": "dontarguepizza",
+    "reason": "Same venue name variant or split hyperlink text; matching linked venue and location.",
+    "evidence": [
+      "https://dontarguepizza.com/"
+    ]
+  },
+  {
+    "alias": "tetsusushiba",
+    "canonical": "tetsusushibar",
+    "reason": "Same venue name variant or split hyperlink text; matching linked venue and location.",
+    "evidence": [
+      "https://www.tetsusushibar.com/",
+      "https://www.openstreetmap.org/node/3733886693"
+    ]
+  },
+  {
+    "alias": "amabar",
+    "canonical": "amarawbar",
+    "reason": "Same venue name variant or split hyperlink text; matching linked venue and location.",
+    "evidence": [
+      "https://amarawbar.ca/"
+    ]
+  },
+  {
+    "alias": "33acres",
+    "canonical": "33acresbrewing",
+    "reason": "Same venue name variant or split hyperlink text; matching linked venue and location.",
+    "evidence": [
+      "https://33acresbrewing.com",
+      "https://33acresbrewing.com/",
+      "https://www.openstreetmap.org/way/163538013"
+    ]
+  },
+  {
+    "alias": "ilcappelloenoteca",
+    "canonical": "ilcappello",
+    "reason": "Same venue name variant or split hyperlink text; matching linked venue and location.",
+    "evidence": [
+      "https://www.ilcappello.ca/"
+    ]
+  },
+  {
+    "alias": "tableau",
+    "canonical": "tableaubarbistro",
+    "reason": "Same venue name variant or split hyperlink text; matching linked venue and location.",
+    "evidence": [
+      "http://tableaubarbistro.com/",
+      "https://www.tableaubarbistro.com/",
+      "https://www.openstreetmap.org/node/5837059827"
+    ]
+  },
+  {
+    "alias": "socialcorner",
+    "canonical": "perse",
+    "reason": "Same venue name variant or split hyperlink text; matching linked venue and location.",
+    "evidence": [
+      "https://persesocialcorner.com",
+      "https://www.tripadvisor.com/Restaurant_Review-g154943-d9838673-Reviews-or15-Social_Corner-Vancouver_British_Columbia.html",
+      "https://guide.michelin.com/ca/en/british-columbia/ca-vancouver/restaurant/per-se-social-corner"
+    ]
+  },
+  {
+    "alias": "saltspringkitchen",
+    "canonical": "saltspringkitchenco",
+    "reason": "Same venue name variant or split hyperlink text; matching linked venue and location.",
+    "evidence": [
+      "https://www.saltspringkitchen.com/",
+      "https://saltspringkitchen.com/"
+    ]
+  },
+  {
+    "alias": "kutataswines",
+    "canonical": "kutatas",
+    "reason": "Same venue name variant or split hyperlink text; matching linked venue and location.",
+    "evidence": [
+      "https://kutataswines.com/",
+      "https://www.openstreetmap.org/node/13066491628"
+    ]
+  },
+  {
+    "alias": "kutataswinery",
+    "canonical": "kutatas",
+    "reason": "Same venue name variant or split hyperlink text; matching linked venue and location.",
+    "evidence": [
+      "http://www.kutataswines.com/",
+      "https://kutataswines.com/",
+      "https://www.openstreetmap.org/node/13066491628"
+    ]
+  },
+  {
+    "alias": "thewoodshed",
+    "canonical": "woodshedprovisions",
+    "reason": "Same venue name variant or split hyperlink text; matching linked venue and location.",
+    "evidence": [
+      "https://woodshedprovisions.com/"
+    ]
+  },
+  {
+    "alias": "ercof",
+    "canonical": "foglift",
+    "reason": "Same venue name variant or split hyperlink text; matching linked venue and location.",
+    "evidence": [
+      "https://www.fogliftercoffee.com/",
+      "https://www.tripadvisor.com/Restaurant_Review-g154943-d27236706-Reviews-Foglifter_Coffee_Flagship-Vancouver_British_Columbia.html"
+    ]
+  },
+  {
+    "alias": "feeroasters",
+    "canonical": "foglift",
+    "reason": "Same venue name variant or split hyperlink text; matching linked venue and location.",
+    "evidence": [
+      "https://www.fogliftercoffee.com/",
+      "https://www.tripadvisor.com/Restaurant_Review-g154943-d27236706-Reviews-Foglifter_Coffee_Flagship-Vancouver_British_Columbia.html"
+    ]
+  },
+  {
+    "alias": "ingoroom",
+    "canonical": "theflam",
+    "reason": "Same venue name variant or split hyperlink text; matching linked venue and location.",
+    "evidence": [
+      "https://www.flamingoroomvan.com/"
+    ]
+  },
+  {
+    "alias": "accordion",
+    "canonical": "thered",
+    "reason": "Same venue name variant or split hyperlink text; matching linked venue and location.",
+    "evidence": [
+      "https://www.theredaccordion.com/"
+    ]
+  },
+  {
+    "alias": "the",
+    "canonical": "thekingsheadpublichouse",
+    "reason": "Same venue name variant or split hyperlink text; matching linked venue and location.",
+    "evidence": [
+      "https://thekingsheadkits.com/"
+    ]
+  },
+  {
+    "alias": "kingsheadpublichouse",
+    "canonical": "thekingsheadpublichouse",
+    "reason": "Same venue name variant or split hyperlink text; matching linked venue and location.",
+    "evidence": [
+      "https://thekingsheadkits.com/"
+    ]
+  },
+  {
+    "alias": "estaurant",
+    "canonical": "tapr",
+    "reason": "Same venue name variant or split hyperlink text; matching linked venue and location.",
+    "evidence": [
+      "https://www.taprestaurant.ca/"
+    ]
+  },
+  {
+    "alias": "e",
+    "canonical": "hadacoffe",
+    "reason": "Same venue name variant or split hyperlink text; matching linked venue and location.",
+    "evidence": [
+      "https://www.instagram.com/hadacoffee.ca/",
+      "https://dailyhive.com/vancouver/best-things-we-ate-vancouver-april-2026"
+    ]
+  },
+  {
+    "alias": "theacorn",
+    "canonical": "acorn",
+    "reason": "Same venue name variant or split hyperlink text; matching linked venue and location.",
+    "evidence": [
+      "https://www.theacornrestaurant.ca/",
+      "https://www.openstreetmap.org/node/4595611689"
+    ]
+  },
+  {
+    "alias": "chinatownchinatownbbqddmau",
+    "canonical": "chinatown",
+    "reason": "Same Chinatown neighbourhood; preserve guest-specific restaurant context.",
+    "evidence": [
+      "https://chefsfav.com/blog/mates-on-crates-feat-andrew-kong",
+      "https://chefsfav.com/blog/mates-on-crates-feat-erin-heather"
+    ]
+  }
+]
