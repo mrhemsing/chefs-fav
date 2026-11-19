@@ -268,3 +268,14 @@
  .no-map .intro p:not(.intro-lead){font-size:15px;line-height:1.6}
  .no-map .intro p.intro-story{margin-top:20px}
 }
+
+/* Reserve space for both header actions; never wrap the mobile masthead. */
+@media(max-width:700px){
+ .no-map .masthead{display:flex;flex-wrap:nowrap;min-height:76px;height:76px;padding:12px;gap:8px}
+ .no-map .brand{flex:1 1 auto;min-width:0;gap:6px;font-size:clamp(17px,5.3vw,28px);letter-spacing:-.8px;white-space:nowrap}
+ .no-map .brand h1{max-width:none;white-space:nowrap}
+ .no-map .brand img{width:28px;height:28px;flex:0 0 28px}
+ .no-map .head-actions{flex:0 0 auto;margin-left:0;gap:4px}
+ .no-map .head-actions .icon-button{width:36px;height:36px}
+ .no-map .head-actions .region-badge{display:none}
+}
