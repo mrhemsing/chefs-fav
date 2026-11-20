@@ -18008,5 +18008,240 @@
     "locationEvidence": "BC venue identity checked against video caption and restaurant context",
     "comment": "",
     "startSeconds": 136
+  },
+  {
+    "episodeId": "mates-on-crates-feat-dex-james",
+    "guest": "Dex James",
+    "episodeGuest": "Dex James",
+    "chefOrCook": false,
+    "category": "Hidden Gem",
+    "recommendation": "Continental Seafood Restaurant",
+    "sourceUrl": "https://www.instagram.com/reel/Df8NiHwsJnJ/",
+    "videoUrl": "https://www.instagram.com/reel/Df8NiHwsJnJ/",
+    "evidenceType": "video_transcript_and_caption_review",
+    "videoReviewed": true,
+    "experience": "recommendation",
+    "region": "British Columbia",
+    "kind": "named_place_or_business",
+    "venueLinks": [
+      {
+        "name": "Continental Seafood Restaurant",
+        "url": "https://www.continentalrestaurant.ca/menu/"
+      }
+    ],
+    "locationEvidence": "BC venue identity checked against video caption and restaurant context",
+    "comment": "He recommends the old-school dim sum.",
+    "startSeconds": 115
+  },
+  {
+    "episodeId": "mates-on-crates-feat-dex-james",
+    "guest": "Dex James",
+    "episodeGuest": "Dex James",
+    "chefOrCook": false,
+    "category": "Hidden Gem",
+    "recommendation": "The Meat Up BBQ",
+    "sourceUrl": "https://www.instagram.com/reel/Df8NiHwsJnJ/",
+    "videoUrl": "https://www.instagram.com/reel/Df8NiHwsJnJ/",
+    "evidenceType": "video_transcript_and_caption_review",
+    "videoReviewed": true,
+    "experience": "recommendation",
+    "region": "British Columbia",
+    "kind": "named_place_or_business",
+    "venueLinks": [
+      {
+        "name": "The Meat Up BBQ",
+        "url": "https://www.restaurantji.com/bc/richmond/the-meat-up-/"
+      }
+    ],
+    "locationEvidence": "BC venue identity checked against video caption and restaurant context",
+    "comment": "A regular stop for all-you-can-eat Chinese barbecue skewers.",
+    "startSeconds": 117
+  },
+  {
+    "episodeId": "mates-on-crates-feat-dex-james",
+    "guest": "Dex James",
+    "episodeGuest": "Dex James",
+    "chefOrCook": false,
+    "category": "Cocktail Bar",
+    "recommendation": "Mott 32",
+    "sourceUrl": "https://www.instagram.com/reel/Df8NiHwsJnJ/",
+    "videoUrl": "https://www.instagram.com/reel/Df8NiHwsJnJ/",
+    "evidenceType": "video_transcript_and_caption_review",
+    "videoReviewed": true,
+    "experience": "recommendation",
+    "region": "British Columbia",
+    "kind": "named_place_or_business",
+    "venueLinks": [
+      {
+        "name": "Mott 32",
+        "url": "https://www.opentable.ca/r/mott-32-vancouver-2"
+      }
+    ],
+    "locationEvidence": "BC venue identity checked against video caption and restaurant context",
+    "comment": "He has enjoyed the cocktails here.",
+    "startSeconds": 126
+  },
+  {
+    "episodeId": "mates-on-crates-feat-dex-james",
+    "guest": "Dex James",
+    "episodeGuest": "Dex James",
+    "chefOrCook": false,
+    "category": "Last Meal That Blew Them Away",
+    "recommendation": "Jeju",
+    "sourceUrl": "https://www.instagram.com/reel/Df8NiHwsJnJ/",
+    "videoUrl": "https://www.instagram.com/reel/Df8NiHwsJnJ/",
+    "evidenceType": "video_transcript_and_caption_review",
+    "videoReviewed": true,
+    "experience": "recommendation",
+    "region": "British Columbia",
+    "kind": "named_place_or_business",
+    "venueLinks": [
+      {
+        "name": "Jeju",
+        "url": "https://www.jeju-restaurant.com/"
+      }
+    ],
+    "locationEvidence": "BC venue identity checked against video caption and restaurant context",
+    "comment": "His most recent standout meal.",
+    "startSeconds": 130
+  },
+  {
+    "episodeId": "mates-on-crates-feat-dex-james",
+    "guest": "Dex James",
+    "episodeGuest": "Dex James",
+    "chefOrCook": false,
+    "category": "Hidden Gem",
+    "recommendation": "Trung Nguyen Cafe",
+    "sourceUrl": "https://www.instagram.com/reel/Df8NiHwsJnJ/",
+    "videoUrl": "https://www.instagram.com/reel/Df8NiHwsJnJ/",
+    "evidenceType": "video_transcript_and_caption_review",
+    "videoReviewed": true,
+    "experience": "recommendation",
+    "region": "British Columbia",
+    "kind": "named_place_or_business",
+    "venueLinks": [
+      {
+        "name": "Trung Nguyen Cafe",
+        "url": "https://nomsmagazine.com/best-pho-spots-in-vancouver/"
+      }
+    ],
+    "locationEvidence": "BC venue identity checked against video caption and restaurant context",
+    "comment": "He praises the food at this Vietnamese restaurant.",
+    "startSeconds": 134
+  },
+  {
+    "episodeId": "mates-on-crates-feat-dex-james",
+    "guest": "Dex James",
+    "episodeGuest": "Dex James",
+    "chefOrCook": false,
+    "category": "Food Neighbourhood",
+    "recommendation": "Chinatown",
+    "sourceUrl": "https://www.instagram.com/reel/Df8NiHwsJnJ/",
+    "videoUrl": "https://www.instagram.com/reel/Df8NiHwsJnJ/",
+    "evidenceType": "video_transcript_and_caption_review",
+    "videoReviewed": true,
+    "experience": "recommendation",
+    "region": "British Columbia",
+    "kind": "named_place_or_business",
+    "venueLinks": [],
+    "locationEvidence": "BC venue identity checked against video caption and restaurant context",
+    "comment": "His favourite food neighbourhood; he names Phnom Penh and The Ramen Butcher.",
+    "startSeconds": 138
+  },
+  {
+    "episodeId": "mates-on-crates-feat-dex-james",
+    "guest": "Dex James",
+    "episodeGuest": "Dex James",
+    "chefOrCook": false,
+    "category": "Neighbourhood Favourites",
+    "recommendation": "Phnom Penh",
+    "sourceUrl": "https://www.instagram.com/reel/Df8NiHwsJnJ/",
+    "videoUrl": "https://www.instagram.com/reel/Df8NiHwsJnJ/",
+    "evidenceType": "video_transcript_and_caption_review",
+    "videoReviewed": true,
+    "experience": "recommendation",
+    "region": "British Columbia",
+    "kind": "named_place_or_business",
+    "venueLinks": [
+      {
+        "name": "Phnom Penh",
+        "url": "https://phnom-penh.matsuba.ca/"
+      }
+    ],
+    "locationEvidence": "BC venue identity checked against video caption and restaurant context",
+    "comment": "Named among his Chinatown favourites.",
+    "startSeconds": 139
+  },
+  {
+    "episodeId": "mates-on-crates-feat-dex-james",
+    "guest": "Dex James",
+    "episodeGuest": "Dex James",
+    "chefOrCook": false,
+    "category": "Neighbourhood Favourites",
+    "recommendation": "The Ramen Butcher",
+    "sourceUrl": "https://www.instagram.com/reel/Df8NiHwsJnJ/",
+    "videoUrl": "https://www.instagram.com/reel/Df8NiHwsJnJ/",
+    "evidenceType": "video_transcript_and_caption_review",
+    "videoReviewed": true,
+    "experience": "recommendation",
+    "region": "British Columbia",
+    "kind": "named_place_or_business",
+    "venueLinks": [
+      {
+        "name": "The Ramen Butcher",
+        "url": "https://www.restaurantji.com/bc/vancouver/the-ramen-butcher-/"
+      }
+    ],
+    "locationEvidence": "BC venue identity checked against video caption and restaurant context",
+    "comment": "Named among his Chinatown favourites.",
+    "startSeconds": 139
+  },
+  {
+    "episodeId": "mates-on-crates-feat-dex-james",
+    "guest": "Dex James",
+    "episodeGuest": "Dex James",
+    "chefOrCook": false,
+    "category": "Night Out",
+    "recommendation": "Banter Room",
+    "sourceUrl": "https://www.instagram.com/reel/Df8NiHwsJnJ/",
+    "videoUrl": "https://www.instagram.com/reel/Df8NiHwsJnJ/",
+    "evidenceType": "video_transcript_and_caption_review",
+    "videoReviewed": true,
+    "experience": "recommendation",
+    "region": "British Columbia",
+    "kind": "named_place_or_business",
+    "venueLinks": [
+      {
+        "name": "Banter Room",
+        "url": "https://www.banterroom.com/"
+      }
+    ],
+    "locationEvidence": "BC venue identity checked against video caption and restaurant context",
+    "comment": "His choice for a night out; he praises the team.",
+    "startSeconds": 142
+  },
+  {
+    "episodeId": "mates-on-crates-feat-dex-james",
+    "guest": "Dex James",
+    "episodeGuest": "Dex James",
+    "chefOrCook": false,
+    "category": "Outside of Vancouver",
+    "recommendation": "Soi Ram",
+    "sourceUrl": "https://www.instagram.com/reel/Df8NiHwsJnJ/",
+    "videoUrl": "https://www.instagram.com/reel/Df8NiHwsJnJ/",
+    "evidenceType": "video_transcript_and_caption_review",
+    "videoReviewed": true,
+    "experience": "recommendation",
+    "region": "British Columbia",
+    "kind": "named_place_or_business",
+    "venueLinks": [
+      {
+        "name": "Soi Ram",
+        "url": "https://soiram.ca/"
+      }
+    ],
+    "locationEvidence": "BC venue identity checked against video caption and restaurant context",
+    "comment": "He praises the Thai food.",
+    "startSeconds": 146
   }
 ]

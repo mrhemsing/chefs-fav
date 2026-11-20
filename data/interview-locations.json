@@ -450,5 +450,11 @@
     "region": "Metro Vancouver",
     "source": "https://chefsfav.com/blog/mates-on-crates-69-feat-karl-gregg",
     "basis": "Verified business location or service area; not an assertion of an unverified interview branch."
+  },
+  "mates-on-crates-feat-dex-james": {
+    "city": "Richmond",
+    "region": "Metro Vancouver",
+    "source": "https://www.instagram.com/reel/Df8NiHwsJnJ/",
+    "basis": "Host explicitly states interview is in Richmond at 111 seconds; neighbourhood unverified."
   }
 }

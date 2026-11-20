@@ -106,5 +106,105 @@
     "comment": "",
     "website": "",
     "source": "https://www.instagram.com/reel/DeFw8VEMOH8/"
+  },
+  {
+    "episodeId": "mates-on-crates-feat-dex-james",
+    "name": "Continental Seafood Restaurant",
+    "category": "Hidden Gem",
+    "source": "https://www.instagram.com/reel/Df8NiHwsJnJ/",
+    "website": "https://www.continentalrestaurant.ca/menu/",
+    "comment": "He recommends the old-school dim sum.",
+    "startSeconds": 115,
+    "reviewMethod": "Machine transcript reviewed against burned-in video captions; venue identity and BC location checked against linked sources."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-dex-james",
+    "name": "The Meat Up BBQ",
+    "category": "Hidden Gem",
+    "source": "https://www.instagram.com/reel/Df8NiHwsJnJ/",
+    "website": "https://www.restaurantji.com/bc/richmond/the-meat-up-/",
+    "comment": "A regular stop for all-you-can-eat Chinese barbecue skewers.",
+    "startSeconds": 117,
+    "reviewMethod": "Machine transcript reviewed against burned-in video captions; venue identity and BC location checked against linked sources."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-dex-james",
+    "name": "Mott 32",
+    "category": "Cocktail Bar",
+    "source": "https://www.instagram.com/reel/Df8NiHwsJnJ/",
+    "website": "https://www.opentable.ca/r/mott-32-vancouver-2",
+    "comment": "He has enjoyed the cocktails here.",
+    "startSeconds": 126,
+    "reviewMethod": "Machine transcript reviewed against burned-in video captions; venue identity and BC location checked against linked sources."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-dex-james",
+    "name": "Jeju",
+    "category": "Last Meal That Blew Them Away",
+    "source": "https://www.instagram.com/reel/Df8NiHwsJnJ/",
+    "website": "https://www.jeju-restaurant.com/",
+    "comment": "His most recent standout meal.",
+    "startSeconds": 130,
+    "reviewMethod": "Machine transcript reviewed against burned-in video captions; venue identity and BC location checked against linked sources."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-dex-james",
+    "name": "Trung Nguyen Cafe",
+    "category": "Hidden Gem",
+    "source": "https://www.instagram.com/reel/Df8NiHwsJnJ/",
+    "website": "https://nomsmagazine.com/best-pho-spots-in-vancouver/",
+    "comment": "He praises the food at this Vietnamese restaurant.",
+    "startSeconds": 134,
+    "reviewMethod": "Machine transcript reviewed against burned-in video captions; venue identity and BC location checked against linked sources."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-dex-james",
+    "name": "Chinatown",
+    "category": "Food Neighbourhood",
+    "source": "https://www.instagram.com/reel/Df8NiHwsJnJ/",
+    "website": "",
+    "comment": "His favourite food neighbourhood; he names Phnom Penh and The Ramen Butcher.",
+    "startSeconds": 138,
+    "reviewMethod": "Machine transcript reviewed against burned-in video captions; venue identity and BC location checked against linked sources."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-dex-james",
+    "name": "Phnom Penh",
+    "category": "Neighbourhood Favourites",
+    "source": "https://www.instagram.com/reel/Df8NiHwsJnJ/",
+    "website": "https://phnom-penh.matsuba.ca/",
+    "comment": "Named among his Chinatown favourites.",
+    "startSeconds": 139,
+    "reviewMethod": "Machine transcript reviewed against burned-in video captions; venue identity and BC location checked against linked sources."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-dex-james",
+    "name": "The Ramen Butcher",
+    "category": "Neighbourhood Favourites",
+    "source": "https://www.instagram.com/reel/Df8NiHwsJnJ/",
+    "website": "https://www.restaurantji.com/bc/vancouver/the-ramen-butcher-/",
+    "comment": "Named among his Chinatown favourites.",
+    "startSeconds": 139,
+    "reviewMethod": "Machine transcript reviewed against burned-in video captions; venue identity and BC location checked against linked sources."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-dex-james",
+    "name": "Banter Room",
+    "category": "Night Out",
+    "source": "https://www.instagram.com/reel/Df8NiHwsJnJ/",
+    "website": "https://www.banterroom.com/",
+    "comment": "His choice for a night out; he praises the team.",
+    "startSeconds": 142,
+    "reviewMethod": "Machine transcript reviewed against burned-in video captions; venue identity and BC location checked against linked sources."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-dex-james",
+    "name": "Soi Ram",
+    "category": "Outside of Vancouver",
+    "source": "https://www.instagram.com/reel/Df8NiHwsJnJ/",
+    "website": "https://soiram.ca/",
+    "comment": "He praises the Thai food.",
+    "startSeconds": 146,
+    "reviewMethod": "Machine transcript reviewed against burned-in video captions; venue identity and BC location checked against linked sources."
   }
 ]

@@ -152,6 +152,9 @@ for r in rows:
     r['locationEvidence'] = 'Publisher local-favourites context and linked venue; non-BC exceptions removed. Chain branch unspecified unless source names it.'
     bc_rows.append(r)
 rows = bc_rows
+# Source-reviewed video-only episodes do not require a fabricated blog article.
+if (OUT/'video-episodes.json').exists():
+    episodes.extend(json.loads((OUT/'video-episodes.json').read_text(encoding='utf-8')))
 if (OUT/'video-additions.json').exists():
     for added in json.loads((OUT/'video-additions.json').read_text(encoding='utf-8')):
         ep = next(e for e in episodes if e['id']==added['episodeId'])
@@ -182,7 +185,7 @@ for filename, chef_only in [('CHEFS.md',True)]:
         if chef_only and not ep['chefOrCook'] and not review[ep['id']].get('includeOwner'):
             continue
         selected=[r for r in rows if r['episodeId']==ep['id']]
-        lines += [f"## {ep['guest']}", '', f"[Official list]({ep['articleUrl']})" + (f" · [Episode]({ep['videoUrls'][0]})" if ep['videoUrls'] else ' · Episode link not found'),
+        lines += [f"## {ep['guest']}", '', f"[{'Reviewed video' if ep.get('dateLabel')=='EPISODE VIDEO' else 'Official list'}]({ep['articleUrl']})" + (f" · [Episode]({ep['videoUrls'][0]})" if ep['videoUrls'] else ' · Episode link not found'),
                   'Excluded affiliations: '+(', '.join(ep['affiliationsExcluded']) or 'None identified in publisher biography')+'.', '',
                   '| Recommendation category | Pick | Source |','|---|---|---|']
         for r in selected:
@@ -191,10 +194,10 @@ for filename, chef_only in [('CHEFS.md',True)]:
             lines.append(f"| {md(label)} | {md(r['recommendation'])} | [{evidence}]({r['sourceUrl']}) |")
         lines.append('')
     (ROOT/filename).write_text('\n'.join(lines)+'\n',encoding='utf-8')
-summary={'asOf':'2026-11-17','region':'British Columbia','officialEpisodeArticlesInventoried':inventory_count,'includedEpisodeArticles':len(episodes),
+summary={'asOf':'2026-11-17','region':'British Columbia','officialEpisodeArticlesInventoried':inventory_count,'includedEpisodes':len(episodes),'includedEpisodeArticles':sum(e['evidenceType']=='publisher_expanded_list' for e in episodes),'videoOnlyEpisodes':sum(e['evidenceType']!='publisher_expanded_list' for e in episodes),
          'chefOrCookEpisodeArticles':sum(e['chefOrCook'] for e in episodes),
          'recommendationAnswers':len(rows), 'chefOrCookAnswers':sum(r['chefOrCook'] for r in rows),
          'excludedEntries':len(excluded),'unresolvedEntries':len(unresolved),
-         'videosReviewed':0,'completeVideoInventory':False}
+         'videosReviewed':sum(e.get('videoReviewed',False) for e in episodes),'completeVideoInventory':False}
 (OUT/'coverage.json').write_text(json.dumps(summary,indent=2)+'\n',encoding='utf-8')
 print(json.dumps(summary,indent=2))

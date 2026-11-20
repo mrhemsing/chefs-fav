@@ -4445,5 +4445,35 @@
     "city": "Ladner · Delta",
     "locationSource": "https://chefsfav.com/blog/mates-on-crates-feat-nathan-pai-phankum",
     "locationStatus": "Publisher explicitly lists this venue under Neighbourhood Spots (Ladner)."
+  },
+  "continentalseafoodrestaurant": {
+    "city": "Richmond",
+    "locationSource": "https://www.continentalrestaurant.ca/menu/",
+    "locationStatus": "Video caption and linked venue/location listing reviewed 2026-11-19; no coordinates inferred."
+  },
+  "themeatupbbq": {
+    "city": "Richmond",
+    "locationSource": "https://www.restaurantji.com/bc/richmond/the-meat-up-/",
+    "locationStatus": "Video caption and linked venue/location listing reviewed 2026-11-19; no coordinates inferred."
+  },
+  "mott32": {
+    "city": "Coal Harbour · Vancouver",
+    "locationSource": "https://www.opentable.ca/r/mott-32-vancouver-2",
+    "locationStatus": "Video caption and linked venue/location listing reviewed 2026-11-19; no coordinates inferred."
+  },
+  "trungnguyencafe": {
+    "city": "Kensington-Cedar Cottage · Vancouver",
+    "locationSource": "https://nomsmagazine.com/best-pho-spots-in-vancouver/",
+    "locationStatus": "Video caption and linked venue/location listing reviewed 2026-11-19; no coordinates inferred."
+  },
+  "theramenbutcher": {
+    "city": "Chinatown · Vancouver",
+    "locationSource": "https://www.restaurantji.com/bc/vancouver/the-ramen-butcher-/",
+    "locationStatus": "Video caption and linked venue/location listing reviewed 2026-11-19; no coordinates inferred."
+  },
+  "banterroom": {
+    "city": "Yaletown · Vancouver",
+    "locationSource": "https://www.banterroom.com/",
+    "locationStatus": "Video caption and linked venue/location listing reviewed 2026-11-19; no coordinates inferred."
   }
 }

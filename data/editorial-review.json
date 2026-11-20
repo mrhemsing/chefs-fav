@@ -793,5 +793,14 @@
       "Dear Gus"
     ],
     "reviewBasis": "Publisher episode biography and own-venue section; affiliated venue overrides. Chef/cook flag requires explicit culinary role in reviewed biography."
+  },
+  "mates-on-crates-feat-dex-james": {
+    "chefOrCook": false,
+    "includeOwner": true,
+    "excludeAffiliations": [
+      "Dang Good Ice",
+      "Dang Good Booths"
+    ],
+    "reviewBasis": "Official reel caption and on-screen introduction identify Dex James as co-owner of Dang Good Ice. Interview specifies Richmond at 111 seconds. BC food/ice-business owner; affiliated services excluded."
   }
 }

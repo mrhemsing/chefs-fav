@@ -1,0 +1,25 @@
+[
+  {
+    "id": "mates-on-crates-feat-dex-james",
+    "guest": "Dex James",
+    "chefOrCook": false,
+    "affiliationsExcluded": [
+      "Dang Good Ice",
+      "Dang Good Booths"
+    ],
+    "articleUrl": "https://www.instagram.com/reel/Df8NiHwsJnJ/",
+    "articleDate": "2026-11-19",
+    "videoUrls": [
+      "https://www.instagram.com/reel/Df8NiHwsJnJ/"
+    ],
+    "evidenceType": "video_transcript_and_caption_review",
+    "videoReviewed": true,
+    "image": "/images/dex-james.jpg",
+    "facePosition": [
+      70,
+      40
+    ],
+    "dateLabel": "EPISODE VIDEO",
+    "displayAffiliation": "Dang Good Ice"
+  }
+]

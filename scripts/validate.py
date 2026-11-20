@@ -8,7 +8,7 @@ rows, episodes, coverage = read('recommendations'), read('episodes'), read('cove
 ids = {e['id'] for e in episodes}
 assert len(ids) == len(episodes)
 assert coverage['recommendationAnswers'] == len(rows)
-assert coverage['includedEpisodeArticles'] == len(episodes)
+assert coverage.get('includedEpisodes',coverage['includedEpisodeArticles']) == len(episodes)
 assert not read('needs-review')
 for row in rows:
     assert row['episodeId'] in ids

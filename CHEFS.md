@@ -1299,3 +1299,21 @@ Excluded affiliations: Breeze Bar.
 | Vibes/Ambience | Pourhouse | [Expanded list](https://chefsfav.com/blog/mates-on-crates-67-feat-josh-ochotorena) |
 | Outside of Vancouver | Wind Cries Mary (Victoria) | [Expanded list](https://chefsfav.com/blog/mates-on-crates-67-feat-josh-ochotorena) |
 
+## Dex James
+
+[Reviewed video](https://www.instagram.com/reel/Df8NiHwsJnJ/) · [Episode](https://www.instagram.com/reel/Df8NiHwsJnJ/)
+Excluded affiliations: Dang Good Ice, Dang Good Booths.
+
+| Recommendation category | Pick | Source |
+|---|---|---|
+| Hidden Gem | Continental Seafood Restaurant | [Video](https://www.instagram.com/reel/Df8NiHwsJnJ/) |
+| Hidden Gem | The Meat Up BBQ | [Video](https://www.instagram.com/reel/Df8NiHwsJnJ/) |
+| Cocktail Bar | Mott 32 | [Video](https://www.instagram.com/reel/Df8NiHwsJnJ/) |
+| Last Meal That Blew Them Away | Jeju | [Video](https://www.instagram.com/reel/Df8NiHwsJnJ/) |
+| Hidden Gem | Trung Nguyen Cafe | [Video](https://www.instagram.com/reel/Df8NiHwsJnJ/) |
+| Food Neighbourhood | Chinatown | [Video](https://www.instagram.com/reel/Df8NiHwsJnJ/) |
+| Neighbourhood Favourites | Phnom Penh | [Video](https://www.instagram.com/reel/Df8NiHwsJnJ/) |
+| Neighbourhood Favourites | The Ramen Butcher | [Video](https://www.instagram.com/reel/Df8NiHwsJnJ/) |
+| Night Out | Banter Room | [Video](https://www.instagram.com/reel/Df8NiHwsJnJ/) |
+| Outside of Vancouver | Soi Ram | [Video](https://www.instagram.com/reel/Df8NiHwsJnJ/) |
+
