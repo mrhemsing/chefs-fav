@@ -18243,5 +18243,197 @@
     "locationEvidence": "BC venue identity checked against video caption and restaurant context",
     "comment": "He praises the Thai food.",
     "startSeconds": 146
+  },
+  {
+    "episodeId": "mates-on-crates-feat-andrea-alridge",
+    "guest": "Andrea Alridge",
+    "episodeGuest": "Andrea Alridge",
+    "chefOrCook": true,
+    "category": "Coffee",
+    "recommendation": "Routine Coffee & Supply",
+    "sourceUrl": "https://www.instagram.com/reel/DgD75o4MPlS/",
+    "videoUrl": "https://www.instagram.com/reel/DgD75o4MPlS/",
+    "evidenceType": "video_transcript_and_caption_review",
+    "videoReviewed": true,
+    "experience": "recommendation",
+    "region": "British Columbia",
+    "kind": "named_place_or_business",
+    "venueLinks": [
+      {
+        "name": "Routine Coffee & Supply",
+        "url": "https://www.routinecoffeeandsupply.com/"
+      }
+    ],
+    "locationEvidence": "BC venue identity checked against video caption and restaurant context",
+    "comment": "Her go-to coffee is a cortado. Routine also collaborated with Boomtown and Small Gods on the Rutina beer featured earlier in the episode.",
+    "startSeconds": 122
+  },
+  {
+    "episodeId": "mates-on-crates-feat-andrea-alridge",
+    "guest": "Andrea Alridge",
+    "episodeGuest": "Andrea Alridge",
+    "chefOrCook": true,
+    "category": "Brunch",
+    "recommendation": "Volta",
+    "sourceUrl": "https://www.instagram.com/reel/DgD75o4MPlS/",
+    "videoUrl": "https://www.instagram.com/reel/DgD75o4MPlS/",
+    "evidenceType": "video_transcript_and_caption_review",
+    "videoReviewed": true,
+    "experience": "recommendation",
+    "region": "British Columbia",
+    "kind": "named_place_or_business",
+    "venueLinks": [
+      {
+        "name": "Volta",
+        "url": "https://voltavictoria.com/"
+      }
+    ],
+    "locationEvidence": "BC venue identity checked against video caption and restaurant context",
+    "comment": "She likes the Spanish influence and atmosphere.",
+    "startSeconds": 125
+  },
+  {
+    "episodeId": "mates-on-crates-feat-andrea-alridge",
+    "guest": "Andrea Alridge",
+    "episodeGuest": "Andrea Alridge",
+    "chefOrCook": true,
+    "category": "Last Meal That Blew Them Away",
+    "recommendation": "Tourist Wine Bar",
+    "sourceUrl": "https://www.instagram.com/reel/DgD75o4MPlS/",
+    "videoUrl": "https://www.instagram.com/reel/DgD75o4MPlS/",
+    "evidenceType": "video_transcript_and_caption_review",
+    "videoReviewed": true,
+    "experience": "recommendation",
+    "region": "British Columbia",
+    "kind": "named_place_or_business",
+    "venueLinks": [
+      {
+        "name": "Tourist Wine Bar",
+        "url": "http://www.touristwinebar.com/"
+      }
+    ],
+    "locationEvidence": "BC venue identity checked against video caption and restaurant context",
+    "comment": "Her last dinner here was the meal that blew her away.",
+    "startSeconds": 130
+  },
+  {
+    "episodeId": "mates-on-crates-feat-andrea-alridge",
+    "guest": "Andrea Alridge",
+    "episodeGuest": "Andrea Alridge",
+    "chefOrCook": true,
+    "category": "Dying to Try",
+    "recommendation": "Lumache",
+    "sourceUrl": "https://www.instagram.com/reel/DgD75o4MPlS/",
+    "videoUrl": "https://www.instagram.com/reel/DgD75o4MPlS/",
+    "evidenceType": "video_transcript_and_caption_review",
+    "videoReviewed": true,
+    "experience": "wish_list_not_visited",
+    "region": "British Columbia",
+    "kind": "named_place_or_business",
+    "venueLinks": [
+      {
+        "name": "Lumache",
+        "url": "https://www.lumache.ca/reserve"
+      }
+    ],
+    "locationEvidence": "BC venue identity checked against video caption and restaurant context",
+    "comment": "An Italian restaurant she wants to try; not a visited recommendation.",
+    "startSeconds": 133
+  },
+  {
+    "episodeId": "mates-on-crates-feat-andrea-alridge",
+    "guest": "Andrea Alridge",
+    "episodeGuest": "Andrea Alridge",
+    "chefOrCook": true,
+    "category": "Sandwich",
+    "recommendation": "Otto Sandwiches",
+    "sourceUrl": "https://www.instagram.com/reel/DgD75o4MPlS/",
+    "videoUrl": "https://www.instagram.com/reel/DgD75o4MPlS/",
+    "evidenceType": "video_transcript_and_caption_review",
+    "videoReviewed": true,
+    "experience": "recommendation",
+    "region": "British Columbia",
+    "kind": "named_place_or_business",
+    "venueLinks": [
+      {
+        "name": "Otto Sandwiches",
+        "url": "https://cheknews.ca/order-up-otto-charcuterie-1331803/"
+      }
+    ],
+    "locationEvidence": "BC venue identity checked against video caption and restaurant context",
+    "comment": "She praises their sandwich-making.",
+    "startSeconds": 137
+  },
+  {
+    "episodeId": "mates-on-crates-feat-andrea-alridge",
+    "guest": "Andrea Alridge",
+    "episodeGuest": "Andrea Alridge",
+    "chefOrCook": true,
+    "category": "Sushi",
+    "recommendation": "Yua Japanese Bistro",
+    "sourceUrl": "https://www.instagram.com/reel/DgD75o4MPlS/",
+    "videoUrl": "https://www.instagram.com/reel/DgD75o4MPlS/",
+    "evidenceType": "video_transcript_and_caption_review",
+    "videoReviewed": true,
+    "experience": "recommendation",
+    "region": "British Columbia",
+    "kind": "named_place_or_business",
+    "venueLinks": [
+      {
+        "name": "Yua Japanese Bistro",
+        "url": "https://yuabistrovictoria.com/"
+      }
+    ],
+    "locationEvidence": "BC venue identity checked against video caption and restaurant context",
+    "comment": "Her favourite sushi pick.",
+    "startSeconds": 139
+  },
+  {
+    "episodeId": "mates-on-crates-feat-andrea-alridge",
+    "guest": "Andrea Alridge",
+    "episodeGuest": "Andrea Alridge",
+    "chefOrCook": true,
+    "category": "Date Night",
+    "recommendation": "Marilena",
+    "sourceUrl": "https://www.instagram.com/reel/DgD75o4MPlS/",
+    "videoUrl": "https://www.instagram.com/reel/DgD75o4MPlS/",
+    "evidenceType": "video_transcript_and_caption_review",
+    "videoReviewed": true,
+    "experience": "recommendation",
+    "region": "British Columbia",
+    "kind": "named_place_or_business",
+    "venueLinks": [
+      {
+        "name": "Marilena",
+        "url": "https://marilenacafe.com/"
+      }
+    ],
+    "locationEvidence": "BC venue identity checked against video caption and restaurant context",
+    "comment": "Her choice for a date night.",
+    "startSeconds": 144
+  },
+  {
+    "episodeId": "mates-on-crates-feat-andrea-alridge",
+    "guest": "Andrea Alridge",
+    "episodeGuest": "Andrea Alridge",
+    "chefOrCook": true,
+    "category": "Cocktail Bar",
+    "recommendation": "End Dive",
+    "sourceUrl": "https://www.instagram.com/reel/DgD75o4MPlS/",
+    "videoUrl": "https://www.instagram.com/reel/DgD75o4MPlS/",
+    "evidenceType": "video_transcript_and_caption_review",
+    "videoReviewed": true,
+    "experience": "recommendation",
+    "region": "British Columbia",
+    "kind": "named_place_or_business",
+    "venueLinks": [
+      {
+        "name": "End Dive",
+        "url": "https://www.tourismvictoria.com/eat-drink/restaurants/farm-to-table/end-dive"
+      }
+    ],
+    "locationEvidence": "BC venue identity checked against video caption and restaurant context",
+    "comment": "She is a big fan of the cocktails.",
+    "startSeconds": 146
   }
 ]

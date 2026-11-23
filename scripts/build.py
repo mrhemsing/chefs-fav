@@ -162,7 +162,7 @@ if (OUT/'video-additions.json').exists():
         rows.append({'episodeId':ep['id'],'guest':ep['guest'],'episodeGuest':ep['guest'],'chefOrCook':ep['chefOrCook'],
                      'category':added['category'],'recommendation':added['name'],'sourceUrl':added['source'],
                      'videoUrl':added['source'],'evidenceType':'video_transcript_and_caption_review','videoReviewed':True,
-                     'experience':'recommendation','region':'British Columbia','kind':'named_place_or_business',
+                     'experience':added.get('experience','recommendation'),'region':'British Columbia','kind':'named_place_or_business',
                      'venueLinks':[{'name':added['name'],'url':added['website']}] if added['website'] else [],
                      'locationEvidence':'BC venue identity checked against video caption and restaurant context',
                      'comment':added['comment'],'startSeconds':added['startSeconds']})

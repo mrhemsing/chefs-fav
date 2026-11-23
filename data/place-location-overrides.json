@@ -4475,5 +4475,35 @@
     "city": "Yaletown · Vancouver",
     "locationSource": "https://www.banterroom.com/",
     "locationStatus": "Video caption and linked venue/location listing reviewed 2026-11-19; no coordinates inferred."
+  },
+  "routinecoffeesupply": {
+    "city": "Victoria",
+    "locationSource": "https://www.routinecoffeeandsupply.com/",
+    "locationStatus": "BC identity checked against video and linked source; no coordinates inferred."
+  },
+  "volta": {
+    "city": "Victoria",
+    "locationSource": "https://voltavictoria.com/",
+    "locationStatus": "BC identity checked against video and linked source; no coordinates inferred."
+  },
+  "lumache": {
+    "city": "Victoria",
+    "locationSource": "https://www.lumache.ca/reserve",
+    "locationStatus": "BC identity checked against video and linked source; no coordinates inferred."
+  },
+  "ottosandwiches": {
+    "city": "Victoria",
+    "locationSource": "https://cheknews.ca/order-up-otto-charcuterie-1331803/",
+    "locationStatus": "BC identity checked against video and linked source; no coordinates inferred."
+  },
+  "yuajapanesebistro": {
+    "city": "Victoria",
+    "locationSource": "https://yuabistrovictoria.com/",
+    "locationStatus": "BC identity checked against video and linked source; no coordinates inferred."
+  },
+  "enddive": {
+    "city": "Victoria",
+    "locationSource": "https://www.tourismvictoria.com/eat-drink/restaurants/farm-to-table/end-dive",
+    "locationStatus": "BC identity checked against video and linked source; no coordinates inferred."
   }
 }

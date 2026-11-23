@@ -802,5 +802,13 @@
       "Dang Good Booths"
     ],
     "reviewBasis": "Official reel caption and on-screen introduction identify Dex James as co-owner of Dang Good Ice. Interview specifies Richmond at 111 seconds. BC food/ice-business owner; affiliated services excluded."
+  },
+  "mates-on-crates-feat-andrea-alridge": {
+    "chefOrCook": true,
+    "excludeAffiliations": [
+      "Boomtown",
+      "Driftwood"
+    ],
+    "reviewBasis": "Official caption and video identify Boomtown executive chef. Video announces Boomtown kitchen expansion at Driftwood. Routine is independently owned; the shared beer collaboration is disclosed in her coffee note, not treated as ownership. Own menu, supplier list, and event partners are not outside picks."
   }
 }

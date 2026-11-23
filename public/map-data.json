@@ -1596,6 +1596,27 @@
       "source": "https://www.instagram.com/reel/Df8NiHwsJnJ/",
       "episode": "https://www.instagram.com/reel/Df8NiHwsJnJ/",
       "home": {}
+    },
+    {
+      "id": "mates-on-crates-feat-andrea-alridge",
+      "publishedAt": "2026-11-22",
+      "name": "Andrea Alridge",
+      "affiliation": "Boomtown",
+      "dateLabel": "EPISODE VIDEO",
+      "image": "/images/andrea-alridge.jpg",
+      "facePosition": [
+        72,
+        38
+      ],
+      "location": {
+        "city": "Victoria",
+        "region": "Vancouver Island",
+        "source": "https://www.instagram.com/reel/DgD75o4MPlS/",
+        "basis": "Official caption and spoken introduction specify Victoria; filmed at Boomtown."
+      },
+      "source": "https://www.instagram.com/reel/DgD75o4MPlS/",
+      "episode": "https://www.instagram.com/reel/DgD75o4MPlS/",
+      "home": {}
     }
   ],
   "places": [
@@ -4973,6 +4994,13 @@
           "evidenceType": "publisher_expanded_list"
         },
         {
+          "chefId": "mates-on-crates-feat-andrea-alridge",
+          "category": "Date Night",
+          "wishList": false,
+          "source": "https://www.instagram.com/reel/DgD75o4MPlS/",
+          "evidenceType": "video_transcript_and_caption_review"
+        },
+        {
           "chefId": "mates-on-crates-95-feat-frank-morra-kwley",
           "category": "Outside of Vancouver",
           "wishList": false,
@@ -4999,6 +5027,14 @@
           "source": "https://www.instagram.com/p/DGJxm01SaXb/",
           "type": "summary",
           "reviewMethod": "Spoken transcript reviewed; venue identity cross-checked against official expanded list"
+        },
+        {
+          "chefId": "mates-on-crates-feat-andrea-alridge",
+          "placeId": "marilena",
+          "comment": "Her choice for a date night.",
+          "startSeconds": 144,
+          "source": "https://www.instagram.com/reel/DgD75o4MPlS/",
+          "type": "summary"
         }
       ]
     },
@@ -17567,6 +17603,13 @@
           "wishList": false,
           "source": "https://chefsfav.com/blog/mates-on-crates-71-feat-rachel-lee",
           "evidenceType": "publisher_expanded_list"
+        },
+        {
+          "chefId": "mates-on-crates-feat-andrea-alridge",
+          "category": "Last Meal That Blew Them Away",
+          "wishList": false,
+          "source": "https://www.instagram.com/reel/DgD75o4MPlS/",
+          "evidenceType": "video_transcript_and_caption_review"
         }
       ],
       "coordinates": null,
@@ -17574,7 +17617,16 @@
       "address": "",
       "locationStatus": "Location corroborated by venue or directory listing on 2026-11-17; neighbourhood standardized from street location.",
       "locationSource": "https://www.tripadvisor.com/Restaurant_Review-g154945-d26658721-Reviews-Tourist_Wine_Bar-Victoria_Victoria_Capital_Regional_District_Vancouver_Island_Br.html",
-      "comments": []
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-andrea-alridge",
+          "placeId": "touristwinebar",
+          "comment": "Her last dinner here was the meal that blew her away.",
+          "startSeconds": 130,
+          "source": "https://www.instagram.com/reel/DgD75o4MPlS/",
+          "type": "summary"
+        }
+      ]
     },
     {
       "id": "slimsbbq",
@@ -18168,6 +18220,180 @@
           "type": "summary"
         }
       ]
+    },
+    {
+      "id": "routinecoffeesupply",
+      "name": "Routine Coffee & Supply",
+      "website": "https://www.routinecoffeeandsupply.com/",
+      "mentions": [
+        {
+          "chefId": "mates-on-crates-feat-andrea-alridge",
+          "category": "Coffee",
+          "wishList": false,
+          "source": "https://www.instagram.com/reel/DgD75o4MPlS/",
+          "evidenceType": "video_transcript_and_caption_review"
+        }
+      ],
+      "coordinates": null,
+      "city": "Victoria",
+      "address": "",
+      "locationStatus": "BC identity checked against video and linked source; no coordinates inferred.",
+      "locationSource": "https://www.routinecoffeeandsupply.com/",
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-andrea-alridge",
+          "placeId": "routinecoffeesupply",
+          "comment": "Her go-to coffee is a cortado. Routine also collaborated with Boomtown and Small Gods on the Rutina beer featured earlier in the episode.",
+          "startSeconds": 122,
+          "source": "https://www.instagram.com/reel/DgD75o4MPlS/",
+          "type": "summary"
+        }
+      ]
+    },
+    {
+      "id": "volta",
+      "name": "Volta",
+      "website": "https://voltavictoria.com/",
+      "mentions": [
+        {
+          "chefId": "mates-on-crates-feat-andrea-alridge",
+          "category": "Brunch",
+          "wishList": false,
+          "source": "https://www.instagram.com/reel/DgD75o4MPlS/",
+          "evidenceType": "video_transcript_and_caption_review"
+        }
+      ],
+      "coordinates": null,
+      "city": "Victoria",
+      "address": "",
+      "locationStatus": "BC identity checked against video and linked source; no coordinates inferred.",
+      "locationSource": "https://voltavictoria.com/",
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-andrea-alridge",
+          "placeId": "volta",
+          "comment": "She likes the Spanish influence and atmosphere.",
+          "startSeconds": 125,
+          "source": "https://www.instagram.com/reel/DgD75o4MPlS/",
+          "type": "summary"
+        }
+      ]
+    },
+    {
+      "id": "lumache",
+      "name": "Lumache",
+      "website": "https://www.lumache.ca/reserve",
+      "mentions": [
+        {
+          "chefId": "mates-on-crates-feat-andrea-alridge",
+          "category": "Dying to Try",
+          "wishList": true,
+          "source": "https://www.instagram.com/reel/DgD75o4MPlS/",
+          "evidenceType": "video_transcript_and_caption_review"
+        }
+      ],
+      "coordinates": null,
+      "city": "Victoria",
+      "address": "",
+      "locationStatus": "BC identity checked against video and linked source; no coordinates inferred.",
+      "locationSource": "https://www.lumache.ca/reserve",
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-andrea-alridge",
+          "placeId": "lumache",
+          "comment": "An Italian restaurant she wants to try; not a visited recommendation.",
+          "startSeconds": 133,
+          "source": "https://www.instagram.com/reel/DgD75o4MPlS/",
+          "type": "summary"
+        }
+      ]
+    },
+    {
+      "id": "ottosandwiches",
+      "name": "Otto Sandwiches",
+      "website": "https://cheknews.ca/order-up-otto-charcuterie-1331803/",
+      "mentions": [
+        {
+          "chefId": "mates-on-crates-feat-andrea-alridge",
+          "category": "Sandwich",
+          "wishList": false,
+          "source": "https://www.instagram.com/reel/DgD75o4MPlS/",
+          "evidenceType": "video_transcript_and_caption_review"
+        }
+      ],
+      "coordinates": null,
+      "city": "Victoria",
+      "address": "",
+      "locationStatus": "BC identity checked against video and linked source; no coordinates inferred.",
+      "locationSource": "https://cheknews.ca/order-up-otto-charcuterie-1331803/",
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-andrea-alridge",
+          "placeId": "ottosandwiches",
+          "comment": "She praises their sandwich-making.",
+          "startSeconds": 137,
+          "source": "https://www.instagram.com/reel/DgD75o4MPlS/",
+          "type": "summary"
+        }
+      ]
+    },
+    {
+      "id": "yuajapanesebistro",
+      "name": "Yua Japanese Bistro",
+      "website": "https://yuabistrovictoria.com/",
+      "mentions": [
+        {
+          "chefId": "mates-on-crates-feat-andrea-alridge",
+          "category": "Sushi",
+          "wishList": false,
+          "source": "https://www.instagram.com/reel/DgD75o4MPlS/",
+          "evidenceType": "video_transcript_and_caption_review"
+        }
+      ],
+      "coordinates": null,
+      "city": "Victoria",
+      "address": "",
+      "locationStatus": "BC identity checked against video and linked source; no coordinates inferred.",
+      "locationSource": "https://yuabistrovictoria.com/",
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-andrea-alridge",
+          "placeId": "yuajapanesebistro",
+          "comment": "Her favourite sushi pick.",
+          "startSeconds": 139,
+          "source": "https://www.instagram.com/reel/DgD75o4MPlS/",
+          "type": "summary"
+        }
+      ]
+    },
+    {
+      "id": "enddive",
+      "name": "End Dive",
+      "website": "https://www.tourismvictoria.com/eat-drink/restaurants/farm-to-table/end-dive",
+      "mentions": [
+        {
+          "chefId": "mates-on-crates-feat-andrea-alridge",
+          "category": "Cocktail Bar",
+          "wishList": false,
+          "source": "https://www.instagram.com/reel/DgD75o4MPlS/",
+          "evidenceType": "video_transcript_and_caption_review"
+        }
+      ],
+      "coordinates": null,
+      "city": "Victoria",
+      "address": "",
+      "locationStatus": "BC identity checked against video and linked source; no coordinates inferred.",
+      "locationSource": "https://www.tourismvictoria.com/eat-drink/restaurants/farm-to-table/end-dive",
+      "comments": [
+        {
+          "chefId": "mates-on-crates-feat-andrea-alridge",
+          "placeId": "enddive",
+          "comment": "She is a big fan of the cocktails.",
+          "startSeconds": 146,
+          "source": "https://www.instagram.com/reel/DgD75o4MPlS/",
+          "type": "summary"
+        }
+      ]
     }
   ],
   "placeAliases": {
@@ -18222,16 +18448,16 @@
     "asOf": "2026-11-17",
     "region": "British Columbia",
     "officialEpisodeArticlesInventoried": 99,
-    "includedEpisodes": 65,
+    "includedEpisodes": 66,
     "includedEpisodeArticles": 64,
-    "videoOnlyEpisodes": 1,
-    "chefOrCookEpisodeArticles": 23,
-    "recommendationAnswers": 795,
-    "chefOrCookAnswers": 318,
+    "videoOnlyEpisodes": 2,
+    "chefOrCookEpisodeArticles": 24,
+    "recommendationAnswers": 803,
+    "chefOrCookAnswers": 326,
     "excludedEntries": 173,
     "unresolvedEntries": 0,
-    "videosReviewed": 1,
+    "videosReviewed": 2,
     "completeVideoInventory": false
   },
-  "spokenReviewEpisodes": 25
+  "spokenReviewEpisodes": 26
 }

@@ -6,9 +6,9 @@ A sourced starting list of **British Columbia destinations recommended by chefs 
 
 **[Open the chef directory](https://chefs-fav.vercel.app/)** — a chef/restaurant-owner directory in a newest-first list (no map). Crate episode photos introduce each person and their restaurant; selecting a profile reveals that person’s outside recommendations and timestamped comments. All-picks browsing is secondary, with no popularity ranking or endorsement tally. Saved favourites stay on your device. Mobile uses a scrolling profile list and individual recommendation cards.
 
-The directory has 65 profiles; dates are labelled as episode write-up dates. There are 545 place entries, with addresses available for 200 OpenStreetMap matches. Multiple-chain locations may be unspecified by the original chef; the location note makes this explicit.
+The directory has 66 profiles; dates are labelled as episode write-up dates. There are 551 place entries, with addresses available for 200 OpenStreetMap matches. Multiple-chain locations may be unspecified by the original chef; the location note makes this explicit.
 
-- **[Chef-by-chef recommendations](CHEFS.md)** — 795 category/answer entries from 64 episode write-ups and one video-only episode.
+- **[Chef-by-chef recommendations](CHEFS.md)** — 803 category/answer entries from 64 episode write-ups and two video-only episodes.
 - [Spreadsheet CSV](data/recommendations.csv)
 - [Structured recommendations](data/recommendations.json)
 - [Included episodes and source links](data/episodes.json)
@@ -69,3 +69,5 @@ Source: [Chef’s Favourite](https://chefsfav.com/blog). Independent research in
 `data/place-aliases.json` records reviewed duplicate IDs and their evidence. `scripts/merge_places.py` merges unique mentions/comments after location overrides and video notes are attached, and is called by `prepare-map.py`. Old IDs remain in `placeAliases` for saved favourites and deep links. Do not deduplicate automatically by domain: separate branches, sister venues and shared booking hosts can use the same site.
 
 Video-only episodes are reviewed in `data/video-episodes.json` with sourced picks in `data/video-additions.json`; no blog article is invented. Dex James (Nov 19, 2026) has ten BC picks reviewed against burned-in captions. His profile image is a credited frame from the linked Chef’s Favourite reel.
+
+Andrea Alridge (Nov 22, 2026): eight Victoria video picks, with Lumache explicitly retained as a wish list. Profile image is a frame from the linked episode.

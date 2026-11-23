@@ -206,5 +206,93 @@
     "comment": "He praises the Thai food.",
     "startSeconds": 146,
     "reviewMethod": "Machine transcript reviewed against burned-in video captions; venue identity and BC location checked against linked sources."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-andrea-alridge",
+    "name": "Routine Coffee & Supply",
+    "category": "Coffee",
+    "source": "https://www.instagram.com/reel/DgD75o4MPlS/",
+    "website": "https://www.routinecoffeeandsupply.com/",
+    "comment": "Her go-to coffee is a cortado. Routine also collaborated with Boomtown and Small Gods on the Rutina beer featured earlier in the episode.",
+    "startSeconds": 122,
+    "experience": "recommendation",
+    "reviewMethod": "Transcript reviewed against on-screen captions and venue visuals; BC identity checked against linked venue/publication pages."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-andrea-alridge",
+    "name": "Volta",
+    "category": "Brunch",
+    "source": "https://www.instagram.com/reel/DgD75o4MPlS/",
+    "website": "https://voltavictoria.com/",
+    "comment": "She likes the Spanish influence and atmosphere.",
+    "startSeconds": 125,
+    "experience": "recommendation",
+    "reviewMethod": "Transcript reviewed against on-screen captions and venue visuals; BC identity checked against linked venue/publication pages."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-andrea-alridge",
+    "name": "Tourist Wine Bar",
+    "category": "Last Meal That Blew Them Away",
+    "source": "https://www.instagram.com/reel/DgD75o4MPlS/",
+    "website": "http://www.touristwinebar.com/",
+    "comment": "Her last dinner here was the meal that blew her away.",
+    "startSeconds": 130,
+    "experience": "recommendation",
+    "reviewMethod": "Transcript reviewed against on-screen captions and venue visuals; BC identity checked against linked venue/publication pages."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-andrea-alridge",
+    "name": "Lumache",
+    "category": "Dying to Try",
+    "source": "https://www.instagram.com/reel/DgD75o4MPlS/",
+    "website": "https://www.lumache.ca/reserve",
+    "comment": "An Italian restaurant she wants to try; not a visited recommendation.",
+    "startSeconds": 133,
+    "experience": "wish_list_not_visited",
+    "reviewMethod": "Transcript reviewed against on-screen captions and venue visuals; BC identity checked against linked venue/publication pages."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-andrea-alridge",
+    "name": "Otto Sandwiches",
+    "category": "Sandwich",
+    "source": "https://www.instagram.com/reel/DgD75o4MPlS/",
+    "website": "https://cheknews.ca/order-up-otto-charcuterie-1331803/",
+    "comment": "She praises their sandwich-making.",
+    "startSeconds": 137,
+    "experience": "recommendation",
+    "reviewMethod": "Transcript reviewed against on-screen captions and venue visuals; BC identity checked against linked venue/publication pages."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-andrea-alridge",
+    "name": "Yua Japanese Bistro",
+    "category": "Sushi",
+    "source": "https://www.instagram.com/reel/DgD75o4MPlS/",
+    "website": "https://yuabistrovictoria.com/",
+    "comment": "Her favourite sushi pick.",
+    "startSeconds": 139,
+    "experience": "recommendation",
+    "reviewMethod": "Transcript reviewed against on-screen captions and venue visuals; BC identity checked against linked venue/publication pages."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-andrea-alridge",
+    "name": "Marilena",
+    "category": "Date Night",
+    "source": "https://www.instagram.com/reel/DgD75o4MPlS/",
+    "website": "https://marilenacafe.com/",
+    "comment": "Her choice for a date night.",
+    "startSeconds": 144,
+    "experience": "recommendation",
+    "reviewMethod": "Transcript reviewed against on-screen captions and venue visuals; BC identity checked against linked venue/publication pages."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-andrea-alridge",
+    "name": "End Dive",
+    "category": "Cocktail Bar",
+    "source": "https://www.instagram.com/reel/DgD75o4MPlS/",
+    "website": "https://www.tourismvictoria.com/eat-drink/restaurants/farm-to-table/end-dive",
+    "comment": "She is a big fan of the cocktails.",
+    "startSeconds": 146,
+    "experience": "recommendation",
+    "reviewMethod": "Transcript reviewed against on-screen captions and venue visuals; BC identity checked against linked venue/publication pages."
   }
 ]

@@ -1317,3 +1317,19 @@ Excluded affiliations: Dang Good Ice, Dang Good Booths.
 | Night Out | Banter Room | [Video](https://www.instagram.com/reel/Df8NiHwsJnJ/) |
 | Outside of Vancouver | Soi Ram | [Video](https://www.instagram.com/reel/Df8NiHwsJnJ/) |
 
+## Andrea Alridge
+
+[Reviewed video](https://www.instagram.com/reel/DgD75o4MPlS/) · [Episode](https://www.instagram.com/reel/DgD75o4MPlS/)
+Excluded affiliations: Boomtown, Driftwood.
+
+| Recommendation category | Pick | Source |
+|---|---|---|
+| Coffee | Routine Coffee & Supply | [Video](https://www.instagram.com/reel/DgD75o4MPlS/) |
+| Brunch | Volta | [Video](https://www.instagram.com/reel/DgD75o4MPlS/) |
+| Last Meal That Blew Them Away | Tourist Wine Bar | [Video](https://www.instagram.com/reel/DgD75o4MPlS/) |
+| Dying to Try | Lumache | [Video](https://www.instagram.com/reel/DgD75o4MPlS/) |
+| Sandwich | Otto Sandwiches | [Video](https://www.instagram.com/reel/DgD75o4MPlS/) |
+| Sushi | Yua Japanese Bistro | [Video](https://www.instagram.com/reel/DgD75o4MPlS/) |
+| Date Night | Marilena | [Video](https://www.instagram.com/reel/DgD75o4MPlS/) |
+| Cocktail Bar | End Dive | [Video](https://www.instagram.com/reel/DgD75o4MPlS/) |
+

@@ -1086,5 +1086,29 @@
     "dateLabel": "EPISODE VIDEO",
     "displayAffiliation": "Dang Good Ice",
     "recommendationCount": 10
+  },
+  {
+    "id": "mates-on-crates-feat-andrea-alridge",
+    "guest": "Andrea Alridge",
+    "chefOrCook": true,
+    "affiliationsExcluded": [
+      "Boomtown",
+      "Driftwood"
+    ],
+    "displayAffiliation": "Boomtown",
+    "articleUrl": "https://www.instagram.com/reel/DgD75o4MPlS/",
+    "articleDate": "2026-11-22",
+    "videoUrls": [
+      "https://www.instagram.com/reel/DgD75o4MPlS/"
+    ],
+    "evidenceType": "video_transcript_and_caption_review",
+    "videoReviewed": true,
+    "image": "/images/andrea-alridge.jpg",
+    "facePosition": [
+      72,
+      38
+    ],
+    "dateLabel": "EPISODE VIDEO",
+    "recommendationCount": 8
   }
 ]
