@@ -6,9 +6,9 @@ A sourced starting list of **British Columbia destinations recommended by chefs 
 
 **[Open the chef directory](https://chefs-fav.vercel.app/)** — a chef/restaurant-owner directory in a newest-first list (no map). Crate episode photos introduce each person and their restaurant; selecting a profile reveals that person’s outside recommendations and timestamped comments. All-picks browsing is secondary, with no popularity ranking or endorsement tally. Saved favourites stay on your device. Mobile uses a scrolling profile list and individual recommendation cards.
 
-The directory has 66 profiles; dates are labelled as episode write-up dates. There are 551 place entries, with addresses available for 200 OpenStreetMap matches. Multiple-chain locations may be unspecified by the original chef; the location note makes this explicit.
+The directory has 67 profiles; dates are labelled as episode write-up dates. There are 555 place entries, with addresses available for 186 OpenStreetMap matches. Multiple-chain locations may be unspecified by the original chef; the location note makes this explicit.
 
-- **[Chef-by-chef recommendations](CHEFS.md)** — 803 category/answer entries from 64 episode write-ups and two video-only episodes.
+- **[Chef-by-chef recommendations](CHEFS.md)** — 815 category/answer entries from 64 episode write-ups and three video-only episodes.
 - [Spreadsheet CSV](data/recommendations.csv)
 - [Structured recommendations](data/recommendations.json)
 - [Included episodes and source links](data/episodes.json)
@@ -71,3 +71,5 @@ Source: [Chef’s Favourite](https://chefsfav.com/blog). Independent research in
 Video-only episodes are reviewed in `data/video-episodes.json` with sourced picks in `data/video-additions.json`; no blog article is invented. Dex James (Nov 19, 2026) has ten BC picks reviewed against burned-in captions. His profile image is a credited frame from the linked Chef’s Favourite reel.
 
 Andrea Alridge (Nov 22, 2026): eight Victoria video picks, with Lumache explicitly retained as a wish list. Profile image is a frame from the linked episode.
+
+John Clerides (Nov 26, 2026): 11 BC businesses plus Commercial Drive, with caption-reviewed timestamped notes. Recent Instagram posts checked through this episode; Andrea and Dex already included, and the Wind Cries Mary venue feature is not an interview.

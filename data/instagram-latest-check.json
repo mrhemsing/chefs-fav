@@ -1,7 +1,27 @@
 {
-  "checkedOn": "2026-11-19",
+  "checkedOn": "2026-11-26",
   "profile": "https://www.instagram.com/chefs.favourite/",
   "posts": [
+    {
+      "url": "https://www.instagram.com/reel/DgOPGB2sq3I/",
+      "description": "John Clerides, owner of Marquis Wine Cellars",
+      "decision": "Added 12 BC picks: 11 businesses and Commercial Drive."
+    },
+    {
+      "url": "https://www.instagram.com/reel/DgGgsWFSF91/",
+      "description": "Wind Cries Mary venue feature",
+      "decision": "Not a Mates on Crates outside-picks interview; not imported."
+    },
+    {
+      "url": "https://www.instagram.com/reel/DgD75o4MPlS/",
+      "description": "Andrea Alridge",
+      "decision": "Already included."
+    },
+    {
+      "url": "https://www.instagram.com/reel/Df8NiHwsJnJ/",
+      "description": "Dex James",
+      "decision": "Already included."
+    },
     {
       "url": "https://www.instagram.com/reel/Df5ovIsMLIW/",
       "description": "Robert Belcham describing Dirty Burger at Monarch Burger",

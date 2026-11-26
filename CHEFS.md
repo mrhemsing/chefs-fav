@@ -1333,3 +1333,23 @@ Excluded affiliations: Boomtown, Driftwood.
 | Date Night | Marilena | [Video](https://www.instagram.com/reel/DgD75o4MPlS/) |
 | Cocktail Bar | End Dive | [Video](https://www.instagram.com/reel/DgD75o4MPlS/) |
 
+## John Clerides
+
+[Reviewed video](https://www.instagram.com/reel/DgOPGB2sq3I/) · [Episode](https://www.instagram.com/reel/DgOPGB2sq3I/)
+Excluded affiliations: Marquis Wine Cellars.
+
+| Recommendation category | Pick | Source |
+|---|---|---|
+| Wine Program | Savio Volpe | [Video](https://www.instagram.com/reel/DgOPGB2sq3I/) |
+| Wine Program | Tutto | [Video](https://www.instagram.com/reel/DgOPGB2sq3I/) |
+| Wine Program | Kissa Tanto | [Video](https://www.instagram.com/reel/DgOPGB2sq3I/) |
+| Wine Program | Provence Marinaside | [Video](https://www.instagram.com/reel/DgOPGB2sq3I/) |
+| Food Neighbourhood | Commercial Drive | [Video](https://www.instagram.com/reel/DgOPGB2sq3I/) |
+| Neighbourhood Favourites (Commercial Drive) | La Mezcaleria | [Video](https://www.instagram.com/reel/DgOPGB2sq3I/) |
+| Neighbourhood Favourites (Commercial Drive) | Marcello Ristorante & Pizzeria | [Video](https://www.instagram.com/reel/DgOPGB2sq3I/) |
+| Neighbourhood Favourites (Commercial Drive) | Grounds for Coffee | [Video](https://www.instagram.com/reel/DgOPGB2sq3I/) |
+| Coffee | Oide Coffee | [Video](https://www.instagram.com/reel/DgOPGB2sq3I/) |
+| Greek | Nammos Estiatorio | [Video](https://www.instagram.com/reel/DgOPGB2sq3I/) |
+| Italian | Fiore Famiglia | [Video](https://www.instagram.com/reel/DgOPGB2sq3I/) |
+| Outside of Vancouver | Wayne & Freda | [Video](https://www.instagram.com/reel/DgOPGB2sq3I/) |
+

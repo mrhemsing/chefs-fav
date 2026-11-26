@@ -4505,5 +4505,29 @@
     "city": "Victoria",
     "locationSource": "https://www.tourismvictoria.com/eat-drink/restaurants/farm-to-table/end-dive",
     "locationStatus": "BC identity checked against video and linked source; no coordinates inferred."
+  },
+  "tutto": {
+    "city": "Yaletown · Vancouver",
+    "address": "901 Homer Street",
+    "locationSource": "https://tuttorestaurant.ca/",
+    "locationStatus": "Official venue address reviewed 2026-11-26; neighbourhood standardized from street address. No coordinates inferred."
+  },
+  "nammosestiatorio": {
+    "city": "Riley Park · Vancouver",
+    "address": "3980 Fraser Street",
+    "locationSource": "https://nammos.ca/",
+    "locationStatus": "Official venue address reviewed 2026-11-26; neighbourhood standardized from street address. No coordinates inferred."
+  },
+  "fiorefamiglia": {
+    "city": "Arbutus Ridge · Vancouver",
+    "address": "2603 West 16th Avenue",
+    "locationSource": "https://fiorerestaurants.ca/contact/",
+    "locationStatus": "Official venue address reviewed 2026-11-26; neighbourhood standardized from street address. No coordinates inferred."
+  },
+  "waynefreda": {
+    "city": "Penticton",
+    "address": "105-249 Westminster Avenue West",
+    "locationSource": "https://www.wayneandfreda.com/",
+    "locationStatus": "Official venue address reviewed 2026-11-26; neighbourhood standardized from street address. No coordinates inferred."
   }
 }

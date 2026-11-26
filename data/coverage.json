@@ -2,14 +2,14 @@
   "asOf": "2026-11-17",
   "region": "British Columbia",
   "officialEpisodeArticlesInventoried": 99,
-  "includedEpisodes": 66,
+  "includedEpisodes": 67,
   "includedEpisodeArticles": 64,
-  "videoOnlyEpisodes": 2,
+  "videoOnlyEpisodes": 3,
   "chefOrCookEpisodeArticles": 24,
-  "recommendationAnswers": 803,
+  "recommendationAnswers": 815,
   "chefOrCookAnswers": 326,
   "excludedEntries": 173,
   "unresolvedEntries": 0,
-  "videosReviewed": 2,
+  "videosReviewed": 3,
   "completeVideoInventory": false
 }

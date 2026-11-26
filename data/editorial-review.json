@@ -810,5 +810,13 @@
       "Driftwood"
     ],
     "reviewBasis": "Official caption and video identify Boomtown executive chef. Video announces Boomtown kitchen expansion at Driftwood. Routine is independently owned; the shared beer collaboration is disclosed in her coffee note, not treated as ownership. Own menu, supplier list, and event partners are not outside picks."
+  },
+  "mates-on-crates-feat-john-clerides": {
+    "chefOrCook": false,
+    "includeOwner": true,
+    "excludeAffiliations": [
+      "Marquis Wine Cellars"
+    ],
+    "reviewBasis": "Official caption and video identify John as owner/operator. Reviewed spoken picks against burned-in captions and venue visuals, with new venue identities checked on official sites. Wine products and his own shop/subscriptions excluded."
   }
 }

@@ -1110,5 +1110,28 @@
     ],
     "dateLabel": "EPISODE VIDEO",
     "recommendationCount": 8
+  },
+  {
+    "id": "mates-on-crates-feat-john-clerides",
+    "guest": "John Clerides",
+    "chefOrCook": false,
+    "affiliationsExcluded": [
+      "Marquis Wine Cellars"
+    ],
+    "displayAffiliation": "Marquis Wine Cellars",
+    "articleUrl": "https://www.instagram.com/reel/DgOPGB2sq3I/",
+    "articleDate": "2026-11-26",
+    "videoUrls": [
+      "https://www.instagram.com/reel/DgOPGB2sq3I/"
+    ],
+    "evidenceType": "video_transcript_and_caption_review",
+    "videoReviewed": true,
+    "image": "/images/john-clerides.jpg",
+    "facePosition": [
+      72,
+      38
+    ],
+    "dateLabel": "EPISODE VIDEO",
+    "recommendationCount": 12
   }
 ]

@@ -294,5 +294,137 @@
     "startSeconds": 146,
     "experience": "recommendation",
     "reviewMethod": "Transcript reviewed against on-screen captions and venue visuals; BC identity checked against linked venue/publication pages."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-john-clerides",
+    "name": "Savio Volpe",
+    "category": "Wine Program",
+    "source": "https://www.instagram.com/reel/DgOPGB2sq3I/",
+    "website": "https://www.saviovolpe.com/",
+    "comment": "He likes its wine program.",
+    "startSeconds": 115.5,
+    "experience": "recommendation",
+    "reviewMethod": "Spoken answer reviewed against burned-in captions and venue footage; new venue identity/address cross-checked against official website."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-john-clerides",
+    "name": "Tutto",
+    "category": "Wine Program",
+    "source": "https://www.instagram.com/reel/DgOPGB2sq3I/",
+    "website": "https://tuttorestaurant.ca/",
+    "comment": "He says Tutto does a good job with its wine program.",
+    "startSeconds": 117.3,
+    "experience": "recommendation",
+    "reviewMethod": "Spoken answer reviewed against burned-in captions and venue footage; new venue identity/address cross-checked against official website."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-john-clerides",
+    "name": "Kissa Tanto",
+    "category": "Wine Program",
+    "source": "https://www.instagram.com/reel/DgOPGB2sq3I/",
+    "website": "https://www.kissatanto.com/",
+    "comment": "He highlights its nice wines.",
+    "startSeconds": 118.6,
+    "experience": "recommendation",
+    "reviewMethod": "Spoken answer reviewed against burned-in captions and venue footage; new venue identity/address cross-checked against official website."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-john-clerides",
+    "name": "Provence Marinaside",
+    "category": "Wine Program",
+    "source": "https://www.instagram.com/reel/DgOPGB2sq3I/",
+    "website": "https://www.provencemarinaside.ca/",
+    "comment": "He praises its wine program.",
+    "startSeconds": 120.3,
+    "experience": "recommendation",
+    "reviewMethod": "Spoken answer reviewed against burned-in captions and venue footage; new venue identity/address cross-checked against official website."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-john-clerides",
+    "name": "Commercial Drive",
+    "category": "Food Neighbourhood",
+    "source": "https://www.instagram.com/reel/DgOPGB2sq3I/",
+    "website": "https://thedrive.ca/",
+    "comment": "His favourite food neighbourhood; he names La Mezcaleria, Marcello and Grounds for Coffee.",
+    "startSeconds": 124.2,
+    "experience": "recommendation",
+    "reviewMethod": "Spoken answer reviewed against burned-in captions and venue footage; new venue identity/address cross-checked against official website."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-john-clerides",
+    "name": "La Mezcaleria",
+    "category": "Neighbourhood Favourites (Commercial Drive)",
+    "source": "https://www.instagram.com/reel/DgOPGB2sq3I/",
+    "website": "https://www.lamezcaleria.ca/",
+    "comment": "He loves this Mexican restaurant on Commercial Drive, referred to as Mezcal in the episode.",
+    "startSeconds": 125.4,
+    "experience": "recommendation",
+    "reviewMethod": "Spoken answer reviewed against burned-in captions and venue footage; new venue identity/address cross-checked against official website."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-john-clerides",
+    "name": "Marcello Ristorante & Pizzeria",
+    "category": "Neighbourhood Favourites (Commercial Drive)",
+    "source": "https://www.instagram.com/reel/DgOPGB2sq3I/",
+    "website": "http://marcellopizzeria.com/",
+    "comment": "He loves Marcello for the vibe.",
+    "startSeconds": 127.7,
+    "experience": "recommendation",
+    "reviewMethod": "Spoken answer reviewed against burned-in captions and venue footage; new venue identity/address cross-checked against official website."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-john-clerides",
+    "name": "Grounds for Coffee",
+    "category": "Neighbourhood Favourites (Commercial Drive)",
+    "source": "https://www.instagram.com/reel/DgOPGB2sq3I/",
+    "website": "https://groundsforcoffee.ca/",
+    "comment": "Named in his Commercial Drive answer: great coffee and even better cinnamon buns.",
+    "startSeconds": 129.5,
+    "experience": "recommendation",
+    "reviewMethod": "Spoken answer reviewed against burned-in captions and venue footage; new venue identity/address cross-checked against official website."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-john-clerides",
+    "name": "Oide Coffee",
+    "category": "Coffee",
+    "source": "https://www.instagram.com/reel/DgOPGB2sq3I/",
+    "website": "https://oideoide.com/",
+    "comment": "He praises its precision. The episode shows the Waterfall Building shop.",
+    "startSeconds": 135.9,
+    "experience": "recommendation",
+    "reviewMethod": "Spoken answer reviewed against burned-in captions and venue footage; new venue identity/address cross-checked against official website."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-john-clerides",
+    "name": "Nammos Estiatorio",
+    "category": "Greek",
+    "source": "https://www.instagram.com/reel/DgOPGB2sq3I/",
+    "website": "https://nammos.ca/",
+    "comment": "His favourite Greek restaurant.",
+    "startSeconds": 140,
+    "experience": "recommendation",
+    "reviewMethod": "Spoken answer reviewed against burned-in captions and venue footage; new venue identity/address cross-checked against official website."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-john-clerides",
+    "name": "Fiore Famiglia",
+    "category": "Italian",
+    "source": "https://www.instagram.com/reel/DgOPGB2sq3I/",
+    "website": "https://fiorerestaurants.ca/contact/",
+    "comment": "He recommends the Italian restaurant at 16th and Trafalgar.",
+    "startSeconds": 143.3,
+    "experience": "recommendation",
+    "reviewMethod": "Spoken answer reviewed against burned-in captions and venue footage; new venue identity/address cross-checked against official website."
+  },
+  {
+    "episodeId": "mates-on-crates-feat-john-clerides",
+    "name": "Wayne & Freda",
+    "category": "Outside of Vancouver",
+    "source": "https://www.instagram.com/reel/DgOPGB2sq3I/",
+    "website": "https://www.wayneandfreda.com/",
+    "comment": "He loves this coffee shop and bakery in Penticton.",
+    "startSeconds": 149.4,
+    "experience": "recommendation",
+    "reviewMethod": "Spoken answer reviewed against burned-in captions and venue footage; new venue identity/address cross-checked against official website."
   }
 ]
